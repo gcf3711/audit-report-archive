@@ -1,0 +1,20 @@
+[project]
+name = "audit-report-archive"
+version = "0.2.0"
+description = "Archive of smart contract audit reports from many sources with browsable metadata"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "pyyaml>=6.0",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/audit_collector"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

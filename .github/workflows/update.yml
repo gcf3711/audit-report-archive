@@ -1,0 +1,29 @@
+name: Update catalogs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"   # weekly, Monday 03:17 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync
+      - name: Scrape all sources
+        run: uv run python -m audit_collector scrape
+        continue-on-error: true   # individual sources may be temporarily down
+      - name: Rebuild indexes
+        run: uv run python -m audit_collector build-index
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/catalog indexes INDEX.md README.md
+          git diff --cached --quiet || git commit -m "Update catalogs $(date -u +%F)"
+          git push

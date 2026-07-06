@@ -1,0 +1,151 @@
+# Default registry of audit report sources.
+# Add a new source by appending an entry here; `type` selects the scraper:
+#   github_repo — enumerate report files in a public GitHub repo
+#   <custom>    — a dedicated scraper in src/audit_collector/scrapers/<type>.py
+#
+# Common fields:
+#   name        — display name
+#   listing_url — human-facing page where reports are listed (provenance)
+#
+# github_repo fields:
+#   repo        — owner/repo
+#   paths       — restrict to these subdirectories (empty/omitted = whole repo)
+#   extensions  — report file extensions (default: [.pdf])
+#   exclude     — filename substrings to skip (case-insensitive)
+
+chainsecurity:
+  name: ChainSecurity
+  type: chainsecurity
+  listing_url: https://www.chainsecurity.com/smart-contract-audit-reports
+
+trailofbits:
+  name: Trail of Bits
+  type: github_repo
+  listing_url: https://github.com/trailofbits/publications
+  repo: trailofbits/publications
+  paths: [reviews]
+
+mixbytes:
+  name: MixBytes
+  type: github_repo
+  listing_url: https://github.com/mixbytes/audits_public
+  repo: mixbytes/audits_public
+  extensions: [.pdf]
+
+certora:
+  name: Certora
+  type: github_repo
+  listing_url: https://github.com/Certora/SecurityReports
+  repo: Certora/SecurityReports
+
+spearbit:
+  name: Spearbit
+  type: github_repo
+  listing_url: https://github.com/spearbit/portfolio
+  repo: spearbit/portfolio
+  paths: [pdfs]
+
+cantina:
+  name: Cantina
+  type: cantina
+  listing_url: https://cantina.xyz/security-reviews
+
+quantstamp:
+  name: Quantstamp
+  type: quantstamp
+  listing_url: https://certificate.quantstamp.com/
+
+sigmaprime:
+  name: Sigma Prime
+  type: github_repo
+  listing_url: https://github.com/sigp/public-audits
+  repo: sigp/public-audits
+
+openzeppelin:
+  name: OpenZeppelin
+  type: openzeppelin
+  listing_url: https://www.openzeppelin.com/research#security-audits
+
+peckshield:
+  name: PeckShield
+  type: github_repo
+  listing_url: https://github.com/peckshield/publications
+  repo: peckshield/publications
+  paths: [audit_reports]
+
+code4rena:
+  name: Code4rena
+  type: code4rena
+  listing_url: https://code4rena.com/reports
+
+abdk:
+  name: ABDK
+  type: github_repo
+  listing_url: https://github.com/abdk-consulting/audits
+  repo: abdk-consulting/audits
+
+certik:
+  name: CertiK
+  type: certik
+  listing_url: https://skynet.certik.com/leaderboards/team-verified
+
+statemind:
+  name: Statemind
+  type: github_repo
+  listing_url: https://github.com/statemindio/public-audits
+  repo: statemindio/public-audits
+
+halborn:
+  name: Halborn
+  type: github_repo
+  listing_url: https://github.com/HalbornSecurity/PublicReports
+  repo: HalbornSecurity/PublicReports
+
+omniscia:
+  name: Omniscia
+  type: omniscia
+  listing_url: https://omniscia.io/reports.html
+
+zellic:
+  name: Zellic
+  type: github_repo
+  listing_url: https://github.com/Zellic/publications
+  repo: Zellic/publications
+
+# amp.runtimeverification.com's Strapi API is Cloudflare-blocked from
+# datacenter IPs; their GitHub publications repo mirrors all report PDFs.
+runtimeverification:
+  name: Runtime Verification
+  type: github_repo
+  listing_url: https://github.com/runtimeverification/publications
+  repo: runtimeverification/publications
+  paths: [reports]
+
+pessimistic:
+  name: Pessimistic
+  type: github_repo
+  listing_url: https://github.com/pessimistic-io/audits
+  repo: pessimistic-io/audits
+
+consensys:
+  name: ConsenSys Diligence
+  type: consensys
+  listing_url: https://diligence.consensys.io/audits/
+
+nethermind:
+  name: Nethermind
+  type: github_repo
+  listing_url: https://github.com/NethermindEth/PublicAuditReports
+  repo: NethermindEth/PublicAuditReports
+
+cyfrin:
+  name: Cyfrin
+  type: github_repo
+  listing_url: https://github.com/Cyfrin/cyfrin-audit-reports
+  repo: Cyfrin/cyfrin-audit-reports
+
+sherlock:
+  name: Sherlock
+  type: github_repo
+  listing_url: https://github.com/sherlock-protocol/sherlock-reports
+  repo: sherlock-protocol/sherlock-reports

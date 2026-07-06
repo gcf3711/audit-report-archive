@@ -1,0 +1,962 @@
+[
+  {
+    "source": "statemind",
+    "project": "Yearn veYFI(Voting and RewardPool)",
+    "title": "2022 07 08 Yearn veYFI(Voting and RewardPool)",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Yearn%20Finance/2022-07-08_Yearn_veYFI%28Voting_and_RewardPool%29.pdf",
+    "date": "2022-07-08",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Yearn%20Finance/2022-07-08_Yearn_veYFI%28Voting_and_RewardPool%29.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2022-07-08-yearn-veyfi-voting-and-rewardpool_84b51373.pdf",
+    "sha256": "f0cb45ec8948cadcee09970e545522aa3993ee9bcc377086a4f2e6b5a63ec2b3",
+    "size_bytes": 239743,
+    "downloaded_at": "2026-07-05T14:46:55+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Yearn Finance/2022-07-08_Yearn_veYFI(Voting_and_RewardPool).pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2022-07-08-yearn-veyfi-voting-and-rewardpool"
+  },
+  {
+    "source": "statemind",
+    "project": "1inch Aggregation Router v5",
+    "title": "2022 07 29 1inch Aggregation Router v5",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/1inch%20Network/2022-07-29_1inch_Aggregation_Router_v5.pdf",
+    "date": "2022-07-29",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/1inch%20Network/2022-07-29_1inch_Aggregation_Router_v5.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2022-07-29-1inch-aggregation-router-v5_85f3aa1c.pdf",
+    "sha256": "916f0c78c50b4c6f782f54a7b4248e2e2380bb250be21fe8f468857dd0cc593a",
+    "size_bytes": 888193,
+    "downloaded_at": "2026-07-05T14:46:56+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "1inch Network/2022-07-29_1inch_Aggregation_Router_v5.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2022-07-29-1inch-aggregation-router-v5"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido Insurance Fund",
+    "title": "2022 08 15 Lido Insurance Fund",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2022-08-15_Lido_Insurance_Fund.pdf",
+    "date": "2022-08-15",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2022-08-15_Lido_Insurance_Fund.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2022-08-15-lido-insurance-fund_1e8179cc.pdf",
+    "sha256": "6f668b17b895740dd7a152ac38d6735d4bbf8cb6355c598f70bf3d3965124b72",
+    "size_bytes": 200666,
+    "downloaded_at": "2026-07-05T14:46:56+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2022-08-15_Lido_Insurance_Fund.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2022-08-15-lido-insurance-fund"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido MEV Boost relay allowlist",
+    "title": "2022 09 09 Lido MEV Boost relay allowlist",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2022-09-09_Lido_MEV-Boost_relay_allowlist.pdf",
+    "date": "2022-09-09",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2022-09-09_Lido_MEV-Boost_relay_allowlist.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2022-09-09-lido-mev-boost-relay-allowlist_a44f0f6e.pdf",
+    "sha256": "8fe3b568d1e44b22a46c5bc7fbebcfa043ef5a890f0f909c8d8de0a72b3cde29",
+    "size_bytes": 180775,
+    "downloaded_at": "2026-07-05T14:46:57+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2022-09-09_Lido_MEV-Boost_relay_allowlist.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2022-09-09-lido-mev-boost-relay-allowlist"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido Easy Track",
+    "title": "2022 09 30 Lido Easy Track",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2022-09-30_Lido_Easy_Track.pdf",
+    "date": "2022-09-30",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2022-09-30_Lido_Easy_Track.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2022-09-30-lido-easy-track_b8e5097a.pdf",
+    "sha256": "c71184758ca80ce55bb13dd67a3296b758ed8217fb55d1e7da40a36c1a6713ff",
+    "size_bytes": 777428,
+    "downloaded_at": "2026-07-05T14:46:58+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2022-09-30_Lido_Easy_Track.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2022-09-30-lido-easy-track"
+  },
+  {
+    "source": "statemind",
+    "project": "Arrakis V2 core and palm",
+    "title": "2022 11 25 Arrakis V2 core and palm",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Arrakis%20Finance/2022-11-25_Arrakis_V2_core_and_palm.pdf",
+    "date": "2022-11-25",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Arrakis%20Finance/2022-11-25_Arrakis_V2_core_and_palm.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2022-11-25-arrakis-v2-core-and-palm_2c6f0f3c.pdf",
+    "sha256": "bf05a22a4c0d4854255f2783a884befc62094e3b6be8962fdd04cb31e0cc94a9",
+    "size_bytes": 995526,
+    "downloaded_at": "2026-07-05T14:46:59+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Arrakis Finance/2022-11-25_Arrakis_V2_core_and_palm.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2022-11-25-arrakis-v2-core-and-palm"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido TRP vesting escrow",
+    "title": "2023 01 27 Lido TRP vesting escrow",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-01-27_Lido_TRP_vesting_escrow.pdf",
+    "date": "2023-01-27",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-01-27_Lido_TRP_vesting_escrow.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-01-27-lido-trp-vesting-escrow_b690e0b4.pdf",
+    "sha256": "55664e0b5dea8760a85601475fb488779d437b115203831d5a77511aaaf624da",
+    "size_bytes": 198032,
+    "downloaded_at": "2026-07-05T14:47:00+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2023-01-27_Lido_TRP_vesting_escrow.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-01-27-lido-trp-vesting-escrow"
+  },
+  {
+    "source": "statemind",
+    "project": "Keep3r Sidechain oracles",
+    "title": "2023 02 03 Keep3r Sidechain oracles",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Keep3r%20Network/2023-02-03_Keep3r_Sidechain_oracles.pdf",
+    "date": "2023-02-03",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Keep3r%20Network/2023-02-03_Keep3r_Sidechain_oracles.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-02-03-keep3r-sidechain-oracles_87656fb2.pdf",
+    "sha256": "82c8ef8423a7529212b65ceafbf111c6e895ee2f04787031a19d7b28cd26f528",
+    "size_bytes": 653069,
+    "downloaded_at": "2026-07-05T14:47:00+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Keep3r Network/2023-02-03_Keep3r_Sidechain_oracles.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-02-03-keep3r-sidechain-oracles"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido GateSeals",
+    "title": "2023 04 20 Lido GateSeals",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-04-20_Lido_GateSeals.pdf",
+    "date": "2023-04-20",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-04-20_Lido_GateSeals.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-04-20-lido-gateseals_22be3259.pdf",
+    "sha256": "f46c583eba3ff276d0f449f8d19e3678642000a0e3d21adc9c94a4fe19d35033",
+    "size_bytes": 265114,
+    "downloaded_at": "2026-07-05T14:47:01+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2023-04-20_Lido_GateSeals.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-04-20-lido-gateseals"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido V2",
+    "title": "2023 04 28 Lido V2",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-04-28_Lido_V2.pdf",
+    "date": "2023-04-28",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-04-28_Lido_V2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-04-28-lido-v2_773b93bb.pdf",
+    "sha256": "2c51f905de58dc87eb3cd7f3cf98bfc5cdc01850e31aeafa8cc5be49c770bd46",
+    "size_bytes": 3454771,
+    "downloaded_at": "2026-07-05T14:47:03+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2023-04-28_Lido_V2.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-04-28-lido-v2"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido V2 deployment validation",
+    "title": "2023 05 10 Lido V2 deployment validation",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-05-10_Lido_V2_deployment_validation.pdf",
+    "date": "2023-05-10",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-05-10_Lido_V2_deployment_validation.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-05-10-lido-v2-deployment-validation_8031e550.pdf",
+    "sha256": "8dbb9dfbd9662b2867969b8c16f5abcb74f8f42e0ba20c0d77a503551cbc6403",
+    "size_bytes": 179331,
+    "downloaded_at": "2026-07-05T14:47:04+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2023-05-10_Lido_V2_deployment_validation.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-05-10-lido-v2-deployment-validation"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido Polygon v2",
+    "title": "2023 05 17 Lido Polygon v2",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-05-17_Lido_Polygon_v2.pdf",
+    "date": "2023-05-17",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-05-17_Lido_Polygon_v2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-05-17-lido-polygon-v2_ef9c41ca.pdf",
+    "sha256": "72f49d9cb953701e57c11370d27ceaf32bd251c5b7d28982d17aee026c93ad74",
+    "size_bytes": 1296017,
+    "downloaded_at": "2026-07-05T14:47:05+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2023-05-17_Lido_Polygon_v2.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-05-17-lido-polygon-v2"
+  },
+  {
+    "source": "statemind",
+    "project": "Buttonwood Buttonswap core",
+    "title": "2023 08 11 Buttonwood Buttonswap core",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Buttonwood/2023-08-11_Buttonwood_Buttonswap-core.pdf",
+    "date": "2023-08-11",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Buttonwood/2023-08-11_Buttonwood_Buttonswap-core.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-08-11-buttonwood-buttonswap-core_0a2e638b.pdf",
+    "sha256": "53788820d53783124711c796c09e5758b494db9b0af0ccf9ad707c537b2bcc13",
+    "size_bytes": 597452,
+    "downloaded_at": "2026-07-05T14:47:06+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Buttonwood/2023-08-11_Buttonwood_Buttonswap-core.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-08-11-buttonwood-buttonswap-core"
+  },
+  {
+    "source": "statemind",
+    "project": "Myso v2",
+    "title": "2023 08 15 Myso v2",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Myso%20Finance/2023-08-15_Myso_v2.pdf",
+    "date": "2023-08-15",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Myso%20Finance/2023-08-15_Myso_v2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-08-15-myso-v2_5bff94b2.pdf",
+    "sha256": "ab129f3d407b63cb1062f604a0df69671a33a4bc77810b89c8a61530b39e0d21",
+    "size_bytes": 2680590,
+    "downloaded_at": "2026-07-05T14:47:07+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Myso Finance/2023-08-15_Myso_v2.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-08-15-myso-v2"
+  },
+  {
+    "source": "statemind",
+    "project": "Instadapp Avocado v3",
+    "title": "2023 08 28 Instadapp Avocado v3",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2023-08-28_Instadapp_Avocado_v3.pdf",
+    "date": "2023-08-28",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2023-08-28_Instadapp_Avocado_v3.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-08-28-instadapp-avocado-v3_71258e6a.pdf",
+    "sha256": "f3718d43154ae0664b536688b06e94556cea4466c891ab3ad071d90211cacb86",
+    "size_bytes": 510948,
+    "downloaded_at": "2026-07-05T14:47:08+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Instadapp/2023-08-28_Instadapp_Avocado_v3.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-08-28-instadapp-avocado-v3"
+  },
+  {
+    "source": "statemind",
+    "project": "Arrakis V2 core rev2",
+    "title": "2023 08 29 Arrakis V2 core rev2",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Arrakis%20Finance/2023-08-29_Arrakis_V2_core_rev2.pdf",
+    "date": "2023-08-29",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Arrakis%20Finance/2023-08-29_Arrakis_V2_core_rev2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-08-29-arrakis-v2-core-rev2_b097c851.pdf",
+    "sha256": "b4569bef2b0e87b32e6c6f92bcfc491bb95332469f2f91512e8d0522a87eee11",
+    "size_bytes": 105307,
+    "downloaded_at": "2026-07-05T14:47:09+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Arrakis Finance/2023-08-29_Arrakis_V2_core_rev2.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-08-29-arrakis-v2-core-rev2"
+  },
+  {
+    "source": "statemind",
+    "project": "Arrakis V2 periphery",
+    "title": "2023 08 31 Arrakis V2 periphery",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Arrakis%20Finance/2023-08-31_Arrakis_V2_periphery.pdf",
+    "date": "2023-08-31",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Arrakis%20Finance/2023-08-31_Arrakis_V2_periphery.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-08-31-arrakis-v2-periphery_a3364853.pdf",
+    "sha256": "a22c1872205101ce5941ef5b027be0f4dae6e78dd255332ec68341d603a1f524",
+    "size_bytes": 374294,
+    "downloaded_at": "2026-07-05T14:47:10+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Arrakis Finance/2023-08-31_Arrakis_V2_periphery.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-08-31-arrakis-v2-periphery"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido Roles Analysis",
+    "title": "2023 10 20 Lido Roles Analysis",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-10-20_Lido_Roles_Analysis.pdf",
+    "date": "2023-10-20",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2023-10-20_Lido_Roles_Analysis.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-10-20-lido-roles-analysis_2c8e8e4f.pdf",
+    "sha256": "8fe5729ba8d52de58dbe607cb7097cf962f22b4ce33b1ab77deb401fc58f61c9",
+    "size_bytes": 1383007,
+    "downloaded_at": "2026-07-05T14:47:11+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2023-10-20_Lido_Roles_Analysis.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-10-20-lido-roles-analysis"
+  },
+  {
+    "source": "statemind",
+    "project": "Curve Stablecoin",
+    "title": "2023 10 30 Curve Stablecoin",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Curve/2023-10-30_Curve_Stablecoin.pdf",
+    "date": "2023-10-30",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Curve/2023-10-30_Curve_Stablecoin.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-10-30-curve-stablecoin_3d042b18.pdf",
+    "sha256": "2110633d41ec2417089699da8b0bd8418cdcb500f2328beea08552a3294004a9",
+    "size_bytes": 332459,
+    "downloaded_at": "2026-07-05T14:47:11+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Curve/2023-10-30_Curve_Stablecoin.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-10-30-curve-stablecoin"
+  },
+  {
+    "source": "statemind",
+    "project": "Instadapp Fluid",
+    "title": "2023 12 29 Instadapp Fluid",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2023-12-29_Instadapp_Fluid.pdf",
+    "date": "2023-12-29",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2023-12-29_Instadapp_Fluid.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2023-12-29-instadapp-fluid_61ef350f.pdf",
+    "sha256": "351a609c87166697978da701bffb7dbe7a86bf2d241d7c357ab31e7b7cc3cd4f",
+    "size_bytes": 554769,
+    "downloaded_at": "2026-07-05T14:47:12+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Instadapp/2023-12-29_Instadapp_Fluid.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2023-12-29-instadapp-fluid"
+  },
+  {
+    "source": "statemind",
+    "project": "Dega ISPO",
+    "title": "2024 01 17 Dega ISPO",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Dega/2024-01-17_Dega_ISPO.pdf",
+    "date": "2024-01-17",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Dega/2024-01-17_Dega_ISPO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-01-17-dega-ispo_47c74eec.pdf",
+    "sha256": "5450c6d990141c9056c09b01dfc1f611c033b107b44646b2b0f47f82842ac657",
+    "size_bytes": 224179,
+    "downloaded_at": "2026-07-05T14:47:13+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Dega/2024-01-17_Dega_ISPO.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-01-17-dega-ispo"
+  },
+  {
+    "source": "statemind",
+    "project": "Curve Lending",
+    "title": "2024 02 02 Curve Lending",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Curve/2024-02-02_Curve_Lending.pdf",
+    "date": "2024-02-02",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Curve/2024-02-02_Curve_Lending.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-02-02-curve-lending_2d64bc19.pdf",
+    "sha256": "cfdf25fd0e901cfe07150fa68576c5f43f1ffeb686a74a447de9f87c761e22bd",
+    "size_bytes": 166854,
+    "downloaded_at": "2026-07-05T14:47:14+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Curve/2024-02-02_Curve_Lending.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-02-02-curve-lending"
+  },
+  {
+    "source": "statemind",
+    "project": "Yearn V3",
+    "title": "2024 03 01 Yearn V3",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Yearn%20Finance/2024-03-01_Yearn_V3.pdf",
+    "date": "2024-03-01",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Yearn%20Finance/2024-03-01_Yearn_V3.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-03-01-yearn-v3_7a049614.pdf",
+    "sha256": "406c38cff8182aef23b954152a3a4778a5e8d5083922f556a9a5cc9bcfddd775",
+    "size_bytes": 168742,
+    "downloaded_at": "2026-07-05T14:47:15+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Yearn Finance/2024-03-01_Yearn_V3.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-03-01-yearn-v3"
+  },
+  {
+    "source": "statemind",
+    "project": "Vyper Storage layout",
+    "title": "2024 03 08 Vyper Storage layout",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Vyper/2024-03-08_Vyper_Storage_layout.pdf",
+    "date": "2024-03-08",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Vyper/2024-03-08_Vyper_Storage_layout.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-03-08-vyper-storage-layout_f6395191.pdf",
+    "sha256": "356754f1aa4f7933f4c1c3f4716dc4c0fec6a0b3197ccaf55d319d366fe97515",
+    "size_bytes": 102422,
+    "downloaded_at": "2026-07-05T14:47:15+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Vyper/2024-03-08_Vyper_Storage_layout.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-03-08-vyper-storage-layout"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido Voting",
+    "title": "2024 03 12 Lido Voting",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2024-03-12_Lido_Voting.pdf",
+    "date": "2024-03-12",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2024-03-12_Lido_Voting.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-03-12-lido-voting_052ba4c0.pdf",
+    "sha256": "6f2a39bf08b18d8fec8578c4516656cf14abe1a2ee7fbb86d4112b5f0a68a0e1",
+    "size_bytes": 98878,
+    "downloaded_at": "2026-07-05T14:47:16+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2024-03-12_Lido_Voting.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-03-12-lido-voting"
+  },
+  {
+    "source": "statemind",
+    "project": "Valantis Core",
+    "title": "2024 03 19 Valantis Core",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Valantis%20Labs/2024-03-19_Valantis_Core.pdf",
+    "date": "2024-03-19",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Valantis%20Labs/2024-03-19_Valantis_Core.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-03-19-valantis-core_204b5060.pdf",
+    "sha256": "e9d4b0dc09fde2670cdb737a83e5bc3bede36164213a0d643b1b846ef7be0f0d",
+    "size_bytes": 328404,
+    "downloaded_at": "2026-07-05T14:47:17+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Valantis Labs/2024-03-19_Valantis_Core.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-03-19-valantis-core"
+  },
+  {
+    "source": "statemind",
+    "project": "Instadapp Avocado Chain Agnostic feature",
+    "title": "2024 04 10 Instadapp Avocado Chain Agnostic feature",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2024-04-10_Instadapp_Avocado_Chain_Agnostic_feature.pdf",
+    "date": "2024-04-10",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2024-04-10_Instadapp_Avocado_Chain_Agnostic_feature.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-04-10-instadapp-avocado-chain-agnostic-feature_3210230c.pdf",
+    "sha256": "21d5f96d8bf2a13cafee03a1a8e3b0937fa80217b622929a7e22bf7de158d2b7",
+    "size_bytes": 156236,
+    "downloaded_at": "2026-07-05T14:47:18+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Instadapp/2024-04-10_Instadapp_Avocado_Chain_Agnostic_feature.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-04-10-instadapp-avocado-chain-agnostic-feature"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido GateSeal deployment validation",
+    "title": "2024 04 11 Lido GateSeal deployment validation",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf",
+    "date": "2024-04-11",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-04-11-lido-gateseal-deployment-validation_45ebf33e.pdf",
+    "sha256": "7d8be5f2466238c31c21cf471889bb44def854fda81beaa5abdda5f562bd92ba",
+    "size_bytes": 39335,
+    "downloaded_at": "2026-07-05T14:47:18+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2024-04-11_Lido_GateSeal_deployment_validation.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-04-11-lido-gateseal-deployment-validation"
+  },
+  {
+    "source": "statemind",
+    "project": "Valantis HOT",
+    "title": "2024 04 23 Valantis HOT",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Valantis%20Labs/2024-04-23_Valantis_HOT.pdf",
+    "date": "2024-04-23",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Valantis%20Labs/2024-04-23_Valantis_HOT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-04-23-valantis-hot_12d2ca0c.pdf",
+    "sha256": "a1c50fba37258fd186d2617267333717e819d33ac0d00777b858ed1f1cc6a693",
+    "size_bytes": 171517,
+    "downloaded_at": "2026-07-05T14:47:19+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Valantis Labs/2024-04-23_Valantis_HOT.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-04-23-valantis-hot"
+  },
+  {
+    "source": "statemind",
+    "project": "Symbiotic Default Collateral",
+    "title": "2024 05 01 Symbiotic Default Collateral",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf",
+    "date": "2024-05-01",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-05-01-symbiotic-default-collateral_1d967ed4.pdf",
+    "sha256": "1d4a2926755df68fe1363f1ab3ff80d4fae7d81a16236b12e901510054afcfc4",
+    "size_bytes": 74385,
+    "downloaded_at": "2026-07-05T14:47:20+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Symbiotic/2024-05-01_Symbiotic_Default_Collateral.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-05-01-symbiotic-default-collateral"
+  },
+  {
+    "source": "statemind",
+    "project": "Vyper compiler modules",
+    "title": "2024 05 23 Vyper compiler modules",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Vyper/2024-05-23_Vyper_compiler_modules.pdf",
+    "date": "2024-05-23",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Vyper/2024-05-23_Vyper_compiler_modules.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-05-23-vyper-compiler-modules_a933202a.pdf",
+    "sha256": "1b95ab43038dd36e219131059a2d0076d0a0704b53e36d6c124e8d1155323e74",
+    "size_bytes": 190182,
+    "downloaded_at": "2026-07-05T14:47:20+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Vyper/2024-05-23_Vyper_compiler_modules.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-05-23-vyper-compiler-modules"
+  },
+  {
+    "source": "statemind",
+    "project": "Mellow LRT",
+    "title": "2024 05 27 Mellow LRT",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2024-05-27_Mellow_LRT.pdf",
+    "date": "2024-05-27",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2024-05-27_Mellow_LRT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-05-27-mellow-lrt_7a0aaee5.pdf",
+    "sha256": "8cdc3503fd69800e961c4ec829a9e20ccdb0344cd8102b4f84563043e3af3ffb",
+    "size_bytes": 264828,
+    "downloaded_at": "2026-07-05T14:47:21+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Mellow/2024-05-27_Mellow_LRT.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-05-27-mellow-lrt"
+  },
+  {
+    "source": "statemind",
+    "project": "Mellow LRT Obol",
+    "title": "2024 05 30 Mellow LRT Obol",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2024-05-30_Mellow_LRT_Obol.pdf",
+    "date": "2024-05-30",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2024-05-30_Mellow_LRT_Obol.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-05-30-mellow-lrt-obol_34889d9a.pdf",
+    "sha256": "84d6c3b7919eb0d4ee3ac9675168e72d6449d319d96e5ead2b6ed55f1d6f4233",
+    "size_bytes": 140625,
+    "downloaded_at": "2026-07-05T14:47:22+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Mellow/2024-05-30_Mellow_LRT_Obol.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-05-30-mellow-lrt-obol"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido Dual Governance",
+    "title": "2024 09 12 Lido Dual Governance 2024",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2024-09-12_Lido_Dual_Governance_2024.pdf",
+    "date": "2024-09-12",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2024-09-12_Lido_Dual_Governance_2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-09-12-lido-dual-governance-2024_5d587efb.pdf",
+    "sha256": "1036145ab27ce97f7f504dfc484e29515bc23e20b62cf631774ed721eebdd19f",
+    "size_bytes": 614011,
+    "downloaded_at": "2026-07-05T14:47:23+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2024-09-12_Lido_Dual_Governance_2024.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-09-12-lido-dual-governance-2024"
+  },
+  {
+    "source": "statemind",
+    "project": "Mellow Simple LRT",
+    "title": "2024 09 20 Mellow Simple LRT Final report",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf",
+    "date": "2024-09-20",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-09-20-mellow-simple-lrt-final-report_e72115f9.pdf",
+    "sha256": "e4cdea1bc814cb7b66113501ca385b0766d0bb5d10eaf2311482777ea130678f",
+    "size_bytes": 242257,
+    "downloaded_at": "2026-07-05T14:47:24+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Mellow/2024-09-20_Mellow_Simple_LRT_Final_report.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-09-20-mellow-simple-lrt-final-report"
+  },
+  {
+    "source": "statemind",
+    "project": "Symbiotic Core",
+    "title": "2024 12 20 Symbiotic Core final report",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf",
+    "date": "2024-12-20",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-12-20-symbiotic-core-final-report_8710a981.pdf",
+    "sha256": "f68361504b9867a12bdeeaac0ef5789fd1fb6da0f91cd17af98bd2dba917f904",
+    "size_bytes": 335465,
+    "downloaded_at": "2026-07-05T14:47:25+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Symbiotic/2024-12-20_Symbiotic_Core_final_report.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-12-20-symbiotic-core-final-report"
+  },
+  {
+    "source": "statemind",
+    "project": "Symbiotic Hooks",
+    "title": "2024 12 27 Symbiotic Hooks Final report",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf",
+    "date": "2024-12-27",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2024-12-27-symbiotic-hooks-final-report_7c26418a.pdf",
+    "sha256": "b684ec8dcb689c9e0b941d7dc9fef168ef615353be2d3ed4514d6ad7f5aa35f1",
+    "size_bytes": 177641,
+    "downloaded_at": "2026-07-05T14:47:26+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Symbiotic/2024-12-27_Symbiotic_Hooks_Final_report.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2024-12-27-symbiotic-hooks-final-report"
+  },
+  {
+    "source": "statemind",
+    "project": "Mellow MultiVault with deployment",
+    "title": "2025 01 31 Mellow MultiVault with deployment",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2025-01-31_Mellow_MultiVault_with_deployment.pdf",
+    "date": "2025-01-31",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Mellow/2025-01-31_Mellow_MultiVault_with_deployment.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-01-31-mellow-multivault-with-deployment_bb3cefd5.pdf",
+    "sha256": "64f832d98e76c65797f13e28cc12d3bf7a875d9d96d41a10e98818804ad4c2de",
+    "size_bytes": 382763,
+    "downloaded_at": "2026-07-05T14:47:27+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Mellow/2025-01-31_Mellow_MultiVault_with_deployment.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-01-31-mellow-multivault-with-deployment"
+  },
+  {
+    "source": "statemind",
+    "project": "Yield Basis core",
+    "title": "2025 02 24 Yield Basis core 2025",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Yield%20Basis/2025-02-24_Yield_Basis_core_2025.pdf",
+    "date": "2025-02-24",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Yield%20Basis/2025-02-24_Yield_Basis_core_2025.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-02-24-yield-basis-core-2025_85c8624d.pdf",
+    "sha256": "e2d3377686efc5b9adc93c6d6e20ef59e94ffb11ca80225ee0d2dbf15279b7e8",
+    "size_bytes": 477942,
+    "downloaded_at": "2026-07-05T14:47:27+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Yield Basis/2025-02-24_Yield_Basis_core_2025.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-02-24-yield-basis-core-2025"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido GateSeal Deployment",
+    "title": "2025 03 10 Lido GateSeal Deployment 2025",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf",
+    "date": "2025-03-10",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-03-10-lido-gateseal-deployment-2025_d522c25a.pdf",
+    "sha256": "bc32887e799d75236a4cb866505d59ffbab27242ed8b1edd0699aba01ed67057",
+    "size_bytes": 63909,
+    "downloaded_at": "2026-07-05T14:47:28+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2025-03-10_Lido_GateSeal_Deployment_2025.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-03-10-lido-gateseal-deployment-2025"
+  },
+  {
+    "source": "statemind",
+    "project": "Dual Governance Script",
+    "title": "2025 05 27 Dual Governance Script Review 2025",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf",
+    "date": "2025-05-27",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-05-27-dual-governance-script-review-2025_517338c6.pdf",
+    "sha256": "1cbdbc3237b62ec37f43867918a4bac5dcefab8f472d5908502385868b265c57",
+    "size_bytes": 118338,
+    "downloaded_at": "2026-07-05T14:47:29+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2025-05-27_Dual_Governance_Script_Review_2025.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-05-27-dual-governance-script-review-2025"
+  },
+  {
+    "source": "statemind",
+    "project": "Symbiotic RelayContracts AI",
+    "title": "2025 05 30 Symbiotic RelayContracts AI report",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2025-05-30_Symbiotic_RelayContracts_AI_report.pdf",
+    "date": "2025-05-30",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Symbiotic/2025-05-30_Symbiotic_RelayContracts_AI_report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-05-30-symbiotic-relaycontracts-ai-report_981b33cf.pdf",
+    "sha256": "c4667d030397eb7c9585c162192bdc12d74b8153b4e36315f0d6b5a5bffd613d",
+    "size_bytes": 961500,
+    "downloaded_at": "2026-07-05T14:47:30+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Symbiotic/2025-05-30_Symbiotic_RelayContracts_AI_report.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-05-30-symbiotic-relaycontracts-ai-report"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido Dual Governance Upgrade deployment",
+    "title": "2025 08 19 Lido Dual Governance Upgrade deployment",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-08-19_Lido_Dual_Governance_Upgrade_deployment.pdf",
+    "date": "2025-08-19",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-08-19_Lido_Dual_Governance_Upgrade_deployment.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-08-19-lido-dual-governance-upgrade-deployment_f97c6a80.pdf",
+    "sha256": "1adec8dc529dc9fb21d2a16425da2fd6dfcf07101dd74bcc342cf55f446a1334",
+    "size_bytes": 113966,
+    "downloaded_at": "2026-07-05T14:47:30+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2025-08-19_Lido_Dual_Governance_Upgrade_deployment.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-08-19-lido-dual-governance-upgrade-deployment"
+  },
+  {
+    "source": "statemind",
+    "project": "Lido TW and CSM V2  upd",
+    "title": "2025 09 19 Lido TW and CSM V2 final report upd",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-09-19_Lido_TW_and_CSM_V2_final_report_upd.pdf",
+    "date": "2025-09-19",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Lido%20Finance/2025-09-19_Lido_TW_and_CSM_V2_final_report_upd.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-09-19-lido-tw-and-csm-v2-final-report-upd_bdc17ff5.pdf",
+    "sha256": "4ae740bdc4fa6c4cbf6ca798c1a1bd286b34315636d040d3f2c30434dd69e8dd",
+    "size_bytes": 405912,
+    "downloaded_at": "2026-07-05T14:47:31+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Lido Finance/2025-09-19_Lido_TW_and_CSM_V2_final_report_upd.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-09-19-lido-tw-and-csm-v2-final-report-upd"
+  },
+  {
+    "source": "statemind",
+    "project": "Instadapp Liquidity Layer Updated",
+    "title": "2025 10 14 Instadapp Liquidity Layer Updated",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2025-10-14_Instadapp_Liquidity_Layer_Updated.pdf",
+    "date": "2025-10-14",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2025-10-14_Instadapp_Liquidity_Layer_Updated.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2025-10-14-instadapp-liquidity-layer-updated_2f245e67.pdf",
+    "sha256": "476f9e25ccf021ed73614296fe64bea90b21eccaa63528023e3c415a9e259e8e",
+    "size_bytes": 190780,
+    "downloaded_at": "2026-07-05T14:47:32+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Instadapp/2025-10-14_Instadapp_Liquidity_Layer_Updated.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2025-10-14-instadapp-liquidity-layer-updated"
+  },
+  {
+    "source": "statemind",
+    "project": "Instadapp Fluid PR validation",
+    "title": "2026 03 02 Instadapp Fluid PR validation",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2026-03-02_Instadapp_Fluid_PR_validation.pdf",
+    "date": "2026-03-02",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2026-03-02_Instadapp_Fluid_PR_validation.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2026-03-02-instadapp-fluid-pr-validation_b716ffd9.pdf",
+    "sha256": "f9d261537865d1c02197dd62ec03c6974d99db376afb664af2e879aa15b6410a",
+    "size_bytes": 187982,
+    "downloaded_at": "2026-07-05T14:47:33+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Instadapp/2026-03-02_Instadapp_Fluid_PR_validation.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2026-03-02-instadapp-fluid-pr-validation"
+  },
+  {
+    "source": "statemind",
+    "project": "Instadapp Avocado EIP 7702 PR validation",
+    "title": "2026 03 04 Instadapp Avocado EIP 7702 PR validation",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2026-03-04_Instadapp_Avocado_EIP-7702_PR_validation.pdf",
+    "date": "2026-03-04",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/Instadapp/2026-03-04_Instadapp_Avocado_EIP-7702_PR_validation.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2026-03-04-instadapp-avocado-eip-7702-pr-validation_8c75e123.pdf",
+    "sha256": "8f1b963f0002f0a496d4df5dfb141eba455c06e61f853478d560757fcbcc42bc",
+    "size_bytes": 107891,
+    "downloaded_at": "2026-07-05T14:47:33+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "Instadapp/2026-03-04_Instadapp_Avocado_EIP-7702_PR_validation.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2026-03-04-instadapp-avocado-eip-7702-pr-validation"
+  },
+  {
+    "source": "statemind",
+    "project": "StakeWise Core V3",
+    "title": "2026 04 20 StakeWise Core V3",
+    "report_url": "https://github.com/statemindio/public-audits/blob/06884baf3aa2ca82a462070a099c83c9a47b71e3/StakeWise/2026-04-20_StakeWise_Core_V3.pdf",
+    "date": "2026-04-20",
+    "listing_url": "https://github.com/statemindio/public-audits",
+    "download_url": "https://raw.githubusercontent.com/statemindio/public-audits/06884baf3aa2ca82a462070a099c83c9a47b71e3/StakeWise/2026-04-20_StakeWise_Core_V3.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/statemind/2026-04-20-stakewise-core-v3_f129884e.pdf",
+    "sha256": "8e8f3b455fd796d48d1c5c23cfd4a8029b230112cf0fe9a5b80bd99efa5b4bce",
+    "size_bytes": 349271,
+    "downloaded_at": "2026-07-05T14:47:34+00:00",
+    "extra": {
+      "repo": "statemindio/public-audits",
+      "path": "StakeWise/2026-04-20_StakeWise_Core_V3.pdf",
+      "commit": "06884baf3aa2ca82a462070a099c83c9a47b71e3"
+    },
+    "id": "statemind/2026-04-20-stakewise-core-v3"
+  }
+]

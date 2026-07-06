@@ -1,0 +1,3622 @@
+[
+  {
+    "source": "nethermind",
+    "project": "NM0050 STARKGATE DRAFT",
+    "title": "NM0050 STARKGATE DRAFT REPORT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0050-STARKGATE-DRAFT-REPORT.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0050-STARKGATE-DRAFT-REPORT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0050-starkgate-draft-report_b1a3836e.pdf",
+    "sha256": "7d9c90caadc2a8405e77912bb9534b8fc2d2cc18c6d95ee916ba2da3bbb5ec9f",
+    "size_bytes": 194682,
+    "downloaded_at": "2026-07-05T15:03:53+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0050-STARKGATE-DRAFT-REPORT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0050-starkgate-draft-report"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0051 GYROSCOPE",
+    "title": "NM0051 GYROSCOPE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0051-GYROSCOPE.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0051-GYROSCOPE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0051-gyroscope_9c976965.pdf",
+    "sha256": "de594f129344974f3f1e3cb2a9191771a4ba425eb697b14f043a2954b068d717",
+    "size_bytes": 261275,
+    "downloaded_at": "2026-07-05T15:03:54+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0051-GYROSCOPE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0051-gyroscope"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0052 ARGENT ACCOUNT ON STARKNET",
+    "title": "NM0052 ARGENT ACCOUNT ON STARKNET",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0052-ARGENT_ACCOUNT_ON_STARKNET.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0052-ARGENT_ACCOUNT_ON_STARKNET.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0052-argent-account-on-starknet_dd2c3e20.pdf",
+    "sha256": "3209424cdf0629be804aad837930c7b8ce731e7e96efb900592a4e9f7c923b2e",
+    "size_bytes": 260557,
+    "downloaded_at": "2026-07-05T15:03:54+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0052-ARGENT_ACCOUNT_ON_STARKNET.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0052-argent-account-on-starknet"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0053 BRIQ PROTOCOL",
+    "title": "NM0053 FINAL BRIQ PROTOCOL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0053-FINAL_BRIQ_PROTOCOL.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0053-FINAL_BRIQ_PROTOCOL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0053-final-briq-protocol_fb4fa4e3.pdf",
+    "sha256": "3f41e262e3629e20ca89d67f1aa019118db7d4c79ca0a71e2f62244a3c939ae0",
+    "size_bytes": 239747,
+    "downloaded_at": "2026-07-05T15:03:55+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0053-FINAL_BRIQ_PROTOCOL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0053-final-briq-protocol"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0054 AAVE PROTOCOL L2",
+    "title": "NM0054 FINAL AAVE PROTOCOL L2",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0054-FINAL_AAVE_PROTOCOL_L2.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0054-FINAL_AAVE_PROTOCOL_L2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0054-final-aave-protocol-l2_b517fc5f.pdf",
+    "sha256": "b1ea558d10a9133f5249b23c7b90ccc6e704f1e82f2f48a145313553cdf7e46c",
+    "size_bytes": 210675,
+    "downloaded_at": "2026-07-05T15:03:56+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0054-FINAL_AAVE_PROTOCOL_L2.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0054-final-aave-protocol-l2"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0055 GYROSCOPE CEMM",
+    "title": "NM0055 FINAL GYROSCOPE CEMM",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0055-FINAL_GYROSCOPE_CEMM.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0055-FINAL_GYROSCOPE_CEMM.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0055-final-gyroscope-cemm_7e7a7872.pdf",
+    "sha256": "9ff87e4a018fdc24a84633dfac0b7eeb3fdc496c0242e4bc193b3b35b143c573",
+    "size_bytes": 238323,
+    "downloaded_at": "2026-07-05T15:03:56+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0055-FINAL_GYROSCOPE_CEMM.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0055-final-gyroscope-cemm"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0056 ZKX",
+    "title": "NM0056 FINAL ZKX",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0056-FINAL_ZKX.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0056-FINAL_ZKX.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0056-final-zkx_e651e09c.pdf",
+    "sha256": "84d99c927dfc020be4fa6f9a6b5dc31b792c3f16ffd876f26099c0b9d52b3880",
+    "size_bytes": 397495,
+    "downloaded_at": "2026-07-05T15:03:57+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0056-FINAL_ZKX.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0056-final-zkx"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0057   SITHSWAP",
+    "title": "NM0057   FINAL SITHSWAP",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0057%20-%20FINAL_SITHSWAP.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0057%20-%20FINAL_SITHSWAP.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0057-final-sithswap_64e5c7cd.pdf",
+    "sha256": "1f8e32b452ba81782d3ebc21b3987a6bd012e50dd21528cbe76d84c3ddf789a9",
+    "size_bytes": 333865,
+    "downloaded_at": "2026-07-05T15:03:58+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0057 - FINAL_SITHSWAP.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0057-final-sithswap"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0060 DRAFT MYSWAP BRAAVOS",
+    "title": "NM0060 DRAFT MYSWAP BRAAVOS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0060-DRAFT_MYSWAP_BRAAVOS.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0060-DRAFT_MYSWAP_BRAAVOS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0060-draft-myswap-braavos_924b3080.pdf",
+    "sha256": "85d560e269d1a276556212cfca83be14b4e2fe981e099409b23f5aaae7a9c510",
+    "size_bytes": 225016,
+    "downloaded_at": "2026-07-05T15:03:59+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0060-DRAFT_MYSWAP_BRAAVOS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0060-draft-myswap-braavos"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0061 DRAFT CARTDRIGE",
+    "title": "NM0061 DRAFT CARTDRIGE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0061-DRAFT_CARTDRIGE.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0061-DRAFT_CARTDRIGE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0061-draft-cartdrige_64c4232c.pdf",
+    "sha256": "578de8ddf67ee57a06ad6c4fd66e646dcc1dea03fc59ceb2d20e7a6d0376328a",
+    "size_bytes": 2661894,
+    "downloaded_at": "2026-07-05T15:04:00+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0061-DRAFT_CARTDRIGE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0061-draft-cartdrige"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0062 EVERYREALM",
+    "title": "NM0062 FINAL EVERYREALM",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0062-FINAL_EVERYREALM.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0062-FINAL_EVERYREALM.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0062-final-everyrealm_5337bb96.pdf",
+    "sha256": "dec340b313bf3ac388f682ff747797733c68b7f8fa0a91d622f2f83dde672396",
+    "size_bytes": 178826,
+    "downloaded_at": "2026-07-05T15:04:01+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0062-FINAL_EVERYREALM.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0062-final-everyrealm"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0064 DRAFT STARKGATE",
+    "title": "NM0064 DRAFT STARKGATE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0064-DRAFT_STARKGATE.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0064-DRAFT_STARKGATE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0064-draft-starkgate_49517c13.pdf",
+    "sha256": "046b2362a957a13107f0ed79d9582efba7da0bceb72d15015da658bdd461c98c",
+    "size_bytes": 314502,
+    "downloaded_at": "2026-07-05T15:04:01+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0064-DRAFT_STARKGATE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0064-draft-starkgate"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0067 DECENTRALAND",
+    "title": "NM0067 FINAL DECENTRALAND",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0067-FINAL_DECENTRALAND.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0067-FINAL_DECENTRALAND.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0067-final-decentraland_c8631921.pdf",
+    "sha256": "544292064aa39aaa13994f0d25d00711e61212717001e1414673b1487b8899d6",
+    "size_bytes": 309480,
+    "downloaded_at": "2026-07-05T15:04:02+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0067-FINAL_DECENTRALAND.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0067-final-decentraland"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0068 eCREDITS",
+    "title": "NM0068 FINAL eCREDITS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0068-FINAL-eCREDITS.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0068-FINAL-eCREDITS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0068-final-ecredits_9dd511d6.pdf",
+    "sha256": "7ffe74cfa3179eadf0130a46ab1f989f22aa1a7607b5f7a61c9de8567694026a",
+    "size_bytes": 423405,
+    "downloaded_at": "2026-07-05T15:04:03+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0068-FINAL-eCREDITS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0068-final-ecredits"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0069 POLYGON ID",
+    "title": "NM0069 FINAL POLYGON ID",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0069-FINAL_POLYGON_ID.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0069-FINAL_POLYGON_ID.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0069-final-polygon-id_5fcd5066.pdf",
+    "sha256": "bdce883bb91fe12f4eebd6ae2fa990074d343bcaefb3a6a7b51884e635827906",
+    "size_bytes": 3381455,
+    "downloaded_at": "2026-07-05T15:04:04+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0069-FINAL_POLYGON_ID.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0069-final-polygon-id"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0070 DYVE",
+    "title": "NM0070 FINAL DYVE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0070-FINAL_DYVE.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0070-FINAL_DYVE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0070-final-dyve_5581e471.pdf",
+    "sha256": "84113db40ab52e7bd0f0ec6273171e82928a98b0391f4f5669365a709047ccc9",
+    "size_bytes": 246748,
+    "downloaded_at": "2026-07-05T15:04:05+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0070-FINAL_DYVE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0070-final-dyve"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0072 ARCADIA",
+    "title": "NM0072 FINAL ARCADIA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0072-FINAL_ARCADIA.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0072-FINAL_ARCADIA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0072-final-arcadia_d5cf4d4e.pdf",
+    "sha256": "c608d9aa5d6d2c601ad9969b2593962697465cb4a8c356e9f66946ca377077f7",
+    "size_bytes": 405174,
+    "downloaded_at": "2026-07-05T15:04:06+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0072-FINAL_ARCADIA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0072-final-arcadia"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0073 FILEVERSE",
+    "title": "NM0073 FINAL FILEVERSE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0073-FINAL_FILEVERSE.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0073-FINAL_FILEVERSE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0073-final-fileverse_7a325d95.pdf",
+    "sha256": "e1f48e4f2cad854574cad0c39969a6a023e74b86b9c1dc66ab80ba4c5ca8c0cc",
+    "size_bytes": 390140,
+    "downloaded_at": "2026-07-05T15:04:07+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0073-FINAL_FILEVERSE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0073-final-fileverse"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0074 PWN",
+    "title": "NM0074 FINAL PWN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0074-FINAL_PWN.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0074-FINAL_PWN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0074-final-pwn_bf42054f.pdf",
+    "sha256": "837daf63a4336c2ac0bde926b248a040e7f4e8bfa982e9bbcda40abdc2a27d5b",
+    "size_bytes": 522696,
+    "downloaded_at": "2026-07-05T15:04:07+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0074-FINAL_PWN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0074-final-pwn"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0081 ONDO FINANCE",
+    "title": "NM0081 FINAL ONDO FINANCE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0081-FINAL_ONDO_FINANCE.pdf",
+    "date": "2023-04-26",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0081-FINAL_ONDO_FINANCE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0081-final-ondo-finance_c59a2cf4.pdf",
+    "sha256": "7ec348b6fca8fdba6ebb9f4f860fa0efc244775707e8991f635d48c881ec5382",
+    "size_bytes": 349541,
+    "downloaded_at": "2026-07-05T15:04:08+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0081-FINAL_ONDO_FINANCE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0081-final-ondo-finance"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0083 PIMLICO",
+    "title": "NM0083 FINAL PIMLICO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0083-FINAL_PIMLICO.pdf",
+    "date": "2023-05-02",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0083-FINAL_PIMLICO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0083-final-pimlico_9149e389.pdf",
+    "sha256": "1f62dcaa30f8ae7e156e6d0391debc2959fdedbd42cfe69cb1f5998df21eecad",
+    "size_bytes": 240502,
+    "downloaded_at": "2026-07-05T15:04:09+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0083-FINAL_PIMLICO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0083-final-pimlico"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0085 ATLENDIS LABS",
+    "title": "NM0085 FINAL ATLENDIS LABS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0085-FINAL_ATLENDIS_LABS.pdf",
+    "date": "2023-05-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0085-FINAL_ATLENDIS_LABS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0085-final-atlendis-labs_0358e269.pdf",
+    "sha256": "4b44214dbcf56a63daf6beda14a5ae6470f73640d8b9b3f771a40cb76f1a15ce",
+    "size_bytes": 343119,
+    "downloaded_at": "2026-07-05T15:04:09+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0085-FINAL_ATLENDIS_LABS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0085-final-atlendis-labs"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0058 ZKLEND",
+    "title": "NM0058 FINAL ZKLEND",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0058-FINAL_ZKLEND.pdf",
+    "date": "2023-05-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0058-FINAL_ZKLEND.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0058-final-zklend_c952ddfa.pdf",
+    "sha256": "0446e2d9459eaef69ae1c1a43ddf6f275505b501fb716c903d9f4e5782209a4d",
+    "size_bytes": 461085,
+    "downloaded_at": "2026-07-05T15:04:10+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0058-FINAL_ZKLEND.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0058-final-zklend"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0098 TRUFIN",
+    "title": "NM0098 FINAL TRUFIN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0098-FINAL_TRUFIN.pdf",
+    "date": "2023-06-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0098-FINAL_TRUFIN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0098-final-trufin_012adb26.pdf",
+    "sha256": "6b5c8333ec334e8fff1e621ecb377d9de0e3fbc09b8f45f76e463b8788c37377",
+    "size_bytes": 284897,
+    "downloaded_at": "2026-07-05T15:04:11+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0098-FINAL_TRUFIN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0098-final-trufin"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0108 WORLDCOIN ERC20 TOKEN",
+    "title": "NM0108 FINAL WORLDCOIN ERC20 TOKEN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0108-FINAL_WORLDCOIN_ERC20_TOKEN.pdf",
+    "date": "2023-06-27",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0108-FINAL_WORLDCOIN_ERC20_TOKEN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0108-final-worldcoin-erc20-token_edab816b.pdf",
+    "sha256": "c4db5ae86f19bbb110b978fa88778ec102d74832c5f2de08710f4b8420b383a1",
+    "size_bytes": 240906,
+    "downloaded_at": "2026-07-05T15:04:12+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0108-FINAL_WORLDCOIN_ERC20_TOKEN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0108-final-worldcoin-erc20-token"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0122 WORLDCOIN",
+    "title": "NM0122 FINAL WORLDCOIN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0122-FINAL_WORLDCOIN.pdf",
+    "date": "2023-07-25",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0122-FINAL_WORLDCOIN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0122-final-worldcoin_5211be0c.pdf",
+    "sha256": "8c899fcd39d4bb18550c6d72e0d50bbfcf142ba2a7f3fa4d49f329c544d1e9b1",
+    "size_bytes": 760361,
+    "downloaded_at": "2026-07-05T15:04:12+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0122-FINAL_WORLDCOIN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0122-final-worldcoin"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0094 GYROSCOPE PROTOCOL",
+    "title": "NM0094 FINAL GYROSCOPE PROTOCOL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0094-FINAL_GYROSCOPE_PROTOCOL.pdf",
+    "date": "2023-08-21",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0094-FINAL_GYROSCOPE_PROTOCOL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0094-final-gyroscope-protocol_6ae57c0c.pdf",
+    "sha256": "e416d704dd9912bce6cee5bb8ade14b18d3cba0108885718f34257ecfe9ddc0d",
+    "size_bytes": 354373,
+    "downloaded_at": "2026-07-05T15:04:13+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0094-FINAL_GYROSCOPE_PROTOCOL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0094-final-gyroscope-protocol"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0112 ETHERSPOT",
+    "title": "NM0112 FINAL ETHERSPOT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0112-FINAL_ETHERSPOT.pdf",
+    "date": "2023-08-21",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0112-FINAL_ETHERSPOT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0112-final-etherspot_fe337e29.pdf",
+    "sha256": "701af724b11f872a9afda7bc45ce68e51bf136a85ff0dd48cee9f5eda6731301",
+    "size_bytes": 585963,
+    "downloaded_at": "2026-07-05T15:04:14+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0112-FINAL_ETHERSPOT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0112-final-etherspot"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0117 CLAYSTACK",
+    "title": "NM0117 FINAL CLAYSTACK",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0117-FINAL_CLAYSTACK.pdf",
+    "date": "2023-09-15",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0117-FINAL_CLAYSTACK.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0117-final-claystack_c541ab45.pdf",
+    "sha256": "7d1ee5c1bcadc503f2c1d6f0a8fd6346fad6ac51d25eea5cd21a531e15b0a3e4",
+    "size_bytes": 979587,
+    "downloaded_at": "2026-07-05T15:04:15+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0117-FINAL_CLAYSTACK.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0117-final-claystack"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0113 POLYGONID",
+    "title": "NM0113 FINAL POLYGONID",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0113-FINAL_POLYGONID.pdf",
+    "date": "2023-09-20",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0113-FINAL_POLYGONID.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0113-final-polygonid_9b057056.pdf",
+    "sha256": "7a83d36d5e3ea99a078efaf6d2d6253f4022565982503c96a24a0a7a90279e17",
+    "size_bytes": 418225,
+    "downloaded_at": "2026-07-05T15:04:16+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0113-FINAL_POLYGONID.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0113-final-polygonid"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0131 WORLDCOIN STATE BRIDGE CONTRACTS UPGRADE",
+    "title": "NM0131 FINAL WORLDCOIN STATE BRIDGE CONTRACTS UPGRADE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0131-FINAL_WORLDCOIN_STATE_BRIDGE_CONTRACTS_UPGRADE.pdf",
+    "date": "2023-09-25",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0131-FINAL_WORLDCOIN_STATE_BRIDGE_CONTRACTS_UPGRADE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0131-final-worldcoin-state-bridge-contracts-upgrade_22f2a53e.pdf",
+    "sha256": "5ae120139767b0826200e25984ee8d6c95456ad461caeb88f7ba2bc7c913e642",
+    "size_bytes": 240413,
+    "downloaded_at": "2026-07-05T15:04:16+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0131-FINAL_WORLDCOIN_STATE_BRIDGE_CONTRACTS_UPGRADE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0131-final-worldcoin-state-bridge-contracts-upgrade"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0096 PROP HOUSE",
+    "title": "NM0096 FINAL PROP HOUSE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0096-FINAL_PROP_HOUSE.pdf",
+    "date": "2023-09-27",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0096-FINAL_PROP_HOUSE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0096-final-prop-house_4be7645b.pdf",
+    "sha256": "a765af063d272bc1a1597bfe95cd0982fe7595c7c054ab099cce8f8572a14fbc",
+    "size_bytes": 358728,
+    "downloaded_at": "2026-07-05T15:04:17+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0096-FINAL_PROP_HOUSE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0096-final-prop-house"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0097 ZKLEND",
+    "title": "NM0097 FINAL ZKLEND",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0097-FINAL_ZKLEND.pdf",
+    "date": "2023-10-01",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0097-FINAL_ZKLEND.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0097-final-zklend_f2b6b6aa.pdf",
+    "sha256": "e6dd2626e51668c7e9979b3549076b147314f3da586cbe0a456acc5bba95591c",
+    "size_bytes": 222503,
+    "downloaded_at": "2026-07-05T15:04:18+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0097-FINAL_ZKLEND.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0097-final-zklend"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0135 STARKNET ID",
+    "title": "NM0135 FINAL STARKNET ID",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0135-FINAL_STARKNET_ID.pdf",
+    "date": "2023-10-04",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0135-FINAL_STARKNET_ID.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0135-final-starknet-id_8fa0199c.pdf",
+    "sha256": "c137c8a06180d8bb80adbceec65b613c8cc6aa963d6881fb74905f4927beda7e",
+    "size_bytes": 271793,
+    "downloaded_at": "2026-07-05T15:04:19+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0135-FINAL_STARKNET_ID.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0135-final-starknet-id"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0121 ATLENDIS",
+    "title": "NM0121 FINAL ATLENDIS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0121-FINAL_ATLENDIS.pdf",
+    "date": "2023-10-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0121-FINAL_ATLENDIS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0121-final-atlendis_3d148dcc.pdf",
+    "sha256": "ae76f0defa4bc0c5ac9eac0adefc2c1c48238381a4fc61b528ff434825b534b6",
+    "size_bytes": 302759,
+    "downloaded_at": "2026-07-05T15:04:19+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0121-FINAL_ATLENDIS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0121-final-atlendis"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0141 AVNU",
+    "title": "NM0141 FINAL AVNU",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0141-FINAL_AVNU.pdf",
+    "date": "2023-11-08",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0141-FINAL_AVNU.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0141-final-avnu_dd84a724.pdf",
+    "sha256": "2d5812fde5d17444bedf08611d5f7cf557876f26f7eb82d2000c321323580c6d",
+    "size_bytes": 253721,
+    "downloaded_at": "2026-07-05T15:04:20+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0141-FINAL_AVNU.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0141-final-avnu"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0147 PRAGMA",
+    "title": "NM0147 FINAL PRAGMA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0147-FINAL_PRAGMA.pdf",
+    "date": "2023-11-20",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0147-FINAL_PRAGMA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0147-final-pragma_249fa83c.pdf",
+    "sha256": "bcde788c8d963abede755ff39d22a8c7aca672135a8e005f54a360f1c6af0057",
+    "size_bytes": 404762,
+    "downloaded_at": "2026-07-05T15:04:21+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0147-FINAL_PRAGMA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0147-final-pragma"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0161 ZKLEND ZKTOKEN",
+    "title": "NM0161 FINAL ZKLEND ZKTOKEN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0161-FINAL_ZKLEND_ZKTOKEN.pdf",
+    "date": "2023-11-27",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0161-FINAL_ZKLEND_ZKTOKEN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0161-final-zklend-zktoken_4338fe12.pdf",
+    "sha256": "e96d49559988ab09f9d8194bfbb7781bd85b217b56ed8e68c90736db53bff761",
+    "size_bytes": 141357,
+    "downloaded_at": "2026-07-05T15:04:22+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0161-FINAL_ZKLEND_ZKTOKEN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0161-final-zklend-zktoken"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0160 WORLDCOIN ALLOWANCE MODULE",
+    "title": "NM0160 FINAL WORLDCOIN ALLOWANCE MODULE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0160-FINAL_WORLDCOIN_ALLOWANCE_MODULE.pdf",
+    "date": "2023-12-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0160-FINAL_WORLDCOIN_ALLOWANCE_MODULE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0160-final-worldcoin-allowance-module_fd0bc4ff.pdf",
+    "sha256": "8b16b8bb329d6c09372611b22ee95f1d4475a46670567a7550edc97f5bd343cc",
+    "size_bytes": 260086,
+    "downloaded_at": "2026-07-05T15:04:25+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0160-FINAL_WORLDCOIN_ALLOWANCE_MODULE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0160-final-worldcoin-allowance-module"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0120 ZKX",
+    "title": "NM0120 FINAL ZKX",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0120-FINAL_ZKX.pdf",
+    "date": "2023-12-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0120-FINAL_ZKX.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0120-final-zkx_cbd37982.pdf",
+    "sha256": "759171f511363d9050e59ace6bf8f31bb79699db55a3d134e9c074906fdfff18",
+    "size_bytes": 331694,
+    "downloaded_at": "2026-07-05T15:04:27+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0120-FINAL_ZKX.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0120-final-zkx"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0153 CARMINE",
+    "title": "NM0153 FINAL CARMINE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0153-FINAL_CARMINE.pdf",
+    "date": "2024-01-11",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0153-FINAL_CARMINE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0153-final-carmine_c79862ac.pdf",
+    "sha256": "c7f39d7c5442f2a8794156d73172068c79570fb27535302c5d17c828cdab76d4",
+    "size_bytes": 342691,
+    "downloaded_at": "2026-07-05T15:04:28+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0153-FINAL_CARMINE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0153-final-carmine"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0179 CLAYSTACK",
+    "title": "NM0179 FINAL CLAYSTACK",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0179-FINAL_CLAYSTACK.pdf",
+    "date": "2024-01-25",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0179-FINAL_CLAYSTACK.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0179-final-claystack_2b7b8058.pdf",
+    "sha256": "26d58a5165af777a0ccc2dbe4b79a23325a5b397f742962e31af7d5e58661862",
+    "size_bytes": 201282,
+    "downloaded_at": "2026-07-05T15:04:29+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0179-FINAL_CLAYSTACK.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0179-final-claystack"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0156 BLOCKFRAME",
+    "title": "NM0156 FINAL BLOCKFRAME",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0156-FINAL_BLOCKFRAME.pdf",
+    "date": "2024-02-07",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0156-FINAL_BLOCKFRAME.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0156-final-blockframe_3bd70e7c.pdf",
+    "sha256": "404566e62331cd62acf7df67f161765f2abb7ae289997b658af7f7664891097a",
+    "size_bytes": 321886,
+    "downloaded_at": "2026-07-05T15:04:30+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0156-FINAL_BLOCKFRAME.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0156-final-blockframe"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0159 DOJO",
+    "title": "NM0159 FINAL DOJO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0159-FINAL_DOJO.pdf",
+    "date": "2024-02-13",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0159-FINAL_DOJO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0159-final-dojo_ec312564.pdf",
+    "sha256": "8f9a3b49b30849ca8a9d22eb3527cddbef335b8459c5195c2e02e2264f30d99b",
+    "size_bytes": 368294,
+    "downloaded_at": "2026-07-05T15:04:31+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0159-FINAL_DOJO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0159-final-dojo"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0163 TOKENTABLE",
+    "title": "NM0163 FINAL TOKENTABLE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0163-FINAL_TOKENTABLE.pdf",
+    "date": "2024-02-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0163-FINAL_TOKENTABLE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0163-final-tokentable_dcc31707.pdf",
+    "sha256": "f2741a3d142f1d66b8299701da19e43437dffb8525412d019b1e781dcd9ed343",
+    "size_bytes": 279497,
+    "downloaded_at": "2026-07-05T15:04:32+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0163-FINAL_TOKENTABLE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0163-final-tokentable"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0162 MANGROVE",
+    "title": "NM0162 FINAL MANGROVE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0162-FINAL_MANGROVE.pdf",
+    "date": "2024-02-21",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0162-FINAL_MANGROVE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0162-final-mangrove_982e35a5.pdf",
+    "sha256": "1cfd831e635f98b9504c14569189204efaccab9fa3e428f82a0aec96bb7a8cfe",
+    "size_bytes": 484627,
+    "downloaded_at": "2026-07-05T15:04:33+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0162-FINAL_MANGROVE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0162-final-mangrove"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0194 STARKNET TOKEN DISTRIBUTOR",
+    "title": "NM0194 FINAL STARKNET TOKEN DISTRIBUTOR",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0194-FINAL_STARKNET_TOKEN_DISTRIBUTOR.pdf",
+    "date": "2024-02-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0194-FINAL_STARKNET_TOKEN_DISTRIBUTOR.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0194-final-starknet-token-distributor_4aa6a301.pdf",
+    "sha256": "a326c564eaf481092939f66175693f0fd43c1e399bd8acdb199d512f8d609d46",
+    "size_bytes": 214596,
+    "downloaded_at": "2026-07-05T15:04:33+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0194-FINAL_STARKNET_TOKEN_DISTRIBUTOR.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0194-final-starknet-token-distributor"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0225 SUMMON",
+    "title": "NM0225 FINAL SUMMON",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0225-FINAL_SUMMON.pdf",
+    "date": "2024-04-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0225-FINAL_SUMMON.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0225-final-summon_cc2a349a.pdf",
+    "sha256": "d2f7e102624c4d449278a61391280ab5688bb8674aef2ecac318323b9b971ed8",
+    "size_bytes": 228568,
+    "downloaded_at": "2026-07-05T15:04:34+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0225-FINAL_SUMMON.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0225-final-summon"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0202 PUFFER",
+    "title": "NM0202 FINAL PUFFER",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0202-FINAL_PUFFER.pdf",
+    "date": "2024-04-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0202-FINAL_PUFFER.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0202-final-puffer_8ef7cfdc.pdf",
+    "sha256": "79cbaee6712d778105a4ac5493797ec26afc7868c65f85bf851d167abbb0a0e8",
+    "size_bytes": 350330,
+    "downloaded_at": "2026-07-05T15:04:35+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0202-FINAL_PUFFER.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0202-final-puffer"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0227 RANGE",
+    "title": "NM0227 RANGE FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0227_RANGE_FINAL.pdf",
+    "date": "2024-05-09",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0227_RANGE_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0227-range-final_16911a48.pdf",
+    "sha256": "f218a8e034396f4905c3b30058ab91e48f1504f31938b5ef0587a095dcaa7830",
+    "size_bytes": 282327,
+    "downloaded_at": "2026-07-05T15:04:36+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0227_RANGE_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0227-range-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0180 JEDISWAP",
+    "title": "NM0180 FINAL JEDISWAP",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0180-FINAL_JEDISWAP.pdf",
+    "date": "2024-05-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0180-FINAL_JEDISWAP.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0180-final-jediswap_4d84b239.pdf",
+    "sha256": "4dc77b5b4fb9a419067ad423d50b7232b4ddb2f8bd1ec5132074d06953b1338e",
+    "size_bytes": 254521,
+    "downloaded_at": "2026-07-05T15:04:37+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0180-FINAL_JEDISWAP.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0180-final-jediswap"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0234 ETHEREUM FOUNDATION HOLESKY FUNDS VAULT",
+    "title": "NM0234 FINAL ETHEREUM FOUNDATION HOLESKY FUNDS VAULT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0234-FINAL_ETHEREUM_FOUNDATION_HOLESKY_FUNDS_VAULT.pdf",
+    "date": "2024-06-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0234-FINAL_ETHEREUM_FOUNDATION_HOLESKY_FUNDS_VAULT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0234-final-ethereum-foundation-holesky-funds-vault_d9ef6521.pdf",
+    "sha256": "7ec354e80967eb855666340e50eea6b050912207a24db75ffb173d5d0d4cc0f8",
+    "size_bytes": 239077,
+    "downloaded_at": "2026-07-05T15:04:37+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0234-FINAL_ETHEREUM_FOUNDATION_HOLESKY_FUNDS_VAULT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0234-final-ethereum-foundation-holesky-funds-vault"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0258 SWAY",
+    "title": "NM0258 FINAL SWAY",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0258-FINAL_SWAY.pdf",
+    "date": "2024-06-24",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0258-FINAL_SWAY.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0258-final-sway_4aa85806.pdf",
+    "sha256": "a3642a3b530d28a6434fefcc5c5864fac384b1b50c25cf6899511b2b851e1866",
+    "size_bytes": 232707,
+    "downloaded_at": "2026-07-05T15:04:38+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0258-FINAL_SWAY.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0258-final-sway"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0245 POCKET NETWORK",
+    "title": "NM0245 FINAL POCKET NETWORK",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0245-FINAL_POCKET_NETWORK.pdf",
+    "date": "2024-06-25",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0245-FINAL_POCKET_NETWORK.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0245-final-pocket-network_f518c1c3.pdf",
+    "sha256": "f99fbb62f3589da00d74e06ffb42c84b9c41c965dd0fd1c610684b002e52463b",
+    "size_bytes": 275574,
+    "downloaded_at": "2026-07-05T15:04:39+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0245-FINAL_POCKET_NETWORK.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0245-final-pocket-network"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0236 MUNCHABLES",
+    "title": "NM0236 FINAL MUNCHABLES",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0236-FINAL_MUNCHABLES.pdf",
+    "date": "2024-06-27",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0236-FINAL_MUNCHABLES.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0236-final-munchables_66db16ba.pdf",
+    "sha256": "ee192ced1d47aca42a062f1e1e25373061e9425bbf7c2c3460f3a07e71d4c58c",
+    "size_bytes": 470484,
+    "downloaded_at": "2026-07-05T15:04:40+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0236-FINAL_MUNCHABLES.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0236-final-munchables"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0257 CHI PROTOCOL",
+    "title": "NM0257 FINAL CHI PROTOCOL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0257-FINAL_CHI_PROTOCOL.pdf",
+    "date": "2024-07-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0257-FINAL_CHI_PROTOCOL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0257-final-chi-protocol_e8ca6904.pdf",
+    "sha256": "2ed4ae03fe3558f2d423ca7b880ec6edaf3149e2be5437a48b8b3fd25024657e",
+    "size_bytes": 303324,
+    "downloaded_at": "2026-07-05T15:04:41+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0257-FINAL_CHI_PROTOCOL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0257-final-chi-protocol"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0237 LAYERAKIRA",
+    "title": "NM0237 FINAL LAYERAKIRA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0237-FINAL_LAYERAKIRA.pdf",
+    "date": "2024-08-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0237-FINAL_LAYERAKIRA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0237-final-layerakira_d0384d91.pdf",
+    "sha256": "878c8e1a6d7dca8ec1641184a0fd05e43b1733ffa2d97ba394f6e3ab7faaf2c2",
+    "size_bytes": 321654,
+    "downloaded_at": "2026-07-05T15:04:41+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0237-FINAL_LAYERAKIRA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0237-final-layerakira"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0286 NODLE",
+    "title": "NM0286 FINAL NODLE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0286-FINAL_NODLE.pdf",
+    "date": "2024-10-11",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0286-FINAL_NODLE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0286-final-nodle_02879828.pdf",
+    "sha256": "96fc63ead33af82e87f29c2c0152bd439b1a5a8427caa26a3f4c85302edbcf44",
+    "size_bytes": 456058,
+    "downloaded_at": "2026-07-05T15:04:42+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0286-FINAL_NODLE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0286-final-nodle"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0259 STARKNET NOVA",
+    "title": "NM0259 FINAL STARKNET NOVA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0259-FINAL_STARKNET_NOVA.pdf",
+    "date": "2024-10-21",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0259-FINAL_STARKNET_NOVA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0259-final-starknet-nova_cb734fa4.pdf",
+    "sha256": "c362db591c958e5553486d613e964012588ea15c62847370098c84136e438844",
+    "size_bytes": 227154,
+    "downloaded_at": "2026-07-05T15:04:43+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0259-FINAL_STARKNET_NOVA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0259-final-starknet-nova"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0338 SUMMON STAKER",
+    "title": "NM0338 FINAL SUMMON STAKER",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0338-FINAL_SUMMON_STAKER.pdf",
+    "date": "2024-10-30",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0338-FINAL_SUMMON_STAKER.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0338-final-summon-staker_39c7574e.pdf",
+    "sha256": "65b688a4c5bdb5e38b6980cb99bb9944b2cfd0e21d74e133303cc0d10359c42a",
+    "size_bytes": 253829,
+    "downloaded_at": "2026-07-05T15:04:44+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0338-FINAL_SUMMON_STAKER.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0338-final-summon-staker"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0339 MANGROVE VAULT",
+    "title": "NM0339 FINAL MANGROVE VAULT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0339-FINAL_MANGROVE_VAULT.pdf",
+    "date": "2024-10-30",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0339-FINAL_MANGROVE_VAULT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0339-final-mangrove-vault_ade9891b.pdf",
+    "sha256": "2675434a28886a2ed65d870e83c097db3d53ed22a16a7a57eafee3bfab252e54",
+    "size_bytes": 258694,
+    "downloaded_at": "2026-07-05T15:04:44+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0339-FINAL_MANGROVE_VAULT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0339-final-mangrove-vault"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0382 WORLDCOIN GRANTS4",
+    "title": "NM0382 FINAL WORLDCOIN GRANTS4",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0382-FINAL_WORLDCOIN_GRANTS4.pdf",
+    "date": "2024-11-14",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0382-FINAL_WORLDCOIN_GRANTS4.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0382-final-worldcoin-grants4_4863f126.pdf",
+    "sha256": "64be86e47279f80429f7dc633f94ce9e0cc0366caa11e422c342aca560714421",
+    "size_bytes": 187563,
+    "downloaded_at": "2026-07-05T15:04:45+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0382-FINAL_WORLDCOIN_GRANTS4.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0382-final-worldcoin-grants4"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0365 PWDN ONLY TOKENS",
+    "title": "NM0365 FINAL PWDN ONLY TOKENS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0365-FINAL_PWDN_ONLY_TOKENS.pdf",
+    "date": "2024-11-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0365-FINAL_PWDN_ONLY_TOKENS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0365-final-pwdn-only-tokens_805e9fe9.pdf",
+    "sha256": "279e03f1f730e55b6b6578edcc7822a30b3ce491d417467e71ed8ea912b62903",
+    "size_bytes": 306908,
+    "downloaded_at": "2026-07-05T15:04:46+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0365-FINAL_PWDN_ONLY_TOKENS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0365-final-pwdn-only-tokens"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0299 LIDO",
+    "title": "NM0299 FINAL LIDO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0299-FINAL_LIDO.pdf",
+    "date": "2024-11-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0299-FINAL_LIDO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0299-final-lido_5b1b4666.pdf",
+    "sha256": "93b5446d07be826f13e8fc47f923813ddd61a05ad8b0edf204bb3c224f42acd0",
+    "size_bytes": 161402,
+    "downloaded_at": "2026-07-05T15:04:47+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0299-FINAL_LIDO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0299-final-lido"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0333 SPIKO",
+    "title": "NM0333 FINAL SPIKO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0333-FINAL_SPIKO.pdf",
+    "date": "2024-12-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0333-FINAL_SPIKO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0333-final-spiko_2625eab0.pdf",
+    "sha256": "6065485ad1ede5bbe4494b15bf84cb9aa2f5917931080c509d0576b22dadef7a",
+    "size_bytes": 215404,
+    "downloaded_at": "2026-07-05T15:04:47+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0333-FINAL_SPIKO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0333-final-spiko"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0392 ZKLEND STRK LIQUID STAKING",
+    "title": "NM0392 FINAL ZKLEND STRK LIQUID STAKING",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0392_FINAL_ZKLEND_STRK_LIQUID_STAKING.pdf",
+    "date": "2024-12-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0392_FINAL_ZKLEND_STRK_LIQUID_STAKING.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0392-final-zklend-strk-liquid-staking_dd2d7286.pdf",
+    "sha256": "75396ff2d832e013d220833c922c576a475ad55878fe2034b15ec986dbd1122a",
+    "size_bytes": 142442,
+    "downloaded_at": "2026-07-05T15:04:48+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0392_FINAL_ZKLEND_STRK_LIQUID_STAKING.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0392-final-zklend-strk-liquid-staking"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0366 CCDM",
+    "title": "NM0366 FINAL CCDM",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0366-FINAL_CCDM.pdf",
+    "date": "2024-12-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0366-FINAL_CCDM.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0366-final-ccdm_4e1268c9.pdf",
+    "sha256": "11fb363f7c0cfc78e6a4483510dcd62ab9cc01230cfc8872ee834c7f5627513b",
+    "size_bytes": 516520,
+    "downloaded_at": "2026-07-05T15:04:49+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0366-FINAL_CCDM.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0366-final-ccdm"
+  },
+  {
+    "source": "nethermind",
+    "project": "WORLD RUST TO",
+    "title": "WORLD RUST 2025 TO 2026",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/WORLD_RUST_2025_TO_2026.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/WORLD_RUST_2025_TO_2026.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/world-rust-2025-to-2026_7b217f1b.pdf",
+    "sha256": "338515c21be33c499e02da14ad34f338b085b214431c2608f3f5cffc1638804b",
+    "size_bytes": 3402441,
+    "downloaded_at": "2026-07-05T15:04:50+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "WORLD_RUST_2025_TO_2026.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/world-rust-2025-to-2026"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0393 DOP LABS",
+    "title": "NM0393 FINAL DOP LABS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0393-FINAL_DOP_LABS.pdf",
+    "date": "2025-01-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0393-FINAL_DOP_LABS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0393-final-dop-labs_0419a437.pdf",
+    "sha256": "bb2b417dc7d046e8b22cc4548967c5a2bafea545c9df8248aef6ceb814ecb8e9",
+    "size_bytes": 483059,
+    "downloaded_at": "2026-07-05T15:04:51+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0393-FINAL_DOP_LABS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0393-final-dop-labs"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0383 VANA",
+    "title": "NM0383 FINAL VANA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0383-FINAL_VANA.pdf",
+    "date": "2025-01-21",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0383-FINAL_VANA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0383-final-vana_2d4cdcf1.pdf",
+    "sha256": "e1e27564520f6fb1873a4ec8f40b5cd064ba042e9dbde0b07b12fc77b5e7eea1",
+    "size_bytes": 2040135,
+    "downloaded_at": "2026-07-05T15:04:52+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0383-FINAL_VANA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0383-final-vana"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0418 CCDM",
+    "title": "NM0418 FINAL CCDM",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0418-FINAL_CCDM.pdf",
+    "date": "2025-01-21",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0418-FINAL_CCDM.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0418-final-ccdm_69772cec.pdf",
+    "sha256": "f10d7155fd791486840c44fe62473a2ad9476b105f5da9400181f453d9618edc",
+    "size_bytes": 220477,
+    "downloaded_at": "2026-07-05T15:04:53+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0418-FINAL_CCDM.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0418-final-ccdm"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0304 LAGOON",
+    "title": "NM0304 FINAL LAGOON",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0304-FINAL_LAGOON.pdf",
+    "date": "2025-01-24",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0304-FINAL_LAGOON.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0304-final-lagoon_6edb66e3.pdf",
+    "sha256": "da52846d415fef3ef9336fb5203c4292c13c28651010b1b0322455383212b3dc",
+    "size_bytes": 292839,
+    "downloaded_at": "2026-07-05T15:04:54+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0304-FINAL_LAGOON.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0304-final-lagoon"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0326 CANARY",
+    "title": "NM0326 FINAL CANARY",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0326-FINAL_CANARY.pdf",
+    "date": "2025-02-10",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0326-FINAL_CANARY.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0326-final-canary_78ce8d3d.pdf",
+    "sha256": "b46885b93ac7c5cb70e29e8621b4ddb73c4464ab78cf0bf8b19db271fc437fd4",
+    "size_bytes": 204628,
+    "downloaded_at": "2026-07-05T15:04:54+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0326-FINAL_CANARY.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0326-final-canary"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0412 SUMMON",
+    "title": "NM0412 FINAL SUMMON",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0412-FINAL_SUMMON.pdf",
+    "date": "2025-02-10",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0412-FINAL_SUMMON.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0412-final-summon_11403324.pdf",
+    "sha256": "d9c0cdb1c3e21bf0993ddd24f8b752101421b3b976799dc74b60896c2a3810e0",
+    "size_bytes": 175138,
+    "downloaded_at": "2026-07-05T15:04:55+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0412-FINAL_SUMMON.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0412-final-summon"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0337 STAKE STARK",
+    "title": "NM0337 FINAL STAKE STARK",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0337-FINAL_STAKE_STARK.pdf",
+    "date": "2025-02-13",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0337-FINAL_STAKE_STARK.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0337-final-stake-stark_53b780fe.pdf",
+    "sha256": "aa6ee9e8563a2941084701bd549dbf27495b6ac0f2b1a77130683836eea0cd55",
+    "size_bytes": 696563,
+    "downloaded_at": "2026-07-05T15:04:56+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0337-FINAL_STAKE_STARK.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0337-final-stake-stark"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0377 VERIO IP",
+    "title": "NM0377 FINAL VERIO IP",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0377-FINAL_VERIO_IP.pdf",
+    "date": "2025-02-13",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0377-FINAL_VERIO_IP.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0377-final-verio-ip_1151f8f5.pdf",
+    "sha256": "b7db78c0153bff9dbacd2866bd6bc619bf96fc5b231dbda299934ec296fb1bef",
+    "size_bytes": 280244,
+    "downloaded_at": "2026-07-05T15:04:57+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0377-FINAL_VERIO_IP.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0377-final-verio-ip"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0452 KING CROSS CHAIN",
+    "title": "NM0452 FINAL KING CROSS CHAIN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0452-FINAL_KING_CROSS_CHAIN.pdf",
+    "date": "2025-02-14",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0452-FINAL_KING_CROSS_CHAIN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0452-final-king-cross-chain_d534d22a.pdf",
+    "sha256": "bb3dbaf0acf80eb43fa4178b16c62f2b7a2895115133ef5e38e2f1f40d449e1b",
+    "size_bytes": 165097,
+    "downloaded_at": "2026-07-05T15:04:57+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0452-FINAL_KING_CROSS_CHAIN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0452-final-king-cross-chain"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0377 VERIO IPA",
+    "title": "NM0377 FINAL VERIO IPA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0377-FINAL_VERIO_IPA.pdf",
+    "date": "2025-02-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0377-FINAL_VERIO_IPA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0377-final-verio-ipa_1f4584cc.pdf",
+    "sha256": "c47af050e805fb46b8a8536be8e03eda406876b2b58f12d7fd6f0464f471ef75",
+    "size_bytes": 278353,
+    "downloaded_at": "2026-07-05T15:04:58+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0377-FINAL_VERIO_IPA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0377-final-verio-ipa"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0438 OVERLAY",
+    "title": "NM0438 FINAL OVERLAY",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0438-FINAL_OVERLAY.pdf",
+    "date": "2025-02-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0438-FINAL_OVERLAY.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0438-final-overlay_8535dbc4.pdf",
+    "sha256": "bcce43381b34310fa2e361918cb0ffa870b5be808a6d5d8111a02b14f55df180",
+    "size_bytes": 349341,
+    "downloaded_at": "2026-07-05T15:04:59+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0438-FINAL_OVERLAY.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0438-final-overlay"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0462 ZKLEND RECOVERY",
+    "title": "NM0462 FINAL ZKLEND RECOVERY",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0462-FINAL_ZKLEND_RECOVERY.pdf",
+    "date": "2025-03-04",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0462-FINAL_ZKLEND_RECOVERY.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0462-final-zklend-recovery_1964353c.pdf",
+    "sha256": "9ffec21e976bff6d9264175859bcfd0f1206bf51241fde5071ec4f7d1559e774",
+    "size_bytes": 229998,
+    "downloaded_at": "2026-07-05T15:04:59+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0462-FINAL_ZKLEND_RECOVERY.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0462-final-zklend-recovery"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0131 WORLDCOIN SINGLE",
+    "title": "NM 0131 WORLDCOIN SINGLE FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0131_WORLDCOIN_SINGLE_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0131_WORLDCOIN_SINGLE_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0131-worldcoin-single-final_ecc53334.pdf",
+    "sha256": "29e00cd86d7b0df00931a71c22b14fccd7088af8d203c743346e3fd1bba37624",
+    "size_bytes": 240413,
+    "downloaded_at": "2026-07-05T15:05:00+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0131_WORLDCOIN_SINGLE_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0131-worldcoin-single-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0144 WORLDCOIN",
+    "title": "NM 0144 WORLDCOIN FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0144_WORLDCOIN_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0144_WORLDCOIN_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0144-worldcoin-final_81ef6e2e.pdf",
+    "sha256": "c2eaf0a12ef7c7b263bb0b03d82e47d536b322ec3ec066cea5e66bbf3dd5bfb5",
+    "size_bytes": 246817,
+    "downloaded_at": "2026-07-05T15:05:01+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0144_WORLDCOIN_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0144-worldcoin-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0148 WORLDCOIN REDEEM RESERVED GRANTS",
+    "title": "NM 0148 WORLDCOIN REDEEM RESERVED GRANTS FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0148_WORLDCOIN_REDEEM_RESERVED_GRANTS_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0148_WORLDCOIN_REDEEM_RESERVED_GRANTS_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0148-worldcoin-redeem-reserved-grants-final_91e8ea14.pdf",
+    "sha256": "e6044ea50f386c6c0f0160a146295a9fb4f0b8f65c8958b7448652fae3e99537",
+    "size_bytes": 370971,
+    "downloaded_at": "2026-07-05T15:05:01+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0148_WORLDCOIN_REDEEM_RESERVED_GRANTS_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0148-worldcoin-redeem-reserved-grants-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0160 WORLDCOIN ALLOWANCE MODULE",
+    "title": "NM 0160 WORLDCOIN ALLOWANCE MODULE FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0160_WORLDCOIN_ALLOWANCE_MODULE_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0160_WORLDCOIN_ALLOWANCE_MODULE_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0160-worldcoin-allowance-module-final_16d91ff5.pdf",
+    "sha256": "47bed2b7335dfd20f37f041418b2b7804384b7450508bf030ba7ddf84f6e7e13",
+    "size_bytes": 260086,
+    "downloaded_at": "2026-07-05T15:05:02+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0160_WORLDCOIN_ALLOWANCE_MODULE_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0160-worldcoin-allowance-module-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0226 WORLD",
+    "title": "NM 0226 WORLD FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0226_WORLD_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0226_WORLD_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0226-world-final_d0e3e520.pdf",
+    "sha256": "61ee5b910be3c79c4d9d2cd70e6e47f66391ca626cb177cbff655a3e67b643fa",
+    "size_bytes": 240289,
+    "downloaded_at": "2026-07-05T15:05:03+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0226_WORLD_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0226-world-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0240 WORLD MINIKITTRANSFER",
+    "title": "NM 0240 WORLD MINIKITTRANSFER FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0240_WORLD-MINIKITTRANSFER_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0240_WORLD-MINIKITTRANSFER_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0240-world-minikittransfer-final_40c0d871.pdf",
+    "sha256": "6aa0519a7e182350a14f308f6535fc9f644d9c9951d0f831f9caa74d6c0244d1",
+    "size_bytes": 170870,
+    "downloaded_at": "2026-07-05T15:05:04+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0240_WORLD-MINIKITTRANSFER_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0240-world-minikittransfer-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0268 WORLD",
+    "title": "NM 0268 WORLD FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0268_WORLD_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0268_WORLD_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0268-world-final_f03906a3.pdf",
+    "sha256": "2eb1d01d0aad60a3dc7afbc1e6b7ca6e1320a1cedf8ac336fa2795bd8754cd97",
+    "size_bytes": 247578,
+    "downloaded_at": "2026-07-05T15:05:05+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0268_WORLD_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0268-world-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0290 WORLD",
+    "title": "NM 0290 WORLD FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0290_WORLD_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0290_WORLD_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0290-world-final_3f2094e5.pdf",
+    "sha256": "2eeb4167053e8f11cbaea0ea46922a91849a61704e28a35f6fbf336a74b4550e",
+    "size_bytes": 223768,
+    "downloaded_at": "2026-07-05T15:05:05+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0290_WORLD_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0290-world-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0302 WORLD",
+    "title": "NM 0302 WORLD FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0302_WORLD_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0302_WORLD_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0302-world-final_cb89d72d.pdf",
+    "sha256": "8077f04503aa691bcf68a44895e63e5473877d83caa2398c2048dd6de91d2034",
+    "size_bytes": 184503,
+    "downloaded_at": "2026-07-05T15:05:06+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0302_WORLD_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0302-world-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0372 BEBOP",
+    "title": "NM 0372 BEBOP FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0372-BEBOP_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0372-BEBOP_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0372-bebop-final_4f0bd2be.pdf",
+    "sha256": "9beef7c8f9a0990d1a1cdac6a726744295623007c9f5b73f4f1535364be72e25",
+    "size_bytes": 243890,
+    "downloaded_at": "2026-07-05T15:05:07+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0372-BEBOP_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0372-bebop-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0382 WORLD NFCID",
+    "title": "NM 0382 WORLD NFCID",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0382_WORLD_NFCID.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0382_WORLD_NFCID.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0382-world-nfcid_3216970c.pdf",
+    "sha256": "117df1c188e028a0ced1cf1a2ba9911f2e88dce81f4fd54f936c96cc6b7ecb8d",
+    "size_bytes": 216640,
+    "downloaded_at": "2026-07-05T15:05:08+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0382_WORLD_NFCID.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0382-world-nfcid"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0411 0446 WORLD IDENTITY MANAGER",
+    "title": "NM 0411 0446 WORLD IDENTITY MANAGER FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0411_0446_WORLD-IDENTITY-MANAGER_FINAL.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0411_0446_WORLD-IDENTITY-MANAGER_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0411-0446-world-identity-manager-final_434058a7.pdf",
+    "sha256": "cdaca955a3082a58f3380b3ee707240c16d8f1520a9c2978442805da20dfdac9",
+    "size_bytes": 377932,
+    "downloaded_at": "2026-07-05T15:05:08+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0411_0446_WORLD-IDENTITY-MANAGER_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0411-0446-world-identity-manager-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0449 REALIO",
+    "title": "NM0449 REALIO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0449-REALIO.pdf",
+    "date": "2025-03-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0449-REALIO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0449-realio_1415c322.pdf",
+    "sha256": "3b2594c38cb97e13e2266f972148813f6303942ad713619c3965e1028f451e4c",
+    "size_bytes": 711378,
+    "downloaded_at": "2026-07-05T15:05:09+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0449-REALIO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0449-realio"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0397 WILDERWORLD",
+    "title": "NM0397 FINAL WILDERWORLD",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0397-FINAL_WILDERWORLD.pdf",
+    "date": "2025-04-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0397-FINAL_WILDERWORLD.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0397-final-wilderworld_0b8eac1d.pdf",
+    "sha256": "bada29bc59432b6eb8bbd25708ced429c2a3bce52bdb566e56132826fe46b53b",
+    "size_bytes": 347860,
+    "downloaded_at": "2026-07-05T15:05:10+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0397-FINAL_WILDERWORLD.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0397-final-wilderworld"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0434 METAPOOL",
+    "title": "NM0434 FINAL METAPOOL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0434-FINAL_METAPOOL.pdf",
+    "date": "2025-04-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0434-FINAL_METAPOOL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0434-final-metapool_ff1baf66.pdf",
+    "sha256": "f13be57c65690faa16268e01ca69a0a7602cc4f09c16f49a293ea9fd6ef8e9a9",
+    "size_bytes": 279699,
+    "downloaded_at": "2026-07-05T15:05:10+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0434-FINAL_METAPOOL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0434-final-metapool"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0443 ROYCO VAULTS",
+    "title": "NM0443 FINAL ROYCO VAULTS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0443-FINAL_ROYCO_VAULTS.pdf",
+    "date": "2025-04-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0443-FINAL_ROYCO_VAULTS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0443-final-royco-vaults_7efafe8c.pdf",
+    "sha256": "fe966dc98cc6c853f6d64e98ada64a8334356e835bbc2cd08a814fb639fe5138",
+    "size_bytes": 309393,
+    "downloaded_at": "2026-07-05T15:05:11+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0443-FINAL_ROYCO_VAULTS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0443-final-royco-vaults"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0449 REALIO",
+    "title": "NM0449 FINAL REALIO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0449-FINAL_REALIO.pdf",
+    "date": "2025-04-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0449-FINAL_REALIO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0449-final-realio_38582c3a.pdf",
+    "sha256": "3b2594c38cb97e13e2266f972148813f6303942ad713619c3965e1028f451e4c",
+    "size_bytes": 711378,
+    "downloaded_at": "2026-07-05T15:05:12+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0449-FINAL_REALIO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0449-final-realio"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0453 PIMLICO",
+    "title": "NM0453 FINAL PIMLICO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0453-FINAL_PIMLICO.pdf",
+    "date": "2025-04-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0453-FINAL_PIMLICO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0453-final-pimlico_bdd73c8f.pdf",
+    "sha256": "5aab078b431672deb45912ea3a50e9f479c9f4b7aaec1035b7357d0767f3db4f",
+    "size_bytes": 227355,
+    "downloaded_at": "2026-07-05T15:05:13+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0453-FINAL_PIMLICO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0453-final-pimlico"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0442 TOKEN FLEET",
+    "title": "NM0442 FINAL TOKEN FLEET",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0442-FINAL_TOKEN_FLEET.pdf",
+    "date": "2025-04-09",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0442-FINAL_TOKEN_FLEET.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0442-final-token-fleet_c301ed57.pdf",
+    "sha256": "4b41a60d339d73338cb0f37ba14c9427488ede0864508a248c9fa69a31fa9ade",
+    "size_bytes": 369857,
+    "downloaded_at": "2026-07-05T15:05:13+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0442-FINAL_TOKEN_FLEET.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0442-final-token-fleet"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0447 TokenTable",
+    "title": "NM0447 FINAL TokenTable",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0447-FINAL_TokenTable.pdf",
+    "date": "2025-04-09",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0447-FINAL_TokenTable.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0447-final-tokentable_7a120d75.pdf",
+    "sha256": "0f07f57683d3c7389c9f33934cd9201af2cf6404218c9619d0012060dae0f48a",
+    "size_bytes": 267228,
+    "downloaded_at": "2026-07-05T15:05:14+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0447-FINAL_TokenTable.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0447-final-tokentable"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0535 WORLDCOIN OPERATOR PAYOUTS",
+    "title": "NM0535 WORLDCOIN OPERATOR PAYOUTS FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0535-WORLDCOIN-OPERATOR-PAYOUTS_FINAL.pdf",
+    "date": "2025-05-14",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0535-WORLDCOIN-OPERATOR-PAYOUTS_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0535-worldcoin-operator-payouts-final_cc564f25.pdf",
+    "sha256": "fa5e1a9acd1a6900ad743180e93064a7b8e7023e60513c847166a530d87e4a93",
+    "size_bytes": 304599,
+    "downloaded_at": "2026-07-05T15:05:15+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0535-WORLDCOIN-OPERATOR-PAYOUTS_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0535-worldcoin-operator-payouts-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0078 WORLD",
+    "title": "NM0078 WORLD FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0078_WORLD_FINAL.pdf",
+    "date": "2025-05-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0078_WORLD_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0078-world-final_63bd9e76.pdf",
+    "sha256": "6378a551cc88a11ce875449ccc3461ba12877b745b08bbfe26a3185f6f42fd01",
+    "size_bytes": 514748,
+    "downloaded_at": "2026-07-05T15:05:16+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0078_WORLD_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0078-world-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0108 WORLD ERC20 TOKEN",
+    "title": "NM0108 WORLD ERC20 TOKEN FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0108_WORLD_ERC20_TOKEN_FINAL.pdf",
+    "date": "2025-05-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0108_WORLD_ERC20_TOKEN_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0108-world-erc20-token-final_f2d971b8.pdf",
+    "sha256": "310fad350e7c46e8d06c7f740162a534aee48d0917d1cf673b607d9e0b476c4c",
+    "size_bytes": 240916,
+    "downloaded_at": "2026-07-05T15:05:17+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0108_WORLD_ERC20_TOKEN_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0108-world-erc20-token-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0122 WORLD",
+    "title": "NM0122 WORLD FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0122_WORLD-FINAL.pdf",
+    "date": "2025-05-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0122_WORLD-FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0122-world-final_bbf2d757.pdf",
+    "sha256": "862f80459376b646c4eacfc113ec60c024ecc14f4b7b95a6e86cba1c76d94927",
+    "size_bytes": 760695,
+    "downloaded_at": "2026-07-05T15:05:17+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0122_WORLD-FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0122-world-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0126 WORLD CONSOLIDATED",
+    "title": "NM0126 WORLD CONSOLIDATED FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0126_WORLD_CONSOLIDATED_FINAL.pdf",
+    "date": "2025-05-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0126_WORLD_CONSOLIDATED_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0126-world-consolidated-final_c9c239cd.pdf",
+    "sha256": "78ea14d75c2ef03d21f211e958425feb54e1133157e94a5cf4f300627b7ed53a",
+    "size_bytes": 828189,
+    "downloaded_at": "2026-07-05T15:05:18+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0126_WORLD_CONSOLIDATED_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0126-world-consolidated-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0328 WORLD WLD VAULT",
+    "title": "NM0328 FINAL WORLD WLD VAULT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0328_FINAL-WORLD-WLD-VAULT.pdf",
+    "date": "2025-05-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0328_FINAL-WORLD-WLD-VAULT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0328-final-world-wld-vault_b9db1c2c.pdf",
+    "sha256": "49f58e7e820d215e82f93e7a6d6c52722e8b39af7c70653bc5ea76858cbcf218",
+    "size_bytes": 262936,
+    "downloaded_at": "2026-07-05T15:05:19+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0328_FINAL-WORLD-WLD-VAULT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0328-final-world-wld-vault"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0451 0486 VANA",
+    "title": "NM0451 0486 FINAL VANA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-0486-FINAL_VANA.pdf",
+    "date": "2025-05-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-0486-FINAL_VANA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0451-0486-final-vana_26506316.pdf",
+    "sha256": "bb689e44569457a9fdf86c045ccc1a69998a9ebd5926df5424aa40b35bf6a0eb",
+    "size_bytes": 379945,
+    "downloaded_at": "2026-07-05T15:05:20+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0451-0486-FINAL_VANA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0451-0486-final-vana"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0411 0535 WORLD OPERATOR",
+    "title": "NM0411 0535 FINAL WORLD OPERATOR",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0411-0535_FINAL-WORLD-OPERATOR.pdf",
+    "date": "2025-05-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0411-0535_FINAL-WORLD-OPERATOR.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0411-0535-final-world-operator_6d28edca.pdf",
+    "sha256": "fa5e1a9acd1a6900ad743180e93064a7b8e7023e60513c847166a530d87e4a93",
+    "size_bytes": 304599,
+    "downloaded_at": "2026-07-05T15:05:20+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0411-0535_FINAL-WORLD-OPERATOR.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0411-0535-final-world-operator"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0445 RENZO",
+    "title": "NM0445 FINAL RENZO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0445-FINAL_RENZO.pdf",
+    "date": "2025-05-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0445-FINAL_RENZO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0445-final-renzo_500054d2.pdf",
+    "sha256": "f9949480dcc8c05a961672b069c6dc6b7e4cf05cacbae5dcae4b03ea5e545dae",
+    "size_bytes": 326130,
+    "downloaded_at": "2026-07-05T15:05:21+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0445-FINAL_RENZO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0445-final-renzo"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0451 0469 VEVANA",
+    "title": "NM0451 0469 FINAL VEVANA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-0469-FINAL_VEVANA.pdf",
+    "date": "2025-05-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-0469-FINAL_VEVANA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0451-0469-final-vevana_74d053ac.pdf",
+    "sha256": "b2595c80f60eb9311773c7580ae9f0a3e03e987abd7fcc429317fbabe92487ae",
+    "size_bytes": 277553,
+    "downloaded_at": "2026-07-05T15:05:22+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0451-0469-FINAL_VEVANA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0451-0469-final-vevana"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0451 0503 VANA DATA ACCESS",
+    "title": "NM0451 0503 FINAL VANA DATA ACCESS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-0503-FINAL_VANA_DATA_ACCESS.pdf",
+    "date": "2025-05-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-0503-FINAL_VANA_DATA_ACCESS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0451-0503-final-vana-data-access_6f24e726.pdf",
+    "sha256": "9e80396732fea67882a7798a0f1e44552ae00da01a36b448e23008a01133067f",
+    "size_bytes": 1515250,
+    "downloaded_at": "2026-07-05T15:05:23+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0451-0503-FINAL_VANA_DATA_ACCESS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0451-0503-final-vana-data-access"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0451 VANA DLPROOT RESTRUCTURE",
+    "title": "NM0451 FINAL VANA DLPROOT RESTRUCTURE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-FINAL_VANA_DLPROOT_RESTRUCTURE.pdf",
+    "date": "2025-05-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451-FINAL_VANA_DLPROOT_RESTRUCTURE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0451-final-vana-dlproot-restructure_24aee350.pdf",
+    "sha256": "31a0550f5573c7947c8f12ab546f7bf77e10be8edf786eff83459f2666b611b6",
+    "size_bytes": 572997,
+    "downloaded_at": "2026-07-05T15:05:24+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0451-FINAL_VANA_DLPROOT_RESTRUCTURE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0451-final-vana-dlproot-restructure"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0472 RENZO BRIDGE",
+    "title": "NM0472 FINAL RENZO BRIDGE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0472-FINAL_RENZO_BRIDGE.pdf",
+    "date": "2025-05-19",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0472-FINAL_RENZO_BRIDGE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0472-final-renzo-bridge_60466ecb.pdf",
+    "sha256": "afa49ef5b98f3b7053aff1dc32d8de364afc14b32b57ac8cbeba4d9f6e8578fb",
+    "size_bytes": 235041,
+    "downloaded_at": "2026-07-05T15:05:24+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0472-FINAL_RENZO_BRIDGE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0472-final-renzo-bridge"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0534 LAGOON",
+    "title": "NM0534 FINAL LAGOON",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0534-FINAL_LAGOON.pdf",
+    "date": "2025-05-20",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0534-FINAL_LAGOON.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0534-final-lagoon_8a10eeb8.pdf",
+    "sha256": "b8045ed7088fcd4c3f055ecc8098aef345ca2d43d4db2129e1087c5942b4b238",
+    "size_bytes": 241057,
+    "downloaded_at": "2026-07-05T15:05:25+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0534-FINAL_LAGOON.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0534-final-lagoon"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0410 MonoCooler",
+    "title": "NM0410 FINAL MonoCooler",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0410-FINAL_MonoCooler.pdf",
+    "date": "2025-05-29",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0410-FINAL_MonoCooler.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0410-final-monocooler_f2149d2a.pdf",
+    "sha256": "2d73c661f04719f779e1b1ef4e874cfd7fe31a32094112de63e5d58ee0e91425",
+    "size_bytes": 535986,
+    "downloaded_at": "2026-07-05T15:05:26+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0410-FINAL_MonoCooler.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0410-final-monocooler"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0475 TEMPLEDAO ORIGAMI",
+    "title": "NM0475 FINAL TEMPLEDAO ORIGAMI",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0475-FINAL_TEMPLEDAO_ORIGAMI.pdf",
+    "date": "2025-05-29",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0475-FINAL_TEMPLEDAO_ORIGAMI.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0475-final-templedao-origami_09257624.pdf",
+    "sha256": "965a0dbda261fdb0015dfc4fa66a25f48051a88c7a7f8eb4b8a279c62ee84556",
+    "size_bytes": 420043,
+    "downloaded_at": "2026-07-05T15:05:27+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0475-FINAL_TEMPLEDAO_ORIGAMI.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0475-final-templedao-origami"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0482 SOPHON",
+    "title": "NM0482 FINAL SOPHON",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0482-FINAL_SOPHON.pdf",
+    "date": "2025-05-30",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0482-FINAL_SOPHON.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0482-final-sophon_c03fc832.pdf",
+    "sha256": "038747b12792501939885148db8fdc1028c0fd48d9fff28437697e86afe36890",
+    "size_bytes": 206909,
+    "downloaded_at": "2026-07-05T15:05:27+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0482-FINAL_SOPHON.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0482-final-sophon"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0502 iBTC",
+    "title": "NM0502 FINAL iBTC",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0502-FINAL_iBTC.pdf",
+    "date": "2025-06-03",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0502-FINAL_iBTC.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0502-final-ibtc_0120fcb9.pdf",
+    "sha256": "4b436be941a55eb70409f2e3a054a8d85cbb18149974f7247616d18f393b37ad",
+    "size_bytes": 405435,
+    "downloaded_at": "2026-07-05T15:05:28+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0502-FINAL_iBTC.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0502-final-ibtc"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0379 PRIVADO iD",
+    "title": "NM 0379 Final PRIVADO iD",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0379_Final_PRIVADO_iD.pdf",
+    "date": "2025-06-04",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0379_Final_PRIVADO_iD.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0379-final-privado-id_0e4bb02c.pdf",
+    "sha256": "fc0253dabc97423ed3c8cf24fa05012091bc7b034387271ee531357db97235a0",
+    "size_bytes": 710582,
+    "downloaded_at": "2026-07-05T15:05:29+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0379_Final_PRIVADO_iD.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0379-final-privado-id"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0411 0509 TX PROXY WORLD CHAIN",
+    "title": "NM 0411 0509 TX PROXY WORLD CHAIN FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0411-0509_TX_PROXY_WORLD_CHAIN_FINAL.pdf",
+    "date": "2025-06-04",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0411-0509_TX_PROXY_WORLD_CHAIN_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0411-0509-tx-proxy-world-chain-final_d59bf838.pdf",
+    "sha256": "e8224cbe413bd7d1b333ec7c8d25d3190c8a753d9cf4c1258f612152e2f16088",
+    "size_bytes": 306754,
+    "downloaded_at": "2026-07-05T15:05:29+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0411-0509_TX_PROXY_WORLD_CHAIN_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0411-0509-tx-proxy-world-chain-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0411 0509 TX PROXY WORLD CHAIN",
+    "title": "NM0411 0509 FINAL TX PROXY WORLD CHAIN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0411_0509_FINAL-TX-PROXY-WORLD-CHAIN.pdf",
+    "date": "2025-06-06",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0411_0509_FINAL-TX-PROXY-WORLD-CHAIN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0411-0509-final-tx-proxy-world-chain_97ff41a2.pdf",
+    "sha256": "5a209913a1f6f34bcff8793a8f92f4aab20f6dac4bc1470e0f7b76f42666aea2",
+    "size_bytes": 307083,
+    "downloaded_at": "2026-07-05T15:05:30+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0411_0509_FINAL-TX-PROXY-WORLD-CHAIN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0411-0509-final-tx-proxy-world-chain"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0451 0519 VANA DLP INCENTIVES",
+    "title": "NM0451 0519 FINAL VANA DLP INCENTIVES",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451_0519_FINAL_VANA-DLP-INCENTIVES.pdf",
+    "date": "2025-06-06",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0451_0519_FINAL_VANA-DLP-INCENTIVES.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0451-0519-final-vana-dlp-incentives_8306ae03.pdf",
+    "sha256": "dd264d4afa1671da5bef5f11f613162937d4071de731aab87b8076f1548fcecf",
+    "size_bytes": 1253933,
+    "downloaded_at": "2026-07-05T15:05:31+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0451_0519_FINAL_VANA-DLP-INCENTIVES.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0451-0519-final-vana-dlp-incentives"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0534 LAGOON",
+    "title": "NM0534 FINAL LAGOON",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0534_FINAL-LAGOON.pdf",
+    "date": "2025-06-06",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0534_FINAL-LAGOON.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0534-final-lagoon_74b9c51d.pdf",
+    "sha256": "d964b8b9d082a5d24ef28efef561be94df794ca1a391a0859fc55f853ad3c889",
+    "size_bytes": 241067,
+    "downloaded_at": "2026-07-05T15:05:32+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0534_FINAL-LAGOON.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0534-final-lagoon"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0550 SKATE",
+    "title": "NM 0550 SKATE FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0550_SKATE_FINAL.pdf",
+    "date": "2025-06-10",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0550_SKATE_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0550-skate-final_8ae23098.pdf",
+    "sha256": "1544f8ffdaaff4da9b219f22e0ff49db3b68a4e0e1c7ee71a44482e0ba39b213",
+    "size_bytes": 218772,
+    "downloaded_at": "2026-07-05T15:05:32+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0550_SKATE_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0550-skate-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0411 0491 World Rollup Boost",
+    "title": "NM 0411 0491 Security Review World Rollup Boost",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0411_0491_Security_Review_World_Rollup_Boost.pdf",
+    "date": "2025-06-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0411_0491_Security_Review_World_Rollup_Boost.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0411-0491-security-review-world-rollup-boost_28a1a62a.pdf",
+    "sha256": "23b981c29ff1b5a86dea5a08c203869be6c91f36d67349fe520584446288660f",
+    "size_bytes": 416350,
+    "downloaded_at": "2026-07-05T15:05:33+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0411_0491_Security_Review_World_Rollup_Boost.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0411-0491-security-review-world-rollup-boost"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0209 Veggia",
+    "title": "NM0209 Veggia FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0209-Veggia_FINAL.pdf",
+    "date": "2025-06-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0209-Veggia_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0209-veggia-final_0ec68042.pdf",
+    "sha256": "ae55e989e4f65d58aac3add30eb7aff18ec3b7dea0fe2f0c6455034eefe87e6b",
+    "size_bytes": 302142,
+    "downloaded_at": "2026-07-05T15:05:34+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0209-Veggia_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0209-veggia-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0544A PILTOVER",
+    "title": "NM0544A FINAL PILTOVER",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0544A-FINAL_PILTOVER.pdf",
+    "date": "2025-06-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0544A-FINAL_PILTOVER.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0544a-final-piltover_0ef4834b.pdf",
+    "sha256": "e7d3701db3ceeea5ee1c1356a019d483e151585028a4bb55e93c5b268723beb1",
+    "size_bytes": 280400,
+    "downloaded_at": "2026-07-05T15:05:35+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0544A-FINAL_PILTOVER.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0544a-final-piltover"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0485 ROYCO BOOSTS",
+    "title": "NM0485 FINAL ROYCO BOOSTS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0485-FINAL_ROYCO_BOOSTS.pdf",
+    "date": "2025-06-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0485-FINAL_ROYCO_BOOSTS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0485-final-royco-boosts_beb8ad95.pdf",
+    "sha256": "6ebf05902911e2f10f3c588c8cfc798150dff59643251654c16dc5bd609f55eb",
+    "size_bytes": 291543,
+    "downloaded_at": "2026-07-05T15:05:35+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0485-FINAL_ROYCO_BOOSTS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0485-final-royco-boosts"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0558 ROYCO BOOSTS",
+    "title": "NM0558 FINAL ROYCO BOOSTS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0558-FINAL_ROYCO_BOOSTS.pdf",
+    "date": "2025-06-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0558-FINAL_ROYCO_BOOSTS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0558-final-royco-boosts_8879e1d2.pdf",
+    "sha256": "efab097e66b0f635aca38a73db7ccb0d0a0af37aa938206e6941bd70adfa6313",
+    "size_bytes": 238779,
+    "downloaded_at": "2026-07-05T15:05:36+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0558-FINAL_ROYCO_BOOSTS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0558-final-royco-boosts"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0417 WORLDCHAIN PBH",
+    "title": "NM0417 FINAL WORLDCHAIN PBH",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0417_FINAL-WORLDCHAIN-PBH.pdf",
+    "date": "2025-06-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0417_FINAL-WORLDCHAIN-PBH.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0417-final-worldchain-pbh_fab74706.pdf",
+    "sha256": "f37e561b6a3ae31e8e2d2cfe551c264101923448b628303944d387f1d61cefca",
+    "size_bytes": 623227,
+    "downloaded_at": "2026-07-05T15:05:37+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0417_FINAL-WORLDCHAIN-PBH.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0417-final-worldchain-pbh"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0491 WORLD ROLLUP BOOST",
+    "title": "NM0491 WORLD ROLLUP BOOST",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0491_WORLD-ROLLUP-BOOST.pdf",
+    "date": "2025-06-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0491_WORLD-ROLLUP-BOOST.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0491-world-rollup-boost_f1dda1e9.pdf",
+    "sha256": "23b981c29ff1b5a86dea5a08c203869be6c91f36d67349fe520584446288660f",
+    "size_bytes": 416350,
+    "downloaded_at": "2026-07-05T15:05:37+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0491_WORLD-ROLLUP-BOOST.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0491-world-rollup-boost"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0493 WORLDCHAIN BUILDER",
+    "title": "NM0493 WORLDCHAIN BUILDER",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0493_WORLDCHAIN-BUILDER.pdf",
+    "date": "2025-06-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0493_WORLDCHAIN-BUILDER.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0493-worldchain-builder_438143d2.pdf",
+    "sha256": "34a18fda8a56261c3d15aff0cb004a049c348e34e2e6324469f1e28639d47333",
+    "size_bytes": 224497,
+    "downloaded_at": "2026-07-05T15:05:38+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0493_WORLDCHAIN-BUILDER.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0493-worldchain-builder"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0544B TOKEN BRIDGE",
+    "title": "NM0544B FINAL TOKEN BRIDGE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0544B-FINAL_TOKEN_BRIDGE.pdf",
+    "date": "2025-07-01",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0544B-FINAL_TOKEN_BRIDGE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0544b-final-token-bridge_2839b35e.pdf",
+    "sha256": "6985d2bf28af7762a6285b956653bf586b808691cf9930e8c4f3991504a26ae7",
+    "size_bytes": 274558,
+    "downloaded_at": "2026-07-05T15:05:39+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0544B-FINAL_TOKEN_BRIDGE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0544b-final-token-bridge"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0536 SPLINE",
+    "title": "NM0536 FINAL SPLINE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0536-FINAL_SPLINE.pdf",
+    "date": "2025-07-02",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0536-FINAL_SPLINE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0536-final-spline_1e0d18f8.pdf",
+    "sha256": "59bb807c39d03e17e5bb227e6ca03c2393ded744a64c828c522806b5869d54d8",
+    "size_bytes": 517092,
+    "downloaded_at": "2026-07-05T15:05:40+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0536-FINAL_SPLINE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0536-final-spline"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0570 Clave",
+    "title": "NM 0570 Clave Final",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0570_Clave-Final.pdf",
+    "date": "2025-07-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0570_Clave-Final.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0570-clave-final_abf7eb82.pdf",
+    "sha256": "005ef69bb3a0e1d99af62fdbc73938c5283b26e653bf8e3a75eae4d9d1f5c4b7",
+    "size_bytes": 453634,
+    "downloaded_at": "2026-07-05T15:05:41+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0570_Clave-Final.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0570-clave-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0578 AVNU FORWARDER",
+    "title": "NM0578 FINAL AVNU FORWARDER",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0578-FINAL_AVNU_FORWARDER.pdf",
+    "date": "2025-07-11",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0578-FINAL_AVNU_FORWARDER.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0578-final-avnu-forwarder_2206aeec.pdf",
+    "sha256": "c1ab842aaea7d3a2f5f4f6662e63307eb5f4f2ac7df1fdea6e82de5a8e48b2f9",
+    "size_bytes": 183900,
+    "downloaded_at": "2026-07-05T15:05:41+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0578-FINAL_AVNU_FORWARDER.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0578-final-avnu-forwarder"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0405 GAIA NETWORK TOKEN",
+    "title": "NM0405 FINAL GAIA NETWORK TOKEN",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0405_FINAL_GAIA_NETWORK_TOKEN.pdf",
+    "date": "2025-07-23",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0405_FINAL_GAIA_NETWORK_TOKEN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0405-final-gaia-network-token_74056446.pdf",
+    "sha256": "c56fd8362048cd1592cc9be3e13929b3a71d438aa8f565d4c96eceb8559df66c",
+    "size_bytes": 258882,
+    "downloaded_at": "2026-07-05T15:05:42+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0405_FINAL_GAIA_NETWORK_TOKEN.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0405-final-gaia-network-token"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0530 LIDO ACCOUNTING ZK ORACLE",
+    "title": "NM 0530 LIDO ACCOUNTING ZK ORACLE FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0530_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf",
+    "date": "2025-07-30",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0530_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0530-lido-accounting-zk-oracle-final_a4cf979b.pdf",
+    "sha256": "9e3968b1957cb36f7d3545078b89460256c2cbc60a91cf8752d9b863bc3be720",
+    "size_bytes": 3207585,
+    "downloaded_at": "2026-07-05T15:05:43+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0530_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0530-lido-accounting-zk-oracle-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0556 Permissionless Technologies USPD",
+    "title": "NM 0556 Permissionless Technologies USPD final",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0556_Permissionless_Technologies_USPD-final.pdf",
+    "date": "2025-08-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0556_Permissionless_Technologies_USPD-final.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0556-permissionless-technologies-uspd-final_7f9d1eba.pdf",
+    "sha256": "57415e2e831d0603c8d2a7091c2a04c029f9926f432ed4b695e84e3a8e7b9414",
+    "size_bytes": 5107412,
+    "downloaded_at": "2026-07-05T15:05:45+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0556_Permissionless_Technologies_USPD-final.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0556-permissionless-technologies-uspd-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0599 ETH STRAT",
+    "title": "NM0599 FINAL ETH STRAT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0599-FINAL_ETH_STRAT.pdf",
+    "date": "2025-09-03",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0599-FINAL_ETH_STRAT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0599-final-eth-strat_ac5f523e.pdf",
+    "sha256": "24e2044dd060ca7b3269ce339287ab666c650e9e547c541dd2546a81e7e2002c",
+    "size_bytes": 241267,
+    "downloaded_at": "2026-07-05T15:05:46+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0599-FINAL_ETH_STRAT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0599-final-eth-strat"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0587 Mellow",
+    "title": "NM0587 FINAL Mellow",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0587-FINAL_Mellow.pdf",
+    "date": "2025-09-04",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0587-FINAL_Mellow.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0587-final-mellow_424324f8.pdf",
+    "sha256": "13a18507a8edf3db6e578788d853b76acc3935b1bac37ccc40b6c377f030ceab",
+    "size_bytes": 320560,
+    "downloaded_at": "2026-07-05T15:05:46+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0587-FINAL_Mellow.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0587-final-mellow"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0635 MOLECULA",
+    "title": "NM0635 FINAL MOLECULA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0635-FINAL_MOLECULA.pdf",
+    "date": "2025-09-15",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0635-FINAL_MOLECULA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0635-final-molecula_d320d573.pdf",
+    "sha256": "ee812cc5357973a901606412e528bfbe97d9267c13fb6938166806863c4d7149",
+    "size_bytes": 234373,
+    "downloaded_at": "2026-07-05T15:05:47+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0635-FINAL_MOLECULA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0635-final-molecula"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0622 Veraswap",
+    "title": "NM 0622 Veraswap FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0622_Veraswap_FINAL.pdf",
+    "date": "2025-09-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0622_Veraswap_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0622-veraswap-final_18d1551c.pdf",
+    "sha256": "48252f2f94865718ad44ea8056b43641d57a887861ad342492531eedf5f28627",
+    "size_bytes": 369055,
+    "downloaded_at": "2026-07-05T15:05:48+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0622_Veraswap_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0622-veraswap-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0565 Skate",
+    "title": "NM0565 FINAL Skate",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0565-FINAL_Skate.pdf",
+    "date": "2025-09-17",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0565-FINAL_Skate.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0565-final-skate_d9db8c9c.pdf",
+    "sha256": "0df41415e8b1a0e23de1608870065e5bc4bc0590357b7eb5e3d70d11c9efdd17",
+    "size_bytes": 411592,
+    "downloaded_at": "2026-07-05T15:05:48+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0565-FINAL_Skate.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0565-final-skate"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0648 TruStake",
+    "title": "NM0648 FINAL TruStake",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0648-FINAL_TruStake.pdf",
+    "date": "2025-09-22",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0648-FINAL_TruStake.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0648-final-trustake_375b465f.pdf",
+    "sha256": "b6910f8434669b490019b7382a8921df0894ac3472c3c081459fee4ad62197eb",
+    "size_bytes": 240716,
+    "downloaded_at": "2026-07-05T15:05:49+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0648-FINAL_TruStake.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0648-final-trustake"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0612 REGENERATION CREDIT",
+    "title": "NM 0612 REGENERATION CREDIT FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0612_REGENERATION_CREDIT_FINAL.pdf",
+    "date": "2025-10-04",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0612_REGENERATION_CREDIT_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0612-regeneration-credit-final_d6824f57.pdf",
+    "sha256": "ab635bae962e9ae834040237a1820cb5793d603ab13f3083804f5c3478fefcbc",
+    "size_bytes": 506924,
+    "downloaded_at": "2026-07-05T15:05:50+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0612_REGENERATION_CREDIT_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0612-regeneration-credit-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0555 SURGE WITH TAIKO",
+    "title": "NM 0555 SURGE WITH TAIKO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0555_SURGE_WITH_TAIKO.pdf",
+    "date": "2025-10-07",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0555_SURGE_WITH_TAIKO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0555-surge-with-taiko_c97b16b8.pdf",
+    "sha256": "3a2d4f336fac6263649557824f0c57594708925352115797c1419b18115a5be2",
+    "size_bytes": 217350,
+    "downloaded_at": "2026-07-05T15:05:51+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0555_SURGE_WITH_TAIKO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0555-surge-with-taiko"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0675 Ventuals Oct 14",
+    "title": "NM 0675 Ventuals FINAL Oct 14",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0675_Ventuals_FINAL_Oct_14.pdf",
+    "date": "2025-10-14",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0675_Ventuals_FINAL_Oct_14.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0675-ventuals-final-oct-14_722c43ea.pdf",
+    "sha256": "647aa9bcfd05bc2e9b58c8c6a6a641e058a6db444e9e938abf12bd76ab14b6a9",
+    "size_bytes": 406605,
+    "downloaded_at": "2026-07-05T15:05:52+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0675_Ventuals_FINAL_Oct_14.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0675-ventuals-final-oct-14"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM00687 FINA JUSTANACCOUNT",
+    "title": "NM00687 FINA JUSTANACCOUNT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM00687-FINA_JUSTANACCOUNT.pdf",
+    "date": "2025-10-21",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM00687-FINA_JUSTANACCOUNT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm00687-fina-justanaccount_77f9e79e.pdf",
+    "sha256": "63894b75b497a2f2ce6ccdaa2c2ffd8da1cbff8f4d134b4b4c96b2bdba43fefb",
+    "size_bytes": 233529,
+    "downloaded_at": "2026-07-05T15:05:52+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM00687-FINA_JUSTANACCOUNT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm00687-fina-justanaccount"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0645 Origin",
+    "title": "NM0645 FINAL Origin",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0645-FINAL_Origin.pdf",
+    "date": "2025-10-22",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0645-FINAL_Origin.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0645-final-origin_90418ddf.pdf",
+    "sha256": "266f209429a48f0206ecbf1343d2ae74536d8108ce3a03d1c775064627327e64",
+    "size_bytes": 250738,
+    "downloaded_at": "2026-07-05T15:05:53+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0645-FINAL_Origin.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0645-final-origin"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0626 KINTSU",
+    "title": "NM0626 FINAL KINTSU",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0626-FINAL_KINTSU.pdf",
+    "date": "2025-11-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0626-FINAL_KINTSU.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0626-final-kintsu_664a994e.pdf",
+    "sha256": "261500afbfd6b6cc26280df7ff4e4a29daeb7c09f0bc0747bbac1ba492ee447b",
+    "size_bytes": 227009,
+    "downloaded_at": "2026-07-05T15:05:54+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0626-FINAL_KINTSU.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0626-final-kintsu"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0691 Spiko",
+    "title": "NM 0691 Spiko Final",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0691_Spiko_Final%20.pdf",
+    "date": "2025-11-07",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0691_Spiko_Final%20.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0691-spiko-final_4849808e.pdf",
+    "sha256": "c9767932bdab10b2d63d79ec4be923863e3955e42f1c67666be84d79d0717c12",
+    "size_bytes": 198769,
+    "downloaded_at": "2026-07-05T15:05:55+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0691_Spiko_Final .pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0691-spiko-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0703 MELLOW FINANCE",
+    "title": "NM0703 FINAL MELLOW FINANCE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0703-FINAL_MELLOW_FINANCE.pdf",
+    "date": "2025-11-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0703-FINAL_MELLOW_FINANCE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0703-final-mellow-finance_e11ae1da.pdf",
+    "sha256": "f700c278bad13d8b3f0bd806d070f087e73a7ca2acc2d867f0581175b9822d42",
+    "size_bytes": 215154,
+    "downloaded_at": "2026-07-05T15:05:55+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0703-FINAL_MELLOW_FINANCE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0703-final-mellow-finance"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0735 MELLOW FINANCE",
+    "title": "NM0735 FINAL MELLOW FINANCE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0735-FINAL_MELLOW_FINANCE.pdf",
+    "date": "2025-11-20",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0735-FINAL_MELLOW_FINANCE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0735-final-mellow-finance_c4a3e33a.pdf",
+    "sha256": "735572660a444856b887edbaf58a0cd6a58d31706f08cda225b031f3f032f1fe",
+    "size_bytes": 237117,
+    "downloaded_at": "2026-07-05T15:05:58+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0735-FINAL_MELLOW_FINANCE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0735-final-mellow-finance"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0640 DCA",
+    "title": "NM0640 FINAL DCA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0640-FINAL_DCA.pdf",
+    "date": "2025-11-26",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0640-FINAL_DCA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0640-final-dca_538262ad.pdf",
+    "sha256": "bbfd98d1aabf7136140f06e7471eab640a476eb359da6a99c2e19a6846156a6f",
+    "size_bytes": 239650,
+    "downloaded_at": "2026-07-05T15:05:59+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0640-FINAL_DCA.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0640-final-dca"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0731 IDOS",
+    "title": "NM0731 FINAL IDOS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0731-FINAL_IDOS.pdf",
+    "date": "2025-11-27",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0731-FINAL_IDOS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0731-final-idos_00c98a1c.pdf",
+    "sha256": "91032760c2fe684cc2e5ab028705bf06a7c11684de62b4825b41c1dc0110ee3e",
+    "size_bytes": 240606,
+    "downloaded_at": "2026-07-05T15:06:00+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0731-FINAL_IDOS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0731-final-idos"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0741 BLUEGOLDONE",
+    "title": "NM0741 FINAL BLUEGOLDONE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0741-FINAL_BLUEGOLDONE.pdf",
+    "date": "2025-12-09",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0741-FINAL_BLUEGOLDONE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0741-final-bluegoldone_46831746.pdf",
+    "sha256": "8451af8a05f39efadbda94dd480f4fd718ae63c3354e1afed6b8a59018e81710",
+    "size_bytes": 210025,
+    "downloaded_at": "2026-07-05T15:06:01+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0741-FINAL_BLUEGOLDONE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0741-final-bluegoldone"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0744 DEEPNODE",
+    "title": "NM0744 FINAL DEEPNODE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0744-FINAL_DEEPNODE.pdf",
+    "date": "2025-12-09",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0744-FINAL_DEEPNODE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0744-final-deepnode_f9f3c932.pdf",
+    "sha256": "fa5f2a958317f1a62f4575ac59c9db7fbd342f14f1efe862e333533dfec0dc53",
+    "size_bytes": 178168,
+    "downloaded_at": "2026-07-05T15:06:02+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0744-FINAL_DEEPNODE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0744-final-deepnode"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0674 OPENCOVER",
+    "title": "NM0674 FINAL OPENCOVER",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0674-FINAL_OPENCOVER.pdf",
+    "date": "2026-01-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0674-FINAL_OPENCOVER.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0674-final-opencover_ce6a68b6.pdf",
+    "sha256": "e52be97467c8e7e75c6992ec3bf222f1c604053de5aa2719c3f5bf3206439455",
+    "size_bytes": 597012,
+    "downloaded_at": "2026-07-05T15:06:03+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0674-FINAL_OPENCOVER.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0674-final-opencover"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0701 PANOPTIC V2",
+    "title": "NM0701 FINAL PANOPTIC V2",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0701-FINAL_PANOPTIC_V2.pdf",
+    "date": "2026-01-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0701-FINAL_PANOPTIC_V2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0701-final-panoptic-v2_b64554bb.pdf",
+    "sha256": "2b17e51e40bf366c58c99be711a4d942ac577824ea00ae21f2c549e266eae601",
+    "size_bytes": 345433,
+    "downloaded_at": "2026-07-05T15:06:04+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0701-FINAL_PANOPTIC_V2.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0701-final-panoptic-v2"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0682 Mellow",
+    "title": "NM0682 FINAL Mellow",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0682-FINAL_Mellow.pdf",
+    "date": "2026-02-03",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0682-FINAL_Mellow.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0682-final-mellow_78ed1564.pdf",
+    "sha256": "24bac0c7a577be868314d87e2035bcf02c779c80fd64b0b45d15373609bcc0d3",
+    "size_bytes": 172448,
+    "downloaded_at": "2026-07-05T15:06:05+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0682-FINAL_Mellow.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0682-final-mellow"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0758 Mellow",
+    "title": "NM0758 FINAL Mellow",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0758-FINAL_Mellow.pdf",
+    "date": "2026-02-03",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0758-FINAL_Mellow.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0758-final-mellow_b0ce3728.pdf",
+    "sha256": "d54a34fdb9f33c998f1c96404504caf889cd0559443778f58f4eeda975728250",
+    "size_bytes": 152619,
+    "downloaded_at": "2026-07-05T15:06:06+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0758-FINAL_Mellow.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0758-final-mellow"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0798 MELLOW FINANCE",
+    "title": "NM0798 FINAL MELLOW FINANCE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0798-FINAL_MELLOW_FINANCE.pdf",
+    "date": "2026-02-03",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0798-FINAL_MELLOW_FINANCE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0798-final-mellow-finance_0ac70819.pdf",
+    "sha256": "e799e201e32d1c506f75973795887675eaa4fcbe2f91c33d512474b627dec231",
+    "size_bytes": 158131,
+    "downloaded_at": "2026-07-05T15:06:07+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0798-FINAL_MELLOW_FINANCE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0798-final-mellow-finance"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0812 Mellow",
+    "title": "NM0812 FINAL Mellow",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0812-FINAL_Mellow.pdf",
+    "date": "2026-02-03",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0812-FINAL_Mellow.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0812-final-mellow_9de45563.pdf",
+    "sha256": "2857e58ccd0c9755b843950e05986d02b9ff0521f1910b472970244580ac9af9",
+    "size_bytes": 127943,
+    "downloaded_at": "2026-07-05T15:06:07+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0812-FINAL_Mellow.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0812-final-mellow"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0829 MELLOW FINANCE",
+    "title": "NM0829 FINAL MELLOW FINANCE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0829-FINAL_MELLOW_FINANCE.pdf",
+    "date": "2026-02-10",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0829-FINAL_MELLOW_FINANCE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0829-final-mellow-finance_731241b8.pdf",
+    "sha256": "a09e0bf723773ab810c674771c646fd50dd44826735869376b1f2f75adccf800",
+    "size_bytes": 168738,
+    "downloaded_at": "2026-07-05T15:06:08+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0829-FINAL_MELLOW_FINANCE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0829-final-mellow-finance"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0580 Hanji CLOB",
+    "title": "NM 0580 Hanji CLOB",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0580-Hanji-CLOB.pdf",
+    "date": "2026-03-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0580-Hanji-CLOB.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0580-hanji-clob_c2502c5c.pdf",
+    "sha256": "7e14b122aa5f7fab65d7071e9538aa713428a9df5c63d841ded7635b9226961b",
+    "size_bytes": 829980,
+    "downloaded_at": "2026-07-05T15:06:09+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0580-Hanji-CLOB.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0580-hanji-clob"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0580 Hanji Vault",
+    "title": "NM 0580 Hanji Vault",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0580-Hanji-Vault.pdf",
+    "date": "2026-03-05",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM-0580-Hanji-Vault.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0580-hanji-vault_d3d7a7e8.pdf",
+    "sha256": "ab86e29fe3a26cad7045ab7929e33f0c7fbe1ba175e1b721b5f844591edffe4c",
+    "size_bytes": 1665285,
+    "downloaded_at": "2026-07-05T15:06:11+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM-0580-Hanji-Vault.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0580-hanji-vault"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0411 0693 WORLD ID C",
+    "title": "NM 0411 0693 WORLD ID C",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0411_0693_WORLD_ID_C.pdf",
+    "date": "2026-03-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0411_0693_WORLD_ID_C.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0411-0693-world-id-c_35a06044.pdf",
+    "sha256": "1137eefe149d1806d6557033573ab8e6f4f33ace506e68deb82902d5d26bc01b",
+    "size_bytes": 885642,
+    "downloaded_at": "2026-07-05T15:06:12+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0411_0693_WORLD_ID_C.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0411-0693-world-id-c"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0618 FILEVERSE FILE MANAGER SDK",
+    "title": "NM 0618 FILEVERSE FILE MANAGER SDK",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0618_FILEVERSE_FILE_MANAGER_SDK.pdf",
+    "date": "2026-03-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0618_FILEVERSE_FILE_MANAGER_SDK.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0618-fileverse-file-manager-sdk_5ee8d467.pdf",
+    "sha256": "cdad7b0eac10e18d6650eedc1c164811c0399b913d9ae436dd35dfe50d7addf3",
+    "size_bytes": 871098,
+    "downloaded_at": "2026-07-05T15:06:13+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0618_FILEVERSE_FILE_MANAGER_SDK.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0618-fileverse-file-manager-sdk"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0618 FILEVERSE IDENTITY",
+    "title": "NM 0618 FILEVERSE IDENTITY",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0618_FILEVERSE_IDENTITY.pdf",
+    "date": "2026-03-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0618_FILEVERSE_IDENTITY.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0618-fileverse-identity_1de8b8cd.pdf",
+    "sha256": "1e08a75b7ee2c3a14c186206b935c09eaac2975af18c8b3c5753a8c37cb06607",
+    "size_bytes": 872797,
+    "downloaded_at": "2026-07-05T15:06:13+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0618_FILEVERSE_IDENTITY.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0618-fileverse-identity"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0677 ANOMA",
+    "title": "NM 0677 ANOMA",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0677_ANOMA_.pdf",
+    "date": "2026-03-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0677_ANOMA_.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0677-anoma_b676e39b.pdf",
+    "sha256": "f6162cd4f18be0e7bca57934bff7d63fc4e1bc577359c646f304387b2fc7358d",
+    "size_bytes": 1238372,
+    "downloaded_at": "2026-07-05T15:06:14+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0677_ANOMA_.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0677-anoma"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0679 CELO OP SUCCINCT",
+    "title": "NM 0679 CELO OP SUCCINCT",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0679_CELO_OP_SUCCINCT.pdf",
+    "date": "2026-03-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0679_CELO_OP_SUCCINCT.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0679-celo-op-succinct_29c1f3e0.pdf",
+    "sha256": "e23e1fc5ffcafae68582e75ceea561c79c694115e4faa446077eb0be11fb34bd",
+    "size_bytes": 889675,
+    "downloaded_at": "2026-07-05T15:06:15+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0679_CELO_OP_SUCCINCT.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0679-celo-op-succinct"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0693 D NULLIFIER WORLD ID",
+    "title": "NM 0693 D NULLIFIER WORLD ID",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0693_D_NULLIFIER_WORLD_ID.pdf",
+    "date": "2026-03-12",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0693_D_NULLIFIER_WORLD_ID.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0693-d-nullifier-world-id_bb5e0c7b.pdf",
+    "sha256": "be7aa88fa5bc7f6fa5a05207f4e38e69e15ed91b5377e452fce0b315ff92e094",
+    "size_bytes": 1174315,
+    "downloaded_at": "2026-07-05T15:06:16+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0693_D_NULLIFIER_WORLD_ID.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0693-d-nullifier-world-id"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0853 SOCIALFI PANDA PRIVACY",
+    "title": "NM 0853 SOCIALFI PANDA PRIVACY",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0853_SOCIALFI_PANDA_PRIVACY.pdf",
+    "date": "2026-03-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0853_SOCIALFI_PANDA_PRIVACY.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0853-socialfi-panda-privacy_fc9e3237.pdf",
+    "sha256": "eb9f1167099b08e22bfa52c0072b20e17a4f04d83b5e8ac9f4aa8c7e1d40cd09",
+    "size_bytes": 983831,
+    "downloaded_at": "2026-07-05T15:06:17+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0853_SOCIALFI_PANDA_PRIVACY.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0853-socialfi-panda-privacy"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0856 ROYCO MAKINA STRATEGY",
+    "title": "NM0856 FINAL ROYCO MAKINA STRATEGY",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0856-FINAL_ROYCO_MAKINA_STRATEGY.pdf",
+    "date": "2026-03-16",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0856-FINAL_ROYCO_MAKINA_STRATEGY.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0856-final-royco-makina-strategy_cb96f3a1.pdf",
+    "sha256": "fc21b6ba8692afb3d5d64b5a670463096f98709e887157a0d0ed97dda3d42c5e",
+    "size_bytes": 237763,
+    "downloaded_at": "2026-07-05T15:06:18+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0856-FINAL_ROYCO_MAKINA_STRATEGY.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0856-final-royco-makina-strategy"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0854 Tori",
+    "title": "NM 0854 Tori",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0854_Tori.pdf",
+    "date": "2026-03-27",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0854_Tori.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0854-tori_b5c6a98f.pdf",
+    "sha256": "f485c6d0c86ba63595a8a10f929c1fb9ef3bd91a3c0d84e61bdb320685bc2c7e",
+    "size_bytes": 258770,
+    "downloaded_at": "2026-07-05T15:06:18+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0854_Tori.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0854-tori"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0764 SUNO",
+    "title": "NM0764 FINAL SUNO",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0764-FINAL_SUNO.pdf",
+    "date": "2026-04-07",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0764-FINAL_SUNO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0764-final-suno_fac5c3b8.pdf",
+    "sha256": "ca4bf60f917a8f564d426b6a9e3f9748fa2da45e8fec48d595d6fa8a8dbcca11",
+    "size_bytes": 232729,
+    "downloaded_at": "2026-07-05T15:06:19+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0764-FINAL_SUNO.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0764-final-suno"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0739 Palpitada",
+    "title": "NM 0739 Palpitada Final",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0739_Palpitada_Final.pdf",
+    "date": "2026-04-08",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0739_Palpitada_Final.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0739-palpitada-final_13451df2.pdf",
+    "sha256": "154d88b4f98c48654e15f26d821256b31571571ddb3e67324185b41d1f10387a",
+    "size_bytes": 1025981,
+    "downloaded_at": "2026-07-05T15:06:20+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0739_Palpitada_Final.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0739-palpitada-final"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0843 XDC PRIME STAKE",
+    "title": "NM0843 FINAL XDC PRIME STAKE",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0843-FINAL_XDC_PRIME_STAKE.pdf",
+    "date": "2026-05-18",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0843-FINAL_XDC_PRIME_STAKE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0843-final-xdc-prime-stake_7ccc6d89.pdf",
+    "sha256": "4d6052eda9ba2fcd604568257ced79cdff6e3fee89612ec835989d00cf609615",
+    "size_bytes": 448472,
+    "downloaded_at": "2026-07-05T15:06:21+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0843-FINAL_XDC_PRIME_STAKE.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0843-final-xdc-prime-stake"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM0828 PARTICLECS",
+    "title": "NM0828 FINAL PARTICLECS",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0828-FINAL_PARTICLECS.pdf",
+    "date": "2026-06-02",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM0828-FINAL_PARTICLECS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm0828-final-particlecs_a34ba071.pdf",
+    "sha256": "ceb7cc009c6f65a4267b72251e80e3c2b8d00f649862ab22a6a5e422bae5d77b",
+    "size_bytes": 343591,
+    "downloaded_at": "2026-07-05T15:06:21+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM0828-FINAL_PARTICLECS.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm0828-final-particlecs"
+  },
+  {
+    "source": "nethermind",
+    "project": "NM 0901 arcx karnot",
+    "title": "NM 0901 arcx karnot FINAL",
+    "report_url": "https://github.com/NethermindEth/PublicAuditReports/blob/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0901_arcx_karnot_FINAL.pdf",
+    "date": "2026-06-08",
+    "listing_url": "https://github.com/NethermindEth/PublicAuditReports",
+    "download_url": "https://raw.githubusercontent.com/NethermindEth/PublicAuditReports/150a6c4cfadad98afbedc53149b1037a68ef6748/NM_0901_arcx_karnot_FINAL.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/nethermind/nm-0901-arcx-karnot-final_4c26cb39.pdf",
+    "sha256": "e1fd4cd5498357ac77b1833c3380a592f94f33e16b85efc493bf30cd0f0085c0",
+    "size_bytes": 372478,
+    "downloaded_at": "2026-07-05T15:06:22+00:00",
+    "extra": {
+      "repo": "NethermindEth/PublicAuditReports",
+      "path": "NM_0901_arcx_karnot_FINAL.pdf",
+      "commit": "150a6c4cfadad98afbedc53149b1037a68ef6748"
+    },
+    "id": "nethermind/nm-0901-arcx-karnot-final"
+  }
+]

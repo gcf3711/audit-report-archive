@@ -1,0 +1,8 @@
+# bulk data — reproducible via `scrape` + `download`
+data/reports/
+data/cache/
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

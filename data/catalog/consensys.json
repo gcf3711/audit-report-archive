@@ -1,0 +1,2643 @@
+[
+  {
+    "source": "consensys",
+    "project": "ENS Permanent Registrar",
+    "title": "ENS Permanent Registrar",
+    "report_url": "https://diligence.security/audits/2019/03/ens-permanent-registrar/",
+    "date": "2019-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811150448/https://consensys.io/diligence/audits/2019/03/ens-permanent-registrar/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/ens-permanent-registrar_51d74958.html",
+    "sha256": "0020a07f60826f7cd0ab072695aea80e4dfb5a492e15848e79edd520f59ba4ad",
+    "size_bytes": 136337,
+    "downloaded_at": "2026-07-05T14:51:57+00:00",
+    "extra": {
+      "date_text": "March 2019",
+      "archived": true
+    },
+    "id": "consensys/ens-permanent-registrar"
+  },
+  {
+    "source": "consensys",
+    "project": "Pegasys Permissioning",
+    "title": "Pegasys Permissioning",
+    "report_url": "https://diligence.security/audits/2019/08/pegasys-permissioning/",
+    "date": "2019-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240613232306/https://consensys.io/diligence/audits/2019/08/pegasys-permissioning/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/pegasys-permissioning_6c634803.html",
+    "sha256": "2637b4eda5e64c3d370ff18a40c75b82f54bae781303d742ca48c93645f98f1b",
+    "size_bytes": 133617,
+    "downloaded_at": "2026-07-05T14:52:02+00:00",
+    "extra": {
+      "date_text": "August 2019",
+      "archived": true
+    },
+    "id": "consensys/pegasys-permissioning"
+  },
+  {
+    "source": "consensys",
+    "project": "0x v3 Exchange",
+    "title": "0x v3 Exchange",
+    "report_url": "https://diligence.security/audits/2019/09/0x-v3-exchange/",
+    "date": "2019-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251205203839/https://diligence.security/audits/2019/09/0x-v3-exchange/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/0x-v3-exchange_5dc47248.html",
+    "sha256": "1b1f0058d9c447c4bd8df1dabf6151bfd04ee11099cd354110d2431717347650",
+    "size_bytes": 235753,
+    "downloaded_at": "2026-07-05T14:25:04+00:00",
+    "extra": {
+      "date_text": "September 2019",
+      "archived": true
+    },
+    "id": "consensys/0x-v3-exchange"
+  },
+  {
+    "source": "consensys",
+    "project": "Atomic Loans",
+    "title": "Atomic Loans",
+    "report_url": "https://diligence.security/audits/2019/09/atomic-loans/",
+    "date": "2019-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811142741/https://consensys.io/diligence/audits/2019/09/atomic-loans/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/atomic-loans_f282570c.html",
+    "sha256": "2cc278d0a108e5d07f7ab26b6ea90b0bde8cfb87745357dbf081497be4ac04d3",
+    "size_bytes": 54009,
+    "downloaded_at": "2026-07-05T14:52:05+00:00",
+    "extra": {
+      "date_text": "September 2019",
+      "archived": true
+    },
+    "id": "consensys/atomic-loans"
+  },
+  {
+    "source": "consensys",
+    "project": "Slock.it Incubed3",
+    "title": "Slock.it Incubed3",
+    "report_url": "https://diligence.security/audits/2019/09/slock.it-incubed3/",
+    "date": "2019-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20250211093242/https://diligence.consensys.io/audits/2019/09/slock.it-incubed3/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/slock-it-incubed3_ff395141.html",
+    "sha256": "efde41d9e0aceaf921356d0743d377f7b885eba9fa360b14bbf25a576140fe21",
+    "size_bytes": 377872,
+    "downloaded_at": "2026-07-05T14:52:09+00:00",
+    "extra": {
+      "date_text": "September 2019",
+      "archived": true
+    },
+    "id": "consensys/slock-it-incubed3"
+  },
+  {
+    "source": "consensys",
+    "project": "0x v3 Staking",
+    "title": "0x v3 Staking",
+    "report_url": "https://diligence.security/audits/2019/10/0x-v3-staking/",
+    "date": "2019-10",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251203092751/https://diligence.security/audits/2019/10/0x-v3-staking/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/0x-v3-staking_1cc8c87c.html",
+    "sha256": "24ef41bc114643e54707917990e48417502ec7a062c757148922105f4699e350",
+    "size_bytes": 245103,
+    "downloaded_at": "2026-07-05T14:25:16+00:00",
+    "extra": {
+      "date_text": "October 2019",
+      "archived": true
+    },
+    "id": "consensys/0x-v3-staking"
+  },
+  {
+    "source": "consensys",
+    "project": "Vyper",
+    "title": "Vyper",
+    "report_url": "https://diligence.security/audits/2019/10/vyper/",
+    "date": "2019-10",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240908125159/https://consensys.io/diligence/audits/2019/10/vyper/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/vyper_5d77067e.html",
+    "sha256": "6e43173ba4f1316e849df236dcc21a42940a42783dffd15c40264e59a4fa4e13",
+    "size_bytes": 135457,
+    "downloaded_at": "2026-07-05T14:52:12+00:00",
+    "extra": {
+      "date_text": "October 2019",
+      "archived": true
+    },
+    "id": "consensys/vyper"
+  },
+  {
+    "source": "consensys",
+    "project": "AragonBlack Fundraising",
+    "title": "AragonBlack Fundraising",
+    "report_url": "https://diligence.security/audits/2019/11/aragonblack-fundraising/",
+    "date": "2019-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811151204/https://consensys.io/diligence/audits/2019/11/aragonblack-fundraising/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aragonblack-fundraising_16a23ea0.html",
+    "sha256": "b96363e79a37bfdcf733afad2dea8fc6a73c40d85b68acc827fee0b496333b84",
+    "size_bytes": 215266,
+    "downloaded_at": "2026-07-05T14:52:15+00:00",
+    "extra": {
+      "date_text": "November 2019",
+      "archived": true
+    },
+    "id": "consensys/aragonblack-fundraising"
+  },
+  {
+    "source": "consensys",
+    "project": "AragonOne — Aragon Network Presale",
+    "title": "AragonOne — Aragon Network Presale",
+    "report_url": "https://diligence.security/audits/2019/11/aragonone-aragon-network-presale/",
+    "date": "2019-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718053037/https://consensys.io/diligence/audits/2019/11/aragonone-aragon-network-presale/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aragonone-aragon-network-presale_722ab656.html",
+    "sha256": "0b2fef67c9027e3a3c354e42d9c9e003e0796a12412a34b2decd07a7bdd9057c",
+    "size_bytes": 109142,
+    "downloaded_at": "2026-07-05T14:52:19+00:00",
+    "extra": {
+      "date_text": "November 2019",
+      "archived": true
+    },
+    "id": "consensys/aragonone-aragon-network-presale"
+  },
+  {
+    "source": "consensys",
+    "project": "Fairmint Continuous Securities Offering",
+    "title": "Fairmint Continuous Securities Offering",
+    "report_url": "https://diligence.security/audits/2019/11/fairmint-continuous-securities-offering/",
+    "date": "2019-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621153306/https://consensys.io/diligence/audits/2019/11/fairmint-continuous-securities-offering/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/fairmint-continuous-securities-offering_2575c400.html",
+    "sha256": "7aac8478e58ab5fe0f8467db30bb6b819f519118bc5a116b8bef17a36551bddf",
+    "size_bytes": 81568,
+    "downloaded_at": "2026-07-05T14:52:21+00:00",
+    "extra": {
+      "date_text": "November 2019",
+      "archived": true
+    },
+    "id": "consensys/fairmint-continuous-securities-offering"
+  },
+  {
+    "source": "consensys",
+    "project": "Orchid Network Protocol",
+    "title": "Orchid Network Protocol",
+    "report_url": "https://diligence.security/audits/2019/11/orchid-network-protocol/",
+    "date": "2019-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240911192852/https://consensys.io/diligence/audits/2019/11/orchid-network-protocol/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/orchid-network-protocol_4c353d70.html",
+    "sha256": "839303b306e7e240f1e32e7f9a2278fd8736db584f65cd0b5b745d7efd3be2cd",
+    "size_bytes": 134538,
+    "downloaded_at": "2026-07-05T14:25:33+00:00",
+    "extra": {
+      "date_text": "November 2019",
+      "archived": true
+    },
+    "id": "consensys/orchid-network-protocol"
+  },
+  {
+    "source": "consensys",
+    "project": "Dandelion Organizations",
+    "title": "Dandelion Organizations",
+    "report_url": "https://diligence.security/audits/2019/12/dandelion-organizations/",
+    "date": "2019-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811143905/https://consensys.io/diligence/audits/2019/12/dandelion-organizations/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/dandelion-organizations_10fe9616.html",
+    "sha256": "fe319dfc370f350fb1c1a26172eafabdde718eb8a95b5f34bbe5d321a56d2195",
+    "size_bytes": 117916,
+    "downloaded_at": "2026-07-05T14:52:25+00:00",
+    "extra": {
+      "date_text": "December 2019",
+      "archived": true
+    },
+    "id": "consensys/dandelion-organizations"
+  },
+  {
+    "source": "consensys",
+    "project": "OmiseGo MoreVP",
+    "title": "OmiseGo MoreVP",
+    "report_url": "https://diligence.security/audits/2020/01/omisego-morevp/",
+    "date": "2020-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240920200917/https://consensys.io/diligence/audits/2020/01/omisego-morevp/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/omisego-morevp_5e014dac.html",
+    "sha256": "acc0e994a6f9f6dc5441928367383fa814e45a56149c7052b3ffd9519040ea0d",
+    "size_bytes": 260145,
+    "downloaded_at": "2026-07-05T14:52:28+00:00",
+    "extra": {
+      "date_text": "January 2020",
+      "archived": true
+    },
+    "id": "consensys/omisego-morevp"
+  },
+  {
+    "source": "consensys",
+    "project": "Orchid BitwaveMultiSend",
+    "title": "Orchid BitwaveMultiSend",
+    "report_url": "https://diligence.security/audits/2020/01/orchid-bitwavemultisend/",
+    "date": "2020-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240920211326/https://consensys.io/diligence/audits/2020/01/orchid-bitwavemultisend/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/orchid-bitwavemultisend_16d841ba.html",
+    "sha256": "98e6138ef5c71fe0eba66bc99f02a492d321592d47541ee222e724d2ee7c1138",
+    "size_bytes": 129981,
+    "downloaded_at": "2026-07-05T14:52:31+00:00",
+    "extra": {
+      "date_text": "January 2020",
+      "archived": true
+    },
+    "id": "consensys/orchid-bitwavemultisend"
+  },
+  {
+    "source": "consensys",
+    "project": "Skale Token",
+    "title": "Skale Token",
+    "report_url": "https://diligence.security/audits/2020/01/skale-token/",
+    "date": "2020-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240413190814/https://consensys.io/diligence/audits/2020/01/skale-token/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/skale-token_733dca9a.html",
+    "sha256": "82b436e57c68b827bc57b4f2656b4c20b5170e425b1b34c2eda869558dc457dc",
+    "size_bytes": 181898,
+    "downloaded_at": "2026-07-05T14:52:35+00:00",
+    "extra": {
+      "date_text": "January 2020",
+      "archived": true
+    },
+    "id": "consensys/skale-token"
+  },
+  {
+    "source": "consensys",
+    "project": "The LAO",
+    "title": "The LAO",
+    "report_url": "https://diligence.security/audits/2020/01/the-lao/",
+    "date": "2020-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718060322/https://consensys.io/diligence/audits/2020/01/the-lao/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/the-lao_d94de3af.html",
+    "sha256": "f01070cc323c5a83f7dee32482211722c43b7d8ec39f32d079c9bb4cc7710b3c",
+    "size_bytes": 117821,
+    "downloaded_at": "2026-07-05T14:52:39+00:00",
+    "extra": {
+      "date_text": "January 2020",
+      "archived": true
+    },
+    "id": "consensys/the-lao"
+  },
+  {
+    "source": "consensys",
+    "project": "Vega Vegatoken",
+    "title": "Vega Vegatoken",
+    "report_url": "https://diligence.security/audits/2020/01/vega-vegatoken/",
+    "date": "2020-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230608123740/https://consensys.net/diligence/audits/2020/01/vega-vegatoken/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/vega-vegatoken_2d2f9137.html",
+    "sha256": "ad716dd3aa378947125ceea3a5cabf0e77328551a69185be62020a8503a77754",
+    "size_bytes": 65555,
+    "downloaded_at": "2026-07-05T14:52:41+00:00",
+    "extra": {
+      "date_text": "January 2020",
+      "archived": true
+    },
+    "id": "consensys/vega-vegatoken"
+  },
+  {
+    "source": "consensys",
+    "project": "Horizon Games",
+    "title": "Horizon Games",
+    "report_url": "https://diligence.security/audits/2020/02/horizon-games/",
+    "date": "2020-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251203020244/https://diligence.security/audits/2020/02/horizon-games/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/horizon-games_f0531d08.html",
+    "sha256": "16b5fe7a13462eed5fcfaedda041f899563b7d964902612960f0122f2d015f7d",
+    "size_bytes": 73104,
+    "downloaded_at": "2026-07-05T14:25:56+00:00",
+    "extra": {
+      "date_text": "February 2020",
+      "archived": true
+    },
+    "id": "consensys/horizon-games"
+  },
+  {
+    "source": "consensys",
+    "project": "Summary - Thesis: tBTC and Keep",
+    "title": "Summary - Thesis: tBTC and Keep",
+    "report_url": "https://diligence.security/audits/2020/02/summary-thesis-tbtc-and-keep/",
+    "date": "2020-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718054411/https://consensys.io/diligence/audits/2020/02/summary-thesis-tbtc-and-keep/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/summary-thesis-tbtc-and-keep_7a685696.html",
+    "sha256": "a72e0090f3ce60f44b73fac68ac7becd34ed9202c10ec23e48b812975ab69ff3",
+    "size_bytes": 46538,
+    "downloaded_at": "2026-07-05T14:52:45+00:00",
+    "extra": {
+      "date_text": "February 2020",
+      "archived": true
+    },
+    "id": "consensys/summary-thesis-tbtc-and-keep"
+  },
+  {
+    "source": "consensys",
+    "project": "Thesis - tBTC and Keep",
+    "title": "Thesis - tBTC and Keep",
+    "report_url": "https://diligence.security/audits/2020/02/thesis-tbtc-and-keep/",
+    "date": "2020-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621151022/https://consensys.io/diligence/audits/2020/02/thesis-tbtc-and-keep/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/thesis-tbtc-and-keep_f469f383.html",
+    "sha256": "63e5e3d5fd28abb247cc2c5b2089afed5479adbbab2d8c73ba4157aa8fc43367",
+    "size_bytes": 788493,
+    "downloaded_at": "2026-07-05T14:52:49+00:00",
+    "extra": {
+      "date_text": "February 2020",
+      "archived": true
+    },
+    "id": "consensys/thesis-tbtc-and-keep"
+  },
+  {
+    "source": "consensys",
+    "project": "iExec PoCo",
+    "title": "iExec PoCo",
+    "report_url": "https://diligence.security/audits/2020/03/iexec-poco/",
+    "date": "2020-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240717101634/https://consensys.io/diligence/audits/2020/03/iexec-poco/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/iexec-poco_2c72a070.html",
+    "sha256": "61a3b322d28b095721e2773a83f6fbd3d1ae983a1d637b5ae5fe162390e4f009",
+    "size_bytes": 538953,
+    "downloaded_at": "2026-07-05T14:52:54+00:00",
+    "extra": {
+      "date_text": "March 2020",
+      "archived": true
+    },
+    "id": "consensys/iexec-poco"
+  },
+  {
+    "source": "consensys",
+    "project": "Thesis - Cryptographic Review",
+    "title": "Thesis - Cryptographic Review",
+    "report_url": "https://diligence.security/audits/2020/03/thesis-cryptographic-review/",
+    "date": "2020-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251203025921/https://diligence.security/audits/2020/03/thesis-cryptographic-review/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/thesis-cryptographic-review_8c1d3ba9.html",
+    "sha256": "64f6342259df58bf378d5b4d66673aa7db3e0ba3a602a7e56ec6b143c250611e",
+    "size_bytes": 47489,
+    "downloaded_at": "2026-07-05T14:26:08+00:00",
+    "extra": {
+      "date_text": "March 2020",
+      "archived": true
+    },
+    "id": "consensys/thesis-cryptographic-review"
+  },
+  {
+    "source": "consensys",
+    "project": "rICO",
+    "title": "rICO",
+    "report_url": "https://diligence.security/audits/2020/04/rico/",
+    "date": "2020-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240624043857/https://consensys.io/diligence/audits/2020/04/rico/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/rico_c15e4452.html",
+    "sha256": "dfd65fa66459ff69cb6f76c86b96dca00a21c5d701bc64bdb983a65b3c6e4773",
+    "size_bytes": 393580,
+    "downloaded_at": "2026-07-05T14:52:58+00:00",
+    "extra": {
+      "date_text": "April 2020",
+      "archived": true
+    },
+    "id": "consensys/rico"
+  },
+  {
+    "source": "consensys",
+    "project": "Skyweaver",
+    "title": "Skyweaver",
+    "report_url": "https://diligence.security/audits/2020/04/skyweaver/",
+    "date": "2020-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240228202934/https://consensys.io/diligence/audits/2020/04/skyweaver/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/skyweaver_f396d03c.html",
+    "sha256": "edc6cb5aab5e40974f45dd62247679531c944924fefeac0ecefb4509addb9495",
+    "size_bytes": 52416,
+    "downloaded_at": "2026-07-05T14:53:00+00:00",
+    "extra": {
+      "date_text": "April 2020",
+      "archived": true
+    },
+    "id": "consensys/skyweaver"
+  },
+  {
+    "source": "consensys",
+    "project": "Aave CPM Price Provider",
+    "title": "Aave CPM Price Provider",
+    "report_url": "https://diligence.security/audits/2020/05/aave-cpm-price-provider/",
+    "date": "2020-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240920195031/https://consensys.io/diligence/audits/2020/05/aave-cpm-price-provider/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aave-cpm-price-provider_cc60b7b0.html",
+    "sha256": "df2d86a5f5d112cc7c7018f8f1701d56065a513c65bca5bac709d2623cef2782",
+    "size_bytes": 37453,
+    "downloaded_at": "2026-07-05T14:53:04+00:00",
+    "extra": {
+      "date_text": "May 2020",
+      "archived": true
+    },
+    "id": "consensys/aave-cpm-price-provider"
+  },
+  {
+    "source": "consensys",
+    "project": "Balancer Finance",
+    "title": "Balancer Finance",
+    "report_url": "https://diligence.security/audits/2020/05/balancer-finance/",
+    "date": "2020-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240715052536/https://consensys.io/diligence/audits/2020/05/balancer-finance/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "May 2020",
+      "archived": true
+    },
+    "id": "consensys/balancer-finance"
+  },
+  {
+    "source": "consensys",
+    "project": "Lien Protocol",
+    "title": "Lien Protocol",
+    "report_url": "https://diligence.security/audits/2020/05/lien-protocol/",
+    "date": "2020-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240717093556/https://consensys.io/diligence/audits/2020/05/lien-protocol/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "May 2020",
+      "archived": true
+    },
+    "id": "consensys/lien-protocol"
+  },
+  {
+    "source": "consensys",
+    "project": "MCDEX Mai Protocol V2",
+    "title": "MCDEX Mai Protocol V2",
+    "report_url": "https://diligence.security/audits/2020/05/mcdex-mai-protocol-v2/",
+    "date": "2020-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718042201/https://consensys.io/diligence/audits/2020/05/mcdex-mai-protocol-v2/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/mcdex-mai-protocol-v2_a2954d22.html",
+    "sha256": "72c2b2bea28bd3b2df1c1ec93309903f1442f8a9a92f2ab6558548f90b915fbb",
+    "size_bytes": 565657,
+    "downloaded_at": "2026-07-05T14:55:00+00:00",
+    "extra": {
+      "date_text": "May 2020",
+      "archived": true
+    },
+    "id": "consensys/mcdex-mai-protocol-v2"
+  },
+  {
+    "source": "consensys",
+    "project": "Amp",
+    "title": "Amp",
+    "report_url": "https://diligence.security/audits/2020/06/amp/",
+    "date": "2020-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230519134746/https://consensys.net/diligence/audits/2020/06/amp/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/amp_74a25287.html",
+    "sha256": "5d1775862406e38669e2764cfca6dcb91c95749a0e555668a43c3602413b4d81",
+    "size_bytes": 88420,
+    "downloaded_at": "2026-07-05T14:55:04+00:00",
+    "extra": {
+      "date_text": "June 2020",
+      "archived": true
+    },
+    "id": "consensys/amp"
+  },
+  {
+    "source": "consensys",
+    "project": "Bancor V2 AMM Security Audit",
+    "title": "Bancor V2 AMM Security Audit",
+    "report_url": "https://diligence.security/audits/2020/06/bancor-v2-amm-security-audit/",
+    "date": "2020-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240816031414/https://consensys.io/diligence/audits/2020/06/bancor-v2-amm-security-audit/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/bancor-v2-amm-security-audit_aa40351a.html",
+    "sha256": "9699c7681596e3b4a31e50d6bfa9492c68bcaf81d718a09b6936daef35fad755",
+    "size_bytes": 81664,
+    "downloaded_at": "2026-07-05T14:55:07+00:00",
+    "extra": {
+      "date_text": "June 2020",
+      "archived": true
+    },
+    "id": "consensys/bancor-v2-amm-security-audit"
+  },
+  {
+    "source": "consensys",
+    "project": "Codefi ERC1400 Assessment",
+    "title": "Codefi ERC1400 Assessment",
+    "report_url": "https://diligence.security/audits/2020/06/codefi-erc1400-assessment/",
+    "date": "2020-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240520194323/https://consensys.io/diligence/audits/2020/06/codefi-erc1400-assessment/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/codefi-erc1400-assessment_76b47066.html",
+    "sha256": "dcef63ad1708871e9b41e6156efacc45431c8291229da8a3235f0cb5ab494146",
+    "size_bytes": 388656,
+    "downloaded_at": "2026-07-05T14:55:12+00:00",
+    "extra": {
+      "date_text": "June 2020",
+      "archived": true
+    },
+    "id": "consensys/codefi-erc1400-assessment"
+  },
+  {
+    "source": "consensys",
+    "project": "Shell Protocol",
+    "title": "Shell Protocol",
+    "report_url": "https://diligence.security/audits/2020/06/shell-protocol/",
+    "date": "2020-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230519132503/https://consensys.net/diligence/audits/2020/06/shell-protocol/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/shell-protocol_19137e6c.html",
+    "sha256": "7c4eb92cdaf98871de7c67d93561d410fc74408ad2b3593d90f5500fdba8a3cc",
+    "size_bytes": 376151,
+    "downloaded_at": "2026-07-05T14:55:15+00:00",
+    "extra": {
+      "date_text": "June 2020",
+      "archived": true
+    },
+    "id": "consensys/shell-protocol"
+  },
+  {
+    "source": "consensys",
+    "project": "Aave Token",
+    "title": "Aave Token",
+    "report_url": "https://diligence.security/audits/2020/07/aave-token/",
+    "date": "2020-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240911192200/https://consensys.io/diligence/audits/2020/07/aave-token/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aave-token_7a4a2354.html",
+    "sha256": "9b7ea29432a46bd86cf5d51f9b1b449565843d5d830be232723d1b744001313a",
+    "size_bytes": 70850,
+    "downloaded_at": "2026-07-05T14:55:25+00:00",
+    "extra": {
+      "date_text": "July 2020",
+      "archived": true
+    },
+    "id": "consensys/aave-token"
+  },
+  {
+    "source": "consensys",
+    "project": "mStable 1.1",
+    "title": "mStable 1.1",
+    "report_url": "https://diligence.security/audits/2020/07/mstable-1.1/",
+    "date": "2020-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260207152128/https://diligence.security/audits/2020/07/mstable-1.1/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/mstable-1-1_9016e4f3.html",
+    "sha256": "c5084b2657f2f348c4e4e661cedc3759e78a960c057ae0f080835b5932e9e533",
+    "size_bytes": 127337,
+    "downloaded_at": "2026-07-05T14:26:47+00:00",
+    "extra": {
+      "date_text": "July 2020",
+      "archived": true
+    },
+    "id": "consensys/mstable-1-1"
+  },
+  {
+    "source": "consensys",
+    "project": "Aave Balancer and Uniswap v2 Price Providers",
+    "title": "Aave Balancer and Uniswap v2 Price Providers",
+    "report_url": "https://diligence.security/audits/2020/08/aave-balancer-and-uniswap-v2-price-providers/",
+    "date": "2020-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240624043011/https://consensys.io/diligence/audits/2020/08/aave-balancer-and-uniswap-v2-price-providers/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aave-balancer-and-uniswap-v2-price-providers_c01e5fd4.html",
+    "sha256": "4c6824af25a128962ece154d817d810baf05146ba14ef29b5f5f2d200e0c5d92",
+    "size_bytes": 70216,
+    "downloaded_at": "2026-07-05T14:55:30+00:00",
+    "extra": {
+      "date_text": "August 2020",
+      "archived": true
+    },
+    "id": "consensys/aave-balancer-and-uniswap-v2-price-providers"
+  },
+  {
+    "source": "consensys",
+    "project": "Aave Governance Dao",
+    "title": "Aave Governance Dao",
+    "report_url": "https://diligence.security/audits/2020/08/aave-governance-dao/",
+    "date": "2020-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240622193835/https://consensys.io/diligence/audits/2020/08/aave-governance-dao/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aave-governance-dao_3b394d13.html",
+    "sha256": "82118a7b0f516ca56e7cae262f1fd304d216cf16ac51a6e1d6388353b38e3ab9",
+    "size_bytes": 139650,
+    "downloaded_at": "2026-07-05T14:55:33+00:00",
+    "extra": {
+      "date_text": "August 2020",
+      "archived": true
+    },
+    "id": "consensys/aave-governance-dao"
+  },
+  {
+    "source": "consensys",
+    "project": "Metaswap",
+    "title": "Metaswap",
+    "report_url": "https://diligence.security/audits/2020/08/metaswap/",
+    "date": "2020-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240906205511/https://consensys.io/diligence/audits/2020/08/metaswap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metaswap_05a4e318.html",
+    "sha256": "fc13a7fe1fb8624ae5ce62cf99d1a5557fcb5cc7669986a8a85aa49c2edfa9c0",
+    "size_bytes": 75059,
+    "downloaded_at": "2026-07-05T14:55:45+00:00",
+    "extra": {
+      "date_text": "August 2020",
+      "archived": true
+    },
+    "id": "consensys/metaswap"
+  },
+  {
+    "source": "consensys",
+    "project": "Aave Protocol V2",
+    "title": "Aave Protocol V2",
+    "report_url": "https://diligence.security/audits/2020/09/aave-protocol-v2/",
+    "date": "2020-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621142550/https://consensys.io/diligence/audits/2020/09/aave-protocol-v2/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aave-protocol-v2_cc4f1a00.html",
+    "sha256": "5fbb8284fa4d2f68e1810f1cf758278853fb21367b539007805666f0bc39b73c",
+    "size_bytes": 111958,
+    "downloaded_at": "2026-07-05T14:55:48+00:00",
+    "extra": {
+      "date_text": "September 2020",
+      "archived": true
+    },
+    "id": "consensys/aave-protocol-v2"
+  },
+  {
+    "source": "consensys",
+    "project": "Aave Safety Module",
+    "title": "Aave Safety Module",
+    "report_url": "https://diligence.security/audits/2020/09/aave-safety-module/",
+    "date": "2020-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240622180216/https://consensys.io/diligence/audits/2020/09/aave-safety-module/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aave-safety-module_58aadff2.html",
+    "sha256": "835bd96d977fe8012edc1781766a90ae603900e30b5ee8c252a0cebb2b6762ba",
+    "size_bytes": 58736,
+    "downloaded_at": "2026-07-05T14:55:51+00:00",
+    "extra": {
+      "date_text": "September 2020",
+      "archived": true
+    },
+    "id": "consensys/aave-safety-module"
+  },
+  {
+    "source": "consensys",
+    "project": "Filecoin Actors",
+    "title": "Filecoin Actors",
+    "report_url": "https://diligence.security/audits/2020/09/filecoin-actors/",
+    "date": "2020-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251226095320/https://diligence.security/audits/2020/09/filecoin-actors/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/filecoin-actors_e0d4972c.html",
+    "sha256": "f3d24be9395bf3d95a281f769a562dfbf681614a8e05dabf2d1c8feebf35e196",
+    "size_bytes": 71920,
+    "downloaded_at": "2026-07-05T14:27:10+00:00",
+    "extra": {
+      "date_text": "September 2020",
+      "archived": true
+    },
+    "id": "consensys/filecoin-actors"
+  },
+  {
+    "source": "consensys",
+    "project": "Skale Network",
+    "title": "Skale Network",
+    "report_url": "https://diligence.security/audits/2020/10/skale-network/",
+    "date": "2020-10",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240613235204/https://consensys.io/diligence/audits/2020/10/skale-network/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/skale-network_9578f763.html",
+    "sha256": "4ef6c812b42445825c4d964e9124d4030ebb0b2dfccf2de7c44f22c8e290cc05",
+    "size_bytes": 93684,
+    "downloaded_at": "2026-07-05T14:55:54+00:00",
+    "extra": {
+      "date_text": "October 2020",
+      "archived": true
+    },
+    "id": "consensys/skale-network"
+  },
+  {
+    "source": "consensys",
+    "project": "bitbank",
+    "title": "bitbank",
+    "report_url": "https://diligence.security/audits/2020/11/bitbank/",
+    "date": "2020-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240920213419/https://consensys.io/diligence/audits/2020/11/bitbank/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/bitbank_49d652db.html",
+    "sha256": "f4b9408c9502571fb9f4d762132f5d553f457b8e9c418b5ada7747c88730761c",
+    "size_bytes": 37558,
+    "downloaded_at": "2026-07-05T14:56:01+00:00",
+    "extra": {
+      "date_text": "November 2020",
+      "archived": true
+    },
+    "id": "consensys/bitbank"
+  },
+  {
+    "source": "consensys",
+    "project": "Paxos",
+    "title": "Paxos",
+    "report_url": "https://diligence.security/audits/2020/11/paxos/",
+    "date": "2020-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621151509/https://consensys.io/diligence/audits/2020/11/paxos/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/paxos_f9a31716.html",
+    "sha256": "d15d9c269746f27f3effce253fccf0d5584b453f4bc262acfba7b9a685d9bed9",
+    "size_bytes": 35832,
+    "downloaded_at": "2026-07-05T14:56:04+00:00",
+    "extra": {
+      "date_text": "November 2020",
+      "archived": true
+    },
+    "id": "consensys/paxos"
+  },
+  {
+    "source": "consensys",
+    "project": "Pillar",
+    "title": "Pillar",
+    "report_url": "https://diligence.security/audits/2020/11/pillar/",
+    "date": "2020-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240908131202/https://consensys.io/diligence/audits/2020/11/pillar/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/pillar_aaa34867.html",
+    "sha256": "67441bb77b4b137d70506fad80a177e3d049d3f4d75192ecdc4fcb5e0a19d026",
+    "size_bytes": 73692,
+    "downloaded_at": "2026-07-05T14:56:07+00:00",
+    "extra": {
+      "date_text": "November 2020",
+      "archived": true
+    },
+    "id": "consensys/pillar"
+  },
+  {
+    "source": "consensys",
+    "project": "PoolTogether - LootBox and MultipleWinners Strategy",
+    "title": "PoolTogether - LootBox and MultipleWinners Strategy",
+    "report_url": "https://diligence.security/audits/2020/11/pooltogether-lootbox-and-multiplewinners-strategy/",
+    "date": "2020-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621125119/https://consensys.io/diligence/audits/2020/11/pooltogether-lootbox-and-multiplewinners-strategy/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/pooltogether-lootbox-and-multiplewinners-strategy_eaa55b25.html",
+    "sha256": "62a08649ab84ad1ffd8604d90b0111cd376f0292612da697a92c583d2b07c6ec",
+    "size_bytes": 196715,
+    "downloaded_at": "2026-07-05T14:56:12+00:00",
+    "extra": {
+      "date_text": "November 2020",
+      "archived": true
+    },
+    "id": "consensys/pooltogether-lootbox-and-multiplewinners-strategy"
+  },
+  {
+    "source": "consensys",
+    "project": "0x Exchange v4",
+    "title": "0x Exchange v4",
+    "report_url": "https://diligence.security/audits/2020/12/0x-exchange-v4/",
+    "date": "2020-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811162442/https://consensys.io/diligence/audits/2020/12/0x-exchange-v4/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/0x-exchange-v4_0b378b1a.html",
+    "sha256": "ca62d562010925189a4dcda16bc8cecc20db367b6e3037bdeb24eb975b8600c2",
+    "size_bytes": 67294,
+    "downloaded_at": "2026-07-05T14:56:16+00:00",
+    "extra": {
+      "date_text": "December 2020",
+      "archived": true
+    },
+    "id": "consensys/0x-exchange-v4"
+  },
+  {
+    "source": "consensys",
+    "project": "1inch Liquidity Protocol",
+    "title": "1inch Liquidity Protocol",
+    "report_url": "https://diligence.security/audits/2020/12/1inch-liquidity-protocol/",
+    "date": "2020-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240804184316/https://consensys.io/diligence/audits/2020/12/1inch-liquidity-protocol/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/1inch-liquidity-protocol_d769f47a.html",
+    "sha256": "f3f675db7a82d9025d1dfbe9821259f6b62d5534b370391912e4a29901ae0f75",
+    "size_bytes": 147085,
+    "downloaded_at": "2026-07-05T14:56:26+00:00",
+    "extra": {
+      "date_text": "December 2020",
+      "archived": true
+    },
+    "id": "consensys/1inch-liquidity-protocol"
+  },
+  {
+    "source": "consensys",
+    "project": "Growth Defi V1",
+    "title": "Growth Defi V1",
+    "report_url": "https://diligence.security/audits/2020/12/growth-defi-v1/",
+    "date": "2020-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240624025924/https://consensys.io/diligence/audits/2020/12/growth-defi-v1/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/growth-defi-v1_8fc83a64.html",
+    "sha256": "ddb82e1b60452a7d305830924a10e44f00e25285730bff9db55ab95c29c457a1",
+    "size_bytes": 63446,
+    "downloaded_at": "2026-07-05T14:56:29+00:00",
+    "extra": {
+      "date_text": "December 2020",
+      "archived": true
+    },
+    "id": "consensys/growth-defi-v1"
+  },
+  {
+    "source": "consensys",
+    "project": "Orchid Multisend",
+    "title": "Orchid Multisend",
+    "report_url": "https://diligence.security/audits/2020/12/orchid-multisend/",
+    "date": "2020-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240413195920/https://consensys.io/diligence/audits/2020/12/orchid-multisend/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/orchid-multisend_7c0cc025.html",
+    "sha256": "c9138263f033ae0efe5c9f6e3af36afdac4f1958e53b16f31c762dd2906e4b57",
+    "size_bytes": 30067,
+    "downloaded_at": "2026-07-05T14:56:33+00:00",
+    "extra": {
+      "date_text": "December 2020",
+      "archived": true
+    },
+    "id": "consensys/orchid-multisend"
+  },
+  {
+    "source": "consensys",
+    "project": "eRLC iExec",
+    "title": "eRLC iExec",
+    "report_url": "https://diligence.security/audits/2021/01/erlc-iexec/",
+    "date": "2021-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230331024722/https://consensys.net/diligence/audits/2021/01/erlc-iexec/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "January 2021",
+      "archived": true
+    },
+    "id": "consensys/erlc-iexec"
+  },
+  {
+    "source": "consensys",
+    "project": "Fei Protocol",
+    "title": "Fei Protocol",
+    "report_url": "https://diligence.security/audits/2021/01/fei-protocol/",
+    "date": "2021-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240413182156/https://consensys.io/diligence/audits/2021/01/fei-protocol/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "January 2021",
+      "archived": true
+    },
+    "id": "consensys/fei-protocol"
+  },
+  {
+    "source": "consensys",
+    "project": "DAOfi",
+    "title": "DAOfi",
+    "report_url": "https://diligence.security/audits/2021/02/daofi/",
+    "date": "2021-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230327012132/https://consensys.net/diligence/audits/2021/02/daofi/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/daofi_1ea7f0c8.html",
+    "sha256": "48a3172dcd9352e941caaa4b2c44cdd36354d8d1bd423d446d7c9bd3d04287da",
+    "size_bytes": 74744,
+    "downloaded_at": "2026-07-05T14:58:04+00:00",
+    "extra": {
+      "date_text": "February 2021",
+      "archived": true
+    },
+    "id": "consensys/daofi"
+  },
+  {
+    "source": "consensys",
+    "project": "Definer",
+    "title": "Definer",
+    "report_url": "https://diligence.security/audits/2021/02/definer/",
+    "date": "2021-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240529043957/https://consensys.io/diligence/audits/2021/02/definer/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/definer_33b642f0.html",
+    "sha256": "14309a884f2648b96d435ea156e2ab3b2c156165587a16ae94117b7ff443496b",
+    "size_bytes": 97308,
+    "downloaded_at": "2026-07-05T14:58:07+00:00",
+    "extra": {
+      "date_text": "February 2021",
+      "archived": true
+    },
+    "id": "consensys/definer"
+  },
+  {
+    "source": "consensys",
+    "project": "PoolTogether",
+    "title": "PoolTogether",
+    "report_url": "https://diligence.security/audits/2021/02/pooltogether/",
+    "date": "2021-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240420094651/https://consensys.io/diligence/audits/2021/02/pooltogether/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/pooltogether_63948bac.html",
+    "sha256": "a325ce7d174de49fc74838c1b5541d17cd5d866d16a2343825affb05a8915762",
+    "size_bytes": 48835,
+    "downloaded_at": "2026-07-05T14:58:12+00:00",
+    "extra": {
+      "date_text": "February 2021",
+      "archived": true
+    },
+    "id": "consensys/pooltogether"
+  },
+  {
+    "source": "consensys",
+    "project": "Bridge Mutual",
+    "title": "Bridge Mutual",
+    "report_url": "https://diligence.security/audits/2021/03/bridge-mutual/",
+    "date": "2021-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260214165500/https://diligence.security/audits/2021/03/bridge-mutual/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/bridge-mutual_8ade2a2c.html",
+    "sha256": "1b3ecbdaf4b744d0b28a4e75565a836a54e888e1452dc293ee7d9282468b6b84",
+    "size_bytes": 229774,
+    "downloaded_at": "2026-07-05T14:28:06+00:00",
+    "extra": {
+      "date_text": "March 2021",
+      "archived": true
+    },
+    "id": "consensys/bridge-mutual"
+  },
+  {
+    "source": "consensys",
+    "project": "DeFi Saver",
+    "title": "DeFi Saver",
+    "report_url": "https://diligence.security/audits/2021/03/defi-saver/",
+    "date": "2021-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240529043323/https://consensys.io/diligence/audits/2021/03/defi-saver/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/defi-saver_2e01eafe.html",
+    "sha256": "11f5927ca18f16d092eb04ad48ea8f851ef3733963138f44f82e4eb71a2e4b10",
+    "size_bytes": 154419,
+    "downloaded_at": "2026-07-05T14:58:27+00:00",
+    "extra": {
+      "date_text": "March 2021",
+      "archived": true
+    },
+    "id": "consensys/defi-saver"
+  },
+  {
+    "source": "consensys",
+    "project": "dForce Lending Protocol Review",
+    "title": "dForce Lending Protocol Review",
+    "report_url": "https://diligence.security/audits/2021/03/dforce-lending-protocol-review/",
+    "date": "2021-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718053311/https://consensys.io/diligence/audits/2021/03/dforce-lending-protocol-review/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/dforce-lending-protocol-review_e6f37c30.html",
+    "sha256": "f9f4a22feca3bf76858516cb778031365e7030934909de95d911212800e8755d",
+    "size_bytes": 116895,
+    "downloaded_at": "2026-07-05T14:58:33+00:00",
+    "extra": {
+      "date_text": "March 2021",
+      "archived": true
+    },
+    "id": "consensys/dforce-lending-protocol-review"
+  },
+  {
+    "source": "consensys",
+    "project": "Optimism SafetyChecker",
+    "title": "Optimism SafetyChecker",
+    "report_url": "https://diligence.security/audits/2021/03/optimism-safetychecker/",
+    "date": "2021-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230609225805/https://consensys.net/diligence/audits/2021/03/optimism-safetychecker/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/optimism-safetychecker_33102d43.html",
+    "sha256": "7c2a4ed900e988f186a00c936d16ec948bd349f9f806c012415c22cb0266c99a",
+    "size_bytes": 120327,
+    "downloaded_at": "2026-07-05T14:58:37+00:00",
+    "extra": {
+      "date_text": "March 2021",
+      "archived": true
+    },
+    "id": "consensys/optimism-safetychecker"
+  },
+  {
+    "source": "consensys",
+    "project": "PoolTogether - Pods",
+    "title": "PoolTogether - Pods",
+    "report_url": "https://diligence.security/audits/2021/03/pooltogether-pods/",
+    "date": "2021-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230326235324/https://consensys.net/diligence/audits/2021/03/pooltogether-pods/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/pooltogether-pods_89582d76.html",
+    "sha256": "81a4c50662c4b4da1e530fb9fd57e02b2835a9f968f2898896e1deef3eaec696",
+    "size_bytes": 55301,
+    "downloaded_at": "2026-07-05T14:58:43+00:00",
+    "extra": {
+      "date_text": "March 2021",
+      "archived": true
+    },
+    "id": "consensys/pooltogether-pods"
+  },
+  {
+    "source": "consensys",
+    "project": "Umbra Smart Contracts",
+    "title": "Umbra Smart Contracts",
+    "report_url": "https://diligence.security/audits/2021/03/umbra-smart-contracts/",
+    "date": "2021-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251219075955/https://diligence.security/audits/2021/03/umbra-smart-contracts/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/umbra-smart-contracts_a2a2a7b7.html",
+    "sha256": "1b852e14bda959ca90446a0a6fde950a067a62d2801fd3af3ba37dd4a91bbf31",
+    "size_bytes": 64780,
+    "downloaded_at": "2026-07-05T14:28:23+00:00",
+    "extra": {
+      "date_text": "March 2021",
+      "archived": true
+    },
+    "id": "consensys/umbra-smart-contracts"
+  },
+  {
+    "source": "consensys",
+    "project": "Gitcoin Token Distribution",
+    "title": "Gitcoin Token Distribution",
+    "report_url": "https://diligence.security/audits/2021/04/gitcoin-token-distribution/",
+    "date": "2021-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240717091946/https://consensys.io/diligence/audits/2021/04/gitcoin-token-distribution/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/gitcoin-token-distribution_f29e54cf.html",
+    "sha256": "0b2d6b5ca672e39e14909af7a2550a2fcb6cc54a5e0f000e81d961fe9362a947",
+    "size_bytes": 71071,
+    "downloaded_at": "2026-07-05T14:58:46+00:00",
+    "extra": {
+      "date_text": "April 2021",
+      "archived": true
+    },
+    "id": "consensys/gitcoin-token-distribution"
+  },
+  {
+    "source": "consensys",
+    "project": "Rocketpool",
+    "title": "Rocketpool",
+    "report_url": "https://diligence.security/audits/2021/04/rocketpool/",
+    "date": "2021-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251219065354/https://diligence.security/audits/2021/04/rocketpool/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/rocketpool_cc6da56e.html",
+    "sha256": "30df37a9668a2fe813d86fad787054b97dfeffd2ba5fda109e4c8b59c734e287",
+    "size_bytes": 522349,
+    "downloaded_at": "2026-07-05T14:28:33+00:00",
+    "extra": {
+      "date_text": "April 2021",
+      "archived": true
+    },
+    "id": "consensys/rocketpool"
+  },
+  {
+    "source": "consensys",
+    "project": "Nuts Finance BTCPlus",
+    "title": "Nuts Finance BTCPlus",
+    "report_url": "https://diligence.security/audits/2021/05/nuts-finance-btcplus/",
+    "date": "2021-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240717095627/https://consensys.io/diligence/audits/2021/05/nuts-finance-btcplus/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/nuts-finance-btcplus_8d68e2e0.html",
+    "sha256": "64df18d18c3f3b5f0244e3c6b96e728477e53325ac80df727c45f7b5df412521",
+    "size_bytes": 59369,
+    "downloaded_at": "2026-07-05T14:58:50+00:00",
+    "extra": {
+      "date_text": "May 2021",
+      "archived": true
+    },
+    "id": "consensys/nuts-finance-btcplus"
+  },
+  {
+    "source": "consensys",
+    "project": "PoolTogether — Sushi and Yearn V2 Yield Sources",
+    "title": "PoolTogether — Sushi and Yearn V2 Yield Sources",
+    "report_url": "https://diligence.security/audits/2021/05/pooltogether-sushi-and-yearn-v2-yield-sources/",
+    "date": "2021-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811162146/https://consensys.io/diligence/audits/2021/05/pooltogether-sushi-and-yearn-v2-yield-sources/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/pooltogether-sushi-and-yearn-v2-yield-sources_a39a7603.html",
+    "sha256": "e18828678f1aaa5d1b06f9ddcc4651f5d90214b125bb090ce63f5619d87cfc90",
+    "size_bytes": 67345,
+    "downloaded_at": "2026-07-05T14:59:12+00:00",
+    "extra": {
+      "date_text": "May 2021",
+      "archived": true
+    },
+    "id": "consensys/pooltogether-sushi-and-yearn-v2-yield-sources"
+  },
+  {
+    "source": "consensys",
+    "project": "Zer0 - zAuction",
+    "title": "Zer0 - zAuction",
+    "report_url": "https://diligence.security/audits/2021/05/zer0-zauction/",
+    "date": "2021-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718045448/https://consensys.io/diligence/audits/2021/05/zer0-zauction/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/zer0-zauction_49536b14.html",
+    "sha256": "d741b28233f1b0e6ee03f2abee06fd8b61036e9adbc3827f285d06fea417db2b",
+    "size_bytes": 141428,
+    "downloaded_at": "2026-07-05T14:59:20+00:00",
+    "extra": {
+      "date_text": "May 2021",
+      "archived": true
+    },
+    "id": "consensys/zer0-zauction"
+  },
+  {
+    "source": "consensys",
+    "project": "Zer0 - zBanc",
+    "title": "Zer0 - zBanc",
+    "report_url": "https://diligence.security/audits/2021/05/zer0-zbanc/",
+    "date": "2021-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240613234602/https://consensys.io/diligence/audits/2021/05/zer0-zbanc/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/zer0-zbanc_60ab1b0f.html",
+    "sha256": "5eedba6232eae8ed6aeb6ec4ea1dc926d98ee27a6a23c0031d6afb2e1c4ac8c5",
+    "size_bytes": 123382,
+    "downloaded_at": "2026-07-05T14:59:24+00:00",
+    "extra": {
+      "date_text": "May 2021",
+      "archived": true
+    },
+    "id": "consensys/zer0-zbanc"
+  },
+  {
+    "source": "consensys",
+    "project": "Zer0 - zDAO Token",
+    "title": "Zer0 - zDAO Token",
+    "report_url": "https://diligence.security/audits/2021/05/zer0-zdao-token/",
+    "date": "2021-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811162834/https://consensys.io/diligence/audits/2021/05/zer0-zdao-token/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/zer0-zdao-token_84949517.html",
+    "sha256": "1eaea1586f6afcd2dbccbad3d2f7b7ef79f3c028985a8c3c66c0dd9232ee2489",
+    "size_bytes": 72403,
+    "downloaded_at": "2026-07-05T14:59:27+00:00",
+    "extra": {
+      "date_text": "May 2021",
+      "archived": true
+    },
+    "id": "consensys/zer0-zdao-token"
+  },
+  {
+    "source": "consensys",
+    "project": "Zer0 - zNS",
+    "title": "Zer0 - zNS",
+    "report_url": "https://diligence.security/audits/2021/05/zer0-zns/",
+    "date": "2021-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811163209/https://consensys.io/diligence/audits/2021/05/zer0-zns/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/zer0-zns_dd0bfcbd.html",
+    "sha256": "9c0e171c896f4e7287c38f568492c0b3bc18e866504015658f038ab4b133aa23",
+    "size_bytes": 136263,
+    "downloaded_at": "2026-07-05T14:59:30+00:00",
+    "extra": {
+      "date_text": "May 2021",
+      "archived": true
+    },
+    "id": "consensys/zer0-zns"
+  },
+  {
+    "source": "consensys",
+    "project": "GrowthDeFi WHEAT",
+    "title": "GrowthDeFi WHEAT",
+    "report_url": "https://diligence.security/audits/2021/06/growthdefi-wheat/",
+    "date": "2021-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240917105717/https://consensys.io/diligence/audits/2021/06/growthdefi-wheat/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/growthdefi-wheat_810a0491.html",
+    "sha256": "64a37d6e8af446758036986374cd5fb2d76577bb6945e89ae78388a9a3f67077",
+    "size_bytes": 107004,
+    "downloaded_at": "2026-07-05T14:59:33+00:00",
+    "extra": {
+      "date_text": "June 2021",
+      "archived": true
+    },
+    "id": "consensys/growthdefi-wheat"
+  },
+  {
+    "source": "consensys",
+    "project": "Idle Finance",
+    "title": "Idle Finance",
+    "report_url": "https://diligence.security/audits/2021/06/idle-finance/",
+    "date": "2021-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240520153848/https://consensys.io/diligence/audits/2021/06/idle-finance/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/idle-finance_74aa430f.html",
+    "sha256": "c66cdafa84bd381a9da6e3ec13504b55108e67fee208e4a91dd97d2fdf738b02",
+    "size_bytes": 70511,
+    "downloaded_at": "2026-07-05T14:59:38+00:00",
+    "extra": {
+      "date_text": "June 2021",
+      "archived": true
+    },
+    "id": "consensys/idle-finance"
+  },
+  {
+    "source": "consensys",
+    "project": "Connext NXTP — Noncustodial Xchain Transfer Protocol",
+    "title": "Connext NXTP — Noncustodial Xchain Transfer Protocol",
+    "report_url": "https://diligence.security/audits/2021/07/connext-nxtp-noncustodial-xchain-transfer-protocol/",
+    "date": "2021-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811162313/https://consensys.io/diligence/audits/2021/07/connext-nxtp-noncustodial-xchain-transfer-protocol/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/connext-nxtp-noncustodial-xchain-transfer-protocol_f3059ba5.html",
+    "sha256": "9475df59ee24b4ebb500a249b71a06637521eae4a9d913c0e24658edc88388d4",
+    "size_bytes": 212059,
+    "downloaded_at": "2026-07-05T14:59:40+00:00",
+    "extra": {
+      "date_text": "July 2021",
+      "archived": true
+    },
+    "id": "consensys/connext-nxtp-noncustodial-xchain-transfer-protocol"
+  },
+  {
+    "source": "consensys",
+    "project": "Fei Tribechief",
+    "title": "Fei Tribechief",
+    "report_url": "https://diligence.security/audits/2021/07/fei-tribechief/",
+    "date": "2021-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621130746/https://consensys.io/diligence/audits/2021/07/fei-tribechief/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/fei-tribechief_e1033574.html",
+    "sha256": "999e9cc1fddaa2603f788860423af2ed115d8c835962fd922158a687f0c5f932",
+    "size_bytes": 75774,
+    "downloaded_at": "2026-07-05T14:59:43+00:00",
+    "extra": {
+      "date_text": "July 2021",
+      "archived": true
+    },
+    "id": "consensys/fei-tribechief"
+  },
+  {
+    "source": "consensys",
+    "project": "pSTAKE Finance",
+    "title": "pSTAKE Finance",
+    "report_url": "https://diligence.security/audits/2021/08/pstake-finance/",
+    "date": "2021-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260305135348/https://diligence.security/audits/2021/08/pstake-finance/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/pstake-finance_e808e2e1.html",
+    "sha256": "ac4cffaed91f1e0467aec1d31c0859b788847609ea82f5c9b11a80287eedb2c8",
+    "size_bytes": 117830,
+    "downloaded_at": "2026-07-05T14:29:06+00:00",
+    "extra": {
+      "date_text": "August 2021",
+      "archived": true
+    },
+    "id": "consensys/pstake-finance"
+  },
+  {
+    "source": "consensys",
+    "project": "Fei Protocol v2 Phase 1",
+    "title": "Fei Protocol v2 Phase 1",
+    "report_url": "https://diligence.security/audits/2021/09/fei-protocol-v2-phase-1/",
+    "date": "2021-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260221170912/https://diligence.security/audits/2021/09/fei-protocol-v2-phase-1/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/fei-protocol-v2-phase-1_94f63e58.html",
+    "sha256": "c35e9d54bfa1953e29bcd6b944dfc666b5210689a44f5bb147991868db021699",
+    "size_bytes": 165575,
+    "downloaded_at": "2026-07-05T14:29:18+00:00",
+    "extra": {
+      "date_text": "September 2021",
+      "archived": true
+    },
+    "id": "consensys/fei-protocol-v2-phase-1"
+  },
+  {
+    "source": "consensys",
+    "project": "Gluwacoin ERC-20 Wrapper",
+    "title": "Gluwacoin ERC-20 Wrapper",
+    "report_url": "https://diligence.security/audits/2021/10/gluwacoin-erc-20-wrapper/",
+    "date": "2021-10",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718041504/https://consensys.io/diligence/audits/2021/10/gluwacoin-erc-20-wrapper/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/gluwacoin-erc-20-wrapper_a29c6573.html",
+    "sha256": "e2030ece4c53d379e8cb7c2d604efcbf08a4f84ea4bd6f83379727be7b056891",
+    "size_bytes": 58028,
+    "downloaded_at": "2026-07-05T14:59:48+00:00",
+    "extra": {
+      "date_text": "October 2021",
+      "archived": true
+    },
+    "id": "consensys/gluwacoin-erc-20-wrapper"
+  },
+  {
+    "source": "consensys",
+    "project": "Gamma",
+    "title": "Gamma",
+    "report_url": "https://diligence.security/audits/2022/02/gamma/",
+    "date": "2022-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230608191604/https://consensys.net/diligence/audits/2022/02/gamma/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/gamma_67bfce49.html",
+    "sha256": "f76256269790f9ab0052f1c42ae5b019c8b5b3e01d6fd76c12372bad7429feb0",
+    "size_bytes": 93034,
+    "downloaded_at": "2026-07-05T15:00:01+00:00",
+    "extra": {
+      "date_text": "February 2022",
+      "archived": true
+    },
+    "id": "consensys/gamma"
+  },
+  {
+    "source": "consensys",
+    "project": "Fuji Protocol",
+    "title": "Fuji Protocol",
+    "report_url": "https://diligence.security/audits/2022/03/fuji-protocol/",
+    "date": "2022-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230614195203/https://consensys.net/diligence/audits/2022/03/fuji-protocol/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "March 2022",
+      "archived": true
+    },
+    "id": "consensys/fuji-protocol"
+  },
+  {
+    "source": "consensys",
+    "project": "Notional Protocol V2.1",
+    "title": "Notional Protocol V2.1",
+    "report_url": "https://diligence.security/audits/2022/03/notional-protocol-v2.1/",
+    "date": "2022-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240414134415/https://consensys.io/diligence/audits/2022/03/notional-protocol-v2.1/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/notional-protocol-v2-1_73b71e62.html",
+    "sha256": "14d623add6959652ab2ed5140b90148e31605caa1b6ebe859c316284dca41c25",
+    "size_bytes": 33782,
+    "downloaded_at": "2026-07-05T15:01:20+00:00",
+    "extra": {
+      "date_text": "March 2022",
+      "archived": true
+    },
+    "id": "consensys/notional-protocol-v2-1"
+  },
+  {
+    "source": "consensys",
+    "project": "Tribe DAO - Flywheel v2, xTRIBE, xERC4626",
+    "title": "Tribe DAO - Flywheel v2, xTRIBE, xERC4626",
+    "report_url": "https://diligence.security/audits/2022/04/tribe-dao-flywheel-v2-xtribe-xerc4626/",
+    "date": "2022-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240804190034/https://consensys.io/diligence/audits/2022/04/tribe-dao-flywheel-v2-xtribe-xerc4626/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/tribe-dao-flywheel-v2-xtribe-xerc4626_223b7f57.html",
+    "sha256": "af95eae708fcb96482df24c60b507fff0df2244b5165d70baa610dd47c4efa5e",
+    "size_bytes": 79723,
+    "downloaded_at": "2026-07-05T15:01:23+00:00",
+    "extra": {
+      "date_text": "April 2022",
+      "archived": true
+    },
+    "id": "consensys/tribe-dao-flywheel-v2-xtribe-xerc4626"
+  },
+  {
+    "source": "consensys",
+    "project": "Brahma Fi",
+    "title": "Brahma Fi",
+    "report_url": "https://diligence.security/audits/2022/05/brahma-fi/",
+    "date": "2022-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20230326094056/https://consensys.net/diligence/audits/2022/05/brahma-fi/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/brahma-fi_113ab9bc.html",
+    "sha256": "f2bb04802a289328a37526d509beb6cbf264c2355ce88d049adfa189fb70abb7",
+    "size_bytes": 126633,
+    "downloaded_at": "2026-07-05T15:01:35+00:00",
+    "extra": {
+      "date_text": "May 2022",
+      "archived": true
+    },
+    "id": "consensys/brahma-fi"
+  },
+  {
+    "source": "consensys",
+    "project": "Notional Finance",
+    "title": "Notional Finance",
+    "report_url": "https://diligence.security/audits/2022/07/notional-finance/",
+    "date": "2022-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811163331/https://consensys.io/diligence/audits/2022/07/notional-finance/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/notional-finance_3e3ee9f9.html",
+    "sha256": "ed8441c96c879a309c3c671d6e37a42f6d802ab0d2fb260f2500fecd3a048b8c",
+    "size_bytes": 131244,
+    "downloaded_at": "2026-07-05T15:01:41+00:00",
+    "extra": {
+      "date_text": "July 2022",
+      "archived": true
+    },
+    "id": "consensys/notional-finance"
+  },
+  {
+    "source": "consensys",
+    "project": "1inch Exchange AggregationRouter V5",
+    "title": "1inch Exchange AggregationRouter V5",
+    "report_url": "https://diligence.security/audits/2022/08/1inch-exchange-aggregationrouter-v5/",
+    "date": "2022-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718060719/https://consensys.io/diligence/audits/2022/08/1inch-exchange-aggregationrouter-v5/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/1inch-exchange-aggregationrouter-v5_84eb3f2d.html",
+    "sha256": "edb475a13c75f095db1983b86fc2a3c5c50fd435fccfb41fee67d76ef224d168",
+    "size_bytes": 99057,
+    "downloaded_at": "2026-07-05T15:01:46+00:00",
+    "extra": {
+      "date_text": "August 2022",
+      "archived": true
+    },
+    "id": "consensys/1inch-exchange-aggregationrouter-v5"
+  },
+  {
+    "source": "consensys",
+    "project": "Forta Delegated Staking",
+    "title": "Forta Delegated Staking",
+    "report_url": "https://diligence.security/audits/2022/11/forta-delegated-staking/",
+    "date": "2022-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811152537/https://consensys.io/diligence/audits/2022/11/forta-delegated-staking/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/forta-delegated-staking_4e219f02.html",
+    "sha256": "195c9cf5cfb9f7041d9ab69b8f70f5152b3af2b4054ff67f47a6330015a94a78",
+    "size_bytes": 165705,
+    "downloaded_at": "2026-07-05T15:01:49+00:00",
+    "extra": {
+      "date_text": "November 2022",
+      "archived": true
+    },
+    "id": "consensys/forta-delegated-staking"
+  },
+  {
+    "source": "consensys",
+    "project": "Geodefi",
+    "title": "Geodefi",
+    "report_url": "https://diligence.security/audits/2022/11/geodefi/",
+    "date": "2022-11",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718054446/https://consensys.io/diligence/audits/2022/11/geodefi/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/geodefi_7f66d71e.html",
+    "sha256": "e1a385e427cff9c0d4e4f949106453252df385948a7437d0e38f08669c154a49",
+    "size_bytes": 146256,
+    "downloaded_at": "2026-07-05T15:01:52+00:00",
+    "extra": {
+      "date_text": "November 2022",
+      "archived": true
+    },
+    "id": "consensys/geodefi"
+  },
+  {
+    "source": "consensys",
+    "project": "Rocket Pool Atlas (v1.2)",
+    "title": "Rocket Pool Atlas (v1.2)",
+    "report_url": "https://diligence.security/audits/2023/01/rocket-pool-atlas-v1.2/",
+    "date": "2023-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240623102717/https://consensys.io/diligence/audits/2023/01/rocket-pool-atlas-v1.2/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/rocket-pool-atlas-v1-2_083bc2a8.html",
+    "sha256": "eee2148a1f3ef6ae15fd740e23b6304f7ee9290d200512df02905bf995bb0352",
+    "size_bytes": 251811,
+    "downloaded_at": "2026-07-05T15:01:56+00:00",
+    "extra": {
+      "date_text": "January 2023",
+      "archived": true
+    },
+    "id": "consensys/rocket-pool-atlas-v1-2"
+  },
+  {
+    "source": "consensys",
+    "project": "Socket",
+    "title": "Socket",
+    "report_url": "https://diligence.security/audits/2023/02/socket/",
+    "date": "2023-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621145855/https://consensys.io/diligence/audits/2023/02/socket/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/socket_0d4c538c.html",
+    "sha256": "f951a5e00639742db8f910fe914ede6ec41d3b3b37589b1658666981d30f77ba",
+    "size_bytes": 127678,
+    "downloaded_at": "2026-07-05T15:02:00+00:00",
+    "extra": {
+      "date_text": "February 2023",
+      "archived": true
+    },
+    "id": "consensys/socket"
+  },
+  {
+    "source": "consensys",
+    "project": "EigenLabs — EigenLayer",
+    "title": "EigenLabs — EigenLayer",
+    "report_url": "https://diligence.security/audits/2023/03/eigenlabs-eigenlayer/",
+    "date": "2023-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240717100215/https://consensys.io/diligence/audits/2023/03/eigenlabs-eigenlayer/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/eigenlabs-eigenlayer_39e48ac9.html",
+    "sha256": "80265647ff9080427ea4e0024ac3e7ff5f9e8c05ae53f1dbf15be8ea1bea9410",
+    "size_bytes": 126786,
+    "downloaded_at": "2026-07-05T15:02:39+00:00",
+    "extra": {
+      "date_text": "March 2023",
+      "archived": true
+    },
+    "id": "consensys/eigenlabs-eigenlayer"
+  },
+  {
+    "source": "consensys",
+    "project": "Glif Filecoin InfinityPool",
+    "title": "Glif Filecoin InfinityPool",
+    "report_url": "https://diligence.security/audits/2023/04/glif-filecoin-infinitypool/",
+    "date": "2023-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240624035601/https://consensys.io/diligence/audits/2023/04/glif-filecoin-infinitypool/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/glif-filecoin-infinitypool_2057df4a.html",
+    "sha256": "e889f7cdcb9a0087a1be297094bc79d585a08710f153e70d8b03b63aaee52d2e",
+    "size_bytes": 139918,
+    "downloaded_at": "2026-07-05T15:02:42+00:00",
+    "extra": {
+      "date_text": "April 2023",
+      "archived": true
+    },
+    "id": "consensys/glif-filecoin-infinitypool"
+  },
+  {
+    "source": "consensys",
+    "project": "Mobymask Mvp Snap",
+    "title": "Mobymask Mvp Snap",
+    "report_url": "https://diligence.security/audits/2023/04/mobymask-mvp-snap/",
+    "date": "2023-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718041409/https://consensys.io/diligence/audits/2023/04/mobymask-mvp-snap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/mobymask-mvp-snap_4beed8b6.html",
+    "sha256": "6d173b0c2bfad9d19cbe106df355e45ece11edafd7ba6ebd5e97d5568aa93357",
+    "size_bytes": 30544,
+    "downloaded_at": "2026-07-05T15:02:45+00:00",
+    "extra": {
+      "date_text": "April 2023",
+      "archived": true
+    },
+    "id": "consensys/mobymask-mvp-snap"
+  },
+  {
+    "source": "consensys",
+    "project": "Geode Liquid Staking",
+    "title": "Geode Liquid Staking",
+    "report_url": "https://diligence.security/audits/2023/05/geode-liquid-staking/",
+    "date": "2023-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240624044416/https://consensys.io/diligence/audits/2023/05/geode-liquid-staking/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/geode-liquid-staking_5ebb5f60.html",
+    "sha256": "b6a55d8a1df9c5b074a1923972a3f1bc384a1d4ae3c79ede86301a469daa2f82",
+    "size_bytes": 69474,
+    "downloaded_at": "2026-07-05T15:02:53+00:00",
+    "extra": {
+      "date_text": "May 2023",
+      "archived": true
+    },
+    "id": "consensys/geode-liquid-staking"
+  },
+  {
+    "source": "consensys",
+    "project": "Tidal",
+    "title": "Tidal",
+    "report_url": "https://diligence.security/audits/2023/05/tidal/",
+    "date": "2023-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240520150051/https://consensys.io/diligence/audits/2023/05/tidal/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/tidal_2b957856.html",
+    "sha256": "7342df4762ea49f48504d9c4a0568291ddaf63b6c890668a5bce240e7ca08169",
+    "size_bytes": 122716,
+    "downloaded_at": "2026-07-05T15:02:58+00:00",
+    "extra": {
+      "date_text": "May 2023",
+      "archived": true
+    },
+    "id": "consensys/tidal"
+  },
+  {
+    "source": "consensys",
+    "project": "Argent Account &amp; Multisig for StarkNet",
+    "title": "Argent Account &amp; Multisig for StarkNet",
+    "report_url": "https://diligence.security/audits/2023/06/argent-account-multisig-for-starknet/",
+    "date": "2023-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240621135037/https://consensys.io/diligence/audits/2023/06/argent-account-multisig-for-starknet/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/argent-account-amp-multisig-for-starknet_c8761f38.html",
+    "sha256": "5659f976773341c2858a6722be11c2b6927de22d8b9cec32134bd91e9011fdd6",
+    "size_bytes": 88888,
+    "downloaded_at": "2026-07-05T15:03:01+00:00",
+    "extra": {
+      "date_text": "June 2023",
+      "archived": true
+    },
+    "id": "consensys/argent-account-amp-multisig-for-starknet"
+  },
+  {
+    "source": "consensys",
+    "project": "Hedgey Token Lockup and Vesting Plans",
+    "title": "Hedgey Token Lockup and Vesting Plans",
+    "report_url": "https://diligence.security/audits/2023/06/hedgey-token-lockup-and-vesting-plans/",
+    "date": "2023-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718055711/https://consensys.io/diligence/audits/2023/06/hedgey-token-lockup-and-vesting-plans/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/hedgey-token-lockup-and-vesting-plans_c9320173.html",
+    "sha256": "98f038444db84b5bee2a6746b64f927d627bda74aa6e8787e4fce1941f96ed80",
+    "size_bytes": 84235,
+    "downloaded_at": "2026-07-05T15:03:07+00:00",
+    "extra": {
+      "date_text": "June 2023",
+      "archived": true
+    },
+    "id": "consensys/hedgey-token-lockup-and-vesting-plans"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Canonical Token Bridge",
+    "title": "Linea Canonical Token Bridge",
+    "report_url": "https://diligence.security/audits/2023/06/linea-canonical-token-bridge/",
+    "date": "2023-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260101194003/https://diligence.security/audits/2023/06/linea-canonical-token-bridge/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-canonical-token-bridge_e9bcd842.html",
+    "sha256": "1409198cd4af45cb42ae1e962ef1155a5bb44d015432dc557ce9082400463e8c",
+    "size_bytes": 111107,
+    "downloaded_at": "2026-07-05T14:30:31+00:00",
+    "extra": {
+      "date_text": "June 2023",
+      "archived": true
+    },
+    "id": "consensys/linea-canonical-token-bridge"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Message Service",
+    "title": "Linea Message Service",
+    "report_url": "https://diligence.security/audits/2023/06/linea-message-service/",
+    "date": "2023-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260101194003/https://diligence.security/audits/2023/06/linea-message-service/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-message-service_36f8f588.html",
+    "sha256": "6dce4252555c52c03a002a2d3ff7eaf9d562abab938e423952c6a7140efb92d6",
+    "size_bytes": 152636,
+    "downloaded_at": "2026-07-05T14:30:36+00:00",
+    "extra": {
+      "date_text": "June 2023",
+      "archived": true
+    },
+    "id": "consensys/linea-message-service"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Plonk Verifier",
+    "title": "Linea Plonk Verifier",
+    "report_url": "https://diligence.security/audits/2023/06/linea-plonk-verifier/",
+    "date": "2023-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260101194003/https://diligence.security/audits/2023/06/linea-plonk-verifier/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-plonk-verifier_7ee9153e.html",
+    "sha256": "beededf526303d7bef55a1b4a618c26a6c41d27b046a4a7777fb67a0cc852900",
+    "size_bytes": 164953,
+    "downloaded_at": "2026-07-05T14:30:39+00:00",
+    "extra": {
+      "date_text": "June 2023",
+      "archived": true
+    },
+    "id": "consensys/linea-plonk-verifier"
+  },
+  {
+    "source": "consensys",
+    "project": "MetaMask/Partner Snaps - StarknetSnap",
+    "title": "MetaMask/Partner Snaps - StarknetSnap",
+    "report_url": "https://diligence.security/audits/2023/06/metamask/partner-snaps-starknetsnap/",
+    "date": "2023-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240624035652/https://consensys.io/diligence/audits/2023/06/metamask/partner-snaps-starknetsnap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metamask-partner-snaps-starknetsnap_98def92b.html",
+    "sha256": "75af2d36d8b00c811717cfc414a4e5467acba3851e2a57a68fd8ef4a1a57c1c7",
+    "size_bytes": 124503,
+    "downloaded_at": "2026-07-05T15:03:11+00:00",
+    "extra": {
+      "date_text": "June 2023",
+      "archived": true
+    },
+    "id": "consensys/metamask-partner-snaps-starknetsnap"
+  },
+  {
+    "source": "consensys",
+    "project": "MetaMask/Partner Snaps - Shapeshift Snap",
+    "title": "MetaMask/Partner Snaps - Shapeshift Snap",
+    "report_url": "https://diligence.security/audits/2023/07/metamask/partner-snaps-shapeshift-snap/",
+    "date": "2023-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240613232808/https://consensys.io/diligence/audits/2023/07/metamask/partner-snaps-shapeshift-snap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metamask-partner-snaps-shapeshift-snap_e1b8e9d3.html",
+    "sha256": "51820fc8abcb6e9e16b76025886d7bc0b92feb5f55e3e89df3a37f3c9139735e",
+    "size_bytes": 122165,
+    "downloaded_at": "2026-07-05T15:03:14+00:00",
+    "extra": {
+      "date_text": "July 2023",
+      "archived": true
+    },
+    "id": "consensys/metamask-partner-snaps-shapeshift-snap"
+  },
+  {
+    "source": "consensys",
+    "project": "Push Protocol Snap for MetaMask",
+    "title": "Push Protocol Snap for MetaMask",
+    "report_url": "https://diligence.security/audits/2023/07/push-protocol-snap-for-metamask/",
+    "date": "2023-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240624041122/https://consensys.io/diligence/audits/2023/07/push-protocol-snap-for-metamask/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/push-protocol-snap-for-metamask_6b5bacca.html",
+    "sha256": "cdbde2b75d3d8924b091b61ffc1c6fafc22a86aa4c2c71976d616f21ac0fa91d",
+    "size_bytes": 111826,
+    "downloaded_at": "2026-07-05T15:03:19+00:00",
+    "extra": {
+      "date_text": "July 2023",
+      "archived": true
+    },
+    "id": "consensys/push-protocol-snap-for-metamask"
+  },
+  {
+    "source": "consensys",
+    "project": "Wallet Guard",
+    "title": "Wallet Guard",
+    "report_url": "https://diligence.security/audits/2023/07/wallet-guard/",
+    "date": "2023-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240818224333/https://consensys.io/diligence/audits/2023/07/wallet-guard/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/wallet-guard_115813b2.html",
+    "sha256": "cdd481ef592be3daaceacb7ba4c2fcfc73bfe44f6cf28125823d016a74c82d74",
+    "size_bytes": 67833,
+    "downloaded_at": "2026-07-05T15:03:25+00:00",
+    "extra": {
+      "date_text": "July 2023",
+      "archived": true
+    },
+    "id": "consensys/wallet-guard"
+  },
+  {
+    "source": "consensys",
+    "project": "DRAM stablecoin",
+    "title": "DRAM stablecoin",
+    "report_url": "https://diligence.security/audits/2023/08/dram-stablecoin/",
+    "date": "2023-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718050936/https://consensys.io/diligence/audits/2023/08/dram-stablecoin/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "August 2023",
+      "archived": true
+    },
+    "id": "consensys/dram-stablecoin"
+  },
+  {
+    "source": "consensys",
+    "project": "Kilnfi Staking (Consensys)",
+    "title": "Kilnfi Staking (Consensys)",
+    "report_url": "https://diligence.security/audits/2023/08/kilnfi-staking-consensys/",
+    "date": "2023-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718051149/https://consensys.io/diligence/audits/2023/08/kilnfi-staking-consensys/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/kilnfi-staking-consensys_9cf2210d.html",
+    "sha256": "54d099174f1d7e5ff47fb79088ec919c20840d0cecf46cfe5646c284196a431f",
+    "size_bytes": 153880,
+    "downloaded_at": "2026-07-05T15:04:26+00:00",
+    "extra": {
+      "date_text": "August 2023",
+      "archived": true
+    },
+    "id": "consensys/kilnfi-staking-consensys"
+  },
+  {
+    "source": "consensys",
+    "project": "Lybra Finance",
+    "title": "Lybra Finance",
+    "report_url": "https://diligence.security/audits/2023/08/lybra-finance/",
+    "date": "2023-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240717101315/https://consensys.io/diligence/audits/2023/08/lybra-finance/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/lybra-finance_b61e3389.html",
+    "sha256": "5dc9d37e24cd521d9319f55cf2f945a446bc9c0da4ed91361490070de997ab2d",
+    "size_bytes": 125305,
+    "downloaded_at": "2026-07-05T15:04:29+00:00",
+    "extra": {
+      "date_text": "August 2023",
+      "archived": true
+    },
+    "id": "consensys/lybra-finance"
+  },
+  {
+    "source": "consensys",
+    "project": "MetaMask/Partner Snaps - FilSnap",
+    "title": "MetaMask/Partner Snaps - FilSnap",
+    "report_url": "https://diligence.security/audits/2023/08/metamask/partner-snaps-filsnap/",
+    "date": "2023-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240529043905/https://consensys.io/diligence/audits/2023/08/metamask/partner-snaps-filsnap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metamask-partner-snaps-filsnap_58275f13.html",
+    "sha256": "0f0c90d9bb434458ef15b76b1c57d768ab06773efd0890984fbd7519b8bb798b",
+    "size_bytes": 70645,
+    "downloaded_at": "2026-07-05T15:04:52+00:00",
+    "extra": {
+      "date_text": "August 2023",
+      "archived": true
+    },
+    "id": "consensys/metamask-partner-snaps-filsnap"
+  },
+  {
+    "source": "consensys",
+    "project": "Solflare MetaMask Snaps - Solflare, Sui, Aptos",
+    "title": "Solflare MetaMask Snaps - Solflare, Sui, Aptos",
+    "report_url": "https://diligence.security/audits/2023/08/solflare-metamask-snaps-solflare-sui-aptos/",
+    "date": "2023-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240718041113/https://consensys.io/diligence/audits/2023/08/solflare-metamask-snaps-solflare-sui-aptos/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/solflare-metamask-snaps-solflare-sui-aptos_8328038f.html",
+    "sha256": "b40ded5c3d61ec11f2e491c53c886f629d638d8160c0a512c24c47aeeb670f46",
+    "size_bytes": 121832,
+    "downloaded_at": "2026-07-05T15:04:56+00:00",
+    "extra": {
+      "date_text": "August 2023",
+      "archived": true
+    },
+    "id": "consensys/solflare-metamask-snaps-solflare-sui-aptos"
+  },
+  {
+    "source": "consensys",
+    "project": "LEEQUID - Staking",
+    "title": "LEEQUID - Staking",
+    "report_url": "https://diligence.security/audits/2023/09/leequid-staking/",
+    "date": "2023-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240804190103/https://consensys.io/diligence/audits/2023/09/leequid-staking/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/leequid-staking_ba066fbd.html",
+    "sha256": "746caa62dba3cb0c1b27a48b06c5200f7d85bafd9f00abc60d2046616470b1d6",
+    "size_bytes": 52161,
+    "downloaded_at": "2026-07-05T15:04:59+00:00",
+    "extra": {
+      "date_text": "September 2023",
+      "archived": true
+    },
+    "id": "consensys/leequid-staking"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Cross-Chain Governance Executor",
+    "title": "Linea Cross-Chain Governance Executor",
+    "report_url": "https://diligence.security/audits/2023/10/linea-cross-chain-governance-executor/",
+    "date": "2023-10",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20250105131548/https://diligence.consensys.io/audits/2023/10/linea-cross-chain-governance-executor/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-cross-chain-governance-executor_aad347fe.html",
+    "sha256": "81d1d2d16069504c6aa78865f78d0ccec5354a2564f2a6398e3aefcf8e7907c5",
+    "size_bytes": 34308,
+    "downloaded_at": "2026-07-05T15:05:04+00:00",
+    "extra": {
+      "date_text": "October 2023",
+      "archived": true
+    },
+    "id": "consensys/linea-cross-chain-governance-executor"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Custom Bridged Token",
+    "title": "Linea Custom Bridged Token",
+    "report_url": "https://diligence.security/audits/2023/12/linea-custom-bridged-token/",
+    "date": "2023-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240911205405/https://consensys.io/diligence/audits/2023/12/linea-custom-bridged-token/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-custom-bridged-token_0a69f1fd.html",
+    "sha256": "9fa29b718475a477d257ff7fedc09635063ff5a6ea96a3accd1277a97bd72e1d",
+    "size_bytes": 28460,
+    "downloaded_at": "2026-07-05T15:05:24+00:00",
+    "extra": {
+      "date_text": "December 2023",
+      "archived": true
+    },
+    "id": "consensys/linea-custom-bridged-token"
+  },
+  {
+    "source": "consensys",
+    "project": "Rocket Pool (Houston)",
+    "title": "Rocket Pool (Houston)",
+    "report_url": "https://diligence.security/audits/2023/12/rocket-pool-houston/",
+    "date": "2023-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240920202246/https://consensys.io/diligence/audits/2023/12/rocket-pool-houston/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/rocket-pool-houston_b9e81883.html",
+    "sha256": "694de2c46cb9658721ccf08eb0e86a3ca759f6b672324a7d83d6cac37be178c8",
+    "size_bytes": 84048,
+    "downloaded_at": "2026-07-05T15:05:27+00:00",
+    "extra": {
+      "date_text": "December 2023",
+      "archived": true
+    },
+    "id": "consensys/rocket-pool-houston"
+  },
+  {
+    "source": "consensys",
+    "project": "Tokenize It",
+    "title": "Tokenize It",
+    "report_url": "https://diligence.security/audits/2023/12/tokenize-it/",
+    "date": "2023-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20250208134731/https://diligence.consensys.io/audits/2023/12/tokenize-it/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/tokenize-it_3bb9ad5b.html",
+    "sha256": "9976cb97af9e3c2a6d5e0b3160eb0cafcbfe0609407b950b8c7aca71fd1d6335",
+    "size_bytes": 88268,
+    "downloaded_at": "2026-07-05T15:05:34+00:00",
+    "extra": {
+      "date_text": "December 2023",
+      "archived": true
+    },
+    "id": "consensys/tokenize-it"
+  },
+  {
+    "source": "consensys",
+    "project": "Web3 Tickets",
+    "title": "Web3 Tickets",
+    "report_url": "https://diligence.security/audits/2023/12/web3-tickets/",
+    "date": "2023-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251014004931/https://diligence.consensys.io/audits/2023/12/web3-tickets/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/web3-tickets_006626c6.html",
+    "sha256": "51971a2e44920f2e85651b7cae333259f4bad8fe0fddd8f5571449106535f95a",
+    "size_bytes": 123377,
+    "downloaded_at": "2026-07-05T15:05:45+00:00",
+    "extra": {
+      "date_text": "December 2023",
+      "archived": true
+    },
+    "id": "consensys/web3-tickets"
+  },
+  {
+    "source": "consensys",
+    "project": "Argent Account &amp; Argent Multisig Starknet Transaction V3 Updates",
+    "title": "Argent Account &amp; Argent Multisig Starknet Transaction V3 Updates",
+    "report_url": "https://diligence.security/audits/2024/01/argent-account-argent-multisig-starknet-transaction-v3-updates/",
+    "date": "2024-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240911192328/https://consensys.io/diligence/audits/2024/01/argent-account-argent-multisig-starknet-transaction-v3-updates/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/argent-account-amp-argent-multisig-starknet-transaction-v3-updates_33154659.html",
+    "sha256": "e9e905507d1b99a8e1f72beb14b4e03c463132f8bb3bf9c2e296eaef9b112dc9",
+    "size_bytes": 68280,
+    "downloaded_at": "2026-07-05T15:05:49+00:00",
+    "extra": {
+      "date_text": "January 2024",
+      "archived": true
+    },
+    "id": "consensys/argent-account-amp-argent-multisig-starknet-transaction-v3-updates"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Contracts Update",
+    "title": "Linea Contracts Update",
+    "report_url": "https://diligence.security/audits/2024/01/linea-contracts-update/",
+    "date": "2024-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260616042555/https://diligence.security/audits/2024/01/linea-contracts-update/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-contracts-update_ca64db67.html",
+    "sha256": "de680de42c9665eda7f044acf097d6f27574625982e8c3fae71769d5a6edfff2",
+    "size_bytes": 119230,
+    "downloaded_at": "2026-07-05T14:31:48+00:00",
+    "extra": {
+      "date_text": "January 2024",
+      "archived": true
+    },
+    "id": "consensys/linea-contracts-update"
+  },
+  {
+    "source": "consensys",
+    "project": "Trillion Network",
+    "title": "Trillion Network",
+    "report_url": "https://diligence.security/audits/2024/02/trillion-network/",
+    "date": "2024-02",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240629095419/https://consensys.io/diligence/audits/2024/02/trillion-network/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/trillion-network_eacbc00e.html",
+    "sha256": "66323aae13933d3de4be48304ddbe705fb63f80ac5423246c969bed002992c9f",
+    "size_bytes": 43911,
+    "downloaded_at": "2026-07-05T15:06:02+00:00",
+    "extra": {
+      "date_text": "February 2024",
+      "archived": true
+    },
+    "id": "consensys/trillion-network"
+  },
+  {
+    "source": "consensys",
+    "project": "MSQ Snap",
+    "title": "MSQ Snap",
+    "report_url": "https://diligence.security/audits/2024/03/msq-snap/",
+    "date": "2024-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240811143019/https://consensys.io/diligence/audits/2024/03/msq-snap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/msq-snap_917cc0ea.html",
+    "sha256": "96f2f9125e52f3d25f3748172d3d3d07b888f0ed5a7e3ef8a2c79a2b1c666d90",
+    "size_bytes": 166754,
+    "downloaded_at": "2026-07-05T15:06:11+00:00",
+    "extra": {
+      "date_text": "March 2024",
+      "archived": true
+    },
+    "id": "consensys/msq-snap"
+  },
+  {
+    "source": "consensys",
+    "project": "Scape",
+    "title": "Scape",
+    "report_url": "https://diligence.security/audits/2024/03/scape/",
+    "date": "2024-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240920203228/https://consensys.io/diligence/audits/2024/03/scape/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/scape_12603557.html",
+    "sha256": "849fb5b2701e90bfa025d100aadb5e7f68e3624dea5de5f1168eb86a833431d8",
+    "size_bytes": 50650,
+    "downloaded_at": "2026-07-05T15:06:14+00:00",
+    "extra": {
+      "date_text": "March 2024",
+      "archived": true
+    },
+    "id": "consensys/scape"
+  },
+  {
+    "source": "consensys",
+    "project": "Stakewise - v3 Vaults / EthFoxVault",
+    "title": "Stakewise - v3 Vaults / EthFoxVault",
+    "report_url": "https://diligence.security/audits/2024/03/stakewise-v3-vaults-/-ethfoxvault/",
+    "date": "2024-03",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240717104243/https://consensys.io/diligence/audits/2024/03/stakewise-v3-vaults-/-ethfoxvault/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/stakewise-v3-vaults-ethfoxvault_46081483.html",
+    "sha256": "e0691bbc8733787cb47489f02155b8d12826c4efde8045b6534a0ef666bfc5d0",
+    "size_bytes": 140889,
+    "downloaded_at": "2026-07-05T15:06:17+00:00",
+    "extra": {
+      "date_text": "March 2024",
+      "archived": true
+    },
+    "id": "consensys/stakewise-v3-vaults-ethfoxvault"
+  },
+  {
+    "source": "consensys",
+    "project": "Tezoro Snap",
+    "title": "Tezoro Snap",
+    "report_url": "https://diligence.security/audits/2024/04/tezoro-snap/",
+    "date": "2024-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240520153557/https://consensys.io/diligence/audits/2024/04/tezoro-snap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/tezoro-snap_58ef02c9.html",
+    "sha256": "94e0da201f2e1346e64f58860dc71786e46e146e6bd092a01228f78c3fd10ffa",
+    "size_bytes": 64109,
+    "downloaded_at": "2026-07-05T15:06:20+00:00",
+    "extra": {
+      "date_text": "April 2024",
+      "archived": true
+    },
+    "id": "consensys/tezoro-snap"
+  },
+  {
+    "source": "consensys",
+    "project": "ScapeNftCollection",
+    "title": "ScapeNftCollection",
+    "report_url": "https://diligence.security/audits/2024/05/scapenftcollection/",
+    "date": "2024-05",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20240920195321/https://consensys.io/diligence/audits/2024/05/scapenftcollection/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/scapenftcollection_cef045a8.html",
+    "sha256": "46edebf01c6fc3eeb2f793fc27b93289525cc130a8d37a280904e89cf0c4c330",
+    "size_bytes": 38400,
+    "downloaded_at": "2026-07-05T15:06:23+00:00",
+    "extra": {
+      "date_text": "May 2024",
+      "archived": true
+    },
+    "id": "consensys/scapenftcollection"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea ENS",
+    "title": "Linea ENS",
+    "report_url": "https://diligence.security/audits/2024/06/linea-ens/",
+    "date": "2024-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260220194956/https://diligence.security/audits/2024/06/linea-ens/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-ens_90ac3e22.html",
+    "sha256": "d257412a6cd0874710d94c9fb9b08da0b02799a3a37db95684ed497b0cdac211",
+    "size_bytes": 298998,
+    "downloaded_at": "2026-07-05T14:32:15+00:00",
+    "extra": {
+      "date_text": "June 2024",
+      "archived": true
+    },
+    "id": "consensys/linea-ens"
+  },
+  {
+    "source": "consensys",
+    "project": "MetaMask DeleGator",
+    "title": "MetaMask DeleGator",
+    "report_url": "https://diligence.security/audits/2024/06/metamask-delegator/",
+    "date": "2024-06",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "https://web.archive.org/web/2026/https://diligence.security/audits/2024/06/metamask-delegator/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "June 2024",
+      "archived": false
+    },
+    "id": "consensys/metamask-delegator"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Rollup Update",
+    "title": "Linea Rollup Update",
+    "report_url": "https://diligence.security/audits/2024/07/linea-rollup-update/",
+    "date": "2024-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260101194003/https://diligence.security/audits/2024/07/linea-rollup-update/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-rollup-update_7db3fefa.html",
+    "sha256": "25b45adc84be0af578789424a404936f642464410645adb2fccaa07296243d09",
+    "size_bytes": 53659,
+    "downloaded_at": "2026-07-05T14:32:22+00:00",
+    "extra": {
+      "date_text": "July 2024",
+      "archived": true
+    },
+    "id": "consensys/linea-rollup-update"
+  },
+  {
+    "source": "consensys",
+    "project": "Aligned Layer",
+    "title": "Aligned Layer",
+    "report_url": "https://diligence.security/audits/2024/08/aligned-layer/",
+    "date": "2024-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20250117212325/https://diligence.consensys.io/audits/2024/08/aligned-layer/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/aligned-layer_89968603.html",
+    "sha256": "7448381aadfb9443df158fd3bdc8c642e39bf1957b6c48dffafe6811b5703987",
+    "size_bytes": 147575,
+    "downloaded_at": "2026-07-05T15:06:32+00:00",
+    "extra": {
+      "date_text": "August 2024",
+      "archived": true
+    },
+    "id": "consensys/aligned-layer"
+  },
+  {
+    "source": "consensys",
+    "project": "Metamask Delegation Framework",
+    "title": "Metamask Delegation Framework",
+    "report_url": "https://diligence.security/audits/2024/08/metamask-delegation-framework/",
+    "date": "2024-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260602092541/https://diligence.security/audits/2024/08/metamask-delegation-framework/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metamask-delegation-framework_7e782443.html",
+    "sha256": "df74440d90c6e96f8b1b6b30d7ffb23bb9504584926a301282a98f7ea3387e6d",
+    "size_bytes": 89874,
+    "downloaded_at": "2026-07-05T14:32:33+00:00",
+    "extra": {
+      "date_text": "August 2024",
+      "archived": true
+    },
+    "id": "consensys/metamask-delegation-framework"
+  },
+  {
+    "source": "consensys",
+    "project": "Ramses V3",
+    "title": "Ramses V3",
+    "report_url": "https://diligence.security/audits/2024/08/ramses-v3/",
+    "date": "2024-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251109130829/https://diligence.consensys.io/audits/2024/08/ramses-v3/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/ramses-v3_95d5ee7a.html",
+    "sha256": "453c33011d2a3294868f3366da985d8c3ffbf89c04236767a3e7065eb686ce43",
+    "size_bytes": 365973,
+    "downloaded_at": "2026-07-05T15:06:35+00:00",
+    "extra": {
+      "date_text": "August 2024",
+      "archived": true
+    },
+    "id": "consensys/ramses-v3"
+  },
+  {
+    "source": "consensys",
+    "project": "Starbase",
+    "title": "Starbase",
+    "report_url": "https://diligence.security/audits/2024/08/starbase/",
+    "date": "2024-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251014000416/https://diligence.consensys.io/audits/2024/08/starbase/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/starbase_276285e1.html",
+    "sha256": "04e33e85dda6fa5f767b18eb5d0805d56ede23368fbf8de0e3ced400f700ff70",
+    "size_bytes": 439561,
+    "downloaded_at": "2026-07-05T15:06:46+00:00",
+    "extra": {
+      "date_text": "August 2024",
+      "archived": true
+    },
+    "id": "consensys/starbase"
+  },
+  {
+    "source": "consensys",
+    "project": "MetaMask Delegation Framework",
+    "title": "MetaMask Delegation Framework",
+    "report_url": "https://diligence.security/audits/2024/10/metamask-delegation-framework/",
+    "date": "2024-10",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251014002146/https://diligence.consensys.io/audits/2024/10/metamask-delegation-framework/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "October 2024",
+      "archived": true
+    },
+    "id": "consensys/metamask-delegation-framework"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Rollup Update",
+    "title": "Linea Rollup Update",
+    "report_url": "https://diligence.security/audits/2024/12/linea-rollup-update/",
+    "date": "2024-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260101194003/https://diligence.security/audits/2024/12/linea-rollup-update/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-rollup-update_2c771f91.html",
+    "sha256": "894b90208ec037b471f098598c85c1a98921c3149df59875f8f547b687fe5484",
+    "size_bytes": 122579,
+    "downloaded_at": "2026-07-05T14:32:52+00:00",
+    "extra": {
+      "date_text": "December 2024",
+      "archived": true
+    },
+    "id": "consensys/linea-rollup-update"
+  },
+  {
+    "source": "consensys",
+    "project": "ZK Email Noir",
+    "title": "ZK Email Noir",
+    "report_url": "https://diligence.security/audits/2024/12/zk-email-noir/",
+    "date": "2024-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251014013547/https://diligence.consensys.io/audits/2024/12/zk-email-noir/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/zk-email-noir_e71fd81e.html",
+    "sha256": "7aa7ac39ed7e5dcfcb988c9d9f1c91ff2d5664a42e610dce7815ece349f633c1",
+    "size_bytes": 208815,
+    "downloaded_at": "2026-07-05T15:07:31+00:00",
+    "extra": {
+      "date_text": "December 2024",
+      "archived": true
+    },
+    "id": "consensys/zk-email-noir"
+  },
+  {
+    "source": "consensys",
+    "project": "USDKG",
+    "title": "USDKG",
+    "report_url": "https://diligence.security/audits/2025/01/usdkg/",
+    "date": "2025-01",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251125132555/https://diligence.security/audits/2025/01/usdkg/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/usdkg_a6b50df2.html",
+    "sha256": "e9d4364020e5f3bd81f7b0334b72d69a0f96f114862a72bbffbc7cb75282386d",
+    "size_bytes": 110410,
+    "downloaded_at": "2026-07-05T14:33:02+00:00",
+    "extra": {
+      "date_text": "January 2025",
+      "archived": true
+    },
+    "id": "consensys/usdkg"
+  },
+  {
+    "source": "consensys",
+    "project": "Metamask Delegation Framework April 2025",
+    "title": "Metamask Delegation Framework April 2025",
+    "report_url": "https://diligence.security/audits/2025/04/metamask-delegation-framework-april-2025/",
+    "date": "2025-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20250911050204/https://diligence.consensys.io/audits/2025/04/metamask-delegation-framework-april-2025/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metamask-delegation-framework-april-2025_71f74420.html",
+    "sha256": "6f1c833c513c7c667a98ed312fc86d15ef86dbb55db8f4be7209195da0f3c32b",
+    "size_bytes": 179595,
+    "downloaded_at": "2026-07-05T15:07:57+00:00",
+    "extra": {
+      "date_text": "April 2025",
+      "archived": true
+    },
+    "id": "consensys/metamask-delegation-framework-april-2025"
+  },
+  {
+    "source": "consensys",
+    "project": "USDi",
+    "title": "USDi",
+    "report_url": "https://diligence.security/audits/2025/04/usdi/",
+    "date": "2025-04",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251109140228/https://diligence.consensys.io/audits/2025/04/usdi/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/usdi_f4bfeeb5.html",
+    "sha256": "0d922d6fa6b68ae3b0722665423ffa8ac353c8bdeef1c7bec2237b0781a262e4",
+    "size_bytes": 248046,
+    "downloaded_at": "2026-07-05T15:08:01+00:00",
+    "extra": {
+      "date_text": "April 2025",
+      "archived": true
+    },
+    "id": "consensys/usdi"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea Token and Airdrop Contracts",
+    "title": "Linea Token and Airdrop Contracts",
+    "report_url": "https://diligence.security/audits/2025/07/linea-token-and-airdrop-contracts/",
+    "date": "2025-07",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20260101194003/https://diligence.security/audits/2025/07/linea-token-and-airdrop-contracts/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/linea-token-and-airdrop-contracts_8f5fe95c.html",
+    "sha256": "67db6c099ae01bd5a68aae4b29da7d227066f13f4c37d9b5ee0b1509562abfa2",
+    "size_bytes": 108787,
+    "downloaded_at": "2026-07-05T14:33:20+00:00",
+    "extra": {
+      "date_text": "July 2025",
+      "archived": true
+    },
+    "id": "consensys/linea-token-and-airdrop-contracts"
+  },
+  {
+    "source": "consensys",
+    "project": "Lido V3",
+    "title": "Lido V3",
+    "report_url": "https://diligence.security/audits/2025/08/lido-v3/",
+    "date": "2025-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "https://web.archive.org/web/2026/https://diligence.security/audits/2025/08/lido-v3/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "August 2025",
+      "archived": false
+    },
+    "id": "consensys/lido-v3"
+  },
+  {
+    "source": "consensys",
+    "project": "Metamask - EIP-7715 Permissions Snap",
+    "title": "Metamask - EIP-7715 Permissions Snap",
+    "report_url": "https://diligence.security/audits/2025/08/metamask-eip-7715-permissions-snap/",
+    "date": "2025-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251109123510/https://diligence.consensys.io/audits/2025/08/metamask-eip-7715-permissions-snap/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metamask-eip-7715-permissions-snap_c9a6072f.html",
+    "sha256": "2fab7d09c08734846e3caaacef7ad070b2db6dc5c193ccc1b0f5137bb6b62e2d",
+    "size_bytes": 228704,
+    "downloaded_at": "2026-07-05T15:08:08+00:00",
+    "extra": {
+      "date_text": "August 2025",
+      "archived": true
+    },
+    "id": "consensys/metamask-eip-7715-permissions-snap"
+  },
+  {
+    "source": "consensys",
+    "project": "MetaMask USD Token",
+    "title": "MetaMask USD Token",
+    "report_url": "https://diligence.security/audits/2025/08/metamask-usd-token/",
+    "date": "2025-08",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "http://web.archive.org/web/20251113112628/https://diligence.consensys.io/audits/2025/08/metamask-usd-token/",
+    "file_type": "html",
+    "local_path": "data/reports/consensys/metamask-usd-token_6ef9826d.html",
+    "sha256": "fde4fd5529b2e10286f544c77a878566d9099274ae7d75dc956ba3a40cba4921",
+    "size_bytes": 95617,
+    "downloaded_at": "2026-07-05T15:08:30+00:00",
+    "extra": {
+      "date_text": "August 2025",
+      "archived": true
+    },
+    "id": "consensys/metamask-usd-token"
+  },
+  {
+    "source": "consensys",
+    "project": "Denaria 2",
+    "title": "Denaria 2",
+    "report_url": "https://diligence.security/audits/2025/09/denaria-2/",
+    "date": "2025-09",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "https://web.archive.org/web/2026/https://diligence.security/audits/2025/09/denaria-2/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "September 2025",
+      "archived": false
+    },
+    "id": "consensys/denaria-2"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea - Burn Mechanism",
+    "title": "Linea - Burn Mechanism",
+    "report_url": "https://diligence.security/audits/2025/10/linea-burn-mechanism/",
+    "date": "2025-10",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "https://web.archive.org/web/2026/https://diligence.security/audits/2025/10/linea-burn-mechanism/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "October 2025",
+      "archived": false
+    },
+    "id": "consensys/linea-burn-mechanism"
+  },
+  {
+    "source": "consensys",
+    "project": "Linea - Yield Manager",
+    "title": "Linea - Yield Manager",
+    "report_url": "https://diligence.security/audits/2025/12/linea-yield-manager/",
+    "date": "2025-12",
+    "listing_url": "https://diligence.consensys.io/audits/",
+    "download_url": "https://web.archive.org/web/2026/https://diligence.security/audits/2025/12/linea-yield-manager/",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "date_text": "December 2025",
+      "archived": false
+    },
+    "id": "consensys/linea-yield-manager"
+  }
+]
