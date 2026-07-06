@@ -56,7 +56,30 @@ hf download gcf3711/audit-report-archive --repo-type dataset \
 uv run python -m audit_collector download
 ```
 
-Dataset mirror: https://huggingface.co/datasets/gcf3711/audit-report-archive
+### Hugging Face dataset mirror
+
+https://huggingface.co/datasets/gcf3711/audit-report-archive — a mirror of
+the local `data/` directory (5.3 GB total):
+
+| Dataset path | Contents | Count | Local equivalent |
+|---|---|---|---|
+| `reports/<source>/` | report files — 4712 PDF + 1441 HTML | 6153 | `data/reports/<source>/` |
+| `catalog/<source>.json` | per-source metadata (same as in git) | 22 | `data/catalog/<source>.json` |
+| `README.md` | dataset card | 1 | — |
+
+File names match the `local_path` field in the catalogs (`data/reports/...`
+↔ `reports/...`), so the download command above restores files exactly where
+the catalogs expect them.
+
+Maintainer note — the mirror is uploaded with:
+
+```bash
+hf upload-large-folder gcf3711/audit-report-archive --repo-type dataset <staging-dir>
+```
+
+where the staging dir holds `reports/` (hardlink of `data/reports/`),
+`catalog/` and the dataset card. `upload-large-folder` is resumable, so it
+can be re-run after interruptions or data refreshes.
 
 ## Layout
 
