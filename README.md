@@ -43,6 +43,21 @@ Current scope is **collection only** — report content analysis is a later phas
 Each source name above links to its per-source table in [indexes/](indexes/)
 — date, project, report URL and local fetch state for every report.
 
+## Getting the report files
+
+The files are not in this repo. Two ways to get them:
+
+```bash
+# 1. from the Hugging Face dataset mirror (fast, one shot)
+hf download gcf3711/audit-report-archive --repo-type dataset \
+    --include 'reports/*' --local-dir data
+
+# 2. re-fetch from the original publishers
+uv run python -m audit_collector download
+```
+
+Dataset mirror: https://huggingface.co/datasets/gcf3711/audit-report-archive
+
 ## Layout
 
 ```
