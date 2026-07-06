@@ -3,7 +3,7 @@
     python -m audit_collector list                 # show configured sources
     python -m audit_collector scrape [SOURCE ...]  # refresh catalog metadata
     python -m audit_collector download [SOURCE ...]# fetch report files
-    python -m audit_collector build-index          # write INDEX.md + indexes/
+    python -m audit_collector build-index          # write indexes/ + README status
     python -m audit_collector status               # counts per source
 """
 
@@ -124,12 +124,6 @@ def cmd_build_index(sources: dict, _args) -> None:
         *summary_rows,
     ]
 
-    (ROOT / "INDEX.md").write_text("\n".join([
-        "# Audit Report Index", "", *status, "",
-        "Per-source tables (linked above) list date, project, report URL and",
-        "local fetch state for every report.", "",
-    ]))
-
     readme = ROOT / "README.md"
     text = readme.read_text()
     begin, end = "<!-- STATUS:BEGIN -->", "<!-- STATUS:END -->"
@@ -137,7 +131,7 @@ def cmd_build_index(sources: dict, _args) -> None:
         head, rest = text.split(begin, 1)
         _, tail = rest.split(end, 1)
         readme.write_text(head + begin + "\n" + "\n".join(status) + "\n" + end + tail)
-    print(f"Wrote INDEX.md + {len(sources)} per-source indexes ({total} reports), "
+    print(f"Wrote {len(sources)} per-source indexes ({total} reports), "
           f"README status updated")
 
 

@@ -40,7 +40,8 @@ Current scope is **collection only** — report content analysis is a later phas
 | [Sherlock](indexes/sherlock.md) | 298 | 298 | 0 | https://github.com/sherlock-protocol/sherlock-reports |
 <!-- STATUS:END -->
 
-Browse per-source report tables via [INDEX.md](INDEX.md).
+Each source name above links to its per-source table in [indexes/](indexes/)
+— date, project, report URL and local fetch state for every report.
 
 ## Layout
 
@@ -57,7 +58,6 @@ data/
   catalog/<source>.json    report metadata (tracked in git)
   reports/<source>/        downloaded report files (gitignored)
   cache/                   scratch (git clones, listing caches; gitignored)
-INDEX.md                   summary index (tracked in git)
 indexes/<source>.md        per-source report tables (tracked in git)
 ```
 
@@ -70,7 +70,7 @@ python -m audit_collector list                  # show configured sources
 python -m audit_collector scrape                # refresh all catalogs (or: scrape cyfrin sherlock)
 python -m audit_collector download              # download report files
 python -m audit_collector status                # per-source counts
-python -m audit_collector build-index           # regenerate INDEX.md + indexes/ + README status
+python -m audit_collector build-index           # regenerate indexes/ + README status
 ```
 
 Run with `PYTHONPATH=src` if not installed (`PYTHONPATH=src python -m audit_collector ...`).
