@@ -1,0 +1,262 @@
+[
+  {
+    "source": "verilog",
+    "project": "Mantle L2 ERC20 Token Bridge",
+    "title": "Mantle L2 ERC20 Token Bridge Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_L2_ERC20_Token_Bridge_Report.pdf",
+    "date": "2023-11-23",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_L2_ERC20_Token_Bridge_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/mantle-l2-erc20-token-bridge-report_5d03f271.pdf",
+    "sha256": "9d83775ece196466153e5e528bf8c04feb71d0870733557c4e5ff74bf950dfd9",
+    "size_bytes": 241711,
+    "downloaded_at": "2026-07-07T10:43:48+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Mantle_Ecosystem_Audit/Mantle_L2_ERC20_Token_Bridge_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/mantle-l2-erc20-token-bridge-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Mantle LSP L2",
+    "title": "Mantle LSP L2 Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_LSP_L2_Report.pdf",
+    "date": "2023-11-23",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_LSP_L2_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/mantle-lsp-l2-report_7fbe9373.pdf",
+    "sha256": "f30c36f3386d02545531219ba5b808d7c96d5f6ee5498dcb1e79a27bf0a09522",
+    "size_bytes": 221268,
+    "downloaded_at": "2026-07-07T10:43:49+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Mantle_Ecosystem_Audit/Mantle_LSP_L2_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/mantle-lsp-l2-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Mantle MDI Quests",
+    "title": "Mantle MDI Quests Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_MDI_Quests_Report.pdf",
+    "date": "2023-11-23",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_MDI_Quests_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/mantle-mdi-quests-report_df225f18.pdf",
+    "sha256": "bbbd7bc3121cd0a216d61eefdde35dd5d9bc0f2575a37c82cef87e83b2fc710d",
+    "size_bytes": 228237,
+    "downloaded_at": "2026-07-07T10:43:50+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Mantle_Ecosystem_Audit/Mantle_MDI_Quests_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/mantle-mdi-quests-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Redacted Hidden Hand Marionette",
+    "title": "Redacted Hidden Hand Marionette Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Redacted_Hidden_Hand/Redacted_Hidden_Hand_Marionette_Report.pdf",
+    "date": "2023-11-23",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Redacted_Hidden_Hand/Redacted_Hidden_Hand_Marionette_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/redacted-hidden-hand-marionette-report_da4fa8b2.pdf",
+    "sha256": "ea1bb29b3e46151a52e66ca26f3faa7e8352cb2e84a58c9981e5314d356b16d3",
+    "size_bytes": 679149,
+    "downloaded_at": "2026-07-07T10:43:51+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Redacted_Hidden_Hand/Redacted_Hidden_Hand_Marionette_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/redacted-hidden-hand-marionette-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Marionette Thena Adapter",
+    "title": "Marionette Thena Adapter Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Redacted_Hidden_Hand/Marionette_Thena_Adapter_Report.pdf",
+    "date": "2024-03-08",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Redacted_Hidden_Hand/Marionette_Thena_Adapter_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/marionette-thena-adapter-report_efe7bc13.pdf",
+    "sha256": "6e6a874b59fb7b8564849d0c2b5cb1ab4abc6234d9c8c920643afe27e19f5159",
+    "size_bytes": 260243,
+    "downloaded_at": "2026-07-07T10:43:52+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Redacted_Hidden_Hand/Marionette_Thena_Adapter_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/marionette-thena-adapter-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Untangled FInance",
+    "title": "Untangled FInance Audit Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Untangle_Protocol_Audit/Untangled_FInance_Audit_Report.pdf",
+    "date": "2024-04-23",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Untangle_Protocol_Audit/Untangled_FInance_Audit_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/untangled-finance-audit-report_524b4996.pdf",
+    "sha256": "006a8dbb7039817605305933a4b014ee82175e5f8718a4c1053cd2b6a3bb076f",
+    "size_bytes": 298664,
+    "downloaded_at": "2026-07-07T10:43:53+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Untangle_Protocol_Audit/Untangled_FInance_Audit_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/untangled-finance-audit-report"
+  },
+  {
+    "source": "verilog",
+    "project": "BendDAO V2",
+    "title": "BendDAO V2 Audit Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/BendDAO_V2/BendDAO_V2_Audit_Report.pdf",
+    "date": "2024-06-27",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/BendDAO_V2/BendDAO_V2_Audit_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/benddao-v2-audit-report_3108c954.pdf",
+    "sha256": "0f539988d52021126516a8f78603d8c70b0500839e2515ecad13719fa758858e",
+    "size_bytes": 478631,
+    "downloaded_at": "2026-07-07T10:43:54+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/BendDAO_V2/BendDAO_V2_Audit_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/benddao-v2-audit-report"
+  },
+  {
+    "source": "verilog",
+    "project": "DODO Stake Contract",
+    "title": "DODO Stake Contract Audit Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/DODO_Audit/DODO_Stake_Contract_Audit_Report.pdf",
+    "date": "2024-07-02",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/DODO_Audit/DODO_Stake_Contract_Audit_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/dodo-stake-contract-audit-report_af3a42a9.pdf",
+    "sha256": "71f9439b3ed4118fd2809773d2511431d3742b5986aa3580a35c3595d921315a",
+    "size_bytes": 213044,
+    "downloaded_at": "2026-07-07T10:43:55+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/DODO_Audit/DODO_Stake_Contract_Audit_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/dodo-stake-contract-audit-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Gemnify",
+    "title": "Gemnify Audit Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Gemnify_Audit/Gemnify_Audit_Report.pdf",
+    "date": "2024-07-02",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Gemnify_Audit/Gemnify_Audit_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/gemnify-audit-report_dd450114.pdf",
+    "sha256": "49685c60632d7b1e20d3728ba0e69a84fb4398deff798180312baf4bd9bb581e",
+    "size_bytes": 374905,
+    "downloaded_at": "2026-07-07T10:43:56+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Gemnify_Audit/Gemnify_Audit_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/gemnify-audit-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Mantle Staking Hub",
+    "title": "Mantle Staking Hub Audit Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_Staking_Hub_Audit_Report.pdf",
+    "date": "2024-07-02",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Mantle_Ecosystem_Audit/Mantle_Staking_Hub_Audit_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/mantle-staking-hub-audit-report_fa3cc389.pdf",
+    "sha256": "d82a61e864cab3a071f415a0f6bd2f621a99f983033650d6ae27b64e2e11ab5d",
+    "size_bytes": 5411347,
+    "downloaded_at": "2026-07-07T10:43:59+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Mantle_Ecosystem_Audit/Mantle_Staking_Hub_Audit_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/mantle-staking-hub-audit-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Sonorus ERC20 and Vester",
+    "title": "Sonorus ERC20 and Vester Audit Report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Sonorus_Audit/Sonorus_ERC20_and_Vester_Audit_Report.pdf",
+    "date": "2024-07-02",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Sonorus_Audit/Sonorus_ERC20_and_Vester_Audit_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/sonorus-erc20-and-vester-audit-report_c2b4b6b5.pdf",
+    "sha256": "eeb3cfcf03cbbb6529a44f656dcb93bbd1e9ec8432c9ef698a4a17ee9790874d",
+    "size_bytes": 255384,
+    "downloaded_at": "2026-07-07T10:44:00+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Sonorus_Audit/Sonorus_ERC20_and_Vester_Audit_Report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/sonorus-erc20-and-vester-audit-report"
+  },
+  {
+    "source": "verilog",
+    "project": "netz joint",
+    "title": "netz audit joint report",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/NETZ_Audit/netz-audit-joint-report.pdf",
+    "date": "2024-09-01",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/NETZ_Audit/netz-audit-joint-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/netz-audit-joint-report_0c6fc968.pdf",
+    "sha256": "4ac28977f222817f3037626a44a385cf9a0b957e5a0f4ad3fffc5d411859a9d2",
+    "size_bytes": 5208747,
+    "downloaded_at": "2026-07-07T10:44:02+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/NETZ_Audit/netz-audit-joint-report.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/netz-audit-joint-report"
+  },
+  {
+    "source": "verilog",
+    "project": "Bitty Jul",
+    "title": "Bitty audit 2025  Jul",
+    "report_url": "https://github.com/Verilog-Solutions/.github/blob/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Bitty_Audit/Bitty_audit_2025__Jul_.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/Verilog-Solutions/.github",
+    "download_url": "https://raw.githubusercontent.com/Verilog-Solutions/.github/ff95c715077bfc7a8fb9b31d8c655094ac4006b5/Audit/Bitty_Audit/Bitty_audit_2025__Jul_.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/verilog/bitty-audit-2025-jul_acb3b686.pdf",
+    "sha256": "97bfb6b95c1730c044ed53d00eb5ddbc8db143d11ac56a22b66945342c7058db",
+    "size_bytes": 238034,
+    "downloaded_at": "2026-07-07T10:44:03+00:00",
+    "extra": {
+      "repo": "Verilog-Solutions/.github",
+      "path": "Audit/Bitty_Audit/Bitty_audit_2025__Jul_.pdf",
+      "commit": "ff95c715077bfc7a8fb9b31d8c655094ac4006b5"
+    },
+    "id": "verilog/bitty-audit-2025-jul"
+  }
+]

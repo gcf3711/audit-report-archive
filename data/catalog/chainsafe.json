@@ -1,0 +1,662 @@
+[
+  {
+    "source": "chainsafe",
+    "project": "connext 12",
+    "title": "connext 12 2020",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Connext/connext-12-2020.pdf",
+    "date": "2020-12",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Connext/connext-12-2020.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/connext-12-2020_beeebf81.pdf",
+    "sha256": "b20c307f36fd0ff7476609c791d43fd843f177172c4682ac07b0b684347ef1e1",
+    "size_bytes": 1032052,
+    "downloaded_at": "2026-07-07T11:16:46+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Connext/connext-12-2020.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/connext-12-2020"
+  },
+  {
+    "source": "chainsafe",
+    "project": "epns protocol 03",
+    "title": "epns protocol 03 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-03-2021.pdf",
+    "date": "2021-03",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-03-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/epns-protocol-03-2021_659a09bf.pdf",
+    "sha256": "e5e2f6b7fc857a6d0f0fe424ad7c7f2e4f85d7f3612a82b1ac8f00497b70dfab",
+    "size_bytes": 785591,
+    "downloaded_at": "2026-07-07T11:16:47+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "EPNS/epns-protocol-03-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/epns-protocol-03-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "opengsn 03",
+    "title": "opengsn 03 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/GSN/opengsn-03-2021.pdf",
+    "date": "2021-03",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/GSN/opengsn-03-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/opengsn-03-2021_ea715ca9.pdf",
+    "sha256": "3a00ceec88722291716d5309bd20ce09978b6527675c4f6ec3a1383f5dc9730f",
+    "size_bytes": 807045,
+    "downloaded_at": "2026-07-07T11:16:49+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "GSN/opengsn-03-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/opengsn-03-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "ribbon finance 04",
+    "title": "ribbon finance 04 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/ribbon-finance-04-2021.pdf",
+    "date": "2021-04",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/ribbon-finance-04-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/ribbon-finance-04-2021_1dbdf0f2.pdf",
+    "sha256": "4a83e8b983d66b42a26dcb80de5d00877c7124d9f2a80e4c121cf01263552528",
+    "size_bytes": 758169,
+    "downloaded_at": "2026-07-07T11:16:50+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Ribbon Finance/ribbon-finance-04-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/ribbon-finance-04-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "thegraph 04",
+    "title": "thegraph 04 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/The%20Graph/thegraph-04-2021.pdf",
+    "date": "2021-04",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/The%20Graph/thegraph-04-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/thegraph-04-2021_9afc2363.pdf",
+    "sha256": "6377195498df6779caa2a8518684d3961f303505a18ee4c625a6cb02bc3dce49",
+    "size_bytes": 742400,
+    "downloaded_at": "2026-07-07T11:16:52+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "The Graph/thegraph-04-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/thegraph-04-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "RibbonV2",
+    "title": "RibbonV2 July 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/RibbonV2-July-2021.pdf",
+    "date": "2021-07",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/RibbonV2-July-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/ribbonv2-july-2021_43dfa10c.pdf",
+    "sha256": "63e020ec1d925c0ca48fc26f0e7766a49f4e04d51a8bc32e37980d39228d255e",
+    "size_bytes": 773920,
+    "downloaded_at": "2026-07-07T11:16:53+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Ribbon Finance/RibbonV2-July-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/ribbonv2-july-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "delv 10",
+    "title": "delv 10 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/DELV/delv-10-2021.pdf",
+    "date": "2021-10",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/DELV/delv-10-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/delv-10-2021_a1051c09.pdf",
+    "sha256": "feb7eb97b4a4132b289aa275b1cc20b7f2bf8fad61bdbe83fe7d08d58321b045",
+    "size_bytes": 300534,
+    "downloaded_at": "2026-07-07T11:16:54+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "DELV/delv-10-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/delv-10-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "epns protocol 10",
+    "title": "epns protocol 10 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-10-2021.pdf",
+    "date": "2021-10",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-10-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/epns-protocol-10-2021_d2158883.pdf",
+    "sha256": "c488e1cc7352f8ff114ef99abdad858568caa01974222604a0785ee5348938fa",
+    "size_bytes": 290220,
+    "downloaded_at": "2026-07-07T11:16:55+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "EPNS/epns-protocol-10-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/epns-protocol-10-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "ribbon finance 11",
+    "title": "ribbon finance 11 2021",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/ribbon-finance-11-2021.pdf",
+    "date": "2021-11",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/ribbon-finance-11-2021.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/ribbon-finance-11-2021_0e07975f.pdf",
+    "sha256": "17de64e2b49d394eec4c7703923144d1729a31dfc6895907c7ecb290560da63e",
+    "size_bytes": 204536,
+    "downloaded_at": "2026-07-07T11:16:56+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Ribbon Finance/ribbon-finance-11-2021.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/ribbon-finance-11-2021"
+  },
+  {
+    "source": "chainsafe",
+    "project": "exactly finance 05",
+    "title": "exactly finance 05 2022",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Exactly%20Protocol/exactly-finance-05-2022.pdf",
+    "date": "2022-05",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Exactly%20Protocol/exactly-finance-05-2022.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/exactly-finance-05-2022_3eca2caf.pdf",
+    "sha256": "f6ec8c580b6c4f27b0da6fcb0c3363c5f8902c831921bfc994dd616823369b36",
+    "size_bytes": 301735,
+    "downloaded_at": "2026-07-07T11:16:57+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Exactly Protocol/exactly-finance-05-2022.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/exactly-finance-05-2022"
+  },
+  {
+    "source": "chainsafe",
+    "project": "niftykit v2 08",
+    "title": "niftykit v2 08 2022",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/NIFTYKIT/niftykit-v2-08-2022.pdf",
+    "date": "2022-08",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/NIFTYKIT/niftykit-v2-08-2022.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/niftykit-v2-08-2022_955bd74d.pdf",
+    "sha256": "b31ec5475f6c89e0700e30744b87da8b8883c886be9b527965c6449f30cba1c2",
+    "size_bytes": 267398,
+    "downloaded_at": "2026-07-07T11:16:58+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "NIFTYKIT/niftykit-v2-08-2022.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/niftykit-v2-08-2022"
+  },
+  {
+    "source": "chainsafe",
+    "project": "exactly protocol 10",
+    "title": "exactly protocol 10 2022",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Exactly%20Protocol/exactly-protocol-10-2022.pdf",
+    "date": "2022-10",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Exactly%20Protocol/exactly-protocol-10-2022.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/exactly-protocol-10-2022_a16a9e9c.pdf",
+    "sha256": "287c0359d7cbc8972f52bcb4829339b671b832fd5bef5ee98b030d3984923426",
+    "size_bytes": 267616,
+    "downloaded_at": "2026-07-07T11:16:59+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Exactly Protocol/exactly-protocol-10-2022.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/exactly-protocol-10-2022"
+  },
+  {
+    "source": "chainsafe",
+    "project": "1inch 11",
+    "title": "1inch 11 2022",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/1inch/1inch-11-2022.pdf",
+    "date": "2022-11",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/1inch/1inch-11-2022.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/1inch-11-2022_38351c9f.pdf",
+    "sha256": "80deeb10db290d736bd7dd90421d018fa8bfa685a84dfc15c66fbc64aaf37493",
+    "size_bytes": 222882,
+    "downloaded_at": "2026-07-07T11:17:01+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "1inch/1inch-11-2022.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/1inch-11-2022"
+  },
+  {
+    "source": "chainsafe",
+    "project": "epns protocol 11",
+    "title": "epns protocol 11 2022",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-11-2022.pdf",
+    "date": "2022-11",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-11-2022.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/epns-protocol-11-2022_35c81acb.pdf",
+    "sha256": "a305ff544f39380f90632b6ecc013cb54c42b562f1012310f796d3f0c6b1111e",
+    "size_bytes": 250356,
+    "downloaded_at": "2026-07-07T11:17:02+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "EPNS/epns-protocol-11-2022.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/epns-protocol-11-2022"
+  },
+  {
+    "source": "chainsafe",
+    "project": "beamer 01",
+    "title": "beamer 01 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Beamer/beamer-01-2023.pdf",
+    "date": "2023-01",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Beamer/beamer-01-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/beamer-01-2023_80f5fd7a.pdf",
+    "sha256": "79697d32140463ed1dcdfb0fa08e179d8f5704abe0b22a96407b8ff7f4380c1f",
+    "size_bytes": 204186,
+    "downloaded_at": "2026-07-07T11:17:03+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Beamer/beamer-01-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/beamer-01-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "grappa finance 02",
+    "title": "grappa finance 02 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Grappa%20Finance/grappa-finance-02-2023.pdf",
+    "date": "2023-02",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Grappa%20Finance/grappa-finance-02-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/grappa-finance-02-2023_f0348aaa.pdf",
+    "sha256": "b4ea0fcc1ab9cba38e49cee7de566489830bca105b3437fbb10e37c9ea724367",
+    "size_bytes": 248545,
+    "downloaded_at": "2026-07-07T11:17:04+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Grappa Finance/grappa-finance-02-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/grappa-finance-02-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "hashnote vaults 02",
+    "title": "hashnote vaults 02 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Hashnote/hashnote-vaults-02-2023.pdf",
+    "date": "2023-02",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Hashnote/hashnote-vaults-02-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/hashnote-vaults-02-2023_5cb95034.pdf",
+    "sha256": "10a1cfa8525c734067ed43cc7dd8bf85ea645b4793cc81d9f53ecd1c06a9ee1b",
+    "size_bytes": 267509,
+    "downloaded_at": "2026-07-07T11:17:06+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Hashnote/hashnote-vaults-02-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/hashnote-vaults-02-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "epns protocol 05",
+    "title": "epns protocol 05 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-05-2023.pdf",
+    "date": "2023-05",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/EPNS/epns-protocol-05-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/epns-protocol-05-2023_631684a6.pdf",
+    "sha256": "971d8216f747103202b552e7e24b58d7ed78b1676b9a4c1a76078d38b41e043d",
+    "size_bytes": 231264,
+    "downloaded_at": "2026-07-07T11:17:07+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "EPNS/epns-protocol-05-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/epns-protocol-05-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "gnosis 05",
+    "title": "gnosis 05 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Gnosis%20Chain/gnosis-05-2023.pdf",
+    "date": "2023-05",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Gnosis%20Chain/gnosis-05-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/gnosis-05-2023_6353c882.pdf",
+    "sha256": "44c80bc35e8931ffd4c3fd82b26451fa107ad9807e3efb01ccd02809342185de",
+    "size_bytes": 240255,
+    "downloaded_at": "2026-07-07T11:17:08+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Gnosis Chain/gnosis-05-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/gnosis-05-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "zenon 05",
+    "title": "zenon 05 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Zenon%20Network/zenon-05-2023.pdf",
+    "date": "2023-05",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Zenon%20Network/zenon-05-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/zenon-05-2023_44cdb33a.pdf",
+    "sha256": "33edf80855cb0fcee59fd4373cc68efd512008a10ab655f42454d7a508f2d865",
+    "size_bytes": 199802,
+    "downloaded_at": "2026-07-07T11:17:09+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Zenon Network/zenon-05-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/zenon-05-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "delv 06",
+    "title": "delv 06 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/DELV/delv-06-2023.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/DELV/delv-06-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/delv-06-2023_18c2041e.pdf",
+    "sha256": "210ce43672eebb07106cf95cd4b948bd2c8578f9adfff18539717aae7f646410",
+    "size_bytes": 246504,
+    "downloaded_at": "2026-07-07T11:17:10+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "DELV/delv-06-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/delv-06-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "franklin 06",
+    "title": "franklin 06 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Franklin/franklin-06-2023.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Franklin/franklin-06-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/franklin-06-2023_ba42d914.pdf",
+    "sha256": "fc74d46e6546ae8ed74e624529f59aad0c5eb8b311d70adf4dcd0e2e40c002af",
+    "size_bytes": 319362,
+    "downloaded_at": "2026-07-07T11:17:12+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Franklin/franklin-06-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/franklin-06-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "gnosis 07",
+    "title": "gnosis 07 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Gnosis%20Chain/gnosis-07-2023.pdf",
+    "date": "2023-07",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Gnosis%20Chain/gnosis-07-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/gnosis-07-2023_7ee6d328.pdf",
+    "sha256": "fffad14c1ff0572fcaaa74bcb3459862c3f659e96ad95cff698cc85f9ff39487",
+    "size_bytes": 299980,
+    "downloaded_at": "2026-07-07T11:17:13+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Gnosis Chain/gnosis-07-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/gnosis-07-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "ribbon 07",
+    "title": "ribbon 07 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/ribbon-07-2023.pdf",
+    "date": "2023-07",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Ribbon%20Finance/ribbon-07-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/ribbon-07-2023_88d6e0dd.pdf",
+    "sha256": "3377e650d440ed377d452dda46244d85c5968095f352597c2deb9ea69b5b8bc4",
+    "size_bytes": 308856,
+    "downloaded_at": "2026-07-07T11:17:14+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Ribbon Finance/ribbon-07-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/ribbon-07-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "gnosis 08",
+    "title": "gnosis 08 2023",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Gnosis%20Chain/gnosis-08-2023.pdf",
+    "date": "2023-08",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Gnosis%20Chain/gnosis-08-2023.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/gnosis-08-2023_42c97e36.pdf",
+    "sha256": "e0f78846a8f1fd0f23f5dbb3c5fc65a5cd4937a60fa64941b93c5ed383f8a187",
+    "size_bytes": 195976,
+    "downloaded_at": "2026-07-07T11:17:15+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Gnosis Chain/gnosis-08-2023.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/gnosis-08-2023"
+  },
+  {
+    "source": "chainsafe",
+    "project": "propy nft staking 02",
+    "title": "propy nft staking 02 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-nft-staking-02-2024.pdf",
+    "date": "2024-02",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-nft-staking-02-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/propy-nft-staking-02-2024_fbd00291.pdf",
+    "sha256": "5f5d85caceb3fafa8fbc4540802316eca4c5dee7ac8d7d9061cbb668f15cb933",
+    "size_bytes": 344652,
+    "downloaded_at": "2026-07-07T11:17:16+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Propy/propy-nft-staking-02-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/propy-nft-staking-02-2024"
+  },
+  {
+    "source": "chainsafe",
+    "project": "propy payment 02",
+    "title": "propy payment 02 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-payment-02-2024.pdf",
+    "date": "2024-02",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-payment-02-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/propy-payment-02-2024_19962db7.pdf",
+    "sha256": "7b77fb3d48c78469cd477f00e0c6b7a80fc238729db3de5189263bbf187f4858",
+    "size_bytes": 302217,
+    "downloaded_at": "2026-07-07T11:17:17+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Propy/propy-payment-02-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/propy-payment-02-2024"
+  },
+  {
+    "source": "chainsafe",
+    "project": "exactly protocol 03",
+    "title": "exactly protocol 03 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Exactly%20Protocol/exactly-protocol-03-2024.pdf",
+    "date": "2024-03",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Exactly%20Protocol/exactly-protocol-03-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/exactly-protocol-03-2024_50a15539.pdf",
+    "sha256": "7fbcedeacb05f209a1d2e95abf589971ba7faffbb1cbeaf2a339d4413eb7329f",
+    "size_bytes": 135864,
+    "downloaded_at": "2026-07-07T11:17:19+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Exactly Protocol/exactly-protocol-03-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/exactly-protocol-03-2024"
+  },
+  {
+    "source": "chainsafe",
+    "project": "rocket pool 04",
+    "title": "rocket pool 04 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Rocket%20Pool/rocket-pool-04-2024.pdf",
+    "date": "2024-04",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Rocket%20Pool/rocket-pool-04-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/rocket-pool-04-2024_7fdb77a4.pdf",
+    "sha256": "cce49d151adaf079aa8ecdc4ada3e807b57af4aa03de565f0f1fd025e7a831f5",
+    "size_bytes": 450905,
+    "downloaded_at": "2026-07-07T11:17:20+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Rocket Pool/rocket-pool-04-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/rocket-pool-04-2024"
+  },
+  {
+    "source": "chainsafe",
+    "project": "propy auction v2 05",
+    "title": "propy auction v2 05 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-auction-v2-05-2024.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-auction-v2-05-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/propy-auction-v2-05-2024_8e8c5081.pdf",
+    "sha256": "b97568ab363e9dab9ee7bffb8cdbf14098ddb4400b27d344e8c559ec650c5a8b",
+    "size_bytes": 269125,
+    "downloaded_at": "2026-07-07T11:17:21+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Propy/propy-auction-v2-05-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/propy-auction-v2-05-2024"
+  },
+  {
+    "source": "chainsafe",
+    "project": "propy nft staking v2 05",
+    "title": "propy nft staking v2 05 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-nft-staking-v2-05-2024.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Propy/propy-nft-staking-v2-05-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/propy-nft-staking-v2-05-2024_acc372f1.pdf",
+    "sha256": "a8d8e6ceb6ee321b9962a2981932a2ae6a3ba49b680c16bd5be4a739cb6cd177",
+    "size_bytes": 364880,
+    "downloaded_at": "2026-07-07T11:17:22+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Propy/propy-nft-staking-v2-05-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/propy-nft-staking-v2-05-2024"
+  },
+  {
+    "source": "chainsafe",
+    "project": "b3 points 08",
+    "title": "b3 points 08 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/B3/b3-points-08-2024.pdf",
+    "date": "2024-08",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/B3/b3-points-08-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/b3-points-08-2024_01d7895c.pdf",
+    "sha256": "b3784175d039ae6b4d0978dcb81c523cae260019b2951eb940e179d7388ccbf3",
+    "size_bytes": 275697,
+    "downloaded_at": "2026-07-07T11:17:23+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "B3/b3-points-08-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/b3-points-08-2024"
+  },
+  {
+    "source": "chainsafe",
+    "project": "shape gasback 08",
+    "title": "shape gasback 08 2024",
+    "report_url": "https://github.com/ChainSafe/audits/blob/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Shape/shape-gasback-08-2024.pdf",
+    "date": "2024-08",
+    "listing_url": "https://github.com/ChainSafe/audits",
+    "download_url": "https://raw.githubusercontent.com/ChainSafe/audits/4de0f040fb9c80d4fbf60b3b537c16e2a55588ea/Shape/shape-gasback-08-2024.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsafe/shape-gasback-08-2024_acec6b82.pdf",
+    "sha256": "0b6458adbd967e9b5614ea3a89943e3d0cfddadf30de5126b9ff8f889e0a71e3",
+    "size_bytes": 346028,
+    "downloaded_at": "2026-07-07T11:17:25+00:00",
+    "extra": {
+      "repo": "ChainSafe/audits",
+      "path": "Shape/shape-gasback-08-2024.pdf",
+      "commit": "4de0f040fb9c80d4fbf60b3b537c16e2a55588ea"
+    },
+    "id": "chainsafe/shape-gasback-08-2024"
+  }
+]

@@ -149,3 +149,153 @@ sherlock:
   type: github_repo
   listing_url: https://github.com/sherlock-protocol/sherlock-reports
   repo: sherlock-protocol/sherlock-reports
+
+# ---- batch 2 (added 2026-07-07) ----
+
+blocksec:
+  name: BlockSec
+  type: github_repo
+  listing_url: https://github.com/blocksecteam/audit-reports
+  repo: blocksecteam/audit-reports
+
+zokyo:
+  name: Zokyo
+  type: github_repo
+  listing_url: https://github.com/zokyo-sec/audit-reports
+  repo: zokyo-sec/audit-reports
+
+cdsecurity:
+  name: CD Security
+  type: github_repo
+  listing_url: https://github.com/CDSecurity/audits
+  repo: CDSecurity/audits
+  paths: [audit reports]
+
+teamomega:
+  name: Team Omega
+  type: github_repo
+  listing_url: https://github.com/OmegaAudits/audits
+  repo: OmegaAudits/audits
+
+verilog:
+  name: Verilog Solutions
+  type: github_repo
+  listing_url: https://github.com/Verilog-Solutions/.github
+  repo: Verilog-Solutions/.github
+  paths: [Audit]
+
+ackee:
+  name: Ackee Blockchain
+  type: github_repo
+  listing_url: https://github.com/Ackee-Blockchain/public-audit-reports
+  repo: Ackee-Blockchain/public-audit-reports
+
+hexens:
+  name: Hexens
+  type: github_repo
+  listing_url: https://github.com/Hexens/Smart-Contract-Review-Public-Reports
+  repo: Hexens/Smart-Contract-Review-Public-Reports
+
+oxorio:
+  name: Oxorio
+  type: github_repo
+  listing_url: https://github.com/oxor-io/public_audits
+  repo: oxor-io/public_audits
+
+pashov:
+  name: Pashov Audit Group
+  type: github_repo
+  listing_url: https://github.com/pashov/audits
+  repo: pashov/audits
+  paths: [team/pdf, solo/pdf]
+
+solidified:
+  name: Solidified
+  type: github_repo
+  listing_url: https://github.com/solidified-platform/audits
+  repo: solidified-platform/audits
+
+yaudit:
+  name: Electisec (yAudit)
+  type: github_repo
+  listing_url: https://github.com/electisec/reports
+  repo: electisec/reports
+  paths: [public]
+
+decurity:
+  name: Decurity
+  type: github_repo
+  listing_url: https://github.com/Decurity/audits
+  repo: Decurity/audits
+
+oaksecurity:
+  name: Oak Security
+  type: github_repo
+  listing_url: https://github.com/oak-security/audit-reports
+  repo: oak-security/audit-reports
+  extensions: [.pdf, .md]
+  exclude: [_tech_stacks/]
+
+informal:
+  name: Informal Systems
+  type: github_repo
+  listing_url: https://github.com/informalsystems/audits
+  repo: informalsystems/audits
+  extensions: [.pdf, .md]
+
+chainsafe:
+  name: ChainSafe
+  type: github_repo
+  listing_url: https://github.com/ChainSafe/audits
+  repo: ChainSafe/audits
+
+bailsec:
+  name: Bailsec
+  type: github_repo
+  listing_url: https://github.com/bailsec/BailSec
+  repo: bailsec/BailSec
+  exclude: [NON DISCLOSED]
+
+composable:
+  name: Composable Security
+  type: github_repo
+  listing_url: https://github.com/ComposableSecurity/.github
+  repo: ComposableSecurity/.github
+  paths: [reports]
+
+coinspect:
+  name: Coinspect
+  type: github_repo
+  listing_url: https://github.com/coinspect/publications
+  repo: coinspect/publications
+
+enigmadark:
+  name: Enigma Dark
+  type: github_repo
+  listing_url: https://github.com/Enigma-Dark/security-review-reports
+  repo: Enigma-Dark/security-review-reports
+
+ottersec:
+  name: OtterSec
+  type: ottersec
+  listing_url: https://osec.io/audits
+
+dedaub:
+  name: Dedaub
+  type: dedaub
+  listing_url: https://dedaub.com/audits/
+
+hatsfinance:
+  name: Hats Finance
+  type: hatsfinance
+  listing_url: https://github.com/hats-finance
+
+dapporg:
+  name: dapp.org
+  type: dapporg
+  listing_url: https://dapp.org.uk
+
+paladin:
+  name: Paladin Blockchain Security
+  type: paladin
+  listing_url: https://paladinsec.co/audits/

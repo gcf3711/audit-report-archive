@@ -1,0 +1,1342 @@
+[
+  {
+    "source": "cdsecurity",
+    "project": "Aelin Sub7",
+    "title": "Aelin Sub7 Security Review",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Aelin-Sub7-Security-Review.pdf",
+    "date": "2023-05-02",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Aelin-Sub7-Security-Review.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/aelin-sub7-security-review_7faf1f8d.pdf",
+    "sha256": "d5435727d922090a801042cf7d612d459def086e58c89935b7f6905ab66fd8ef",
+    "size_bytes": 557459,
+    "downloaded_at": "2026-07-07T10:41:27+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Aelin-Sub7-Security-Review.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/aelin-sub7-security-review"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "MahaLend",
+    "title": "MahaLend",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/MahaLend.pdf",
+    "date": "2023-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/MahaLend.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/mahalend_7b0e8d40.pdf",
+    "sha256": "44985f0fa77b1d5524cee3f7ee5c42e8e61f6007a5c49f3b13f2b6a1ff65af34",
+    "size_bytes": 790852,
+    "downloaded_at": "2026-07-07T10:41:28+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/MahaLend.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/mahalend"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Euler",
+    "title": "Euler Audit",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Euler_Audit.pdf",
+    "date": "2024-11-05",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Euler_Audit.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/euler-audit_c6616b2a.pdf",
+    "sha256": "f15a2a878dbfacda39061231e348e84c53e33b745adea4f82115c4b6eefa386c",
+    "size_bytes": 955762,
+    "downloaded_at": "2026-07-07T10:41:29+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Euler_Audit.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/euler-audit"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Beezie Official",
+    "title": "Beezie Official",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Beezie_Official.pdf",
+    "date": "2024-12-09",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Beezie_Official.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/beezie-official_87a0db87.pdf",
+    "sha256": "922c7998f1a6fe1802c56287c176233e4f35e04e4139ae643c2276b9c30b505c",
+    "size_bytes": 1117135,
+    "downloaded_at": "2026-07-07T10:41:31+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Beezie_Official.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/beezie-official"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Midnight Official",
+    "title": "Midnight Official",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Midnight_Official.pdf",
+    "date": "2024-12-09",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Midnight_Official.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/midnight-official_a6cba345.pdf",
+    "sha256": "e52f6381aa399dd9497db6b38eeedb65fd953da8820eda59251b3abca177777f",
+    "size_bytes": 1126445,
+    "downloaded_at": "2026-07-07T10:41:32+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Midnight_Official.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/midnight-official"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Euler",
+    "title": "Euler Report 2025",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Euler_Report_2025.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Euler_Report_2025.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/euler-report-2025_cc8dcea3.pdf",
+    "sha256": "a1b4575412edd9a5f7338bbc96ffaf5f004d648f10d11ab8a9a796c24287b0cf",
+    "size_bytes": 922720,
+    "downloaded_at": "2026-07-07T10:41:33+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Euler_Report_2025.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/euler-report-2025"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Ascendant",
+    "title": "Ascendant report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Ascendant-report.pdf",
+    "date": "2025-01-03",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Ascendant-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/ascendant-report_0dcccbdc.pdf",
+    "sha256": "56a9743e27cbc074f81bbe9cad69ed704c6d77d5c54e89160b4510079fa28811",
+    "size_bytes": 1011910,
+    "downloaded_at": "2026-07-07T10:41:34+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Ascendant-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/ascendant-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Vyper Boost",
+    "title": "Vyper Boost report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Vyper-Boost-report.pdf",
+    "date": "2025-01-15",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Vyper-Boost-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/vyper-boost-report_2a2b51a8.pdf",
+    "sha256": "bdaf501b7f53ba645f00b054b364ed22dda024cf0570fc2d6735ff041b6e1737",
+    "size_bytes": 1037121,
+    "downloaded_at": "2026-07-07T10:41:35+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Vyper-Boost-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/vyper-boost-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "DexlynBridge",
+    "title": "DexlynBridge   report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/DexlynBridge%20-%20report.pdf",
+    "date": "2025-01-27",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/DexlynBridge%20-%20report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/dexlynbridge-report_175e5804.pdf",
+    "sha256": "33a6eaf914264b7f20b82942806d689a46cdfc6fb44171b40faf4e61e6bc40c9",
+    "size_bytes": 917544,
+    "downloaded_at": "2026-07-07T10:41:36+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/DexlynBridge - report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/dexlynbridge-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Matrix Official",
+    "title": "Matrix Official",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Matrix_Official.pdf",
+    "date": "2025-01-27",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Matrix_Official.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/matrix-official_cdacc2ba.pdf",
+    "sha256": "c0d26e5da99e6278c0e40973ccb2a156f367f466dd4f3de0b01abedea649b13c",
+    "size_bytes": 1052528,
+    "downloaded_at": "2026-07-07T10:41:38+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Matrix_Official.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/matrix-official"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "BeezieStableSwap",
+    "title": "BeezieStableSwap Audit",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/BeezieStableSwap-Audit.pdf",
+    "date": "2025-02-20",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/BeezieStableSwap-Audit.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/beeziestableswap-audit_a7ddd76b.pdf",
+    "sha256": "8c148822ca8fc3b8ad865b41d8e2f9d752613e6e912ac1994afe05d762c3c5dc",
+    "size_bytes": 938431,
+    "downloaded_at": "2026-07-07T10:41:39+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/BeezieStableSwap-Audit.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/beeziestableswap-audit"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "DonutDAO",
+    "title": "DonutDAO Audit",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/DonutDAO-Audit.pdf",
+    "date": "2025-02-20",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/DonutDAO-Audit.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/donutdao-audit_e2522332.pdf",
+    "sha256": "0a6f6b3f0214ad4fe1220b12a58e73f54a8cdc94003231de2bbb0c1e209eedde",
+    "size_bytes": 1003285,
+    "downloaded_at": "2026-07-07T10:41:40+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/DonutDAO-Audit.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/donutdao-audit"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "eSIM",
+    "title": "eSIM   report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/eSIM%20-%20report.pdf",
+    "date": "2025-03-23",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/eSIM%20-%20report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/esim-report_7047d366.pdf",
+    "sha256": "29bd5dbfaf6fc65bb668b8b72a9fdc84d31fb4274801f1392919b22089bd79a8",
+    "size_bytes": 1001124,
+    "downloaded_at": "2026-07-07T10:41:41+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/eSIM - report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/esim-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "VoltStaking",
+    "title": "VoltStaking Audit",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/VoltStaking_Audit.pdf",
+    "date": "2025-03-23",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/VoltStaking_Audit.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/voltstaking-audit_db657762.pdf",
+    "sha256": "8401fd5e18b8921f39da26aafab932c8fdc33c4f300068bedeb1c3bf5cb6d987",
+    "size_bytes": 1088697,
+    "downloaded_at": "2026-07-07T10:41:43+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/VoltStaking_Audit.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/voltstaking-audit"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "CrashGame",
+    "title": "CrashGame Audit",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/CrashGame_Audit.pdf",
+    "date": "2025-03-24",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/CrashGame_Audit.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/crashgame-audit_db5648b7.pdf",
+    "sha256": "135679dfa7bf016e29b190b419970906e699dd934a01bbf039356811abe2abd0",
+    "size_bytes": 1070549,
+    "downloaded_at": "2026-07-07T10:41:44+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/CrashGame_Audit.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/crashgame-audit"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Pear Protocol",
+    "title": "Pear Protocol Audit",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Pear_Protocol_Audit.pdf",
+    "date": "2025-04-03",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Pear_Protocol_Audit.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/pear-protocol-audit_3aa28600.pdf",
+    "sha256": "105c0fd6453caffa825b6e246fffb304f20f98d5908a0a15269b80b6cc10622a",
+    "size_bytes": 993846,
+    "downloaded_at": "2026-07-07T10:41:45+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Pear_Protocol_Audit.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/pear-protocol-audit"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Phoenix",
+    "title": "Phoenix Audit Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Phoenix_Audit_Report.pdf",
+    "date": "2025-04-08",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Phoenix_Audit_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/phoenix-audit-report_4b75c5f8.pdf",
+    "sha256": "7cacab35647d007b1db8e21ee530b3de9f78cbeed9fa0763158392cc169f379d",
+    "size_bytes": 1008225,
+    "downloaded_at": "2026-07-07T10:41:47+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Phoenix_Audit_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/phoenix-audit-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Airpuff",
+    "title": "Airpuff Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Airpuff_Report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Airpuff_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/airpuff-report_4ecf3145.pdf",
+    "sha256": "0c89aedc872acca43031966725031d0e5840531431570c2e30357e6153630cd3",
+    "size_bytes": 936605,
+    "downloaded_at": "2026-07-07T10:41:49+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Airpuff_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/airpuff-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Athena",
+    "title": "Athena Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Athena_Report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Athena_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/athena-report_f54156d0.pdf",
+    "sha256": "e0112e7054f113aefa42819c391079b15fe8d6d14946dd6f8ab73456eee5165b",
+    "size_bytes": 975461,
+    "downloaded_at": "2026-07-07T10:41:50+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Athena_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/athena-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Azuro",
+    "title": "Azuro Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Azuro_Report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Azuro_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/azuro-report_336ca047.pdf",
+    "sha256": "318bc6e348666d43a456c87ee8c8eb119e04b35f215997f0eb0d825d24b3a735",
+    "size_bytes": 952520,
+    "downloaded_at": "2026-07-07T10:41:52+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Azuro_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/azuro-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Blerb",
+    "title": "Blerb Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Blerb_Report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Blerb_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/blerb-report_d3876210.pdf",
+    "sha256": "dda796ac7b72d650d9df7873ca657be5e85cf4fb6555db46a9ee3ab8407fd477",
+    "size_bytes": 969343,
+    "downloaded_at": "2026-07-07T10:41:54+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Blerb_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/blerb-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Blessed",
+    "title": "Blessed Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Blessed_Report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Blessed_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/blessed-report_a25c618c.pdf",
+    "sha256": "0357ac6e9311e6fa1c5042838e3c1edb4c88d7ad80b1d94bf6ddd9f3bcc66dc6",
+    "size_bytes": 1100706,
+    "downloaded_at": "2026-07-07T10:41:55+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Blessed_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/blessed-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "ChateauCapital",
+    "title": "ChateauCapital report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/ChateauCapital_report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/ChateauCapital_report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/chateaucapital-report_81e7da4d.pdf",
+    "sha256": "2e363a14de0dc9749788a0ddfa943aaacb18218b28ec161934a8bd92b4d6bd4a",
+    "size_bytes": 924751,
+    "downloaded_at": "2026-07-07T10:41:56+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/ChateauCapital_report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/chateaucapital-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "DragonStone",
+    "title": "DragonStone Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/DragonStone_Report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/DragonStone_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/dragonstone-report_42e74f25.pdf",
+    "sha256": "b9cbdda3fa28798104118a4025b2056808f869d292e7cb2427f2dc4e23c747f4",
+    "size_bytes": 951129,
+    "downloaded_at": "2026-07-07T10:41:58+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/DragonStone_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/dragonstone-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "SupraLabs DORA",
+    "title": "SupraLabs DORA Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SupraLabs_DORA_Report.pdf",
+    "date": "2025-06-13",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SupraLabs_DORA_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/supralabs-dora-report_de4855fe.pdf",
+    "sha256": "ecc38604a78e874fc4206e7b02fc2fbe9f6094397053ebb598b18a35a48d227e",
+    "size_bytes": 955019,
+    "downloaded_at": "2026-07-07T10:41:59+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/SupraLabs_DORA_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/supralabs-dora-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "EBASE",
+    "title": "EBASE Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/EBASE_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/EBASE_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/ebase-report_5e9ee8b3.pdf",
+    "sha256": "af58087cff5f68febf01851f3e88bcd147b52af9b5d48e0b325c79d453d91760",
+    "size_bytes": 974765,
+    "downloaded_at": "2026-07-07T10:42:00+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/EBASE_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/ebase-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "GarageSale",
+    "title": "GarageSale Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/GarageSale_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/GarageSale_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/garagesale-report_a83ad4c0.pdf",
+    "sha256": "292b763ad3c18f0bb11413bafbddb3f16ed0e91c85c2393fce486c95ae91e0a6",
+    "size_bytes": 942174,
+    "downloaded_at": "2026-07-07T10:42:01+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/GarageSale_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/garagesale-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Groge",
+    "title": "Groge Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Groge_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Groge_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/groge-report_abc9d344.pdf",
+    "sha256": "2e118da6bf1757d79a88960ffec41d230192c02667844e948bc3936778d9c3c6",
+    "size_bytes": 1012804,
+    "downloaded_at": "2026-07-07T10:42:03+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Groge_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/groge-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "HexPayDay",
+    "title": "HexPayDay Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/HexPayDay_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/HexPayDay_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/hexpayday-report_ed4dedeb.pdf",
+    "sha256": "ac0389598d3f74199401ffb61a48c15689e9b8ff9849d824c9c68415f695b3e3",
+    "size_bytes": 1005525,
+    "downloaded_at": "2026-07-07T10:42:04+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/HexPayDay_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/hexpayday-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Keiko",
+    "title": "Keiko Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Keiko_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Keiko_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/keiko-report_b990308d.pdf",
+    "sha256": "52648e3f1ba8c0cd221e5399093502647220cc44add733e01a1585a178f66127",
+    "size_bytes": 982437,
+    "downloaded_at": "2026-07-07T10:42:05+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Keiko_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/keiko-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Libree",
+    "title": "Libree Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Libree_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Libree_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/libree-report_dff605af.pdf",
+    "sha256": "440d88832bf71062249778a6df34a982557e8b20a35dba96d010d7d60f0648ea",
+    "size_bytes": 911591,
+    "downloaded_at": "2026-07-07T10:42:06+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Libree_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/libree-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Megapot",
+    "title": "Megapot Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Megapot_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Megapot_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/megapot-report_8758b8ec.pdf",
+    "sha256": "5c58865de5ba0b9a6d72c9f31f8d3445c759958efbb68118e92b352b7a909351",
+    "size_bytes": 4958794,
+    "downloaded_at": "2026-07-07T10:42:09+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Megapot_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/megapot-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Molly",
+    "title": "Molly Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Molly_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Molly_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/molly-report_762b9db9.pdf",
+    "sha256": "79c9f886b7c6630d67f444138082fad4ab0409d0ee3038691303b59289d6de35",
+    "size_bytes": 1003107,
+    "downloaded_at": "2026-07-07T10:42:10+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Molly_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/molly-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "PrivacyPools",
+    "title": "PrivacyPools Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/PrivacyPools_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/PrivacyPools_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/privacypools-report_82b41ad3.pdf",
+    "sha256": "c17a5410efe93b853c6195ca41b7b20d42e50d6f8d024ca997df27b6abf9fee1",
+    "size_bytes": 903851,
+    "downloaded_at": "2026-07-07T10:42:11+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/PrivacyPools_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/privacypools-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "SumerMoney",
+    "title": "SumerMoney Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SumerMoney_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SumerMoney_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/sumermoney-report_a1cd177b.pdf",
+    "sha256": "67495c8e5038d97d5419bb6a02459ad61c3e6041c17076a5936d8d1edd14a657",
+    "size_bytes": 1044642,
+    "downloaded_at": "2026-07-07T10:42:13+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/SumerMoney_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/sumermoney-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "SupraVRF",
+    "title": "SupraVRF Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SupraVRF_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SupraVRF_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/supravrf-report_0fbe8bac.pdf",
+    "sha256": "925f73c04a81e5956e01ee34f2e8ef7c167788c438e9bb903543015753e9b33b",
+    "size_bytes": 997180,
+    "downloaded_at": "2026-07-07T10:42:14+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/SupraVRF_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/supravrf-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Sweepr",
+    "title": "Sweepr Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Sweepr_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Sweepr_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/sweepr-report_809ada69.pdf",
+    "sha256": "29d20bd3319efb95c2ac7695e16906a4a0b4698d20b4f78b2cde50c9513d4b98",
+    "size_bytes": 5434426,
+    "downloaded_at": "2026-07-07T10:42:16+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Sweepr_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/sweepr-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "TajirMedia",
+    "title": "TajirMedia Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TajirMedia_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TajirMedia_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/tajirmedia-report_61624aaf.pdf",
+    "sha256": "b3c5f1f98560ad71d2c893bd3026ec67f46cae96d4c1d793b7a4d582e45165ac",
+    "size_bytes": 975068,
+    "downloaded_at": "2026-07-07T10:42:17+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/TajirMedia_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/tajirmedia-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "TitanX Farms",
+    "title": "TitanX Farms Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TitanX_Farms_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TitanX_Farms_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/titanx-farms-report_a4b12974.pdf",
+    "sha256": "c6a4df7dfbe53a5a9a297df2aed13621f1525028b25dfba037e43b94ca3378b0",
+    "size_bytes": 1025120,
+    "downloaded_at": "2026-07-07T10:42:18+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/TitanX_Farms_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/titanx-farms-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "TokenLocker",
+    "title": "TokenLocker Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TokenLocker_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TokenLocker_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/tokenlocker-report_18a9e7f2.pdf",
+    "sha256": "c4db2db20981a8fd2c8fb1f6487abecfde4e7162dcdac1220dc83b56b1f41af3",
+    "size_bytes": 940178,
+    "downloaded_at": "2026-07-07T10:42:19+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/TokenLocker_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/tokenlocker-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "TradFiLines",
+    "title": "TradFiLines Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TradFiLines_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/TradFiLines_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/tradfilines-report_13c74a76.pdf",
+    "sha256": "0e5d4beadc1b2759716ee849d62c45bae7bc7c22891b97a6ad6c5413cfe22df3",
+    "size_bytes": 989022,
+    "downloaded_at": "2026-07-07T10:42:20+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/TradFiLines_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/tradfilines-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "UniversalPage",
+    "title": "UniversalPage Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/UniversalPage_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/UniversalPage_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/universalpage-report_16217715.pdf",
+    "sha256": "dc7dcd017c824d5e2f4411367f21a27e05a1c8f46228a0ae367bf8c56f9b6388",
+    "size_bytes": 993570,
+    "downloaded_at": "2026-07-07T10:42:21+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/UniversalPage_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/universalpage-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "VOX",
+    "title": "VOX Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/VOX_Report.pdf",
+    "date": "2025-06-14",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/VOX_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/vox-report_93131299.pdf",
+    "sha256": "e27fa8b31719d63bb9c3374f82871f29ffdd475230469c76aa7d4f941381d4c7",
+    "size_bytes": 1031788,
+    "downloaded_at": "2026-07-07T10:42:22+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/VOX_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/vox-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Varonve",
+    "title": "Varonve Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Varonve_Report.pdf",
+    "date": "2025-06-15",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Varonve_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/varonve-report_12b4988e.pdf",
+    "sha256": "2aa1a2aeafa56ed2da8f97a673e181d1dbb9d9154957dfc9c4b0563622ddfb44",
+    "size_bytes": 1056619,
+    "downloaded_at": "2026-07-07T10:42:23+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Varonve_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/varonve-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Whirl",
+    "title": "Whirl Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Whirl_Report.pdf",
+    "date": "2025-06-15",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Whirl_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/whirl-report_72260a53.pdf",
+    "sha256": "3e8b18cd1785d9fc3230a83b8542fb7f630a73ee0a38799a11c0a363eac6e7e2",
+    "size_bytes": 978627,
+    "downloaded_at": "2026-07-07T10:42:24+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Whirl_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/whirl-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "WizardGallery",
+    "title": "WizardGallery Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/WizardGallery_Report.pdf",
+    "date": "2025-06-15",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/WizardGallery_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/wizardgallery-report_88a696fa.pdf",
+    "sha256": "9a5e6004c573b4ae65bc59bc2045a88a7af69ac6685aa2acc4cb25fa7d67f5b2",
+    "size_bytes": 980465,
+    "downloaded_at": "2026-07-07T10:42:26+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/WizardGallery_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/wizardgallery-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "ZKTsunami",
+    "title": "ZKTsunami Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/ZKTsunami_Report.pdf",
+    "date": "2025-06-15",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/ZKTsunami_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/zktsunami-report_3b888a60.pdf",
+    "sha256": "a48edace4c6424b8eca056363592b8c26bb4f4b465c7ed436b32724b5f8ea1e3",
+    "size_bytes": 1001667,
+    "downloaded_at": "2026-07-07T10:42:27+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/ZKTsunami_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/zktsunami-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "PeggedFarmKeeper",
+    "title": "PeggedFarmKeeper Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/PeggedFarmKeeper_Report.pdf",
+    "date": "2025-07-09",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/PeggedFarmKeeper_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/peggedfarmkeeper-report_87309cd4.pdf",
+    "sha256": "7b467e9673a58c280b4bad002c280be872e3a2c0be9b1ff2edee854200bc6b8e",
+    "size_bytes": 972469,
+    "downloaded_at": "2026-07-07T10:42:28+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/PeggedFarmKeeper_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/peggedfarmkeeper-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "SecurityBot",
+    "title": "SecurityBot report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SecurityBot_report.pdf",
+    "date": "2025-07-09",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SecurityBot_report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/securitybot-report_51b468f1.pdf",
+    "sha256": "2519a84a6979856f9cb733967c4e0149c739b0577f026d828d92d9d14efa454e",
+    "size_bytes": 1131411,
+    "downloaded_at": "2026-07-07T10:42:29+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/SecurityBot_report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/securitybot-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Shogun",
+    "title": "Shogun report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Shogun-report.pdf",
+    "date": "2025-07-09",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Shogun-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/shogun-report_67d27b9f.pdf",
+    "sha256": "6b1490b97f6edb1bf591dc0d3d1a261f6cf78d05e4f0dafef31fef9645fe509b",
+    "size_bytes": 942135,
+    "downloaded_at": "2026-07-07T10:42:30+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Shogun-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/shogun-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Turbo",
+    "title": "Turbo report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Turbo-report.pdf",
+    "date": "2025-07-09",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Turbo-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/turbo-report_70ca303f.pdf",
+    "sha256": "b35550eb9ed0f10e0dac707259233ee25c4597f5a8b687905c671a1f69b0805f",
+    "size_bytes": 1001027,
+    "downloaded_at": "2026-07-07T10:42:31+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Turbo-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/turbo-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Arbero",
+    "title": "Arbero Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Arbero_Report.pdf",
+    "date": "2025-07-21",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Arbero_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/arbero-report_42f2276e.pdf",
+    "sha256": "b3024d7252393407165a6086045fd78fa1383fcdd3200d955f48373f6d4d3203",
+    "size_bytes": 1017765,
+    "downloaded_at": "2026-07-07T10:42:32+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Arbero_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/arbero-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Credifi",
+    "title": "Credifi report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Credifi-report.pdf",
+    "date": "2025-07-21",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Credifi-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/credifi-report_34de87a7.pdf",
+    "sha256": "2399ec6c79d476b788e35506a4546a9264582c373df6cf30a4b4dea38c5d693b",
+    "size_bytes": 6352587,
+    "downloaded_at": "2026-07-07T10:42:34+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Credifi-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/credifi-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "SmartInvoice",
+    "title": "SmartInvoice Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SmartInvoice_Report.pdf",
+    "date": "2025-10-08",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/SmartInvoice_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/smartinvoice-report_11c80880.pdf",
+    "sha256": "b243237ea3c2bb324349e8ffd560510add23a062b58b7615af4a3b7da45e0d79",
+    "size_bytes": 1039604,
+    "downloaded_at": "2026-07-07T10:42:35+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/SmartInvoice_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/smartinvoice-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "10102 Inheritance",
+    "title": "10102 Inheritance report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/10102-Inheritance-report.pdf",
+    "date": "2025-10-31",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/10102-Inheritance-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/10102-inheritance-report_5ab3b6d2.pdf",
+    "sha256": "2abec2b64844582c1030c31e255963d0e24a873891ebe09345d9ae77045b7331",
+    "size_bytes": 1165476,
+    "downloaded_at": "2026-07-07T10:42:36+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/10102-Inheritance-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/10102-inheritance-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Cerebro",
+    "title": "Cerebro Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Cerebro_Report.pdf",
+    "date": "2025-12-07",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Cerebro_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/cerebro-report_5a9c43a2.pdf",
+    "sha256": "b29785626c8f4b19ca5b0b2a2eb6d2373c41327ea840e2746adf0ccb8b9e72b5",
+    "size_bytes": 1047917,
+    "downloaded_at": "2026-07-07T10:42:37+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Cerebro_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/cerebro-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Ultra Markets",
+    "title": "Ultra Markets report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Ultra-Markets-report.pdf",
+    "date": "2026-01-28",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Ultra-Markets-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/ultra-markets-report_01fe7d5d.pdf",
+    "sha256": "bbe96977a664e1effab551f093669f5214a71cedd3e6b53ad54ab43fd75dd090",
+    "size_bytes": 1043976,
+    "downloaded_at": "2026-07-07T10:42:38+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Ultra-Markets-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/ultra-markets-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "XNS",
+    "title": "XNS Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/XNS_Report.pdf",
+    "date": "2026-02-05",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/XNS_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/xns-report_824016a9.pdf",
+    "sha256": "cf68e8a1dfa3a3c7557e29a73dc241d1c06c5f92fc563f47c1b4bc81cf87fc93",
+    "size_bytes": 980521,
+    "downloaded_at": "2026-07-07T10:42:39+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/XNS_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/xns-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Hyperlend",
+    "title": "Hyperlend report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Hyperlend-report.pdf",
+    "date": "2026-02-17",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Hyperlend-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/hyperlend-report_c53184d5.pdf",
+    "sha256": "688c203ebed188d6c0a28664249376d94123c227c03b631149afb09d474260be",
+    "size_bytes": 2107640,
+    "downloaded_at": "2026-07-07T10:42:41+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Hyperlend-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/hyperlend-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Cerebro 2",
+    "title": "Cerebro Report 2",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Cerebro_Report%202.pdf",
+    "date": "2026-03-05",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Cerebro_Report%202.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/cerebro-report-2_a8a15d0c.pdf",
+    "sha256": "1e740971a5bcf86965473e958c807d4d7ac0589c62435526768f209005e3d1eb",
+    "size_bytes": 8790707,
+    "downloaded_at": "2026-07-07T10:42:44+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Cerebro_Report 2.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/cerebro-report-2"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Purrlend",
+    "title": "Purrlend",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Purrlend.pdf",
+    "date": "2026-03-05",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Purrlend.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/purrlend_c19f35d8.pdf",
+    "sha256": "ad591508aaf71da6f58b445be5b7bd99027b84845e702889f3a770c79e1d3674",
+    "size_bytes": 1689669,
+    "downloaded_at": "2026-07-07T10:42:45+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Purrlend.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/purrlend"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Tria",
+    "title": "Tria report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Tria-report.pdf",
+    "date": "2026-03-05",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Tria-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/tria-report_9d4a5a32.pdf",
+    "sha256": "25bc88c97c258e020fc2ed3a506410c88fbbad6fabf738fdf3f0f207fcfec28f",
+    "size_bytes": 998944,
+    "downloaded_at": "2026-07-07T10:42:46+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Tria-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/tria-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "BuilDefi",
+    "title": "BuilDefi report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/BuilDefi-report.pdf",
+    "date": "2026-04-22",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/BuilDefi-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/buildefi-report_17e0123d.pdf",
+    "sha256": "e500434bd7ff73b2498b22f3c6fc5ab6a80016ca5e6411e83174b4344ba06b48",
+    "size_bytes": 2119845,
+    "downloaded_at": "2026-07-07T10:42:47+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/BuilDefi-report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/buildefi-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "HyperLend 2nd",
+    "title": "HyperLend 2nd review",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/HyperLend-2nd-review.pdf",
+    "date": "2026-04-29",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/HyperLend-2nd-review.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/hyperlend-2nd-review_67324416.pdf",
+    "sha256": "fdb7c9263df5942dfcd34958ea943795fad02c09566e16a09d50d55344ea5e5b",
+    "size_bytes": 1944206,
+    "downloaded_at": "2026-07-07T10:42:48+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/HyperLend-2nd-review.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/hyperlend-2nd-review"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "Sway",
+    "title": "Sway Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Sway_Report.pdf",
+    "date": "2026-05-07",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/Sway_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/sway-report_19752aef.pdf",
+    "sha256": "a481f48da95510e38e3c16871b95bb0380ec6241fb3a087daca742831282bb05",
+    "size_bytes": 1988908,
+    "downloaded_at": "2026-07-07T10:42:50+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/Sway_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/sway-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "OlympusX Followup",
+    "title": "OlympusX Followup Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/OlympusX_Followup_Report.pdf",
+    "date": "2026-06-11",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/OlympusX_Followup_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/olympusx-followup-report_e5b9a8d9.pdf",
+    "sha256": "5996065729558e6b2a5639091a3be8fc74b74d8f0ad305a5294cc8b85653a05d",
+    "size_bytes": 1838898,
+    "downloaded_at": "2026-07-07T10:42:51+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/OlympusX_Followup_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/olympusx-followup-report"
+  },
+  {
+    "source": "cdsecurity",
+    "project": "OlympusX",
+    "title": "OlympusX Report",
+    "report_url": "https://github.com/CDSecurity/audits/blob/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/OlympusX_Report.pdf",
+    "date": "2026-06-11",
+    "listing_url": "https://github.com/CDSecurity/audits",
+    "download_url": "https://raw.githubusercontent.com/CDSecurity/audits/21c8940a0f1722238effcd8ae40a0dfd3868f0d0/audit%20reports/OlympusX_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/cdsecurity/olympusx-report_edbe6d77.pdf",
+    "sha256": "a76b6d1c95e19beadf0a6430a473886b0e30a58e8addadb0f545e9ad46d090bc",
+    "size_bytes": 3005908,
+    "downloaded_at": "2026-07-07T10:42:53+00:00",
+    "extra": {
+      "repo": "CDSecurity/audits",
+      "path": "audit reports/OlympusX_Report.pdf",
+      "commit": "21c8940a0f1722238effcd8ae40a0dfd3868f0d0"
+    },
+    "id": "cdsecurity/olympusx-report"
+  }
+]

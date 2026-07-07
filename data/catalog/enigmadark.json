@@ -1,0 +1,562 @@
+[
+  {
+    "source": "enigmadark",
+    "project": "Invariant Testing Euler EVK",
+    "title": "2024 03 Invariant Testing Euler EVK",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-03_Invariant_Testing_Euler_EVK.pdf",
+    "date": "2024-03",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-03_Invariant_Testing_Euler_EVK.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-03-invariant-testing-euler-evk_4caf0fd8.pdf",
+    "sha256": "9bbc6d239abd1aabe6319bd0634eadf03b74d99fde13cd5f6da7a5c8ec56df32",
+    "size_bytes": 153014,
+    "downloaded_at": "2026-07-07T11:21:59+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-03_Invariant_Testing_Euler_EVK.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-03-invariant-testing-euler-evk"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Asterix",
+    "title": "2024 04 01 Security Review Report Asterix",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-04-01_Security_Review_Report_Asterix.pdf",
+    "date": "2024-04-01",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-04-01_Security_Review_Report_Asterix.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-04-01-security-review-report-asterix_2749e0b4.pdf",
+    "sha256": "33a9cbef2c62088ca7acaaaf2a63376ac401649e22e79b2f82294b05e3646625",
+    "size_bytes": 114204,
+    "downloaded_at": "2026-07-07T11:22:00+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-04-01_Security_Review_Report_Asterix.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-04-01-security-review-report-asterix"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Solady ERC6551",
+    "title": "2024 04 01 Security Review Report Solady ERC6551",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-04-01_Security_Review_Report_Solady_ERC6551.pdf",
+    "date": "2024-04-01",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-04-01_Security_Review_Report_Solady_ERC6551.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-04-01-security-review-report-solady-erc6551_184980e9.pdf",
+    "sha256": "17577ddb1485d4a5a311e25f9aa8dd28855fb70daa368af30e0d79f867cbb9a4",
+    "size_bytes": 203567,
+    "downloaded_at": "2026-07-07T11:22:01+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-04-01_Security_Review_Report_Solady_ERC6551.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-04-01-security-review-report-solady-erc6551"
+  },
+  {
+    "source": "enigmadark",
+    "project": "JuiceboxProtocolv4",
+    "title": "2024 04 30 Security Review Report JuiceboxProtocolv4",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-04-30_Security_Review_Report_JuiceboxProtocolv4.pdf",
+    "date": "2024-04-30",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-04-30_Security_Review_Report_JuiceboxProtocolv4.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-04-30-security-review-report-juiceboxprotocolv4_a9bee549.pdf",
+    "sha256": "f4b6313530602f10bdd9cf438892e849670cb34f44e387ac4056ef3bdafb9af3",
+    "size_bytes": 1491085,
+    "downloaded_at": "2026-07-07T11:22:06+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-04-30_Security_Review_Report_JuiceboxProtocolv4.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-04-30-security-review-report-juiceboxprotocolv4"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Aave",
+    "title": "2024 09 30 Security Review Report Aave v3.2",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-09-30_Security_Review_Report_Aave-v3.2.pdf",
+    "date": "2024-09-30",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-09-30_Security_Review_Report_Aave-v3.2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-09-30-security-review-report-aave-v3-2_40181fef.pdf",
+    "sha256": "bf61f61b204250bdb822d4f5880f837f4ee6c0d8b0d03e52bfdebc2f767e88ce",
+    "size_bytes": 283848,
+    "downloaded_at": "2026-07-07T11:22:08+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-09-30_Security_Review_Report_Aave-v3.2.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-09-30-security-review-report-aave-v3-2"
+  },
+  {
+    "source": "enigmadark",
+    "project": "FlayerLabs Flaunch",
+    "title": "2024 11 Security Review FlayerLabs Flaunch",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-11_Security_Review_FlayerLabs_Flaunch.pdf",
+    "date": "2024-11",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-11_Security_Review_FlayerLabs_Flaunch.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-11-security-review-flayerlabs-flaunch_a831750b.pdf",
+    "sha256": "a75396b46062c399179288b41ea3b804b02d9f415fa788962dcf420f04b90fb2",
+    "size_bytes": 824244,
+    "downloaded_at": "2026-07-07T11:22:11+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-11_Security_Review_FlayerLabs_Flaunch.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-11-security-review-flayerlabs-flaunch"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Architecture  Kinode",
+    "title": "2024 11 18 Architecture Review Report Kinode",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-11-18_Architecture_Review_Report_Kinode.pdf",
+    "date": "2024-11-18",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-11-18_Architecture_Review_Report_Kinode.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-11-18-architecture-review-report-kinode_a8f5623d.pdf",
+    "sha256": "c4b777326d69061b3164660686ed91ec5b6efe1e4b93b0ffa404a80764168a2e",
+    "size_bytes": 2356553,
+    "downloaded_at": "2026-07-07T11:22:15+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-11-18_Architecture_Review_Report_Kinode.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-11-18-architecture-review-report-kinode"
+  },
+  {
+    "source": "enigmadark",
+    "project": "EnigmaDark Invariant Testing Engagement EulerLabs EulerEarn",
+    "title": "2024 12 EnigmaDark Invariant Testing Engagement EulerLabs EulerEarn",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-12_EnigmaDark_Invariant_Testing_Engagement_EulerLabs_EulerEarn.pdf",
+    "date": "2024-12",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-12_EnigmaDark_Invariant_Testing_Engagement_EulerLabs_EulerEarn.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-12-enigmadark-invariant-testing-engagement-eulerlabs-eulerearn_66bbaee8.pdf",
+    "sha256": "cdc93e5bc8310a10a1f037c5bc9da648145b9f1423c6ad2b73a762283ef3642f",
+    "size_bytes": 706882,
+    "downloaded_at": "2026-07-07T11:22:18+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-12_EnigmaDark_Invariant_Testing_Engagement_EulerLabs_EulerEarn.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-12-enigmadark-invariant-testing-engagement-eulerlabs-eulerearn"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Extension FlayerLabs Flaunch",
+    "title": "2024 12 Security Review Extension FlayerLabs Flaunch",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-12_Security_Review_Extension_FlayerLabs_Flaunch.pdf",
+    "date": "2024-12",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2024-12_Security_Review_Extension_FlayerLabs_Flaunch.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2024-12-security-review-extension-flayerlabs-flaunch_f81aae6d.pdf",
+    "sha256": "444bc836bbdcc79cf6a523838068bf307f57b4b87823c80f7aa8dc1df0718ee7",
+    "size_bytes": 391352,
+    "downloaded_at": "2026-07-07T11:22:20+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2024-12_Security_Review_Extension_FlayerLabs_Flaunch.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2024-12-security-review-extension-flayerlabs-flaunch"
+  },
+  {
+    "source": "enigmadark",
+    "project": "FlayerLabs Flaunch v1 1 Protocol Upgrade",
+    "title": "2025 03 Security Review FlayerLabs Flaunch v1 1 Protocol Upgrade",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-03_Security%20Review_FlayerLabs_Flaunch_v1_1_Protocol_Upgrade.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-03_Security%20Review_FlayerLabs_Flaunch_v1_1_Protocol_Upgrade.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-03-security-review-flayerlabs-flaunch-v1-1-protocol-upgrade_c05bd4b6.pdf",
+    "sha256": "81c1419002a6b5ffa7c14febe31b447bf1137a7d80561c7ed261b6384b58a319",
+    "size_bytes": 1161271,
+    "downloaded_at": "2026-07-07T11:22:22+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-03_Security Review_FlayerLabs_Flaunch_v1_1_Protocol_Upgrade.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-03-security-review-flayerlabs-flaunch-v1-1-protocol-upgrade"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Penetration Testing Unhosted Wallet Extension Core & Backend Services",
+    "title": "2025 03 Security Review Penetration Testing Unhosted Wallet Extension Core & Backend Services",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-03_Security_Review_Penetration_Testing_Unhosted%20Wallet_Extension%20Core_%26_Backend_Services.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-03_Security_Review_Penetration_Testing_Unhosted%20Wallet_Extension%20Core_%26_Backend_Services.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-03-security-review-penetration-testing-unhosted-wallet-extension-core-backe_b82af3aa.pdf",
+    "sha256": "25f9650a3ce4e385935031ca0d416479a458b332104b436d34501a28094a46c2",
+    "size_bytes": 4436377,
+    "downloaded_at": "2026-07-07T11:22:29+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-03_Security_Review_Penetration_Testing_Unhosted Wallet_Extension Core_&_Backend_Services.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-03-security-review-penetration-testing-unhosted-wallet-extension-core-backe"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Invariant Testing Engagement Twyne v1",
+    "title": "2025 04 Invariant Testing Engagement Twyne v1",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-04_Invariant_Testing_Engagement_Twyne_v1.pdf",
+    "date": "2025-04",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-04_Invariant_Testing_Engagement_Twyne_v1.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-04-invariant-testing-engagement-twyne-v1_ecd0f720.pdf",
+    "sha256": "c1267bda66f8a77a892acabd55260f5c32faa771d4be067c2d4f30a25867cc76",
+    "size_bytes": 739920,
+    "downloaded_at": "2026-07-07T11:22:31+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-04_Invariant_Testing_Engagement_Twyne_v1.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-04-invariant-testing-engagement-twyne-v1"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Managed Ambit Labs Hyperdrive LST",
+    "title": "2025 04 Managed Security Review Ambit Labs Hyperdrive LST",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-04_Managed_Security_Review_Ambit_Labs_Hyperdrive_LST.pdf",
+    "date": "2025-04",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-04_Managed_Security_Review_Ambit_Labs_Hyperdrive_LST.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-04-managed-security-review-ambit-labs-hyperdrive-lst_a54e7ed1.pdf",
+    "sha256": "71707223cabe89a736719813d4cdc88e772742a00546c5aaef7b6c8d6fe43163",
+    "size_bytes": 692650,
+    "downloaded_at": "2026-07-07T11:22:32+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-04_Managed_Security_Review_Ambit_Labs_Hyperdrive_LST.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-04-managed-security-review-ambit-labs-hyperdrive-lst"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Arrakis Finance Arrakis Modular PancakeSwap V4 &  Uniswap V4 Modules",
+    "title": "2025 04 Security Review Arrakis Finance Arrakis Modular PancakeSwap V4 &  Uniswap V4 Modules",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-04_Security_Review_Arrakis_Finance_Arrakis_Modular_PancakeSwap_V4_%26_%20Uniswap_V4_Modules.pdf",
+    "date": "2025-04",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-04_Security_Review_Arrakis_Finance_Arrakis_Modular_PancakeSwap_V4_%26_%20Uniswap_V4_Modules.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-04-security-review-arrakis-finance-arrakis-modular-pancakeswap-v4-uniswap-v_2c5c8fa5.pdf",
+    "sha256": "07b92daf2832a8f07cf17454288a381299836ac95992bbcc9407b52389b130ae",
+    "size_bytes": 623611,
+    "downloaded_at": "2026-07-07T11:22:34+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-04_Security_Review_Arrakis_Finance_Arrakis_Modular_PancakeSwap_V4_&_ Uniswap_V4_Modules.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-04-security-review-arrakis-finance-arrakis-modular-pancakeswap-v4-uniswap-v"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Best Efforts Silo Finance Silo v2 Core",
+    "title": "2025 05 Best Efforts Security Review Silo Finance Silo v2 Core",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-05_Best_Efforts_Security_Review_Silo_Finance_Silo_v2_Core.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-05_Best_Efforts_Security_Review_Silo_Finance_Silo_v2_Core.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-05-best-efforts-security-review-silo-finance-silo-v2-core_3db9e012.pdf",
+    "sha256": "cda14861a942ac3dd36a3bf28e26d278ab75dc18062947a026cd2c3c0dc3d6be",
+    "size_bytes": 552450,
+    "downloaded_at": "2026-07-07T11:22:35+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-05_Best_Efforts_Security_Review_Silo_Finance_Silo_v2_Core.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-05-best-efforts-security-review-silo-finance-silo-v2-core"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Managed Ambit Labs Hyperdrive Router",
+    "title": "2025 05 Managed Security Review Ambit Labs Hyperdrive Router",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-05_Managed_Security_Review_Ambit_Labs_Hyperdrive_Router.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-05_Managed_Security_Review_Ambit_Labs_Hyperdrive_Router.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-05-managed-security-review-ambit-labs-hyperdrive-router_13a4b469.pdf",
+    "sha256": "b972b84b79c68fdb97ce88d181ea57ac7304bc8304f0c813271f33edc7ebab52",
+    "size_bytes": 343119,
+    "downloaded_at": "2026-07-07T11:22:37+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-05_Managed_Security_Review_Ambit_Labs_Hyperdrive_Router.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-05-managed-security-review-ambit-labs-hyperdrive-router"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Aave",
+    "title": "2025 05 13 Security Review Aave v3.4",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-05-13_Security_Review_Aave-v3.4.pdf",
+    "date": "2025-05-13",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-05-13_Security_Review_Aave-v3.4.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-05-13-security-review-aave-v3-4_c6f93d7c.pdf",
+    "sha256": "42136bbbcce664e6378bf5d3ae1339fd89c549b6ecbc121001a1fb617e3af9e1",
+    "size_bytes": 292767,
+    "downloaded_at": "2026-07-07T11:22:38+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-05-13_Security_Review_Aave-v3.4.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-05-13-security-review-aave-v3-4"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Invariant Testing Engagement Makina Finance Makina Core",
+    "title": "2025 07 Invariant Testing Engagement Makina Finance Makina Core",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-07_Invariant_Testing_Engagement_Makina_Finance_Makina_Core.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-07_Invariant_Testing_Engagement_Makina_Finance_Makina_Core.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-07-invariant-testing-engagement-makina-finance-makina-core_a7173ed4.pdf",
+    "sha256": "88ec41ad340a2fa0026863a68d8b73c01db005cdc0a79eaf598b2dd3aeac8159",
+    "size_bytes": 441990,
+    "downloaded_at": "2026-07-07T11:22:39+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-07_Invariant_Testing_Engagement_Makina_Finance_Makina_Core.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-07-invariant-testing-engagement-makina-finance-makina-core"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Managed Pearl Labs Alto Lending",
+    "title": "2025 07 Managed Security Review Pearl Labs Alto Lending",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-07_Managed_Security_Review_Pearl_Labs_Alto_Lending.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-07_Managed_Security_Review_Pearl_Labs_Alto_Lending.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-07-managed-security-review-pearl-labs-alto-lending_d6ce3630.pdf",
+    "sha256": "dbe2de694f7185bfbf8d7bd769b45e495aa9a4b284463530327a8f922f9ba6da",
+    "size_bytes": 716922,
+    "downloaded_at": "2026-07-07T11:22:41+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-07_Managed_Security_Review_Pearl_Labs_Alto_Lending.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-07-managed-security-review-pearl-labs-alto-lending"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Arrakis Finance Arrakis Modular Uniswap V4 Module",
+    "title": "2025 07 Security Review Arrakis Finance Arrakis Modular Uniswap V4 Public Module",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-07_Security_Review_Arrakis_Finance_Arrakis_Modular_Uniswap_V4_Public_Module.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-07_Security_Review_Arrakis_Finance_Arrakis_Modular_Uniswap_V4_Public_Module.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-07-security-review-arrakis-finance-arrakis-modular-uniswap-v4-public-module_a4dc7012.pdf",
+    "sha256": "0627cf2376e46b7df042f5d5e1b2f196e10d4b87bd2015cd9708c2d0a0304b8e",
+    "size_bytes": 674804,
+    "downloaded_at": "2026-07-07T11:22:43+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-07_Security_Review_Arrakis_Finance_Arrakis_Modular_Uniswap_V4_Public_Module.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-07-security-review-arrakis-finance-arrakis-modular-uniswap-v4-public-module"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Managed Ambit Labs Hyperdrive Subaccounts",
+    "title": "2025 08 Managed Security Review Ambit Labs Hyperdrive Subaccounts",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-08_Managed_Security_Review_Ambit_Labs_Hyperdrive_Subaccounts.pdf",
+    "date": "2025-08",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-08_Managed_Security_Review_Ambit_Labs_Hyperdrive_Subaccounts.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-08-managed-security-review-ambit-labs-hyperdrive-subaccounts_6cc54915.pdf",
+    "sha256": "2aa0c755194252b1643f3fb917bcbf4a075cd993d736747e997f2095cfec408b",
+    "size_bytes": 508890,
+    "downloaded_at": "2026-07-07T11:22:44+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-08_Managed_Security_Review_Ambit_Labs_Hyperdrive_Subaccounts.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-08-managed-security-review-ambit-labs-hyperdrive-subaccounts"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Arrakis Finance Arrakis Modular PancakeSwap V3 Integration",
+    "title": "2025 09 Security Review Arrakis Finance Arrakis Modular PancakeSwap V3 Integration",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-09_Security%20Review_Arrakis_Finance_Arrakis_Modular_PancakeSwap_V3_Integration.pdf",
+    "date": "2025-09",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-09_Security%20Review_Arrakis_Finance_Arrakis_Modular_PancakeSwap_V3_Integration.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-09-security-review-arrakis-finance-arrakis-modular-pancakeswap-v3-integrati_67fff4d8.pdf",
+    "sha256": "37fd449f29a172eaed7858dae4bd33a6aded3fb71e90bb6b7fc13189a4665096",
+    "size_bytes": 626031,
+    "downloaded_at": "2026-07-07T11:22:46+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-09_Security Review_Arrakis_Finance_Arrakis_Modular_PancakeSwap_V3_Integration.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-09-security-review-arrakis-finance-arrakis-modular-pancakeswap-v3-integrati"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Makina Finance Makina Periphery Machine Share Oracle",
+    "title": "2025 09 Security Review Makina Finance Makina Periphery Machine Share Oracle",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-09_Security_Review_Makina_Finance_Makina_Periphery_Machine_Share_Oracle.pdf",
+    "date": "2025-09",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-09_Security_Review_Makina_Finance_Makina_Periphery_Machine_Share_Oracle.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-09-security-review-makina-finance-makina-periphery-machine-share-oracle_351c176e.pdf",
+    "sha256": "803e6543f6c3a8be5ad1417c2a489f7b94adc94041a27bf8ff8c2686932f3fee",
+    "size_bytes": 394511,
+    "downloaded_at": "2026-07-07T11:22:48+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-09_Security_Review_Makina_Finance_Makina_Periphery_Machine_Share_Oracle.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-09-security-review-makina-finance-makina-periphery-machine-share-oracle"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Invariant Testing Engagement Twyne Aave atokenwrapper",
+    "title": "2025 11 Invariant Testing Engagement Twyne Aave atokenwrapper",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Invariant_Testing_Engagement_Twyne_Aave_atokenwrapper.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Invariant_Testing_Engagement_Twyne_Aave_atokenwrapper.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-11-invariant-testing-engagement-twyne-aave-atokenwrapper_846bc8ea.pdf",
+    "sha256": "58ff04e98ff4dde768295b05463352ef0e6fa271fb3f4631f987402945e9bf74",
+    "size_bytes": 528609,
+    "downloaded_at": "2026-07-07T11:22:51+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-11_Invariant_Testing_Engagement_Twyne_Aave_atokenwrapper.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-11-invariant-testing-engagement-twyne-aave-atokenwrapper"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Invariant Testing Engagement Twyne Aave integration",
+    "title": "2025 11 Invariant Testing Engagement Twyne Aave integration",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Invariant_Testing_Engagement_Twyne_Aave_integration.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Invariant_Testing_Engagement_Twyne_Aave_integration.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-11-invariant-testing-engagement-twyne-aave-integration_af608da6.pdf",
+    "sha256": "a0d9d4fe615f80fdfed9233394ef062c80cfb449fadd6c002ebd55a6b81bdd46",
+    "size_bytes": 618027,
+    "downloaded_at": "2026-07-07T11:23:03+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-11_Invariant_Testing_Engagement_Twyne_Aave_integration.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-11-invariant-testing-engagement-twyne-aave-integration"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Arrakis Finance Arrakis Modular Uni v4 Hook Integration",
+    "title": "2025 11 Security Review Arrakis Finance Arrakis Modular Uni v4 Hook Integration",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Security%20Review_Arrakis%20Finance_Arrakis%20Modular_Uni_v4_Hook_Integration.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Security%20Review_Arrakis%20Finance_Arrakis%20Modular_Uni_v4_Hook_Integration.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-11-security-review-arrakis-finance-arrakis-modular-uni-v4-hook-integration_8b14b603.pdf",
+    "sha256": "5db36989a02564dee25e08c41eb10748966aa3ec6227bd0cc3ae947bfa0f3e82",
+    "size_bytes": 473709,
+    "downloaded_at": "2026-07-07T11:23:05+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-11_Security Review_Arrakis Finance_Arrakis Modular_Uni_v4_Hook_Integration.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-11-security-review-arrakis-finance-arrakis-modular-uni-v4-hook-integration"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Euler Labs Euler Earn Rescue Strategy",
+    "title": "2025 11 Security Review Euler Labs Euler Earn Rescue Strategy",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Security_Review_Euler_Labs_Euler_Earn_Rescue_Strategy.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2025-11_Security_Review_Euler_Labs_Euler_Earn_Rescue_Strategy.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2025-11-security-review-euler-labs-euler-earn-rescue-strategy_719de789.pdf",
+    "sha256": "e39d6b7428875118d431a386cdd9df15c47662fc2c5047175e562d241612018e",
+    "size_bytes": 460024,
+    "downloaded_at": "2026-07-07T11:23:07+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2025-11_Security_Review_Euler_Labs_Euler_Earn_Rescue_Strategy.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2025-11-security-review-euler-labs-euler-earn-rescue-strategy"
+  },
+  {
+    "source": "enigmadark",
+    "project": "Silo Finance Silo v3",
+    "title": "2026 02 Security Review Silo Finance Silo v3",
+    "report_url": "https://github.com/Enigma-Dark/security-review-reports/blob/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2026-02_Security%20Review_Silo_Finance_Silo_v3.pdf",
+    "date": "2026-02",
+    "listing_url": "https://github.com/Enigma-Dark/security-review-reports",
+    "download_url": "https://raw.githubusercontent.com/Enigma-Dark/security-review-reports/eb59956ca1dc24cce2cd422dc37df8c0e04fc905/2026-02_Security%20Review_Silo_Finance_Silo_v3.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/enigmadark/2026-02-security-review-silo-finance-silo-v3_817565a5.pdf",
+    "sha256": "70b54326c7971ab71bc84ba34e6903a44daba63312ba42f35bb3f334d61e9de0",
+    "size_bytes": 486277,
+    "downloaded_at": "2026-07-07T11:23:10+00:00",
+    "extra": {
+      "repo": "Enigma-Dark/security-review-reports",
+      "path": "2026-02_Security Review_Silo_Finance_Silo_v3.pdf",
+      "commit": "eb59956ca1dc24cce2cd422dc37df8c0e04fc905"
+    },
+    "id": "enigmadark/2026-02-security-review-silo-finance-silo-v3"
+  }
+]

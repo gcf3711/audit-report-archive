@@ -1,0 +1,2762 @@
+[
+  {
+    "source": "yaudit",
+    "project": "03 Ohm y",
+    "title": "03 2022 Ohm yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2022-Ohm-yAudit-Report.pdf",
+    "date": "2022-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2022-Ohm-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2022-ohm-yaudit-report_016d44fe.pdf",
+    "sha256": "ce15c6847de284ce660b5ff3308012bc33b1b8b457570f1f9777fbaece009412",
+    "size_bytes": 169817,
+    "downloaded_at": "2026-07-07T11:04:00+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2022-Ohm-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2022-ohm-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Bunni Zap",
+    "title": "2022 03 Bunni Zap",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2022-03-Bunni-Zap.pdf",
+    "date": "2022-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2022-03-Bunni-Zap.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2022-03-bunni-zap_30e6d2d6.pdf",
+    "sha256": "8057e911524d66be57aacbf465d776fc882f16b87837da9a37a3c0e6089034c6",
+    "size_bytes": 278288,
+    "downloaded_at": "2026-07-07T11:04:02+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2022-03-Bunni-Zap.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2022-03-bunni-zap"
+  },
+  {
+    "source": "yaudit",
+    "project": "04 Ohm Bond y",
+    "title": "04 2022 Ohm Bond yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2022-Ohm-Bond-yAudit-Report.pdf",
+    "date": "2022-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2022-Ohm-Bond-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/04-2022-ohm-bond-yaudit-report_a3234495.pdf",
+    "sha256": "ed8b387559e86a7489689736599cc4a56214023bc6ec0e114c64ebfdbc817e3c",
+    "size_bytes": 3162442,
+    "downloaded_at": "2026-07-07T11:04:07+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/04-2022-Ohm-Bond-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/04-2022-ohm-bond-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "04 veYFI y",
+    "title": "04 2022 veYFI yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2022-veYFI-yAudit-Report.pdf",
+    "date": "2022-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2022-veYFI-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/04-2022-veyfi-yaudit-report_179e62f3.pdf",
+    "sha256": "1566f4abbb653a3725bfd26f402da632f67ad6d0b238aaf196d3f36b62b44ad2",
+    "size_bytes": 296146,
+    "downloaded_at": "2026-07-07T11:04:08+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/04-2022-veYFI-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/04-2022-veyfi-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "05 OpenMEV y",
+    "title": "05 2022 OpenMEV yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2022-OpenMEV-yAudit-Report.pdf",
+    "date": "2022-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2022-OpenMEV-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/05-2022-openmev-yaudit-report_83a31f79.pdf",
+    "sha256": "291c742e504b1c02dac6555cd25c13dc16556567dd1905a0c23fdc5504c3759a",
+    "size_bytes": 427743,
+    "downloaded_at": "2026-07-07T11:04:10+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/05-2022-OpenMEV-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/05-2022-openmev-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 LevGeist y",
+    "title": "06 2022 LevGeist yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-LevGeist-yAudit-Report.pdf",
+    "date": "2022-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-LevGeist-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2022-levgeist-yaudit-report_15181c79.pdf",
+    "sha256": "b7346bf7d1c765ce0419b74fec3f00f38f547b41ad6c856aadc6ae81564922a9",
+    "size_bytes": 149793,
+    "downloaded_at": "2026-07-07T11:04:11+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2022-LevGeist-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2022-levgeist-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Singularity y",
+    "title": "06 2022 Singularity yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-Singularity-yAudit-Report.pdf",
+    "date": "2022-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-Singularity-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2022-singularity-yaudit-report_c06a3ec2.pdf",
+    "sha256": "a65d0924a5919dd977de835b65802fff6544bcca2ee52cc1b5e32075b83561ba",
+    "size_bytes": 566802,
+    "downloaded_at": "2026-07-07T11:04:13+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2022-Singularity-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2022-singularity-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Superfluid y",
+    "title": "06 2022 Superfluid yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-Superfluid-yAudit-Report.pdf",
+    "date": "2022-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-Superfluid-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2022-superfluid-yaudit-report_5f60c8f8.pdf",
+    "sha256": "35e0f71cbf93862a05cfc231f8f1a296321078fd96741843b539e0ed79000e5a",
+    "size_bytes": 353634,
+    "downloaded_at": "2026-07-07T11:04:14+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2022-Superfluid-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2022-superfluid-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Yearn BalancerLPFactory y",
+    "title": "06 2022 Yearn BalancerLPFactory yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-Yearn-BalancerLPFactory-yAudit-Report.pdf",
+    "date": "2022-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2022-Yearn-BalancerLPFactory-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2022-yearn-balancerlpfactory-yaudit-report_1e4f44c1.pdf",
+    "sha256": "2b4bbf3a8657fb34a4b96a866020d320b2db52b189425f7f400b611d2c48fc88",
+    "size_bytes": 209979,
+    "downloaded_at": "2026-07-07T11:04:15+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2022-Yearn-BalancerLPFactory-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2022-yearn-balancerlpfactory-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "08 Bunni y",
+    "title": "08 2022 Bunni yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2022-Bunni-yAudit-Report.pdf",
+    "date": "2022-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2022-Bunni-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/08-2022-bunni-yaudit-report_055ce55f.pdf",
+    "sha256": "1294c78d550fb671f849115e5f8ecb3123ad66b20fa812c022d7a1c13a08b66f",
+    "size_bytes": 143055,
+    "downloaded_at": "2026-07-07T11:04:16+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/08-2022-Bunni-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/08-2022-bunni-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "08 Timeless Yield Daddy y",
+    "title": "08 2022 Timeless Yield Daddy yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2022-Timeless-Yield-Daddy-yAudit-Report.pdf",
+    "date": "2022-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2022-Timeless-Yield-Daddy-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/08-2022-timeless-yield-daddy-yaudit-report_8db441c9.pdf",
+    "sha256": "93b7fb2415c8c9a848b117b1350cf10f00c471a61968147057fce5beafb22069",
+    "size_bytes": 464591,
+    "downloaded_at": "2026-07-07T11:04:18+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/08-2022-Timeless-Yield-Daddy-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/08-2022-timeless-yield-daddy-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "09 yFu NFT y",
+    "title": "09 2022 yFu NFT yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2022-yFu-NFT-yAudit-Report.pdf",
+    "date": "2022-09",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2022-yFu-NFT-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/09-2022-yfu-nft-yaudit-report_cd461eff.pdf",
+    "sha256": "ec695f54b3087d34f465fb534bfd201eca1daf1e91ba34587bd943dd378d9b7e",
+    "size_bytes": 131317,
+    "downloaded_at": "2026-07-07T11:04:19+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/09-2022-yFu-NFT-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/09-2022-yfu-nft-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 NounsDAO Token Buyer y",
+    "title": "10 2022 NounsDAO Token Buyer yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2022-NounsDAO-Token-Buyer-yAudit-Report.pdf",
+    "date": "2022-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2022-NounsDAO-Token-Buyer-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2022-nounsdao-token-buyer-yaudit-report_1afe3095.pdf",
+    "sha256": "3bb359f3a49d37a24415166e95e4f5d52516740ebc552b79bb3ed314e5a891bf",
+    "size_bytes": 186625,
+    "downloaded_at": "2026-07-07T11:04:20+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2022-NounsDAO-Token-Buyer-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2022-nounsdao-token-buyer-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "11 Yearn Stargate Strategy y",
+    "title": "11 2022 Yearn Stargate Strategy yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/11-2022-Yearn-Stargate-Strategy-yAudit-Report.pdf",
+    "date": "2022-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/11-2022-Yearn-Stargate-Strategy-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/11-2022-yearn-stargate-strategy-yaudit-report_db46b26c.pdf",
+    "sha256": "f51e9b8f08d8c46e2a3defed8d42ad8a3d61ed3ca5d85706bf725defb15ab738",
+    "size_bytes": 489951,
+    "downloaded_at": "2026-07-07T11:04:21+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/11-2022-Yearn-Stargate-Strategy-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/11-2022-yearn-stargate-strategy-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "12 GET Protocol Staking y",
+    "title": "12 2022 GET Protocol Staking yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-GET-Protocol-Staking-yAudit-Report.pdf",
+    "date": "2022-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-GET-Protocol-Staking-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/12-2022-get-protocol-staking-yaudit-report_94020c1c.pdf",
+    "sha256": "8f043ef7ca5db38ba336e698bebe61e84d7c06f863934339e4b4db0bcc9fb66f",
+    "size_bytes": 387973,
+    "downloaded_at": "2026-07-07T11:04:23+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/12-2022-GET-Protocol-Staking-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/12-2022-get-protocol-staking-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "12 Gro Protocol y",
+    "title": "12 2022 Gro Protocol yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-Gro-Protocol-yAudit-Report.pdf",
+    "date": "2022-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-Gro-Protocol-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/12-2022-gro-protocol-yaudit-report_6093ed22.pdf",
+    "sha256": "3488e68f34fc1f593ba45bc0f9d55520cdfb7e320888f494940c740a1991d443",
+    "size_bytes": 1137746,
+    "downloaded_at": "2026-07-07T11:04:25+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/12-2022-Gro-Protocol-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/12-2022-gro-protocol-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "12 LlamaPay V2 y",
+    "title": "12 2022 LlamaPay V2 yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-LlamaPay-V2-yAudit-Report.pdf",
+    "date": "2022-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-LlamaPay-V2-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/12-2022-llamapay-v2-yaudit-report_f88898e1.pdf",
+    "sha256": "b48487be016a11c0314e74c47583bd5452bcef0aa3c56e2d091053d8ee4b1d4e",
+    "size_bytes": 627385,
+    "downloaded_at": "2026-07-07T11:04:27+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/12-2022-LlamaPay-V2-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/12-2022-llamapay-v2-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "12 RageTrade y",
+    "title": "12 2022 RageTrade yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-RageTrade-yAudit-Report.pdf",
+    "date": "2022-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2022-RageTrade-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/12-2022-ragetrade-yaudit-report_f3c1cfaa.pdf",
+    "sha256": "c5b05d1628b17ef00727118722b1434a77d45ec37b37550cad0ab65fb736e565",
+    "size_bytes": 693394,
+    "downloaded_at": "2026-07-07T11:04:28+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/12-2022-RageTrade-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/12-2022-ragetrade-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "01 LlamaLend V2 y",
+    "title": "01 2023 LlamaLend V2 yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2023-LlamaLend-V2-yAudit-Report.pdf",
+    "date": "2023-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2023-LlamaLend-V2-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/01-2023-llamalend-v2-yaudit-report_7d0a1d32.pdf",
+    "sha256": "f10614ce1eabb1848e0470540f96d7a065ad2b40fd3c55423f1cc805db98f4c9",
+    "size_bytes": 226142,
+    "downloaded_at": "2026-07-07T11:04:31+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/01-2023-LlamaLend-V2-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/01-2023-llamalend-v2-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "01 TempleDao Origami y",
+    "title": "01 2023 TempleDao Origami yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2023-TempleDao-Origami-yAudit-Report.pdf",
+    "date": "2023-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2023-TempleDao-Origami-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/01-2023-templedao-origami-yaudit-report_cf9aed34.pdf",
+    "sha256": "a3426c26e61d75798ab52e0a9d94dcb851f94a9f1ab2fb67663ad3d9befa425c",
+    "size_bytes": 193238,
+    "downloaded_at": "2026-07-07T11:04:32+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/01-2023-TempleDao-Origami-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/01-2023-templedao-origami-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "02 RageTrade y",
+    "title": "02 2023 RageTrade yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2023-RageTrade-yAudit-Report.pdf",
+    "date": "2023-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2023-RageTrade-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/02-2023-ragetrade-yaudit-report_1c97e5e4.pdf",
+    "sha256": "bb75f594eb69f62647ffa5f6f488354f53b49b0b1276464f808063f92716a08a",
+    "size_bytes": 197860,
+    "downloaded_at": "2026-07-07T11:04:33+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/02-2023-RageTrade-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/02-2023-ragetrade-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "02 TempleDao Origami Recheck y",
+    "title": "02 2023 TempleDao Origami Recheck yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2023-TempleDao-Origami-Recheck-yAudit-Report.pdf",
+    "date": "2023-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2023-TempleDao-Origami-Recheck-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/02-2023-templedao-origami-recheck-yaudit-report_8aea4e3b.pdf",
+    "sha256": "3c9b042fea1a514be0cd017e9d586389d97620fe689e0bab92218ffcb4234193",
+    "size_bytes": 77166,
+    "downloaded_at": "2026-07-07T11:04:34+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/02-2023-TempleDao-Origami-Recheck-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/02-2023-templedao-origami-recheck-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 Bunni Zap y",
+    "title": "03 2023 Bunni Zap yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2023-Bunni-Zap-yAudit-Report.pdf",
+    "date": "2023-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2023-Bunni-Zap-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2023-bunni-zap-yaudit-report_bd84789d.pdf",
+    "sha256": "e70729ce5632a35e093e4210afe16cfdd64853ce3f0159ecc9621fca2d8f0f6c",
+    "size_bytes": 83406,
+    "downloaded_at": "2026-07-07T11:04:35+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2023-Bunni-Zap-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2023-bunni-zap-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "04 Exit10 y",
+    "title": "04 2023 Exit10 yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2023-Exit10-yAudit-Report.pdf",
+    "date": "2023-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2023-Exit10-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/04-2023-exit10-yaudit-report_f572b102.pdf",
+    "sha256": "e98c7467e01b40c97d65201d4391af7d7477a5dd6fbc0567bd7670ef8b5781cd",
+    "size_bytes": 570190,
+    "downloaded_at": "2026-07-07T11:04:37+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/04-2023-Exit10-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/04-2023-exit10-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "04 Incubator DAO y",
+    "title": "04 2023 Incubator DAO yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2023-Incubator-DAO-yAudit-Report.pdf",
+    "date": "2023-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2023-Incubator-DAO-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/04-2023-incubator-dao-yaudit-report_9448f1f8.pdf",
+    "sha256": "bd19de141e685ea59c799e7411732ff721dbb8457ba26b7c59c67ef78b5678fd",
+    "size_bytes": 295218,
+    "downloaded_at": "2026-07-07T11:04:38+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/04-2023-Incubator-DAO-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/04-2023-incubator-dao-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "05 Sonne y",
+    "title": "05 2023 Sonne yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2023-Sonne-yAudit-Report.pdf",
+    "date": "2023-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2023-Sonne-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/05-2023-sonne-yaudit-report_8c5b7068.pdf",
+    "sha256": "f2ce79cbedc4492a2fab3440b941fc73f30090ad59ec83a7eebb30a21244ecc1",
+    "size_bytes": 807266,
+    "downloaded_at": "2026-07-07T11:04:40+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/05-2023-Sonne-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/05-2023-sonne-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "05 Timeless Gauge y",
+    "title": "05 2023 Timeless Gauge yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2023-Timeless-Gauge-yAudit-Report.pdf",
+    "date": "2023-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2023-Timeless-Gauge-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/05-2023-timeless-gauge-yaudit-report_d3fa5ff3.pdf",
+    "sha256": "7e10be1934970d15ae2d3f84f4da889be881d863c4e5ec45833a085ed9d88d22",
+    "size_bytes": 146140,
+    "downloaded_at": "2026-07-07T11:04:42+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/05-2023-Timeless-Gauge-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/05-2023-timeless-gauge-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 RAMSES y",
+    "title": "06 2023 RAMSES yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-RAMSES-yAudit-Report.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-RAMSES-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2023-ramses-yaudit-report_9b96ca5f.pdf",
+    "sha256": "45713232383a21a5ffb18e59703c35ad0548f425f242757d5a7588c2e8d32722",
+    "size_bytes": 2016099,
+    "downloaded_at": "2026-07-07T11:04:44+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2023-RAMSES-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2023-ramses-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Sickle",
+    "title": "06 2023 Sickle",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-Sickle.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-Sickle.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2023-sickle_baaa5cb2.pdf",
+    "sha256": "cafb407acf1c787ac0c4c440bbb5c557814ebfd1eedc9cb12665c6a1d6ebfc26",
+    "size_bytes": 1579257,
+    "downloaded_at": "2026-07-07T11:04:46+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2023-Sickle.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2023-sickle"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 VMEX incentives y",
+    "title": "06 2023 VMEX incentives yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-VMEX-incentives-yAudit-Report.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-VMEX-incentives-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2023-vmex-incentives-yaudit-report_a3f53c6f.pdf",
+    "sha256": "cb3f36fc06dc6787db8281f38c8c276ee84a1a8db6d2b93a26c6ea2f06cf9c24",
+    "size_bytes": 173769,
+    "downloaded_at": "2026-07-07T11:04:48+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2023-VMEX-incentives-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2023-vmex-incentives-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 VMEX y",
+    "title": "06 2023 VMEX yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-VMEX-yAudit-Report.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-VMEX-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2023-vmex-yaudit-report_67f34485.pdf",
+    "sha256": "7ea054d0a546121acb9985c3131060cfaff7ce5c5996fdd6cc0ca88f5d2c3c17",
+    "size_bytes": 2300884,
+    "downloaded_at": "2026-07-07T11:04:50+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2023-VMEX-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2023-vmex-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Yearn v3 y",
+    "title": "06 2023 Yearn v3 yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-Yearn-v3-yAudit-Report.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2023-Yearn-v3-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2023-yearn-v3-yaudit-report_d34aa75b.pdf",
+    "sha256": "16a34ba52f08608941841238f4d28f8c3de8dcd2432f07edf2bf3419629cd715",
+    "size_bytes": 218316,
+    "downloaded_at": "2026-07-07T11:04:51+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2023-Yearn-v3-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2023-yearn-v3-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "RLN",
+    "title": "2023 06 RLN",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2023-06-RLN.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2023-06-RLN.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2023-06-rln_30562f41.pdf",
+    "sha256": "38e9e9025f2b133eee0067527041bb77a4fef4e7391800de999a45fd42769780",
+    "size_bytes": 609675,
+    "downloaded_at": "2026-07-07T11:04:53+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2023-06-RLN.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2023-06-rln"
+  },
+  {
+    "source": "yaudit",
+    "project": "Spartan ECDSA",
+    "title": "2023 06 Spartan ECDSA",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2023-06-Spartan-ECDSA.pdf",
+    "date": "2023-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2023-06-Spartan-ECDSA.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2023-06-spartan-ecdsa_615b78d5.pdf",
+    "sha256": "f2a17dab731ee72b32299081dd7f0a1153f45111d229396b9b0584f7aa5b5442",
+    "size_bytes": 599212,
+    "downloaded_at": "2026-07-07T11:04:54+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2023-06-Spartan-ECDSA.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2023-06-spartan-ecdsa"
+  },
+  {
+    "source": "yaudit",
+    "project": "07 TempleDAO Lending",
+    "title": "07 2023 TempleDAO Lending Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/07-2023-TempleDAO-Lending-Report.pdf",
+    "date": "2023-07",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/07-2023-TempleDAO-Lending-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/07-2023-templedao-lending-report_8b658f3c.pdf",
+    "sha256": "a4b97d9a902b5659d045790b1226d43efc2e40e3652584e9ce2f2516715023cf",
+    "size_bytes": 2601534,
+    "downloaded_at": "2026-07-07T11:04:56+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/07-2023-TempleDAO-Lending-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/07-2023-templedao-lending-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "07 Timeless Bunni Oracle y",
+    "title": "07 2023 Timeless Bunni Oracle yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/07-2023-Timeless-Bunni-Oracle-yAudit-Report.pdf",
+    "date": "2023-07",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/07-2023-Timeless-Bunni-Oracle-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/07-2023-timeless-bunni-oracle-yaudit-report_85d0a188.pdf",
+    "sha256": "9008a82c99f794feed817cdd016749d03da1411c3586b7fd8e46915a2ad25902",
+    "size_bytes": 626495,
+    "downloaded_at": "2026-07-07T11:04:57+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/07-2023-Timeless-Bunni-Oracle-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/07-2023-timeless-bunni-oracle-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "08 TempleDAO Lending Recheck",
+    "title": "08 2023 TempleDAO Lending Recheck Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2023-TempleDAO-Lending-Recheck-Report.pdf",
+    "date": "2023-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2023-TempleDAO-Lending-Recheck-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/08-2023-templedao-lending-recheck-report_ed285792.pdf",
+    "sha256": "d801a207cbc874041052019f77afa571463194675526bc2337a180341cce463c",
+    "size_bytes": 833762,
+    "downloaded_at": "2026-07-07T11:04:59+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/08-2023-TempleDAO-Lending-Recheck-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/08-2023-templedao-lending-recheck-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "08 y KEOM Upgrade",
+    "title": "08 2023 yAudit KEOM Upgrade Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2023-yAudit_KEOM_Upgrade_Report.pdf",
+    "date": "2023-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2023-yAudit_KEOM_Upgrade_Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/08-2023-yaudit-keom-upgrade-report_3b74c580.pdf",
+    "sha256": "7013d85e561179a50a69faa134a690a7e6f649dc89204e068b6d24c5a66a71d7",
+    "size_bytes": 713318,
+    "downloaded_at": "2026-07-07T11:05:00+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/08-2023-yAudit_KEOM_Upgrade_Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/08-2023-yaudit-keom-upgrade-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 Dopex rDPX v2 y",
+    "title": "10 2023 Dopex rDPX v2 yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-Dopex-rDPX-v2-yAudit-Report.pdf",
+    "date": "2023-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-Dopex-rDPX-v2-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2023-dopex-rdpx-v2-yaudit-report_2f60b6f8.pdf",
+    "sha256": "99caf6c402388328874e084cdf9d1495402901db0a1d534f0c116a536d587439",
+    "size_bytes": 1683503,
+    "downloaded_at": "2026-07-07T11:05:01+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2023-Dopex-rDPX-v2-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2023-dopex-rdpx-v2-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 DopexV2 CLAMM",
+    "title": "10 2023 DopexV2 CLAMM",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-DopexV2-CLAMM.pdf",
+    "date": "2023-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-DopexV2-CLAMM.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2023-dopexv2-clamm_26db99a5.pdf",
+    "sha256": "cc9893541997b7ae48c74ce09f82756faea810d1dfdbeadfbc58537a025457ff",
+    "size_bytes": 1693771,
+    "downloaded_at": "2026-07-07T11:05:03+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2023-DopexV2-CLAMM.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2023-dopexv2-clamm"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 DopexV2 rDPX upgrade",
+    "title": "10 2023 DopexV2 rDPX upgrade",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-DopexV2-rDPX-upgrade.pdf",
+    "date": "2023-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-DopexV2-rDPX-upgrade.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2023-dopexv2-rdpx-upgrade_8a6fd87f.pdf",
+    "sha256": "9965cbc0f93eff5c70bf93405f8065d64cda970f52720194f1c6503a3e930e25",
+    "size_bytes": 1100693,
+    "downloaded_at": "2026-07-07T11:05:04+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2023-DopexV2-rDPX-upgrade.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2023-dopexv2-rdpx-upgrade"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 Sickle Update",
+    "title": "10 2023 Sickle Update",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-Sickle-Update.pdf",
+    "date": "2023-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2023-Sickle-Update.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2023-sickle-update_6e79ba2d.pdf",
+    "sha256": "b7fd06bf21d9a5e9dfd988cf9340a0c83e0f65a5f0873452d5b3e9ab89fd4c7a",
+    "size_bytes": 1130204,
+    "downloaded_at": "2026-07-07T11:05:05+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2023-Sickle-Update.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2023-sickle-update"
+  },
+  {
+    "source": "yaudit",
+    "project": "12 dopex v2 automator",
+    "title": "12 2023 dopex v2 automator",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2023-dopex-v2-automator.pdf",
+    "date": "2023-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2023-dopex-v2-automator.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/12-2023-dopex-v2-automator_6735bba3.pdf",
+    "sha256": "a79f344f28fad9f6ac6ec1de0259e11440114b685d82031146267dc923fcb8f3",
+    "size_bytes": 1490334,
+    "downloaded_at": "2026-07-07T11:05:07+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/12-2023-dopex-v2-automator.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/12-2023-dopex-v2-automator"
+  },
+  {
+    "source": "yaudit",
+    "project": "12 Euler EVC",
+    "title": "12 2023 Euler EVC",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2023-Euler-EVC.pdf",
+    "date": "2023-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/12-2023-Euler-EVC.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/12-2023-euler-evc_281c8549.pdf",
+    "sha256": "84fe6aa8510ce5bdd6e40390075901ea9354a734ad2a6dca742f81e88d3bc2a9",
+    "size_bytes": 911271,
+    "downloaded_at": "2026-07-07T11:05:08+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/12-2023-Euler-EVC.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/12-2023-euler-evc"
+  },
+  {
+    "source": "yaudit",
+    "project": "01 Inverse sDOLA y",
+    "title": "01 2024 Inverse sDOLA yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-Inverse-sDOLA-yAudit-Report.pdf",
+    "date": "2024-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-Inverse-sDOLA-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/01-2024-inverse-sdola-yaudit-report_dea0d455.pdf",
+    "sha256": "4f0ab28d732fc3e0651687c47b20374488482dce195f6d0392999c29ad71ef55",
+    "size_bytes": 643918,
+    "downloaded_at": "2026-07-07T11:05:09+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/01-2024-Inverse-sDOLA-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/01-2024-inverse-sdola-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "01 Peapods y",
+    "title": "01 2024 Peapods yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-Peapods-yAudit-Report.pdf",
+    "date": "2024-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-Peapods-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/01-2024-peapods-yaudit-report_ec75ecff.pdf",
+    "sha256": "c614737b6f8ec106e07bcadadbc7a38fc163c304a542836b98fae87b536f35ed",
+    "size_bytes": 1831294,
+    "downloaded_at": "2026-07-07T11:05:11+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/01-2024-Peapods-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/01-2024-peapods-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "01 yPrisma Recheck y",
+    "title": "01 2024 yPrisma Recheck yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-yPrisma-Recheck-yAudit-Report.pdf",
+    "date": "2024-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-yPrisma-Recheck-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/01-2024-yprisma-recheck-yaudit-report_649795df.pdf",
+    "sha256": "b3e4e642561e13eaab0f41d49783a97ff41f147b9dfe8f0349564eafa2006c34",
+    "size_bytes": 625163,
+    "downloaded_at": "2026-07-07T11:05:12+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/01-2024-yPrisma-Recheck-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/01-2024-yprisma-recheck-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "01 yPrisma y",
+    "title": "01 2024 yPrisma yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-yPrisma-yAudit-Report.pdf",
+    "date": "2024-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2024-yPrisma-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/01-2024-yprisma-yaudit-report_1c41d4f0.pdf",
+    "sha256": "bbc593a42d0e16782f264632b6b6d872ff3ee5796c8e58ad607d2d5ac0b39d3f",
+    "size_bytes": 999708,
+    "downloaded_at": "2026-07-07T11:05:13+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/01-2024-yPrisma-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/01-2024-yprisma-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "02 Obelisk y",
+    "title": "02 2024 Obelisk yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2024-Obelisk-yAudit-Report.pdf",
+    "date": "2024-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2024-Obelisk-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/02-2024-obelisk-yaudit-report_48c34cb3.pdf",
+    "sha256": "5d6623a1fb7f0d62084004851eb81037c5d5995be2602634eab4527fde9777d7",
+    "size_bytes": 697876,
+    "downloaded_at": "2026-07-07T11:05:14+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/02-2024-Obelisk-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/02-2024-obelisk-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 upYFI y",
+    "title": "03 2024 1upYFI yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-1upYFI-yAudit-Report.pdf",
+    "date": "2024-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-1upYFI-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2024-1upyfi-yaudit-report_ea715fb9.pdf",
+    "sha256": "f2d115ebca1597c458a37daed3364cf83baf6dcdfa380719c4a47a732bea5fab",
+    "size_bytes": 1365948,
+    "downloaded_at": "2026-07-07T11:05:15+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2024-1upYFI-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2024-1upyfi-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 Cove y",
+    "title": "03 2024 Cove yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-Cove-yAudit-Report.pdf",
+    "date": "2024-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-Cove-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2024-cove-yaudit-report_ddb7e6be.pdf",
+    "sha256": "30eb63621833ae85f7ca72229f8324df0e22d1082569fd0fb8ba99c3b74748cf",
+    "size_bytes": 1394925,
+    "downloaded_at": "2026-07-07T11:05:17+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2024-Cove-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2024-cove-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 EulerV2 y",
+    "title": "03 2024 EulerV2 yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-EulerV2-yAudit-Report.pdf",
+    "date": "2024-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-EulerV2-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2024-eulerv2-yaudit-report_2ca5628a.pdf",
+    "sha256": "11287f223f992024c15192f3e0ff535c59b1eab27c69be443b00ef032dc06f0b",
+    "size_bytes": 2066518,
+    "downloaded_at": "2026-07-07T11:05:18+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2024-EulerV2-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2024-eulerv2-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 TLX y",
+    "title": "03 2024 TLX yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-TLX-yAudit-Report.pdf",
+    "date": "2024-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2024-TLX-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2024-tlx-yaudit-report_7f040c05.pdf",
+    "sha256": "dc3bda7788ae262b1a955f59f83e2e00a2ffdfb316489bb4fbe7c78ea7464217",
+    "size_bytes": 2381473,
+    "downloaded_at": "2026-07-07T11:05:20+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2024-TLX-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2024-tlx-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "05 Heroglyphs",
+    "title": "05 2024 Heroglyphs Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2024-Heroglyphs-Report.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2024-Heroglyphs-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/05-2024-heroglyphs-report_8b78b6dd.pdf",
+    "sha256": "31b1d442f6648aaaf5c3717be0ea927109032abb12431ebf2ec158bce3565b4d",
+    "size_bytes": 2128760,
+    "downloaded_at": "2026-07-07T11:05:21+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/05-2024-Heroglyphs-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/05-2024-heroglyphs-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "05 Sickle 3",
+    "title": "05 2024 Sickle 3",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2024-Sickle-3.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2024-Sickle-3.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/05-2024-sickle-3_d32ef5ad.pdf",
+    "sha256": "d122cba01e72cc066242cd7801b18d2e571b907ea606b849516de00a64b2178a",
+    "size_bytes": 971930,
+    "downloaded_at": "2026-07-07T11:05:23+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/05-2024-Sickle-3.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/05-2024-sickle-3"
+  },
+  {
+    "source": "yaudit",
+    "project": "05 Yearn STB y",
+    "title": "05 2024 Yearn STB yAudit report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2024-Yearn-STB-yAudit-report.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2024-Yearn-STB-yAudit-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/05-2024-yearn-stb-yaudit-report_96639b3f.pdf",
+    "sha256": "90cf5ddf017f7826c221c806544721dcfc718118e084be325ab81ace7b5f5c97",
+    "size_bytes": 830735,
+    "downloaded_at": "2026-07-07T11:05:24+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/05-2024-Yearn-STB-yAudit-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/05-2024-yearn-stb-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Summa Va",
+    "title": "2024 05 Summa Va",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-05-Summa-Va.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-05-Summa-Va.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-05-summa-va_2cc21afd.pdf",
+    "sha256": "993fc84fc00031066920141faa9be922000aa7c784f047f828b8c30f5f1615f4",
+    "size_bytes": 960145,
+    "downloaded_at": "2026-07-07T11:05:25+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-05-Summa-Va.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-05-summa-va"
+  },
+  {
+    "source": "yaudit",
+    "project": "Summa Vb",
+    "title": "2024 05 Summa Vb",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-05-Summa-Vb.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-05-Summa-Vb.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-05-summa-vb_b2570287.pdf",
+    "sha256": "808ba1f56f4c46b0d93b2ae690420ac2c10384333f760caafc60d4bf1abb9a61",
+    "size_bytes": 790120,
+    "downloaded_at": "2026-07-07T11:05:26+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-05-Summa-Vb.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-05-summa-vb"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Asymmetry veASF",
+    "title": "06 2024 Asymmetry veASF",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2024-Asymmetry-veASF.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2024-Asymmetry-veASF.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2024-asymmetry-veasf_012ce24d.pdf",
+    "sha256": "e4059d2430f9ff63b78c00e9340bfacb5b62c76964f8ea16a3dc658f24cf6fc0",
+    "size_bytes": 624920,
+    "downloaded_at": "2026-07-07T11:05:27+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2024-Asymmetry-veASF.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2024-asymmetry-veasf"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Multilplier Technologies Recheck",
+    "title": "06 2024 Multilplier Technologies Recheck",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2024-Multilplier-Technologies-Recheck.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2024-Multilplier-Technologies-Recheck.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2024-multilplier-technologies-recheck_cc6dc1f0.pdf",
+    "sha256": "87d6e1452461208114cb255ab9e766773e77e70e98d4d00682b1bd2aacc8c969",
+    "size_bytes": 957743,
+    "downloaded_at": "2026-07-07T11:05:29+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2024-Multilplier-Technologies-Recheck.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2024-multilplier-technologies-recheck"
+  },
+  {
+    "source": "yaudit",
+    "project": "06 Origami Oracles Adapters y",
+    "title": "06 2024 Origami Oracles Adapters yAudit Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2024-Origami-Oracles-Adapters-yAudit-Report.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/06-2024-Origami-Oracles-Adapters-yAudit-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/06-2024-origami-oracles-adapters-yaudit-report_91f8cfa1.pdf",
+    "sha256": "1cf051522914732ebd580e3c02da2b9405e2b8894981e538db6d87711ee1202a",
+    "size_bytes": 407688,
+    "downloaded_at": "2026-07-07T11:05:30+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/06-2024-Origami-Oracles-Adapters-yAudit-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/06-2024-origami-oracles-adapters-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Multiplier Technologies Recheck",
+    "title": "2024 06 Multiplier Technologies Recheck",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-06-Multiplier-Technologies-Recheck.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-06-Multiplier-Technologies-Recheck.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-06-multiplier-technologies-recheck_d690837a.pdf",
+    "sha256": "b14114a75816010d3ea9edd38f7cad4d826ae2e0a3c0ddf02aca5d076d31a3ef",
+    "size_bytes": 563020,
+    "downloaded_at": "2026-07-07T11:05:31+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-06-Multiplier-Technologies-Recheck.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-06-multiplier-technologies-recheck"
+  },
+  {
+    "source": "yaudit",
+    "project": "Sickle 4",
+    "title": "2024 06 Sickle 4",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-06-Sickle-4.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-06-Sickle-4.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-06-sickle-4_266b39a5.pdf",
+    "sha256": "f59d9d3a9d8b037d5197c23bd893f9364c7b9e39ce8a4f927fdd1f5d09a91b9e",
+    "size_bytes": 398919,
+    "downloaded_at": "2026-07-07T11:05:32+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-06-Sickle-4.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-06-sickle-4"
+  },
+  {
+    "source": "yaudit",
+    "project": "08 Euler Yield Aggregator",
+    "title": "08 2024 Euler Yield Aggregator",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2024-Euler-Yield-Aggregator.pdf",
+    "date": "2024-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2024-Euler-Yield-Aggregator.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/08-2024-euler-yield-aggregator_c2ba599e.pdf",
+    "sha256": "1f23034513e9e5281679569f84e6320dfbed83933ba1ba13400e79a53c42891b",
+    "size_bytes": 772116,
+    "downloaded_at": "2026-07-07T11:05:33+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/08-2024-Euler-Yield-Aggregator.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/08-2024-euler-yield-aggregator"
+  },
+  {
+    "source": "yaudit",
+    "project": "08 Goldilocks",
+    "title": "08 2024 Goldilocks",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2024-Goldilocks.pdf",
+    "date": "2024-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/08-2024-Goldilocks.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/08-2024-goldilocks_3138d419.pdf",
+    "sha256": "0219e7d91a6f69c8f00c2861dc012712000308606560e619b93bcae9c4a9f8db",
+    "size_bytes": 2172537,
+    "downloaded_at": "2026-07-07T11:05:35+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/08-2024-Goldilocks.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/08-2024-goldilocks"
+  },
+  {
+    "source": "yaudit",
+    "project": "09 Euler Hook Target Firewall",
+    "title": "09 2024 Euler Hook Target Firewall",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Euler-Hook-Target-Firewall.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Euler-Hook-Target-Firewall.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/09-2024-euler-hook-target-firewall_ae512214.pdf",
+    "sha256": "639b7bbad1eadde7de67d43112f4cef8c14b28b4cb3e2f44ffb2b7d870700c7d",
+    "size_bytes": 318915,
+    "downloaded_at": "2026-07-07T11:05:36+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/09-2024-Euler-Hook-Target-Firewall.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/09-2024-euler-hook-target-firewall"
+  },
+  {
+    "source": "yaudit",
+    "project": "09 Euler PendleOracle",
+    "title": "09 2024 Euler PendleOracle",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Euler-PendleOracle.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Euler-PendleOracle.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/09-2024-euler-pendleoracle_8c886a9b.pdf",
+    "sha256": "0663bb970beb6cc6ddbf604480925f7b4143ab1f75c2792a54a45ce1dc6ccca4",
+    "size_bytes": 213434,
+    "downloaded_at": "2026-07-07T11:05:37+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/09-2024-Euler-PendleOracle.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/09-2024-euler-pendleoracle"
+  },
+  {
+    "source": "yaudit",
+    "project": "09 Euler price oracles update",
+    "title": "09 2024 Euler price oracles update",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Euler-price-oracles-update.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Euler-price-oracles-update.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/09-2024-euler-price-oracles-update_b507d7c4.pdf",
+    "sha256": "01232e8b4a81819472a929fc81d2632765a2b86e15e5cc30fb5632d608dc2197",
+    "size_bytes": 291526,
+    "downloaded_at": "2026-07-07T11:05:38+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/09-2024-Euler-price-oracles-update.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/09-2024-euler-price-oracles-update"
+  },
+  {
+    "source": "yaudit",
+    "project": "09 Qantura rebalance",
+    "title": "09 2024 Qantura rebalance",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Qantura-rebalance.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/09-2024-Qantura-rebalance.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/09-2024-qantura-rebalance_164d953d.pdf",
+    "sha256": "dd0389f4f72ca6de72cea1a9116350e885a5e7c0b17f0ebe6802d5ca305081ff",
+    "size_bytes": 594918,
+    "downloaded_at": "2026-07-07T11:05:39+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/09-2024-Qantura-rebalance.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/09-2024-qantura-rebalance"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 Euler ERC20 Wrapper Locked",
+    "title": "10 2024 Euler ERC20 Wrapper Locked",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Euler-ERC20-Wrapper-Locked.pdf",
+    "date": "2024-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Euler-ERC20-Wrapper-Locked.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2024-euler-erc20-wrapper-locked_f5fa23aa.pdf",
+    "sha256": "083b788346eb32da7fb71c44cf874badddb1714d5cea017fb46f08a0564ccaf0",
+    "size_bytes": 254907,
+    "downloaded_at": "2026-07-07T11:05:40+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2024-Euler-ERC20-Wrapper-Locked.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2024-euler-erc20-wrapper-locked"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 Flower",
+    "title": "10 2024 Flower Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Flower-Report.pdf",
+    "date": "2024-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Flower-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2024-flower-report_535bbba2.pdf",
+    "sha256": "dc2a5bfed56e4012fb4b2ec923e4f5512a17703dd9709d4ba55b8ebadd60c738",
+    "size_bytes": 757453,
+    "downloaded_at": "2026-07-07T11:05:42+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2024-Flower-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2024-flower-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 GuessOurBlock",
+    "title": "10 2024 GuessOurBlock",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-GuessOurBlock.pdf",
+    "date": "2024-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-GuessOurBlock.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2024-guessourblock_dec3ff54.pdf",
+    "sha256": "f57681ef553a8d35c0b531d9606edb980bf629cee66f107465a940b5b40b252f",
+    "size_bytes": 1057986,
+    "downloaded_at": "2026-07-07T11:05:43+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2024-GuessOurBlock.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2024-guessourblock"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 Obelisk",
+    "title": "10 2024 Obelisk",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Obelisk.pdf",
+    "date": "2024-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Obelisk.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2024-obelisk_5008bce4.pdf",
+    "sha256": "37598d6104344440baac29e66425bd789cfd653b34a3c4c63579c8791041bea9",
+    "size_bytes": 1575976,
+    "downloaded_at": "2026-07-07T11:05:45+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2024-Obelisk.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2024-obelisk"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 Sickle Strategies",
+    "title": "10 2024 Sickle Strategies",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Sickle-Strategies.pdf",
+    "date": "2024-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Sickle-Strategies.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2024-sickle-strategies_d95d8899.pdf",
+    "sha256": "3a45e474a3a2de9deb90ad22eed93242af6c28efafe2cd38b9d97c6aa3360f86",
+    "size_bytes": 556134,
+    "downloaded_at": "2026-07-07T11:05:46+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2024-Sickle-Strategies.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2024-sickle-strategies"
+  },
+  {
+    "source": "yaudit",
+    "project": "10 Superform",
+    "title": "10 2024 Superform",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Superform.pdf",
+    "date": "2024-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/10-2024-Superform.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/10-2024-superform_b4ed11a0.pdf",
+    "sha256": "0acaf08a69b8d631b24133d4fba6970b9c7b14e7c653ea4f5b3167074b18bd89",
+    "size_bytes": 772455,
+    "downloaded_at": "2026-07-07T11:05:47+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/10-2024-Superform.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/10-2024-superform"
+  },
+  {
+    "source": "yaudit",
+    "project": "MarginZero",
+    "title": "2024 11 MarginZero",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-11-MarginZero.pdf",
+    "date": "2024-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-11-MarginZero.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-11-marginzero_41677904.pdf",
+    "sha256": "47f716af300e97dcc98591d3bc121131b4c428e1536a80a21bd00bdb2ef6fb6b",
+    "size_bytes": 598491,
+    "downloaded_at": "2026-07-07T11:05:48+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-11-MarginZero.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-11-marginzero"
+  },
+  {
+    "source": "yaudit",
+    "project": "napier",
+    "title": "2024 11 napier",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-11-napier.pdf",
+    "date": "2024-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-11-napier.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-11-napier_7396d17b.pdf",
+    "sha256": "7c6f17bef5aaad0c8161b1390eeaf918499f410ca2340c53a2438ba5423e971e",
+    "size_bytes": 714242,
+    "downloaded_at": "2026-07-07T11:05:49+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-11-napier.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-11-napier"
+  },
+  {
+    "source": "yaudit",
+    "project": "Olympus Emission Manager",
+    "title": "2024 11 Olympus Emission Manager",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-11-Olympus-Emission-Manager.pdf",
+    "date": "2024-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-11-Olympus-Emission-Manager.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-11-olympus-emission-manager_17e8b3db.pdf",
+    "sha256": "db4b4c33f28e021d4f80b84029b53ceb127b4db204e2db5bbafc0bb89177d6dd",
+    "size_bytes": 314394,
+    "downloaded_at": "2026-07-07T11:05:50+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-11-Olympus-Emission-Manager.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-11-olympus-emission-manager"
+  },
+  {
+    "source": "yaudit",
+    "project": "OpenState",
+    "title": "2024 12 OpenState",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-12-OpenState.pdf",
+    "date": "2024-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-12-OpenState.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-12-openstate_b57ad3be.pdf",
+    "sha256": "4b3f281693d890a5f1cfd59bd9dad27578b15b12e0acf4d31826b5b970a2c356",
+    "size_bytes": 414076,
+    "downloaded_at": "2026-07-07T11:05:51+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-12-OpenState.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-12-openstate"
+  },
+  {
+    "source": "yaudit",
+    "project": "ResupplyFinance",
+    "title": "2024 12 ResupplyFinance",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-12-ResupplyFinance.pdf",
+    "date": "2024-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2024-12-ResupplyFinance.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2024-12-resupplyfinance_8ee55d5b.pdf",
+    "sha256": "cd1676636e13c1742c598be40bf7aefa6c66e5b929f28ef5653eb74d5fd3931a",
+    "size_bytes": 1014941,
+    "downloaded_at": "2026-07-07T11:05:52+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2024-12-ResupplyFinance.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2024-12-resupplyfinance"
+  },
+  {
+    "source": "yaudit",
+    "project": "01 SOFA y",
+    "title": "01 2025 SOFA yAudit report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2025-SOFA-yAudit-report.pdf",
+    "date": "2025-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/01-2025-SOFA-yAudit-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/01-2025-sofa-yaudit-report_f9a77cd3.pdf",
+    "sha256": "f9a6b1343abf1860205d7e9a40620edd225ddd0ce8fa343045a81b1768b73974",
+    "size_bytes": 740546,
+    "downloaded_at": "2026-07-07T11:05:53+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/01-2025-SOFA-yAudit-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/01-2025-sofa-yaudit-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Asymmetry USA d",
+    "title": "2025 01 Asymmetry USA d",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-01-Asymmetry-USA-d.pdf",
+    "date": "2025-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-01-Asymmetry-USA-d.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-01-asymmetry-usa-d_8865506d.pdf",
+    "sha256": "9ca4e4d32462ff8209effb044d98a0e77fcf81aa07a4a81e91cc10020d8aa2d4",
+    "size_bytes": 340265,
+    "downloaded_at": "2026-07-07T11:05:54+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-01-Asymmetry-USA-d.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-01-asymmetry-usa-d"
+  },
+  {
+    "source": "yaudit",
+    "project": "Royco CCDM",
+    "title": "2025 01 Royco CCDM",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-01-Royco-CCDM.pdf",
+    "date": "2025-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-01-Royco-CCDM.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-01-royco-ccdm_41e1332d.pdf",
+    "sha256": "6fd6fe46cf713aef6ca43e36bcb9a197ef5e08dc7437de5ff8d08c4dba88ee98",
+    "size_bytes": 422798,
+    "downloaded_at": "2026-07-07T11:05:55+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-01-Royco-CCDM.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-01-royco-ccdm"
+  },
+  {
+    "source": "yaudit",
+    "project": "Royco CCDM MerkleVault",
+    "title": "2025 01 Royco CCDM MerkleVault",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-01-Royco-CCDM-MerkleVault.pdf",
+    "date": "2025-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-01-Royco-CCDM-MerkleVault.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-01-royco-ccdm-merklevault_1980ca01.pdf",
+    "sha256": "b3c8080300ad09a45211ba99e61901c7dfc6aa788faa93f797030d7584b484d6",
+    "size_bytes": 251359,
+    "downloaded_at": "2026-07-07T11:05:56+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-01-Royco-CCDM-MerkleVault.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-01-royco-ccdm-merklevault"
+  },
+  {
+    "source": "yaudit",
+    "project": "02 Olympus CoolerV2",
+    "title": "02 2025 Olympus CoolerV2",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2025-Olympus-CoolerV2.pdf",
+    "date": "2025-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2025-Olympus-CoolerV2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/02-2025-olympus-coolerv2_567adbe6.pdf",
+    "sha256": "51acec71dd07c07bdb7451f977d3219c25fc4278b6a2ed1e9149fbd6d1feebaf",
+    "size_bytes": 328349,
+    "downloaded_at": "2026-07-07T11:05:57+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/02-2025-Olympus-CoolerV2.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/02-2025-olympus-coolerv2"
+  },
+  {
+    "source": "yaudit",
+    "project": "02 Origami hOHM",
+    "title": "02 2025 Origami hOHM",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2025-Origami-hOHM.pdf",
+    "date": "2025-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/02-2025-Origami-hOHM.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/02-2025-origami-hohm_b4ecfb6e.pdf",
+    "sha256": "f59256dc9749a974d2f8f7568d5d0b02732babf182184b61a3d185330d99d312",
+    "size_bytes": 390924,
+    "downloaded_at": "2026-07-07T11:05:58+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/02-2025-Origami-hOHM.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/02-2025-origami-hohm"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 CAP PremainnetVault",
+    "title": "03 2025 CAP PremainnetVault",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2025-CAP-PremainnetVault.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2025-CAP-PremainnetVault.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2025-cap-premainnetvault_760e2f70.pdf",
+    "sha256": "ec6c8231708c3d36671107da69f9dd14e20102f80df2cbc7e2a7d9d8e360c376",
+    "size_bytes": 330479,
+    "downloaded_at": "2026-07-07T11:05:59+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2025-CAP-PremainnetVault.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2025-cap-premainnetvault"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 Olympus Cooler Migrator Composite",
+    "title": "03 2025 Olympus Cooler Migrator Composite",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2025-Olympus-Cooler-Migrator-Composite.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2025-Olympus-Cooler-Migrator-Composite.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2025-olympus-cooler-migrator-composite_28ebecc7.pdf",
+    "sha256": "1c1c475361301fc80b0bb3ccb309a16b73d685a7eff95b4659f2f1e9d0c0743e",
+    "size_bytes": 289040,
+    "downloaded_at": "2026-07-07T11:06:00+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2025-Olympus-Cooler-Migrator-Composite.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2025-olympus-cooler-migrator-composite"
+  },
+  {
+    "source": "yaudit",
+    "project": "03 Origami hOHM Migrator",
+    "title": "03 2025 Origami hOHM Migrator",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2025-Origami-hOHM-Migrator.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/03-2025-Origami-hOHM-Migrator.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/03-2025-origami-hohm-migrator_0aa30c04.pdf",
+    "sha256": "42ad21ab4aceca2a4824d05fc200325c5da9bfe6dd2f01415a1beee2eefc8f2e",
+    "size_bytes": 206559,
+    "downloaded_at": "2026-07-07T11:06:01+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/03-2025-Origami-hOHM-Migrator.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/03-2025-origami-hohm-migrator"
+  },
+  {
+    "source": "yaudit",
+    "project": "Bearn",
+    "title": "2025 03 Bearn",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-03-Bearn.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-03-Bearn.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-03-bearn_7ac451ad.pdf",
+    "sha256": "2d52e845443ad875135b2148925c6b2c85616604c2ef0a54dddff2be6a407966",
+    "size_bytes": 433763,
+    "downloaded_at": "2026-07-07T11:06:02+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-03-Bearn.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-03-bearn"
+  },
+  {
+    "source": "yaudit",
+    "project": "Beefy Sonic",
+    "title": "2025 03 Beefy Sonic",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-03-Beefy-Sonic.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-03-Beefy-Sonic.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-03-beefy-sonic_8e9439ba.pdf",
+    "sha256": "9062c59e82ea9216f1ec76bb1c643c43534a8f06f61d0fdd68c28991b368ac0c",
+    "size_bytes": 581682,
+    "downloaded_at": "2026-07-07T11:06:03+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-03-Beefy-Sonic.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-03-beefy-sonic"
+  },
+  {
+    "source": "yaudit",
+    "project": "Goldilocks ivault4626",
+    "title": "2025 03 Goldilocks ivault4626",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-03-Goldilocks-ivault4626.pdf",
+    "date": "2025-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-03-Goldilocks-ivault4626.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-03-goldilocks-ivault4626_b4d86f06.pdf",
+    "sha256": "23d0c37e8b9e90af1bbc0593912fa6a0bc277dc91a32b84f18c5c4aee2517be4",
+    "size_bytes": 369460,
+    "downloaded_at": "2026-07-07T11:06:04+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-03-Goldilocks-ivault4626.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-03-goldilocks-ivault4626"
+  },
+  {
+    "source": "yaudit",
+    "project": "04 Twyne",
+    "title": "04 2025 Twyne Report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2025-Twyne-Report.pdf",
+    "date": "2025-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/04-2025-Twyne-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/04-2025-twyne-report_90bccaa3.pdf",
+    "sha256": "3d25fcde92e3c7d560a03aa232efaf78875d3e20d4deaf4e16c10f3bb3884a17",
+    "size_bytes": 456573,
+    "downloaded_at": "2026-07-07T11:06:05+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/04-2025-Twyne-Report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/04-2025-twyne-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Asymmetry dASF",
+    "title": "2025 04 Asymmetry dASF",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-04-Asymmetry-dASF.pdf",
+    "date": "2025-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-04-Asymmetry-dASF.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-04-asymmetry-dasf_8d357186.pdf",
+    "sha256": "93933d60b0c233490ba98ce7f041cf25e2f4198d42645234b22c94b8c9273611",
+    "size_bytes": 305416,
+    "downloaded_at": "2026-07-07T11:06:06+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-04-Asymmetry-dASF.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-04-asymmetry-dasf"
+  },
+  {
+    "source": "yaudit",
+    "project": "Ooga Booga",
+    "title": "2025 04 Ooga Booga",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-04-Ooga-Booga.pdf",
+    "date": "2025-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-04-Ooga-Booga.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-04-ooga-booga_ae6c9949.pdf",
+    "sha256": "b356e3a557eb57f819411ed79720f3e0f2154ca34c70e5ef1ab316abc7f75ae2",
+    "size_bytes": 475655,
+    "downloaded_at": "2026-07-07T11:06:07+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-04-Ooga-Booga.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-04-ooga-booga"
+  },
+  {
+    "source": "yaudit",
+    "project": "Sickle",
+    "title": "2025 04 Sickle",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-04-Sickle.pdf",
+    "date": "2025-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-04-Sickle.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-04-sickle_d6659e58.pdf",
+    "sha256": "99f86c1e05d2db230ac9b9a856731362e2aedf5795291c1a80bee1d741c3fac2",
+    "size_bytes": 838756,
+    "downloaded_at": "2026-07-07T11:06:08+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-04-Sickle.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-04-sickle"
+  },
+  {
+    "source": "yaudit",
+    "project": "05 HAI Oracle",
+    "title": "05 2025 HAI Oracle",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2025-HAI-Oracle.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/05-2025-HAI-Oracle.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/05-2025-hai-oracle_769da398.pdf",
+    "sha256": "72911a46e082d6410346e3cefb994ba8f596fbef6e74fd2608d45223f02501c0",
+    "size_bytes": 332300,
+    "downloaded_at": "2026-07-07T11:06:09+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/05-2025-HAI-Oracle.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/05-2025-hai-oracle"
+  },
+  {
+    "source": "yaudit",
+    "project": "Asymmetry USDaf V2",
+    "title": "2025 05 Asymmetry USDaf V2",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Asymmetry-USDaf-V2.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Asymmetry-USDaf-V2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-05-asymmetry-usdaf-v2_6d05f08e.pdf",
+    "sha256": "0b8f003c8a80174b6731d91ea9b630101ee0bf7bd685553752f16f1abde44b23",
+    "size_bytes": 313127,
+    "downloaded_at": "2026-07-07T11:06:10+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-05-Asymmetry-USDaf-V2.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-05-asymmetry-usdaf-v2"
+  },
+  {
+    "source": "yaudit",
+    "project": "CAP PremainnetVault update",
+    "title": "2025 05 CAP PremainnetVault update",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-CAP-PremainnetVault-update.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-CAP-PremainnetVault-update.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-05-cap-premainnetvault-update_dc4aa6f2.pdf",
+    "sha256": "0fc39c64abc5ff41272c67a7ebca90042a7902517db3e83055b7d7e297951147",
+    "size_bytes": 283184,
+    "downloaded_at": "2026-07-07T11:06:11+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-05-CAP-PremainnetVault-update.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-05-cap-premainnetvault-update"
+  },
+  {
+    "source": "yaudit",
+    "project": "Cozy Safety Module",
+    "title": "2025 05 Cozy Safety Module",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Cozy-Safety-Module.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Cozy-Safety-Module.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-05-cozy-safety-module_33aaf0be.pdf",
+    "sha256": "0da65cdbe610e43877b8624b3e875182043abd3a9bc6d2e405aa87ac739a096e",
+    "size_bytes": 452005,
+    "downloaded_at": "2026-07-07T11:06:12+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-05-Cozy-Safety-Module.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-05-cozy-safety-module"
+  },
+  {
+    "source": "yaudit",
+    "project": "Cozy Safety module Reward Manager",
+    "title": "2025 05 Cozy Safety module Reward Manager",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Cozy-Safety-module-Reward-Manager.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Cozy-Safety-module-Reward-Manager.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-05-cozy-safety-module-reward-manager_56f93cc8.pdf",
+    "sha256": "fb71daab4001c61acad06470d90e6471a1677abf10e2e54d84666c199e643614",
+    "size_bytes": 309748,
+    "downloaded_at": "2026-07-07T11:06:13+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-05-Cozy-Safety-module-Reward-Manager.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-05-cozy-safety-module-reward-manager"
+  },
+  {
+    "source": "yaudit",
+    "project": "Olympus CCIP",
+    "title": "2025 05 Olympus CCIP",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Olympus-CCIP.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-05-Olympus-CCIP.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-05-olympus-ccip_4e478a3c.pdf",
+    "sha256": "5752e162d7e974e8bfb289ca71fd9999a5125beb536c89d1d22f17411ab5c8ff",
+    "size_bytes": 234960,
+    "downloaded_at": "2026-07-07T11:06:14+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-05-Olympus-CCIP.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-05-olympus-ccip"
+  },
+  {
+    "source": "yaudit",
+    "project": "UnKat",
+    "title": "2025 06 UnKat",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-06-UnKat.pdf",
+    "date": "2025-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-06-UnKat.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-06-unkat_0eb5210f.pdf",
+    "sha256": "7bbe3f95b7da81dd0eb873e2a1be5e7144590f429b38937462e055e2354aaa42",
+    "size_bytes": 285133,
+    "downloaded_at": "2026-07-07T11:06:16+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-06-UnKat.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-06-unkat"
+  },
+  {
+    "source": "yaudit",
+    "project": "usdaf 2 pr2",
+    "title": "2025 06 usdaf 2 pr2",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-06-usdaf-2-pr2.pdf",
+    "date": "2025-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-06-usdaf-2-pr2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-06-usdaf-2-pr2_67f0eb45.pdf",
+    "sha256": "3a986fd6d6fa4361122ab0b8d642984aafc506af38bc43bb3c8cd5756cd56c7d",
+    "size_bytes": 237193,
+    "downloaded_at": "2026-07-07T11:06:17+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-06-usdaf-2-pr2.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-06-usdaf-2-pr2"
+  },
+  {
+    "source": "yaudit",
+    "project": "YieldBasis",
+    "title": "2025 06 YieldBasis",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-06-YieldBasis.pdf",
+    "date": "2025-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-06-YieldBasis.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-06-yieldbasis_b6849555.pdf",
+    "sha256": "cd1fa61f03779996fe564cf8ace7d9c575cde26d9caae1b1c65164aa6ae9638f",
+    "size_bytes": 3111916,
+    "downloaded_at": "2026-07-07T11:06:19+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-06-YieldBasis.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-06-yieldbasis"
+  },
+  {
+    "source": "yaudit",
+    "project": "centrifuge",
+    "title": "2025 07 centrifuge",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-centrifuge.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-centrifuge.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-07-centrifuge_196315ff.pdf",
+    "sha256": "867debb972588498c54ed219f3d80e5ab657c2b74998774532f4f3c7993e20b9",
+    "size_bytes": 3151570,
+    "downloaded_at": "2026-07-07T11:06:21+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-07-centrifuge.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-07-centrifuge"
+  },
+  {
+    "source": "yaudit",
+    "project": "origami cowswapper",
+    "title": "2025 07 origami cowswapper",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-origami-cowswapper.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-origami-cowswapper.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-07-origami-cowswapper_c2b58595.pdf",
+    "sha256": "a0673168a54d28206f54e6ed75ae3bf356830b679ebf00d0b6bafe799a7e66aa",
+    "size_bytes": 3055199,
+    "downloaded_at": "2026-07-07T11:06:22+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-07-origami-cowswapper.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-07-origami-cowswapper"
+  },
+  {
+    "source": "yaudit",
+    "project": "Resupply sreusd",
+    "title": "2025 07 Resupply sreusd",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-Resupply-sreusd.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-Resupply-sreusd.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-07-resupply-sreusd_46e805a5.pdf",
+    "sha256": "5f4d329731205462b1a9707eb9bac27794efe9946ea833bf0d95d8cb5634406d",
+    "size_bytes": 3073110,
+    "downloaded_at": "2026-07-07T11:06:24+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-07-Resupply-sreusd.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-07-resupply-sreusd"
+  },
+  {
+    "source": "yaudit",
+    "project": "Resupply update",
+    "title": "2025 07 Resupply update",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-Resupply-update.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-Resupply-update.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-07-resupply-update_8cc08bbf.pdf",
+    "sha256": "ba9d2d85f007dee319632c5b7b436748fab466d2426430aeb83e2ba4259c7007",
+    "size_bytes": 3062541,
+    "downloaded_at": "2026-07-07T11:06:26+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-07-Resupply-update.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-07-resupply-update"
+  },
+  {
+    "source": "yaudit",
+    "project": "YieldBasis Update",
+    "title": "2025 07 YieldBasis Update",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-YieldBasis-Update.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-07-YieldBasis-Update.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-07-yieldbasis-update_bda86213.pdf",
+    "sha256": "83c77a033c05aad56c1fbb637500ae25636c892bf056a2b4e37fd61021af0f81",
+    "size_bytes": 3126273,
+    "downloaded_at": "2026-07-07T11:06:27+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-07-YieldBasis-Update.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-07-yieldbasis-update"
+  },
+  {
+    "source": "yaudit",
+    "project": "Calisto",
+    "title": "2025 08 Calisto",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-08-Calisto.pdf",
+    "date": "2025-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-08-Calisto.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-08-calisto_656b1bca.pdf",
+    "sha256": "2031da4b1ec4825a98fbb13b9d6e960ba4444df89ad455d72202b6f56b5dd417",
+    "size_bytes": 3112475,
+    "downloaded_at": "2026-07-07T11:06:29+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-08-Calisto.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-08-calisto"
+  },
+  {
+    "source": "yaudit",
+    "project": "haiVELO V2",
+    "title": "2025 08 haiVELO V2",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-08-haiVELO-V2.pdf",
+    "date": "2025-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-08-haiVELO-V2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-08-haivelo-v2_5a851a34.pdf",
+    "sha256": "479ef5de8623e0d76dfec72ea4e043aaaaa74a31a88e48c52cfcfcebcd7669f9",
+    "size_bytes": 3065720,
+    "downloaded_at": "2026-07-07T11:06:31+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-08-haiVELO-V2.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-08-haivelo-v2"
+  },
+  {
+    "source": "yaudit",
+    "project": "Twyne incremental",
+    "title": "2025 08 Twyne incremental",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-08-Twyne-incremental.pdf",
+    "date": "2025-08",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-08-Twyne-incremental.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-08-twyne-incremental_66a1cbc8.pdf",
+    "sha256": "74424a2cc8a5bc40ca40e14594ab0ee171426f25cb12e6067819fa000da1b090",
+    "size_bytes": 3068892,
+    "downloaded_at": "2026-07-07T11:06:32+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-08-Twyne-incremental.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-08-twyne-incremental"
+  },
+  {
+    "source": "yaudit",
+    "project": "Goldilock goldilend",
+    "title": "2025 09 Goldilock goldilend",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-09-Goldilock-goldilend.pdf",
+    "date": "2025-09",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-09-Goldilock-goldilend.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-09-goldilock-goldilend_5d18af49.pdf",
+    "sha256": "f03d0931a8168de65a7b499e2112e4c11246ddf9dab20640b8814bba3481edf8",
+    "size_bytes": 3118995,
+    "downloaded_at": "2026-07-07T11:06:35+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-09-Goldilock-goldilend.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-09-goldilock-goldilend"
+  },
+  {
+    "source": "yaudit",
+    "project": "Resupply curvelend",
+    "title": "2025 09 Resupply curvelend",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-09-Resupply-curvelend.pdf",
+    "date": "2025-09",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-09-Resupply-curvelend.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-09-resupply-curvelend_f0827bb6.pdf",
+    "sha256": "08a17ebab441295aa944c048abc8aac7c9e772f9853a6d56e0ab13c1f273deff",
+    "size_bytes": 3050732,
+    "downloaded_at": "2026-07-07T11:06:36+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-09-Resupply-curvelend.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-09-resupply-curvelend"
+  },
+  {
+    "source": "yaudit",
+    "project": "Jane Moneymarket",
+    "title": "2025 10 3Jane Moneymarket report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-10-3Jane-Moneymarket-report.pdf",
+    "date": "2025-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-10-3Jane-Moneymarket-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-10-3jane-moneymarket-report_526702e2.pdf",
+    "sha256": "40d7042ca28abb545e7d05e3a0cc1acc7c83152b346f7e14ed0d0ef1718fcb85",
+    "size_bytes": 3086049,
+    "downloaded_at": "2026-07-07T11:06:38+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-10-3Jane-Moneymarket-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-10-3jane-moneymarket-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Centrifuge v3 1 Upgrade",
+    "title": "2025 10 Centrifuge v3 1 Upgrade report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-10-Centrifuge-v3-1-Upgrade-report.pdf",
+    "date": "2025-10",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-10-Centrifuge-v3-1-Upgrade-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-10-centrifuge-v3-1-upgrade-report_f794d4f3.pdf",
+    "sha256": "1669b5f791e7d8a68f54316511a0e0667ffddbb07bf90908a592c839512d7001",
+    "size_bytes": 3083299,
+    "downloaded_at": "2026-07-07T11:06:40+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-10-Centrifuge-v3-1-Upgrade-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-10-centrifuge-v3-1-upgrade-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Euler securitize",
+    "title": "2025 11 Euler securitize report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Euler-securitize-report.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Euler-securitize-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-11-euler-securitize-report_01ba2a09.pdf",
+    "sha256": "12b7bd16fe78f53d56416dbbbd760a9740c4ef288c11827a810fac5990999565",
+    "size_bytes": 3052295,
+    "downloaded_at": "2026-07-07T11:06:41+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-11-Euler-securitize-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-11-euler-securitize-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "goldilocks",
+    "title": "2025 11 goldilocks",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-goldilocks.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-goldilocks.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-11-goldilocks_94bc516c.pdf",
+    "sha256": "9f819360d5d8b28c09b1e0dc930063ff26bb4fe6f0d20fc77a08c8a1411327bc",
+    "size_bytes": 3078068,
+    "downloaded_at": "2026-07-07T11:06:43+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-11-goldilocks.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-11-goldilocks"
+  },
+  {
+    "source": "yaudit",
+    "project": "Origin ARM",
+    "title": "2025 11 Origin   ARM report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Origin---ARM-report.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Origin---ARM-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-11-origin-arm-report_ec6212dc.pdf",
+    "sha256": "6c74ec18e3912d2c1ce99dee071135fdc0e315b2430d17b8443cd774456709c1",
+    "size_bytes": 3094820,
+    "downloaded_at": "2026-07-07T11:06:45+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-11-Origin---ARM-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-11-origin-arm-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Twyne AAVE",
+    "title": "2025 11 Twyne AAVE",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Twyne-AAVE.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Twyne-AAVE.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-11-twyne-aave_d4d159e4.pdf",
+    "sha256": "37c5ba42d63f6fda7fe1345f8ee3c12b112f05446304bfc80b370e69fae01361",
+    "size_bytes": 3080862,
+    "downloaded_at": "2026-07-07T11:06:46+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-11-Twyne-AAVE.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-11-twyne-aave"
+  },
+  {
+    "source": "yaudit",
+    "project": "Worm proofofburn",
+    "title": "2025 11 Worm proofofburn",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Worm-proofofburn.pdf",
+    "date": "2025-11",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-11-Worm-proofofburn.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-11-worm-proofofburn_1b1b8f1f.pdf",
+    "sha256": "b6a0794bc06901c2fb3491712060ef31e7e0c800e8bb298f0fc862d46ee39f23",
+    "size_bytes": 3184929,
+    "downloaded_at": "2026-07-07T11:06:48+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-11-Worm-proofofburn.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-11-worm-proofofburn"
+  },
+  {
+    "source": "yaudit",
+    "project": "Twyne AAVE Operators",
+    "title": "2025 12 Twyne AAVE Operators",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-12-Twyne-AAVE-Operators.pdf",
+    "date": "2025-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-12-Twyne-AAVE-Operators.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-12-twyne-aave-operators_42074554.pdf",
+    "sha256": "aecdacc0fd8d5b1105dd0ac083d6149d245597f1e39b96da8e2ba7dfae356f5e",
+    "size_bytes": 3059969,
+    "downloaded_at": "2026-07-07T11:06:49+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-12-Twyne-AAVE-Operators.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-12-twyne-aave-operators"
+  },
+  {
+    "source": "yaudit",
+    "project": "Twyne liquidation incentive",
+    "title": "2025 12 Twyne liquidation incentive",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-12-Twyne-liquidation-incentive.pdf",
+    "date": "2025-12",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2025-12-Twyne-liquidation-incentive.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2025-12-twyne-liquidation-incentive_17787271.pdf",
+    "sha256": "2c482b776e64d3bc8cebc383cc6b4eda3f1134408f7f6bdd87099c2b544ae1df",
+    "size_bytes": 3050519,
+    "downloaded_at": "2026-07-07T11:06:51+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2025-12-Twyne-liquidation-incentive.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2025-12-twyne-liquidation-incentive"
+  },
+  {
+    "source": "yaudit",
+    "project": "Centrifuge v3 1 Fix",
+    "title": "2026 01 Centrifuge v3 1 Fix Review report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-01-Centrifuge-v3-1-Fix-Review-report.pdf",
+    "date": "2026-01",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-01-Centrifuge-v3-1-Fix-Review-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-01-centrifuge-v3-1-fix-review-report_696a492b.pdf",
+    "sha256": "d5e9482e1b8c9147478d3a747bce5feb57cbb232052146480c61c4ae0c826dbd",
+    "size_bytes": 3076075,
+    "downloaded_at": "2026-07-07T11:06:53+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-01-Centrifuge-v3-1-Fix-Review-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-01-centrifuge-v3-1-fix-review-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "HAI CurveStableSwapNG Oracle",
+    "title": "2026 02 HAI CurveStableSwapNG Oracle",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-02-HAI-CurveStableSwapNG-Oracle.pdf",
+    "date": "2026-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-02-HAI-CurveStableSwapNG-Oracle.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-02-hai-curvestableswapng-oracle_5efd63ea.pdf",
+    "sha256": "d1da9b45df4639fc42a1a257f687bcdacf07a74566a83b495c003a1d6a84acf8",
+    "size_bytes": 3066727,
+    "downloaded_at": "2026-07-07T11:06:54+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-02-HAI-CurveStableSwapNG-Oracle.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-02-hai-curvestableswapng-oracle"
+  },
+  {
+    "source": "yaudit",
+    "project": "Twyne Q1 update",
+    "title": "2026 02 Twyne 2026 Q1 update report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-02-Twyne-2026-Q1-update-report.pdf",
+    "date": "2026-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-02-Twyne-2026-Q1-update-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-02-twyne-2026-q1-update-report_56c6d6f4.pdf",
+    "sha256": "4a38102840068c4f1c1d81f1a6d1d76869815fcb2be58ab8cfe5e51faa9a2c5b",
+    "size_bytes": 3075242,
+    "downloaded_at": "2026-07-07T11:06:56+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-02-Twyne-2026-Q1-update-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-02-twyne-2026-q1-update-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "vFat router.pdf",
+    "title": "2026 02 vFat router.pdf",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-02-vFat-router.pdf.pdf",
+    "date": "2026-02",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-02-vFat-router.pdf.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-02-vfat-router-pdf_062fabd7.pdf",
+    "sha256": "2ad8bc7d4daefbacbe09507266b74b0ddd5a3177a6cada10fd1b1a284409c963",
+    "size_bytes": 3129429,
+    "downloaded_at": "2026-07-07T11:06:58+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-02-vFat-router.pdf.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-02-vfat-router-pdf"
+  },
+  {
+    "source": "yaudit",
+    "project": "cow euler integration",
+    "title": "2026 03 cow euler integration",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-03-cow-euler-integration.pdf",
+    "date": "2026-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-03-cow-euler-integration.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-03-cow-euler-integration_73dd548d.pdf",
+    "sha256": "d596075b68f623c3c08afc72b62d20e6667d45b8adc4c3399e720768a3eaa6b0",
+    "size_bytes": 3083020,
+    "downloaded_at": "2026-07-07T11:06:59+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-03-cow-euler-integration.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-03-cow-euler-integration"
+  },
+  {
+    "source": "yaudit",
+    "project": "Flex",
+    "title": "2026 03 Flex report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-03-Flex-report.pdf",
+    "date": "2026-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-03-Flex-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-03-flex-report_6d121974.pdf",
+    "sha256": "6296c9eae16442cc6056b42e49b8ab5270b2aee245102b15768d61b078164674",
+    "size_bytes": 3136959,
+    "downloaded_at": "2026-07-07T11:07:01+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-03-Flex-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-03-flex-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "RISEx RLP Strategies",
+    "title": "2026 03 RISEx RLP Strategies",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-03-RISEx-RLP-Strategies.pdf",
+    "date": "2026-03",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-03-RISEx-RLP-Strategies.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-03-risex-rlp-strategies_4b28d2cf.pdf",
+    "sha256": "3a7993980b9bdfe0fdc87653864c2c09ac3e337d279a5a924bc21576c4070fd8",
+    "size_bytes": 3199465,
+    "downloaded_at": "2026-07-07T11:07:02+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-03-RISEx-RLP-Strategies.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-03-risex-rlp-strategies"
+  },
+  {
+    "source": "yaudit",
+    "project": "Den MLS Wallet",
+    "title": "2026 04 Den MLS Wallet report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-04-Den-MLS-Wallet-report.pdf",
+    "date": "2026-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-04-Den-MLS-Wallet-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-04-den-mls-wallet-report_fee0c7c3.pdf",
+    "sha256": "5a8132042f7ab7529f54ea426c92069aa2ad94ba2ea8a0467b31da19489f0bba",
+    "size_bytes": 3175034,
+    "downloaded_at": "2026-07-07T11:07:04+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-04-Den-MLS-Wallet-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-04-den-mls-wallet-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Liquity V2 Lender Borrower Strategy",
+    "title": "2026 04 Liquity V2 Lender Borrower Strategy report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-04-Liquity-V2-Lender-Borrower-Strategy-report.pdf",
+    "date": "2026-04",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-04-Liquity-V2-Lender-Borrower-Strategy-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-04-liquity-v2-lender-borrower-strategy-report_c318bbf5.pdf",
+    "sha256": "e586d8c3f1f2f809114e95b33f18e4c664a4d5dc15ce5a664b6f0fe2e72d6ffc",
+    "size_bytes": 3138041,
+    "downloaded_at": "2026-07-07T11:07:06+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-04-Liquity-V2-Lender-Borrower-Strategy-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-04-liquity-v2-lender-borrower-strategy-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "stYFI Teams PR",
+    "title": "2026 05 stYFI Teams PR report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-05-stYFI-Teams-PR-report.pdf",
+    "date": "2026-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-05-stYFI-Teams-PR-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-05-styfi-teams-pr-report_39642073.pdf",
+    "sha256": "3e84fbdb8b7e3334b670d09f08bac2bac39d58b02e3114d4920df223f6e1e032",
+    "size_bytes": 3092679,
+    "downloaded_at": "2026-07-07T11:07:08+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-05-stYFI-Teams-PR-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-05-styfi-teams-pr-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Yearn stYFI YBC",
+    "title": "2026 05 Yearn stYFI   YBC report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-05-Yearn-stYFI---YBC-report.pdf",
+    "date": "2026-05",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-05-Yearn-stYFI---YBC-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-05-yearn-styfi-ybc-report_a35a0f21.pdf",
+    "sha256": "046d64cf802cd383d444cb5c43f36b402c3cbbd8bf5feae4a31fca2cbe778826",
+    "size_bytes": 3074502,
+    "downloaded_at": "2026-07-07T11:07:10+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-05-Yearn-stYFI---YBC-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-05-yearn-styfi-ybc-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "AllowlistedSwapAdapter",
+    "title": "2026 06 AllowlistedSwapAdapter Review report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-06-AllowlistedSwapAdapter-Review-report.pdf",
+    "date": "2026-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-06-AllowlistedSwapAdapter-Review-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-06-allowlistedswapadapter-review-report_866d5d12.pdf",
+    "sha256": "ea30af36d4cf42e8290f5251bf60181601fdd68eb10e81bfe32c23bbfaa4e492",
+    "size_bytes": 3069615,
+    "downloaded_at": "2026-07-07T11:07:11+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-06-AllowlistedSwapAdapter-Review-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-06-allowlistedswapadapter-review-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Convex Onchain Voting",
+    "title": "2026 06 Convex Onchain Voting report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-06-Convex-Onchain-Voting-report.pdf",
+    "date": "2026-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-06-Convex-Onchain-Voting-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-06-convex-onchain-voting-report_21453d2e.pdf",
+    "sha256": "36a2317c188502c0e48eece54e08f6e217ddf254992b3bba12b9bd37fb31de85",
+    "size_bytes": 3213386,
+    "downloaded_at": "2026-07-07T11:07:13+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-06-Convex-Onchain-Voting-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-06-convex-onchain-voting-report"
+  },
+  {
+    "source": "yaudit",
+    "project": "Twyne Update",
+    "title": "2026 06 Twyne 1.0.6 Update report",
+    "report_url": "https://github.com/electisec/reports/blob/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf",
+    "date": "2026-06",
+    "listing_url": "https://github.com/electisec/reports",
+    "download_url": "https://raw.githubusercontent.com/electisec/reports/44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1/public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/yaudit/2026-06-twyne-1-0-6-update-report_bc5f7988.pdf",
+    "sha256": "756719844cf48cfa1f4ab37b41589ed6d7ce31398438628e240690230b1e0a10",
+    "size_bytes": 3045497,
+    "downloaded_at": "2026-07-07T11:07:14+00:00",
+    "extra": {
+      "repo": "electisec/reports",
+      "path": "public/pdf/2026-06-Twyne-1.0.6-Update-report.pdf",
+      "commit": "44ab756f5a45d0bff0f92a0cd4693c3fa0b868a1"
+    },
+    "id": "yaudit/2026-06-twyne-1-0-6-update-report"
+  }
+]

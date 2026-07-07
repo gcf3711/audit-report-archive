@@ -11,7 +11,7 @@ Current scope is **collection only** — report content analysis is a later phas
 ## Status
 
 <!-- STATUS:BEGIN -->
-**6185** reports catalogued across **23** sources (**4720** PDF, **1465** HTML) — **6153** verified downloadable (fetched locally), **32** unavailable (upstream dead links or archive-only). Last updated **2026-07-07**.
+**9409** reports catalogued across **47** sources (**7680** PDF, **1729** HTML) — **9377** verified downloadable (fetched locally), **32** unavailable (upstream dead links or archive-only). Last updated **2026-07-07**.
 
 | Source | Reports | PDF | HTML | Downloadable | Unavailable | Listing |
 |---|---|---|---|---|---|---|
@@ -38,6 +38,30 @@ Current scope is **collection only** — report content analysis is a later phas
 | [Nethermind](indexes/nethermind.md) | 181 | 181 | 0 | 181 | 0 | https://github.com/NethermindEth/PublicAuditReports |
 | [Cyfrin](indexes/cyfrin.md) | 195 | 195 | 0 | 195 | 0 | https://github.com/Cyfrin/cyfrin-audit-reports |
 | [Sherlock](indexes/sherlock.md) | 298 | 298 | 0 | 298 | 0 | https://github.com/sherlock-protocol/sherlock-reports |
+| [BlockSec](indexes/blocksec.md) | 204 | 204 | 0 | 204 | 0 | https://github.com/blocksecteam/audit-reports |
+| [Zokyo](indexes/zokyo.md) | 311 | 311 | 0 | 311 | 0 | https://github.com/zokyo-sec/audit-reports |
+| [CD Security](indexes/cdsecurity.md) | 67 | 67 | 0 | 67 | 0 | https://github.com/CDSecurity/audits |
+| [Team Omega](indexes/teamomega.md) | 53 | 53 | 0 | 53 | 0 | https://github.com/OmegaAudits/audits |
+| [Verilog Solutions](indexes/verilog.md) | 13 | 13 | 0 | 13 | 0 | https://github.com/Verilog-Solutions/.github |
+| [Ackee Blockchain](indexes/ackee.md) | 96 | 96 | 0 | 96 | 0 | https://github.com/Ackee-Blockchain/public-audit-reports |
+| [Hexens](indexes/hexens.md) | 153 | 153 | 0 | 153 | 0 | https://github.com/Hexens/Smart-Contract-Review-Public-Reports |
+| [Oxorio](indexes/oxorio.md) | 47 | 47 | 0 | 47 | 0 | https://github.com/oxor-io/public_audits |
+| [Pashov Audit Group](indexes/pashov.md) | 300 | 300 | 0 | 300 | 0 | https://github.com/pashov/audits |
+| [Solidified](indexes/solidified.md) | 247 | 247 | 0 | 247 | 0 | https://github.com/solidified-platform/audits |
+| [Electisec (yAudit)](indexes/yaudit.md) | 138 | 138 | 0 | 138 | 0 | https://github.com/electisec/reports |
+| [Decurity](indexes/decurity.md) | 61 | 61 | 0 | 61 | 0 | https://github.com/Decurity/audits |
+| [Oak Security](indexes/oaksecurity.md) | 321 | 306 | 15 | 321 | 0 | https://github.com/oak-security/audit-reports |
+| [Informal Systems](indexes/informal.md) | 94 | 42 | 52 | 94 | 0 | https://github.com/informalsystems/audits |
+| [ChainSafe](indexes/chainsafe.md) | 33 | 33 | 0 | 33 | 0 | https://github.com/ChainSafe/audits |
+| [Bailsec](indexes/bailsec.md) | 95 | 95 | 0 | 95 | 0 | https://github.com/bailsec/BailSec |
+| [Composable Security](indexes/composable.md) | 28 | 28 | 0 | 28 | 0 | https://github.com/ComposableSecurity/.github |
+| [Coinspect](indexes/coinspect.md) | 42 | 42 | 0 | 42 | 0 | https://github.com/coinspect/publications |
+| [Enigma Dark](indexes/enigmadark.md) | 28 | 28 | 0 | 28 | 0 | https://github.com/Enigma-Dark/security-review-reports |
+| [OtterSec](indexes/ottersec.md) | 386 | 386 | 0 | 386 | 0 | https://osec.io/audits |
+| [Dedaub](indexes/dedaub.md) | 178 | 0 | 178 | 178 | 0 | https://dedaub.com/audits/ |
+| [Hats Finance](indexes/hatsfinance.md) | 26 | 12 | 14 | 26 | 0 | https://github.com/hats-finance |
+| [dapp.org](indexes/dapporg.md) | 5 | 0 | 5 | 5 | 0 | https://dapp.org.uk |
+| [Paladin Blockchain Security](indexes/paladin.md) | 298 | 298 | 0 | 298 | 0 | https://paladinsec.co/audits/ |
 <!-- STATUS:END -->
 
 Each source name above links to its per-source table in [indexes/](indexes/)
@@ -59,12 +83,12 @@ uv run python -m audit_collector download
 ### Hugging Face dataset mirror
 
 https://huggingface.co/datasets/gcf3711/audit-report-archive — a mirror of
-the local `data/` directory (5.3 GB total):
+the local `data/` directory (~11 GB total):
 
 | Dataset path | Contents | Count | Local equivalent |
 |---|---|---|---|
-| `reports/<source>/` | report files — 4712 PDF + 1441 HTML | 6153 | `data/reports/<source>/` |
-| `catalog/<source>.json` | per-source metadata (same as in git) | 22 | `data/catalog/<source>.json` |
+| `reports/<source>/` | report files — 7672 PDF + 1624 HTML + 81 MD | 9377 | `data/reports/<source>/` |
+| `catalog/<source>.json` | per-source metadata (same as in git) | 46 | `data/catalog/<source>.json` |
 | `README.md` | dataset card | 1 | — |
 
 File names match the `local_path` field in the catalogs (`data/reports/...`
@@ -84,7 +108,7 @@ can be re-run after interruptions or data refreshes.
 ## Layout
 
 ```
-config/sources.yaml        source registry (23 defaults; add new sources here)
+config/sources.yaml        source registry (add new sources here)
 src/audit_collector/       the collector package
   scrapers/                one module per source type
     github_repo.py         generic scraper for GitHub-hosted report repos
@@ -144,11 +168,62 @@ Each catalog entry (`data/catalog/<source>.json`):
   not PDFs (saved as `.html`).
 - **code4rena** — the platform announced it is closing; the durable mirror is
   the code-423n4 GitHub org (findings repo URL kept in `extra.findings_repo`).
+- **ottersec** — osec.io/reports/<uuid> URLs 302-redirect to short-lived
+  signed PDF URLs; the stable uuid URL is kept as provenance.
+- **dedaub** — the audit index is JS-rendered; reports are enumerated from
+  /audits/sitemap.xml and saved as HTML pages. Their GitHub repo is frozen
+  at Nov 2023, so the website is the canonical source.
+- **hatsfinance** — audit competitions; one report.md per finalized
+  competition repo in the hats-finance GitHub org (repos named
+  `<project>-0x<vault>`); unfinalized competitions have no report yet.
+- **paladin** — listing pagination is nonce-protected; project slugs are
+  enumerated via the Wayback CDX index plus the live listing's first page,
+  then PDFs are pulled from the live server-rendered project pages.
 
-## Adding a source
+Researched but not collectable (nothing public to ingest): gauntlet (risk
+modeling, not audits), fuzzland / watchpug / nomoi (reports only inside
+client repos), secure3 (report repo deleted), hunter security (JS-only
+site), lexfo / securing (no public archive), ruptura / dingbats (not
+found), cmichel / stermi / 0xleastwood (work embedded in Spearbit/Code4rena
+reports, already covered), blackthorn (publishes via Sherlock, covered),
+alberto cuesta canada (no personal archive), nomic labs (3 Medium posts,
+bot-blocked), ezrvaults (a Renzo Protocol product, not an audit firm).
 
-Append an entry to `config/sources.yaml`. For reports published in a GitHub
-repo, `type: github_repo` with `repo:` (plus optional `paths:`, `extensions:`,
-`exclude:`) is all that's needed. For a website, add a scraper module at
+## Adding a source (without touching existing data)
+
+Everything is per-source isolated: each source has its own catalog file
+(`data/catalog/<key>.json`), report directory (`data/reports/<key>/`) and
+index page (`indexes/<key>.md`). Adding a source never rewrites another
+source's data, and `catalog.merge` preserves download state across re-scrapes
+— so the steps below are safe to run on a live archive.
+
+**1. Register the source** — append one entry to `config/sources.yaml`:
+
+```yaml
+# reports live in a GitHub repo (covers most firms) — no code needed
+mynewfirm:
+  name: My New Firm
+  type: github_repo
+  listing_url: https://github.com/mynewfirm/audit-reports
+  repo: mynewfirm/audit-reports
+  paths: [reports]        # optional: only scan these subdirectories
+  extensions: [.pdf, .md] # optional: default .pdf
+  exclude: [templates/]   # optional: skip matching paths
+```
+
+For a website source instead, add a module
 `src/audit_collector/scrapers/<type>.py` exposing
-`scrape(key, cfg) -> list[Report]`.
+`scrape(key, cfg) -> list[Report]`, and set `type: <type>` in the yaml entry.
+
+**2. Collect just that source** (existing sources are not touched):
+
+```bash
+uv run python -m audit_collector scrape mynewfirm
+uv run python -m audit_collector download mynewfirm
+uv run python -m audit_collector build-index   # refreshes indexes + README status
+```
+
+**3. Commit** `config/sources.yaml`, `data/catalog/mynewfirm.json`,
+`indexes/` and `README.md`. The monthly update then keeps the new source
+fresh automatically; the HF mirror picks up its files on the next
+`scripts/update.sh` run.

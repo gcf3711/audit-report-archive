@@ -1,0 +1,1062 @@
+[
+  {
+    "source": "teamomega",
+    "project": "Prime DAO v1",
+    "title": "202106 Prime DAO v1 Final Report",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202106-Prime%20DAO-v1-Final-Report.pdf",
+    "date": "2021-09-28",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202106-Prime%20DAO-v1-Final-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202106-prime-dao-v1-final-report_c5d9514a.pdf",
+    "sha256": "573cac6b378a5b5e8272e6e69e6ee805fcb975fa35595e2724b446789fe9ee21",
+    "size_bytes": 197760,
+    "downloaded_at": "2026-07-07T10:42:54+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202106-Prime DAO-v1-Final-Report.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202106-prime-dao-v1-final-report"
+  },
+  {
+    "source": "teamomega",
+    "project": "BackedFinance",
+    "title": "202205 BackedFinance",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202205-BackedFinance.pdf",
+    "date": "2023-03-07",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202205-BackedFinance.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202205-backedfinance_637b2924.pdf",
+    "sha256": "331fd17713bc28372bccf06817515d00fbc4f433e0314767a5b1b69ac2fb3639",
+    "size_bytes": 124074,
+    "downloaded_at": "2026-07-07T10:42:55+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202205-BackedFinance.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202205-backedfinance"
+  },
+  {
+    "source": "teamomega",
+    "project": "PrimeDAO Seed Module",
+    "title": "202205 PrimeDAO Seed Module",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202205-PrimeDAO-Seed-Module.pdf",
+    "date": "2023-03-07",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202205-PrimeDAO-Seed-Module.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202205-primedao-seed-module_ddb897c6.pdf",
+    "sha256": "8ecce88718bf2337b1e2c9a91aff61f4533352fde99458d4bfff5ac849c32827",
+    "size_bytes": 179005,
+    "downloaded_at": "2026-07-07T10:42:56+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202205-PrimeDAO-Seed-Module.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202205-primedao-seed-module"
+  },
+  {
+    "source": "teamomega",
+    "project": "Everbloom",
+    "title": "202212 Everbloom",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202212-Everbloom.pdf",
+    "date": "2023-03-07",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202212-Everbloom.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202212-everbloom_30416314.pdf",
+    "sha256": "e9905bd02d1ab26276e36b05e7f2efee01b895de0f8b8fb2a2d1f906b1b8e987",
+    "size_bytes": 196935,
+    "downloaded_at": "2026-07-07T10:42:57+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202212-Everbloom.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202212-everbloom"
+  },
+  {
+    "source": "teamomega",
+    "project": "DXdao Carrot",
+    "title": "202206 DXdao Carrot",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202206-DXdao-Carrot.pdf",
+    "date": "2023-03-08",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202206-DXdao-Carrot.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202206-dxdao-carrot_cce72457.pdf",
+    "sha256": "210d6280c32b33dc05a785551ea34451e1dc4c97beb126e8bf045dce93fdfa50",
+    "size_bytes": 175836,
+    "downloaded_at": "2026-07-07T10:42:58+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202206-DXdao-Carrot.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202206-dxdao-carrot"
+  },
+  {
+    "source": "teamomega",
+    "project": "dxGovernance",
+    "title": "202205 dxGovernance",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202205-dxGovernance.pdf",
+    "date": "2023-03-17",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202205-dxGovernance.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202205-dxgovernance_8a49a11d.pdf",
+    "sha256": "352f21b9cdf6bb5af049571d9c0e3fac397d16e71f0b2556c06ad3bfaf814b78",
+    "size_bytes": 352465,
+    "downloaded_at": "2026-07-07T10:42:59+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202205-dxGovernance.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202205-dxgovernance"
+  },
+  {
+    "source": "teamomega",
+    "project": "dxDAO governance",
+    "title": "202303 dxDAO governance",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202303-dxDAO-governance.pdf",
+    "date": "2023-03-17",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202303-dxDAO-governance.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202303-dxdao-governance_aea9a71f.pdf",
+    "sha256": "84f29cd3a8c029ee699f49c8b48bec7dd0c4c8932bf9a9aff450df733671b9e5",
+    "size_bytes": 208282,
+    "downloaded_at": "2026-07-07T10:43:00+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202303-dxDAO-governance.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202303-dxdao-governance"
+  },
+  {
+    "source": "teamomega",
+    "project": "BackedFinance",
+    "title": "202301 BackedFinance",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202301-BackedFinance.pdf",
+    "date": "2023-09-12",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202301-BackedFinance.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202301-backedfinance_df28a6f3.pdf",
+    "sha256": "3f964f327e87019acc262c200ba2716251a0d1f18cc670530d52f4a7c824a39f",
+    "size_bytes": 88038,
+    "downloaded_at": "2026-07-07T10:43:01+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202301-BackedFinance.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202301-backedfinance"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed",
+    "title": "202307 Backed",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202307-Backed.pdf",
+    "date": "2023-09-12",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202307-Backed.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202307-backed_c831e8e7.pdf",
+    "sha256": "8920b70f6289b68949ce6a73ddaeb8f81b0f64540f4538b52d0d68ecd950311d",
+    "size_bytes": 62347,
+    "downloaded_at": "2026-07-07T10:43:01+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202307-Backed.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202307-backed"
+  },
+  {
+    "source": "teamomega",
+    "project": "Blindex",
+    "title": "202112 Blindex Audit Final Report",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202112-Blindex-Audit-Final-Report.pdf",
+    "date": "2023-10-06",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202112-Blindex-Audit-Final-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202112-blindex-audit-final-report_f312a7c3.pdf",
+    "sha256": "9f1880dbed5655b0e78260c4a344b24b016b6de2cfa594ab139d41cdc0d70582",
+    "size_bytes": 236947,
+    "downloaded_at": "2026-07-07T10:43:03+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202112-Blindex-Audit-Final-Report.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202112-blindex-audit-final-report"
+  },
+  {
+    "source": "teamomega",
+    "project": "Gnosis Bridge",
+    "title": "202309 Gnosis Bridge",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202309-Gnosis-Bridge.pdf",
+    "date": "2023-10-06",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202309-Gnosis-Bridge.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202309-gnosis-bridge_2351216b.pdf",
+    "sha256": "5e5b55ab669f5aa372c023431fe51840ba3dffb6c17660ef92332bdafeb76ea9",
+    "size_bytes": 144171,
+    "downloaded_at": "2026-07-07T10:43:04+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202309-Gnosis-Bridge.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202309-gnosis-bridge"
+  },
+  {
+    "source": "teamomega",
+    "project": "DXdao staking",
+    "title": "202104 DXdao staking",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202104-DXdao-staking.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202104-DXdao-staking.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202104-dxdao-staking_b7355ccb.pdf",
+    "sha256": "74763b0925cae073f9e4001ae374467539ccbb6d7380795377d2069b289ec10f",
+    "size_bytes": 171229,
+    "downloaded_at": "2026-07-07T10:43:05+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202104-DXdao-staking.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202104-dxdao-staking"
+  },
+  {
+    "source": "teamomega",
+    "project": "API3DAO",
+    "title": "202106 API3DAO",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202106-API3DAO.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202106-API3DAO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202106-api3dao_319c88ea.pdf",
+    "sha256": "879f7e8dcf1b0f447dd32e7f96db2370e5b7b531e63a8ddbf971b832c074c57e",
+    "size_bytes": 443568,
+    "downloaded_at": "2026-07-07T10:43:06+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202106-API3DAO.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202106-api3dao"
+  },
+  {
+    "source": "teamomega",
+    "project": "PrimeDAO v2",
+    "title": "202107 PrimeDAO v2 Audit Final Report",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202107-PrimeDAO-v2-Audit-Final-Report.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202107-PrimeDAO-v2-Audit-Final-Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202107-primedao-v2-audit-final-report_1d869824.pdf",
+    "sha256": "72ec8069ca9bb72661380c932e09a19e4207703890a328c2f3ae9118bd3c09d0",
+    "size_bytes": 172091,
+    "downloaded_at": "2026-07-07T10:43:07+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202107-PrimeDAO-v2-Audit-Final-Report.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202107-primedao-v2-audit-final-report"
+  },
+  {
+    "source": "teamomega",
+    "project": "Delphia",
+    "title": "202111 Delphia",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202111-Delphia.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202111-Delphia.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202111-delphia_6546bbbc.pdf",
+    "sha256": "3566be9be6205f4f962d9b8f968153976638650d46e1b83191017560cb14fd3b",
+    "size_bytes": 169090,
+    "downloaded_at": "2026-07-07T10:43:08+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202111-Delphia.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202111-delphia"
+  },
+  {
+    "source": "teamomega",
+    "project": "PrimeDAO LBP",
+    "title": "202111 PrimeDAO LBP Audit Final",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202111-PrimeDAO-LBP-Audit-Final.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202111-PrimeDAO-LBP-Audit-Final.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202111-primedao-lbp-audit-final_14dae955.pdf",
+    "sha256": "314332eec29bb54da2be2a96850bd4b0ed45dbb5a48a8872217d2fb04e870be5",
+    "size_bytes": 108498,
+    "downloaded_at": "2026-07-07T10:43:09+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202111-PrimeDAO-LBP-Audit-Final.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202111-primedao-lbp-audit-final"
+  },
+  {
+    "source": "teamomega",
+    "project": "EnterDAO",
+    "title": "202112 EnterDAO",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202112-EnterDAO.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202112-EnterDAO.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202112-enterdao_2d35ec21.pdf",
+    "sha256": "612a4228465872d12a9848e781443d067e11daeff6607bba1e9640b68e9627c9",
+    "size_bytes": 157550,
+    "downloaded_at": "2026-07-07T10:43:10+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202112-EnterDAO.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202112-enterdao"
+  },
+  {
+    "source": "teamomega",
+    "project": "Spectre",
+    "title": "202112 Spectre",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202112-Spectre.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202112-Spectre.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202112-spectre_327aefea.pdf",
+    "sha256": "65a029d34effcada23ae682630ef4e3dc1233151188bd4cbc0a4bf81750f39b7",
+    "size_bytes": 184832,
+    "downloaded_at": "2026-07-07T10:43:11+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202112-Spectre.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202112-spectre"
+  },
+  {
+    "source": "teamomega",
+    "project": "Fragmint",
+    "title": "202204 Fragmint",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202204-Fragmint.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202204-Fragmint.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202204-fragmint_008d776a.pdf",
+    "sha256": "c63c431e9a06f96a1a78de92571b56610ec6faac11da90d4e32fd7375e59f79c",
+    "size_bytes": 165789,
+    "downloaded_at": "2026-07-07T10:43:12+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202204-Fragmint.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202204-fragmint"
+  },
+  {
+    "source": "teamomega",
+    "project": "Toucan Celo Bridge",
+    "title": "202208 Toucan Celo Bridge",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202208-Toucan-Celo-Bridge.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202208-Toucan-Celo-Bridge.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202208-toucan-celo-bridge_18a7c345.pdf",
+    "sha256": "e9d23b1fb17ba447d39919b277a09391e59811f5570b8d59bd2559be5f86e4fa",
+    "size_bytes": 137620,
+    "downloaded_at": "2026-07-07T10:43:13+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202208-Toucan-Celo-Bridge.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202208-toucan-celo-bridge"
+  },
+  {
+    "source": "teamomega",
+    "project": "Stackly",
+    "title": "202306 Stackly",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202306-Stackly.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202306-Stackly.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202306-stackly_decb52aa.pdf",
+    "sha256": "da9a6480dbfd96dd4849230ec40eff79408396da83199199ac2398ba9d4fb94a",
+    "size_bytes": 218996,
+    "downloaded_at": "2026-07-07T10:43:14+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202306-Stackly.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202306-stackly"
+  },
+  {
+    "source": "teamomega",
+    "project": "lsdai",
+    "title": "202308 lsdai",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202308-lsdai.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202308-lsdai.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202308-lsdai_5b9e650b.pdf",
+    "sha256": "b9b1ca72984f3c20575bb367650598bfb3dfed710d5e4b96a8f989fd2d2b817c",
+    "size_bytes": 117456,
+    "downloaded_at": "2026-07-07T10:43:15+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202308-lsdai.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202308-lsdai"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed wrapped tokens",
+    "title": "202310 Backed wrapped tokens",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202310-Backed-wrapped-tokens.pdf",
+    "date": "2023-12-01",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202310-Backed-wrapped-tokens.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202310-backed-wrapped-tokens_411701f1.pdf",
+    "sha256": "2f66dc567f28e2f687a06da8962c4640ef64b92d039949daa2082f30d213c891",
+    "size_bytes": 153536,
+    "downloaded_at": "2026-07-07T10:43:15+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202310-Backed-wrapped-tokens.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202310-backed-wrapped-tokens"
+  },
+  {
+    "source": "teamomega",
+    "project": "Altitude",
+    "title": "202207 Altitude v1.0",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202207-Altitude-v1.0.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202207-Altitude-v1.0.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202207-altitude-v1-0_d2ecadcb.pdf",
+    "sha256": "a85dc15c98723667e5a8b5e5f0e4f5afd0e12d4951a4854b92520b17b83168f3",
+    "size_bytes": 605340,
+    "downloaded_at": "2026-07-07T10:43:17+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202207-Altitude-v1.0.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202207-altitude-v1-0"
+  },
+  {
+    "source": "teamomega",
+    "project": "Altitude",
+    "title": "202310 Altitude v1.1",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202310-Altitude-v1.1.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202310-Altitude-v1.1.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202310-altitude-v1-1_83868262.pdf",
+    "sha256": "e0c983ac77b1a1f79155c1b581b19884e551da2d8d79ebd6d880e7ec95db584a",
+    "size_bytes": 218644,
+    "downloaded_at": "2026-07-07T10:43:18+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202310-Altitude-v1.1.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202310-altitude-v1-1"
+  },
+  {
+    "source": "teamomega",
+    "project": "ToucanProtocol",
+    "title": "202312 ToucanProtocol",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202312-ToucanProtocol.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202312-ToucanProtocol.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202312-toucanprotocol_f4107ab2.pdf",
+    "sha256": "ff4b6c628ab166c58cfb669dd288bf041c2e9e7e473ad787679e1d0bf9b61a69",
+    "size_bytes": 94617,
+    "downloaded_at": "2026-07-07T10:43:19+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202312-ToucanProtocol.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202312-toucanprotocol"
+  },
+  {
+    "source": "teamomega",
+    "project": "EulerFinance",
+    "title": "202402 EulerFinance",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202402-EulerFinance.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202402-EulerFinance.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202402-eulerfinance_eacfbc67.pdf",
+    "sha256": "64e470ece77a03b0c79fa5c8b0b94b4f8f748c8ae35d6daa4a15022aeb4d7ad8",
+    "size_bytes": 166125,
+    "downloaded_at": "2026-07-07T10:43:20+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202402-EulerFinance.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202402-eulerfinance"
+  },
+  {
+    "source": "teamomega",
+    "project": "OpusEdu",
+    "title": "202402 OpusEdu",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202402-OpusEdu.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202402-OpusEdu.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202402-opusedu_33d72c33.pdf",
+    "sha256": "b2c2126cb0897db4bf382146014037a9762a59c7fbd808599d628543d754c53f",
+    "size_bytes": 153472,
+    "downloaded_at": "2026-07-07T10:43:21+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202402-OpusEdu.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202402-opusedu"
+  },
+  {
+    "source": "teamomega",
+    "project": "Yieldnest",
+    "title": "202404 Yieldnest",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202404-Yieldnest.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202404-Yieldnest.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202404-yieldnest_5d7b620a.pdf",
+    "sha256": "11bb3be359860b53a9a71a811e851d0fe8b260a579ae106f73db9cd4dedbd50b",
+    "size_bytes": 106815,
+    "downloaded_at": "2026-07-07T10:43:22+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202404-Yieldnest.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202404-yieldnest"
+  },
+  {
+    "source": "teamomega",
+    "project": "Gnosis Hashi",
+    "title": "202406 Gnosis Hashi",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202406-Gnosis%20Hashi.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202406-Gnosis%20Hashi.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202406-gnosis-hashi_13f7f653.pdf",
+    "sha256": "7ba180109a56bc29362c7fbea2054f7043fe805b16d3cbcf38d0aa6c69c05104",
+    "size_bytes": 192714,
+    "downloaded_at": "2026-07-07T10:43:23+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202406-Gnosis Hashi.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202406-gnosis-hashi"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed RebasingTokens",
+    "title": "202407 Backed RebasingTokens",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202407-Backed-RebasingTokens.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202407-Backed-RebasingTokens.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202407-backed-rebasingtokens_0cf0dcf2.pdf",
+    "sha256": "71097844c6231cdecef42bc9568fdba7d27594da68b236b34318073c1d3af923",
+    "size_bytes": 140039,
+    "downloaded_at": "2026-07-07T10:43:23+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202407-Backed-RebasingTokens.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202407-backed-rebasingtokens"
+  },
+  {
+    "source": "teamomega",
+    "project": "Inverter IssuanceToken",
+    "title": "202407 Inverter IssuanceToken",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202407-Inverter%20IssuanceToken.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202407-Inverter%20IssuanceToken.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202407-inverter-issuancetoken_abade381.pdf",
+    "sha256": "226375bbd1118bc21f21c8b715da092cbab21b877b1488c415bb164119389bd9",
+    "size_bytes": 106557,
+    "downloaded_at": "2026-07-07T10:43:24+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202407-Inverter IssuanceToken.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202407-inverter-issuancetoken"
+  },
+  {
+    "source": "teamomega",
+    "project": "Altitude morpho integration",
+    "title": "202408 Altitude morpho integration",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202408-Altitude-morpho-integration.pdf",
+    "date": "2024-09-05",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202408-Altitude-morpho-integration.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202408-altitude-morpho-integration_c999dfeb.pdf",
+    "sha256": "a8aee74a59e658c207601250d8e967bfbef36dcd1814fc1c04930c645c406b8b",
+    "size_bytes": 139282,
+    "downloaded_at": "2026-07-07T10:43:25+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202408-Altitude-morpho-integration.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202408-altitude-morpho-integration"
+  },
+  {
+    "source": "teamomega",
+    "project": "GIZA",
+    "title": "202505 GIZA February2025",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202505-GIZA-February2025.pdf",
+    "date": "2025-02",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202505-GIZA-February2025.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202505-giza-february2025_a9a68dc7.pdf",
+    "sha256": "e484df0ac63f42c0f76e8f49edb34150b9c924e65d6a118b299bf69c2900a133",
+    "size_bytes": 391913,
+    "downloaded_at": "2026-07-07T10:43:26+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202505-GIZA-February2025.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202505-giza-february2025"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed token bridge",
+    "title": "202410 Backed token bridge",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202410-Backed-token-bridge.pdf",
+    "date": "2025-03-26",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202410-Backed-token-bridge.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202410-backed-token-bridge_7b67299b.pdf",
+    "sha256": "7edde184eeb9d27a3819e31c02256091e1ee70129eb60a75d8c6675fbfae8504",
+    "size_bytes": 353339,
+    "downloaded_at": "2026-07-07T10:43:27+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202410-Backed-token-bridge.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202410-backed-token-bridge"
+  },
+  {
+    "source": "teamomega",
+    "project": "Giza ARMA",
+    "title": "202412 Giza ARMA security review",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202412-Giza-ARMA-security-review.pdf",
+    "date": "2025-03-26",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202412-Giza-ARMA-security-review.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202412-giza-arma-security-review_4eb51983.pdf",
+    "sha256": "f01e31ec2b54d2da211ef25e7064eb5de3f0b7b3074da353d3e0c866b3e9af63",
+    "size_bytes": 562841,
+    "downloaded_at": "2026-07-07T10:43:29+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202412-Giza-ARMA-security-review.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202412-giza-arma-security-review"
+  },
+  {
+    "source": "teamomega",
+    "project": "Altitude parallel farming",
+    "title": "202501 Altitude parallel farming",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202501-Altitude-parallel-farming.pdf",
+    "date": "2025-03-26",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202501-Altitude-parallel-farming.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202501-altitude-parallel-farming_b8998b67.pdf",
+    "sha256": "af95785ca79830b121d38366e5eaa1e672631b9cf9ee7d12d07d250f3eeb4be5",
+    "size_bytes": 323607,
+    "downloaded_at": "2026-07-07T10:43:30+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202501-Altitude-parallel-farming.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202501-altitude-parallel-farming"
+  },
+  {
+    "source": "teamomega",
+    "project": "freename snap",
+    "title": "20250124 freename snap",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/20250124-freename-snap.pdf",
+    "date": "2025-03-26",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/20250124-freename-snap.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/20250124-freename-snap_7f96c14e.pdf",
+    "sha256": "c1ea47063ba04deb2f5fe63afb35ff1c0788eb26aa52b6454aaa8746106a19d6",
+    "size_bytes": 218702,
+    "downloaded_at": "2026-07-07T10:43:31+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "20250124-freename-snap.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/20250124-freename-snap"
+  },
+  {
+    "source": "teamomega",
+    "project": "Giza Token",
+    "title": "202502 Giza Token",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202502-Giza-Token.pdf",
+    "date": "2025-03-26",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202502-Giza-Token.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202502-giza-token_4b89bb11.pdf",
+    "sha256": "6123db744a4802711f788f00f306a36c090c8579e73e9b3a33eaf6a9b744de7f",
+    "size_bytes": 330382,
+    "downloaded_at": "2026-07-07T10:43:32+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202502-Giza-Token.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202502-giza-token"
+  },
+  {
+    "source": "teamomega",
+    "project": "Altitude",
+    "title": "202505 Altitude",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202505-Altitude.pdf",
+    "date": "2025-06-18",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202505-Altitude.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202505-altitude_6c69fa9c.pdf",
+    "sha256": "5f601ecea1e347d2bae8aea1ded10707b8d64432d216894f42ed68e805fce8ef",
+    "size_bytes": 505614,
+    "downloaded_at": "2026-07-07T10:43:33+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202505-Altitude.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202505-altitude"
+  },
+  {
+    "source": "teamomega",
+    "project": "Giza ARMA",
+    "title": "202505 Giza ARMA May",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202505-Giza-ARMA-May.pdf",
+    "date": "2025-09-09",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202505-Giza-ARMA-May.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202505-giza-arma-may_f6ccd519.pdf",
+    "sha256": "f07d18b28f13b902a9bd7397a2b74e41bebccb0ae7387e13e0ac913cb363a4b1",
+    "size_bytes": 419307,
+    "downloaded_at": "2026-07-07T10:43:34+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202505-Giza-ARMA-May.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202505-giza-arma-may"
+  },
+  {
+    "source": "teamomega",
+    "project": "Giza Pendle",
+    "title": "202508 Giza Pendle",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202508-Giza-Pendle.pdf",
+    "date": "2025-09-09",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202508-Giza-Pendle.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202508-giza-pendle_d9b90d43.pdf",
+    "sha256": "55dcd26b86eb4445d1ffdc282ede67766e7706d4fb37953520c515ffec03bc94",
+    "size_bytes": 595031,
+    "downloaded_at": "2026-07-07T10:43:35+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202508-Giza-Pendle.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202508-giza-pendle"
+  },
+  {
+    "source": "teamomega",
+    "project": "Gnosis TokenBridge Upgrade",
+    "title": "202504 Gnosis TokenBridge Upgrade",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202504-Gnosis-TokenBridge-Upgrade.pdf",
+    "date": "2025-09-11",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202504-Gnosis-TokenBridge-Upgrade.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202504-gnosis-tokenbridge-upgrade_c0bb2c1f.pdf",
+    "sha256": "fc5a2edbc7b4139678fa37e3e557e7c436665055c772f77e8db8384ab80a40c1",
+    "size_bytes": 346020,
+    "downloaded_at": "2026-07-07T10:43:36+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202504-Gnosis-TokenBridge-Upgrade.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202504-gnosis-tokenbridge-upgrade"
+  },
+  {
+    "source": "teamomega",
+    "project": "InverterDLF",
+    "title": "202508 InverterDLF",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202508-InverterDLF.pdf",
+    "date": "2025-10-07",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202508-InverterDLF.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202508-inverterdlf_8902cda5.pdf",
+    "sha256": "5caab58f2728db22b83886fd6da5cc8209946f06d9d830a977bf9f22d5d80b0a",
+    "size_bytes": 296609,
+    "downloaded_at": "2026-07-07T10:43:38+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202508-InverterDLF.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202508-inverterdlf"
+  },
+  {
+    "source": "teamomega",
+    "project": "Karpatkey Shares",
+    "title": "202509 Karpatkey Shares",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202509-Karpatkey-Shares.pdf",
+    "date": "2025-10-13",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202509-Karpatkey-Shares.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202509-karpatkey-shares_182a73f6.pdf",
+    "sha256": "c70020af884e1294c61d0c8f566a63cb6627deb5402a057cea3cc462ffe250ff",
+    "size_bytes": 416527,
+    "downloaded_at": "2026-07-07T10:43:39+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202509-Karpatkey-Shares.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202509-karpatkey-shares"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed Token Bridge Update",
+    "title": "202510 Backed Token Bridge Update",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Backed-Token-Bridge-Update.pdf",
+    "date": "2025-10-23",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Backed-Token-Bridge-Update.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202510-backed-token-bridge-update_0007995a.pdf",
+    "sha256": "465b67b78645311b713645499f85341b84ad1ab568ae3b76ffcd582cd0bcd02a",
+    "size_bytes": 363781,
+    "downloaded_at": "2026-07-07T10:43:40+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202510-Backed-Token-Bridge-Update.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202510-backed-token-bridge-update"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed CCIPReceiver upgrade",
+    "title": "202510 Backed CCIPReceiver upgrade",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Backed-CCIPReceiver-upgrade.pdf",
+    "date": "2025-11-07",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Backed-CCIPReceiver-upgrade.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202510-backed-ccipreceiver-upgrade_18fcf932.pdf",
+    "sha256": "cde857b64a876d5d93a4883643804f6e0ffabdfc36a617c136ef29098b21936f",
+    "size_bytes": 245065,
+    "downloaded_at": "2026-07-07T10:43:41+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202510-Backed-CCIPReceiver-upgrade.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202510-backed-ccipreceiver-upgrade"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed rebasing tokens",
+    "title": "202510 Backed rebasing tokens",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Backed-rebasing-tokens.pdf",
+    "date": "2025-11-07",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Backed-rebasing-tokens.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202510-backed-rebasing-tokens_0a735a81.pdf",
+    "sha256": "1df7ac8f85c7e0f0f8302132aaa774975ff94c35672841bb6312506648a9d4f3",
+    "size_bytes": 241930,
+    "downloaded_at": "2026-07-07T10:43:41+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202510-Backed-rebasing-tokens.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202510-backed-rebasing-tokens"
+  },
+  {
+    "source": "teamomega",
+    "project": "Gnosis Bridge USDS Upgrade",
+    "title": "202510 Gnosis Bridge USDS Upgrade",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Gnosis-Bridge-USDS-Upgrade.pdf",
+    "date": "2025-11-07",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202510-Gnosis-Bridge-USDS-Upgrade.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202510-gnosis-bridge-usds-upgrade_dec60d52.pdf",
+    "sha256": "54366819e7e438d67ae07b5d2d594dd4e92cead6437b7fa476a3c3307b92af63",
+    "size_bytes": 378736,
+    "downloaded_at": "2026-07-07T10:43:42+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202510-Gnosis-Bridge-USDS-Upgrade.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202510-gnosis-bridge-usds-upgrade"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed atomic swap",
+    "title": "202511 Backed atomic swap",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202511-Backed-atomic-swap.pdf",
+    "date": "2026-04-16",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202511-Backed-atomic-swap.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202511-backed-atomic-swap_bf59367b.pdf",
+    "sha256": "3186f0e2517e0c68bd835a5b82a578b71061323427c6226c9977785a0a030e53",
+    "size_bytes": 199986,
+    "downloaded_at": "2026-07-07T10:43:43+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202511-Backed-atomic-swap.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202511-backed-atomic-swap"
+  },
+  {
+    "source": "teamomega",
+    "project": "Society Protocol",
+    "title": "202605 Society Protocol Final Audit Report",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202605-Society%20Protocol%20Final%20Audit%20Report.pdf",
+    "date": "2026-05-15",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202605-Society%20Protocol%20Final%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202605-society-protocol-final-audit-report_cff8068d.pdf",
+    "sha256": "61ce303e77e6cc7a07ee0826535bc140fd8a51ad8ab62b4b4bcc7c589413b056",
+    "size_bytes": 452338,
+    "downloaded_at": "2026-07-07T10:43:45+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202605-Society Protocol Final Audit Report.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202605-society-protocol-final-audit-report"
+  },
+  {
+    "source": "teamomega",
+    "project": "Inverter iTRY Oracle",
+    "title": "202603 Inverter iTRY Oracle final report",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202603-Inverter%20iTRY-Oracle-final-report.pdf",
+    "date": "2026-05-25",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202603-Inverter%20iTRY-Oracle-final-report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202603-inverter-itry-oracle-final-report_045c5131.pdf",
+    "sha256": "71617318e75e10a2e8aa088d81dba2d0d9ee41f755de2b44ce7eb1eb4f5abd18",
+    "size_bytes": 159124,
+    "downloaded_at": "2026-07-07T10:43:46+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202603-Inverter iTRY-Oracle-final-report.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202603-inverter-itry-oracle-final-report"
+  },
+  {
+    "source": "teamomega",
+    "project": "Backed Token ERC4626",
+    "title": "202605 Backed Token ERC4626",
+    "report_url": "https://github.com/OmegaAudits/audits/blob/72f721f9783271d29d32f393d9f6a1564a3daa3f/202605-Backed-Token-ERC4626.pdf",
+    "date": "2026-05-25",
+    "listing_url": "https://github.com/OmegaAudits/audits",
+    "download_url": "https://raw.githubusercontent.com/OmegaAudits/audits/72f721f9783271d29d32f393d9f6a1564a3daa3f/202605-Backed-Token-ERC4626.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/teamomega/202605-backed-token-erc4626_ab0e24eb.pdf",
+    "sha256": "67b37d5a597970f691f471204222ec0d00dbabe3603d326ccd7ef32054f17412",
+    "size_bytes": 263888,
+    "downloaded_at": "2026-07-07T10:43:47+00:00",
+    "extra": {
+      "repo": "OmegaAudits/audits",
+      "path": "202605-Backed-Token-ERC4626.pdf",
+      "commit": "72f721f9783271d29d32f393d9f6a1564a3daa3f"
+    },
+    "id": "teamomega/202605-backed-token-erc4626"
+  }
+]

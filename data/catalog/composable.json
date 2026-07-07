@@ -1,0 +1,562 @@
+[
+  {
+    "source": "composable",
+    "project": "Fujidao Labs OU",
+    "title": "2022 11 Fujidao Labs OU",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2022_11_Fujidao_Labs_OU.pdf",
+    "date": "2022-11",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2022_11_Fujidao_Labs_OU.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2022-11-fujidao-labs-ou_7545f6c5.pdf",
+    "sha256": "eb0859e4d53af19eea36cc3088dcba14ccc1715a09c2b347d2344b5ec4085e33",
+    "size_bytes": 4153742,
+    "downloaded_at": "2026-07-07T11:19:46+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2022_11_Fujidao_Labs_OU.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2022-11-fujidao-labs-ou"
+  },
+  {
+    "source": "composable",
+    "project": "MilkyIce",
+    "title": "2023 01 MilkyIce",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_01_MilkyIce.pdf",
+    "date": "2023-01",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_01_MilkyIce.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2023-01-milkyice_4a693a00.pdf",
+    "sha256": "058ee6409447f8a462c22d9ce7e44e0da4d1b2712b0866b25603524c5c1092ac",
+    "size_bytes": 3364962,
+    "downloaded_at": "2026-07-07T11:19:48+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2023_01_MilkyIce.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2023-01-milkyice"
+  },
+  {
+    "source": "composable",
+    "project": "DIVAprotocol",
+    "title": "2023 03 DIVAprotocol",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_03_DIVAprotocol.pdf",
+    "date": "2023-03",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_03_DIVAprotocol.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2023-03-divaprotocol_853844a6.pdf",
+    "sha256": "99ca21781f65ba049ce69e144866e731dcec019b29d25a00eee3ccce89b6f38f",
+    "size_bytes": 4752489,
+    "downloaded_at": "2026-07-07T11:19:51+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2023_03_DIVAprotocol.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2023-03-divaprotocol"
+  },
+  {
+    "source": "composable",
+    "project": "Research Portfolio",
+    "title": "2023 09 Research Portfolio",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_09_Research_Portfolio.pdf",
+    "date": "2023-09",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_09_Research_Portfolio.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2023-09-research-portfolio_073bf20c.pdf",
+    "sha256": "29d979346140cb1525882b181a68865c5efc81b2d3fea2e2325a35f4624b8ddc",
+    "size_bytes": 4762105,
+    "downloaded_at": "2026-07-07T11:19:54+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2023_09_Research_Portfolio.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2023-09-research-portfolio"
+  },
+  {
+    "source": "composable",
+    "project": "Codefunded",
+    "title": "2023 11 Codefunded",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_11_Codefunded.pdf",
+    "date": "2023-11",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2023_11_Codefunded.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2023-11-codefunded_0dc14f80.pdf",
+    "sha256": "b969a411f42a0ecf16a4f9d94dbdf586d4a693113123e6d67943668adf07272f",
+    "size_bytes": 4826714,
+    "downloaded_at": "2026-07-07T11:19:57+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2023_11_Codefunded.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2023-11-codefunded"
+  },
+  {
+    "source": "composable",
+    "project": "Gasbot V2",
+    "title": "2024 01 Gasbot V2",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_01_Gasbot_V2.pdf",
+    "date": "2024-01",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_01_Gasbot_V2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-01-gasbot-v2_1ad142e0.pdf",
+    "sha256": "fa677a55ecf97b28ac90487cc45196e7f97b8acf840f72bfd23e01a252ae34d0",
+    "size_bytes": 4471063,
+    "downloaded_at": "2026-07-07T11:19:59+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_01_Gasbot_V2.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-01-gasbot-v2"
+  },
+  {
+    "source": "composable",
+    "project": "Arcade Mission Pools",
+    "title": "2024 02 Arcade Mission Pools",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_02_Arcade_Mission_Pools.pdf",
+    "date": "2024-02",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_02_Arcade_Mission_Pools.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-02-arcade-mission-pools_331e7115.pdf",
+    "sha256": "6d27e40f6f892abb93ed0ea916280573ca99dbb4c8e9225de4955721b7496398",
+    "size_bytes": 4998355,
+    "downloaded_at": "2026-07-07T11:20:02+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_02_Arcade_Mission_Pools.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-02-arcade-mission-pools"
+  },
+  {
+    "source": "composable",
+    "project": "ChickenDAO TG bot",
+    "title": "2024 03 ChickenDAO TG bot",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_03_ChickenDAO_TG_bot.pdf",
+    "date": "2024-03",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_03_ChickenDAO_TG_bot.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-03-chickendao-tg-bot_3b598c32.pdf",
+    "sha256": "bedf4908f8d681ece4680baf18f3ee44425c8a23cf45a6e92476e333fdb48186",
+    "size_bytes": 4538840,
+    "downloaded_at": "2026-07-07T11:20:04+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_03_ChickenDAO_TG_bot.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-03-chickendao-tg-bot"
+  },
+  {
+    "source": "composable",
+    "project": "FIDL MetaAllocator",
+    "title": "2024 05 FIDL MetaAllocator",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_05_FIDL_MetaAllocator.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_05_FIDL_MetaAllocator.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-05-fidl-metaallocator_434b7a6c.pdf",
+    "sha256": "d0ac97d638f313af4299a750395e52060119ad8a9a1fe5b3925184c6e5e600f7",
+    "size_bytes": 4448969,
+    "downloaded_at": "2026-07-07T11:20:06+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_05_FIDL_MetaAllocator.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-05-fidl-metaallocator"
+  },
+  {
+    "source": "composable",
+    "project": "Arcade Mission Pools",
+    "title": "2024 07 Arcade Mission Pools",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_07_Arcade_Mission_Pools.pdf",
+    "date": "2024-07",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_07_Arcade_Mission_Pools.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-07-arcade-mission-pools_44f058ea.pdf",
+    "sha256": "f0a8a2ee77406088aeb70c82287c4e495475d819e2a34bdfc21f97d41d589d2e",
+    "size_bytes": 4640799,
+    "downloaded_at": "2026-07-07T11:20:08+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_07_Arcade_Mission_Pools.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-07-arcade-mission-pools"
+  },
+  {
+    "source": "composable",
+    "project": "Flexy",
+    "title": "2024 07 Flexy",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_07_Flexy.pdf",
+    "date": "2024-07",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_07_Flexy.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-07-flexy_ed2535fb.pdf",
+    "sha256": "b9394a1737ac7deb297666f726e6cf3495fe878789de7976b1b66d6521a6b6ff",
+    "size_bytes": 4546091,
+    "downloaded_at": "2026-07-07T11:20:10+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_07_Flexy.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-07-flexy"
+  },
+  {
+    "source": "composable",
+    "project": "Braintrust",
+    "title": "2024 09 Braintrust",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_09_Braintrust.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_09_Braintrust.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-09-braintrust_d3567194.pdf",
+    "sha256": "12bc8c54632780f57bd4ea49e7741923e8e798bea5b015d62f406e75df5638cb",
+    "size_bytes": 5907167,
+    "downloaded_at": "2026-07-07T11:20:12+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_09_Braintrust.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-09-braintrust"
+  },
+  {
+    "source": "composable",
+    "project": "RedStone AVS",
+    "title": "2024 10 RedStone AVS",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_10_RedStone_AVS.pdf",
+    "date": "2024-10",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_10_RedStone_AVS.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-10-redstone-avs_f006ffb6.pdf",
+    "sha256": "6e6f53407a613bc7bb986c60edc0ab39aff5ae14de14c814a9bccc76a7244c6a",
+    "size_bytes": 6463727,
+    "downloaded_at": "2026-07-07T11:20:15+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_10_RedStone_AVS.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-10-redstone-avs"
+  },
+  {
+    "source": "composable",
+    "project": "YieldNest Integration with Kernel",
+    "title": "2024 12 YieldNest Integration with Kernel",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_12_YieldNest_Integration_with_Kernel.pdf",
+    "date": "2024-12",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2024_12_YieldNest_Integration_with_Kernel.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2024-12-yieldnest-integration-with-kernel_fe6e6695.pdf",
+    "sha256": "a44a8efcfbbc0c111dcc45042789dc0ec38b061319812219e281b676c5756cf6",
+    "size_bytes": 6521579,
+    "downloaded_at": "2026-07-07T11:20:18+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2024_12_YieldNest_Integration_with_Kernel.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2024-12-yieldnest-integration-with-kernel"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V5",
+    "title": "2025 02 Lido Oracle V5",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_02_Lido_Oracle_V5.pdf",
+    "date": "2025-02",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_02_Lido_Oracle_V5.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-02-lido-oracle-v5_866fd81e.pdf",
+    "sha256": "b8815cd1ecc2d6830635c8f31e337bd4dc22b3485415980ce791b947545327f1",
+    "size_bytes": 4633288,
+    "downloaded_at": "2026-07-07T11:20:20+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_02_Lido_Oracle_V5.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-02-lido-oracle-v5"
+  },
+  {
+    "source": "composable",
+    "project": "Othentic RewardsV2",
+    "title": "2025 02 Othentic RewardsV2",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_02_Othentic_RewardsV2.pdf",
+    "date": "2025-02",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_02_Othentic_RewardsV2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-02-othentic-rewardsv2_d86267fc.pdf",
+    "sha256": "054d73122133a5976d53891551950a19006ba4e31ce008ee8dd359f17418e060",
+    "size_bytes": 5110762,
+    "downloaded_at": "2026-07-07T11:20:23+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_02_Othentic_RewardsV2.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-02-othentic-rewardsv2"
+  },
+  {
+    "source": "composable",
+    "project": "Shroomy Staking",
+    "title": "2025 05 Shroomy Staking",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_05_Shroomy_Staking.pdf",
+    "date": "2025-05",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_05_Shroomy_Staking.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-05-shroomy-staking_317e7498.pdf",
+    "sha256": "0338a482f73f4ec016155f92667c5322569d63e7006c045f22c446dbf17a1d4f",
+    "size_bytes": 4570834,
+    "downloaded_at": "2026-07-07T11:20:25+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_05_Shroomy_Staking.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-05-shroomy-staking"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V5 2",
+    "title": "2025 06 Lido Oracle V5 2",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_06_Lido_Oracle_V5_2.pdf",
+    "date": "2025-06",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_06_Lido_Oracle_V5_2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-06-lido-oracle-v5-2_56e7078f.pdf",
+    "sha256": "e5393bb0ba25c2bf018599ed5220b8a8e414e0307d0cdff58afa3a65669c8512",
+    "size_bytes": 4350058,
+    "downloaded_at": "2026-07-07T11:20:27+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_06_Lido_Oracle_V5_2.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-06-lido-oracle-v5-2"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V6",
+    "title": "2025 06 Lido Oracle V6",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_06_Lido_Oracle_V6.pdf",
+    "date": "2025-06",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_06_Lido_Oracle_V6.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-06-lido-oracle-v6_952f325b.pdf",
+    "sha256": "dd581b01154a9be9f039afb76428cecb33f24762c5e99b10fc5551cba7403a00",
+    "size_bytes": 4406154,
+    "downloaded_at": "2026-07-07T11:20:29+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_06_Lido_Oracle_V6.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-06-lido-oracle-v6"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V7",
+    "title": "2025 07 Lido Oracle V7",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_07_Lido_Oracle_V7.pdf",
+    "date": "2025-07",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_07_Lido_Oracle_V7.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-07-lido-oracle-v7_29863287.pdf",
+    "sha256": "ae375535c4c227648f418a7248fbc8cbd29a920ca78cb9234ae68de2938fbe9c",
+    "size_bytes": 4516305,
+    "downloaded_at": "2026-07-07T11:20:31+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_07_Lido_Oracle_V7.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-07-lido-oracle-v7"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V5 4 1",
+    "title": "2025 08 Lido Oracle V5 4 1",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_08_Lido_Oracle_V5_4_1.pdf",
+    "date": "2025-08",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_08_Lido_Oracle_V5_4_1.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-08-lido-oracle-v5-4-1_967f8420.pdf",
+    "sha256": "4b5ad1124f396a1b2f276fd05700ac66d59c84665ed2d5b0bdd8a6de01577737",
+    "size_bytes": 4372368,
+    "downloaded_at": "2026-07-07T11:20:33+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_08_Lido_Oracle_V5_4_1.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-08-lido-oracle-v5-4-1"
+  },
+  {
+    "source": "composable",
+    "project": "Neverland",
+    "title": "2025 08 Neverland",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_08_Neverland.pdf",
+    "date": "2025-08",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_08_Neverland.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-08-neverland_25a74475.pdf",
+    "sha256": "2ba3bcb1eba80639c8ca4560de3c5a0b3d9cd6273351dc25344e5bcd65be6cc2",
+    "size_bytes": 4648036,
+    "downloaded_at": "2026-07-07T11:20:35+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_08_Neverland.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-08-neverland"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V6 0 2",
+    "title": "2025 09 Lido Oracle V6 0 2",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_09_Lido_Oracle_V6_0_2.pdf",
+    "date": "2025-09",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_09_Lido_Oracle_V6_0_2.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-09-lido-oracle-v6-0-2_5799f2d5.pdf",
+    "sha256": "e80181bc3399e997fe7873482e81cb3c995b0834b2e8199b63581087fc73ba4f",
+    "size_bytes": 4384658,
+    "downloaded_at": "2026-07-07T11:20:38+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_09_Lido_Oracle_V6_0_2.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-09-lido-oracle-v6-0-2"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V7",
+    "title": "2025 09 Lido Oracle V7",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_09_Lido_Oracle_V7.pdf",
+    "date": "2025-09",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_09_Lido_Oracle_V7.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-09-lido-oracle-v7_20ae0d59.pdf",
+    "sha256": "e4a0dbed82a55d3aad53fd84691fc67c29c664cc86aaa1d55c8a1041aba45a99",
+    "size_bytes": 4465753,
+    "downloaded_at": "2026-07-07T11:20:41+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_09_Lido_Oracle_V7.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-09-lido-oracle-v7"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V7 second",
+    "title": "2025 09 Lido Oracle V7 second",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_09_Lido_Oracle_V7_second.pdf",
+    "date": "2025-09",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2025_09_Lido_Oracle_V7_second.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2025-09-lido-oracle-v7-second_542d63fb.pdf",
+    "sha256": "e4a0dbed82a55d3aad53fd84691fc67c29c664cc86aaa1d55c8a1041aba45a99",
+    "size_bytes": 4465753,
+    "downloaded_at": "2026-07-07T11:20:43+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2025_09_Lido_Oracle_V7_second.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2025-09-lido-oracle-v7-second"
+  },
+  {
+    "source": "composable",
+    "project": "Neverland SelfRepay",
+    "title": "202509 Neverland SelfRepay",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/202509_Neverland_SelfRepay.pdf",
+    "date": "2025-10-22",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/202509_Neverland_SelfRepay.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/202509-neverland-selfrepay_2fc5c8f3.pdf",
+    "sha256": "a1f19d87802cd91da1fc5b1cce60b1f0d72cd2940e7a6c03bd688da7384f0ec4",
+    "size_bytes": 4431673,
+    "downloaded_at": "2026-07-07T11:20:51+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/202509_Neverland_SelfRepay.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/202509-neverland-selfrepay"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V7 1",
+    "title": "2026 02 Lido Oracle V7 1",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2026_02_Lido_Oracle_V7_1.pdf",
+    "date": "2026-02",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2026_02_Lido_Oracle_V7_1.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2026-02-lido-oracle-v7-1_d21f1546.pdf",
+    "sha256": "b10609c2af23308431909133b552fb696b16f3c271c420047d852f3c34ee450f",
+    "size_bytes": 4390249,
+    "downloaded_at": "2026-07-07T11:20:55+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2026_02_Lido_Oracle_V7_1.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2026-02-lido-oracle-v7-1"
+  },
+  {
+    "source": "composable",
+    "project": "Lido Oracle V8",
+    "title": "2026 05 Lido Oracle V8",
+    "report_url": "https://github.com/ComposableSecurity/.github/blob/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2026_05_Lido_Oracle_V8.pdf",
+    "date": "2026-05",
+    "listing_url": "https://github.com/ComposableSecurity/.github",
+    "download_url": "https://raw.githubusercontent.com/ComposableSecurity/.github/7e8fb0ef57dcd3fea69f914465ec33e226c70426/reports/2026_05_Lido_Oracle_V8.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/composable/2026-05-lido-oracle-v8_cab1379e.pdf",
+    "sha256": "901bf9054103b6b0556d79a186d7fa6aa900ed387dab03f841cce749af669a93",
+    "size_bytes": 4621810,
+    "downloaded_at": "2026-07-07T11:20:59+00:00",
+    "extra": {
+      "repo": "ComposableSecurity/.github",
+      "path": "reports/2026_05_Lido_Oracle_V8.pdf",
+      "commit": "7e8fb0ef57dcd3fea69f914465ec33e226c70426"
+    },
+    "id": "composable/2026-05-lido-oracle-v8"
+  }
+]

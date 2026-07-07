@@ -44,6 +44,16 @@ def download_report(report: Report, min_interval: float = 0.5) -> bool:
         return False
 
     content = resp.content
+    # raw.githubusercontent serves LFS pointers, not the file; media.* serves the blob
+    if content.startswith(b"version https://git-lfs") and "raw.githubusercontent.com/" in url:
+        media = url.replace("raw.githubusercontent.com/", "media.githubusercontent.com/media/", 1)
+        try:
+            resp = http.get(media, min_interval=min_interval, allow_redirects=True)
+            resp.raise_for_status()
+            content = resp.content
+        except Exception as e:
+            print(f"    FAIL {media}: {e}", flush=True)
+            return False
     if len(content) < MIN_FILE_SIZE and report.file_type == "pdf":
         print(f"    FAIL {url}: response too small ({len(content)} bytes)", flush=True)
         return False
