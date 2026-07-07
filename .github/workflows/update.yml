@@ -3,7 +3,8 @@ name: Update catalogs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * 1"   # weekly, Monday 03:17 UTC
+    - cron: "17 3 15 * *"  # monthly on the 15th, 03:17 UTC (metadata-only
+                           # fallback; the full local update runs on the 1st)
 
 permissions:
   contents: write
