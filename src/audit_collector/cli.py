@@ -81,7 +81,7 @@ def _md(text: str) -> str:
 def cmd_build_index(sources: dict, _args) -> None:
     INDEX_DIR.mkdir(exist_ok=True)
     summary_rows = []
-    total = have = 0
+    total = have = total_pdf = 0
     for key, cfg in sources.items():
         reports = sorted(
             catalog.load(key),
@@ -89,11 +89,14 @@ def cmd_build_index(sources: dict, _args) -> None:
         )
         # by catalog record, not file existence — stable on checkouts without data/reports
         n_have = sum(1 for r in reports if r.local_path)
+        n_pdf = sum(1 for r in reports if r.file_type == "pdf")
+        n_html = len(reports) - n_pdf
         total += len(reports)
         have += n_have
+        total_pdf += n_pdf
         summary_rows.append(
-            f"| [{cfg['name']}](indexes/{key}.md) | {len(reports)} | {n_have} "
-            f"| {len(reports) - n_have} | {cfg['listing_url']} |"
+            f"| [{cfg['name']}](indexes/{key}.md) | {len(reports)} | {n_pdf} | {n_html} "
+            f"| {n_have} | {len(reports) - n_have} | {cfg['listing_url']} |"
         )
         lines = [
             f"# {cfg['name']}",
@@ -114,13 +117,14 @@ def cmd_build_index(sources: dict, _args) -> None:
 
     today = date.today().isoformat()
     status = [
-        f"**{total}** reports catalogued across **{len(sources)}** sources — "
+        f"**{total}** reports catalogued across **{len(sources)}** sources "
+        f"(**{total_pdf}** PDF, **{total - total_pdf}** HTML) — "
         f"**{have}** verified downloadable (fetched locally), "
         f"**{total - have}** unavailable (upstream dead links or archive-only). "
         f"Last updated **{today}**.",
         "",
-        "| Source | Reports | Downloadable | Unavailable | Listing |",
-        "|---|---|---|---|---|",
+        "| Source | Reports | PDF | HTML | Downloadable | Unavailable | Listing |",
+        "|---|---|---|---|---|---|---|",
         *summary_rows,
     ]
 
