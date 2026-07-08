@@ -16,7 +16,7 @@
       "vault": "0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784",
       "repo": "Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784"
     },
-    "id": "hatsfinance/accumulated-finance-audit-competition"
+    "id": "hatsfinance/accumulated-finance-audit-competition-4e0666"
   },
   {
     "source": "hatsfinance",
@@ -35,26 +35,7 @@
       "vault": "0xb806174529d5a884dcc8c956e58f75bc3ec59a37",
       "repo": "Audit-competition--2-0xb806174529d5a884dcc8c956e58f75bc3ec59a37"
     },
-    "id": "hatsfinance/audit-competition-2-audit-competition"
-  },
-  {
-    "source": "hatsfinance",
-    "project": "Audit competition  One",
-    "title": "Audit competition  One audit competition",
-    "report_url": "https://github.com/hats-finance/Audit-competition--One-0x8c552014a41c88d7bdeb3546f434924ef37085d1/blob/main/audit/Hats%20-%20Audit%20Report.pdf",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Audit-competition--One-0x8c552014a41c88d7bdeb3546f434924ef37085d1/main/audit/Hats%20-%20Audit%20Report.pdf",
-    "file_type": "pdf",
-    "local_path": "data/reports/hatsfinance/audit-competition-one-audit-competition_2770fbee.pdf",
-    "sha256": "17e97b4ae60a1929691caa3ca8bc51f49285769e63fa384e4cd65067b6ab89de",
-    "size_bytes": 30933,
-    "downloaded_at": "2026-07-07T11:37:50+00:00",
-    "extra": {
-      "vault": "0x8c552014a41c88d7bdeb3546f434924ef37085d1",
-      "repo": "Audit-competition--One-0x8c552014a41c88d7bdeb3546f434924ef37085d1"
-    },
-    "id": "hatsfinance/audit-competition-one-audit-competition"
+    "id": "hatsfinance/audit-competition-2-audit-competition-9be970"
   },
   {
     "source": "hatsfinance",
@@ -73,7 +54,26 @@
       "vault": "0x8c552014a41c88d7bdeb3546f434924ef37085d1",
       "repo": "Audit-competition-_One-0x8c552014a41c88d7bdeb3546f434924ef37085d1"
     },
-    "id": "hatsfinance/audit-competition-one-audit-competition"
+    "id": "hatsfinance/audit-competition-one-audit-competition-675811"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Audit competition  One",
+    "title": "Audit competition  One audit competition",
+    "report_url": "https://github.com/hats-finance/Audit-competition--One-0x8c552014a41c88d7bdeb3546f434924ef37085d1/blob/main/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": null,
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Audit-competition--One-0x8c552014a41c88d7bdeb3546f434924ef37085d1/main/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/hatsfinance/audit-competition-one-audit-competition_2770fbee.pdf",
+    "sha256": "17e97b4ae60a1929691caa3ca8bc51f49285769e63fa384e4cd65067b6ab89de",
+    "size_bytes": 30933,
+    "downloaded_at": "2026-07-07T11:37:50+00:00",
+    "extra": {
+      "vault": "0x8c552014a41c88d7bdeb3546f434924ef37085d1",
+      "repo": "Audit-competition--One-0x8c552014a41c88d7bdeb3546f434924ef37085d1"
+    },
+    "id": "hatsfinance/audit-competition-one-audit-competition-bf29ac"
   },
   {
     "source": "hatsfinance",
@@ -92,7 +92,7 @@
       "vault": "0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4",
       "repo": "DAOsis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4"
     },
-    "id": "hatsfinance/daosis-audit-competition"
+    "id": "hatsfinance/daosis-audit-competition-1d4f3c"
   },
   {
     "source": "hatsfinance",
@@ -111,7 +111,7 @@
       "vault": "0x36c3b77853dec9c4a237a692623293223d4b9bc4",
       "repo": "ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4"
     },
-    "id": "hatsfinance/ether-fi-audit-competition"
+    "id": "hatsfinance/ether-fi-audit-competition-ec4767"
   },
   {
     "source": "hatsfinance",
@@ -130,7 +130,7 @@
       "vault": "0x9d7765a7ebd5b6322a30797a44a5428531970d3d",
       "repo": "Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d"
     },
-    "id": "hatsfinance/fenix-audit-competition"
+    "id": "hatsfinance/fenix-audit-competition-b48958"
   },
   {
     "source": "hatsfinance",
@@ -149,7 +149,7 @@
       "vault": "0x79a618f675857b45934ca1c413fd5f409cf89735",
       "repo": "HATs-Arbitration-Contracts-0x79a618f675857b45934ca1c413fd5f409cf89735"
     },
-    "id": "hatsfinance/hats-arbitration-contracts-audit-competition"
+    "id": "hatsfinance/hats-arbitration-contracts-audit-competition-5e2791"
   },
   {
     "source": "hatsfinance",
@@ -168,7 +168,7 @@
       "vault": "0x0bb4aa1f58719707405c231fcdf0b405714799cf",
       "repo": "illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf"
     },
-    "id": "hatsfinance/illuminex-audit-competition"
+    "id": "hatsfinance/illuminex-audit-competition-c5fbf2"
   },
   {
     "source": "hatsfinance",
@@ -187,7 +187,7 @@
       "vault": "0x81213518b154c5a98de9677b111d0b41051977bf",
       "repo": "Inbal-s-vault-0x81213518b154c5a98de9677b111d0b41051977bf"
     },
-    "id": "hatsfinance/inbal-s-vault-audit-competition"
+    "id": "hatsfinance/inbal-s-vault-audit-competition-9d2a2c"
   },
   {
     "source": "hatsfinance",
@@ -206,7 +206,7 @@
       "vault": "0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb",
       "repo": "Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb"
     },
-    "id": "hatsfinance/inverter-network-audit-competition"
+    "id": "hatsfinance/inverter-network-audit-competition-ff71d6"
   },
   {
     "source": "hatsfinance",
@@ -225,7 +225,7 @@
       "vault": "0xb3e2aa0c92de7e453ec8e9c1137a20d0ebf0a57e",
       "repo": "Ion-Protocol-0xb3e2aa0c92de7e453ec8e9c1137a20d0ebf0a57e"
     },
-    "id": "hatsfinance/ion-protocol-audit-competition"
+    "id": "hatsfinance/ion-protocol-audit-competition-2dfabb"
   },
   {
     "source": "hatsfinance",
@@ -244,7 +244,7 @@
       "vault": "0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694",
       "repo": "Mento-0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694"
     },
-    "id": "hatsfinance/mento-audit-competition"
+    "id": "hatsfinance/mento-audit-competition-906db6"
   },
   {
     "source": "hatsfinance",
@@ -263,7 +263,7 @@
       "vault": "0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784",
       "repo": "OLD-Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784"
     },
-    "id": "hatsfinance/old-accumulated-finance-audit-competition"
+    "id": "hatsfinance/old-accumulated-finance-audit-competition-e0abf0"
   },
   {
     "source": "hatsfinance",
@@ -282,7 +282,7 @@
       "vault": "0x5fee7541ddcd51ba9f4af606f87b2c42eea655be",
       "repo": "Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be"
     },
-    "id": "hatsfinance/palmera-audit-competition"
+    "id": "hatsfinance/palmera-audit-competition-faefbc"
   },
   {
     "source": "hatsfinance",
@@ -301,7 +301,7 @@
       "vault": "0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01",
       "repo": "Pointing-system-v2-0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01"
     },
-    "id": "hatsfinance/pointing-system-v2-audit-competition"
+    "id": "hatsfinance/pointing-system-v2-audit-competition-039dbc"
   },
   {
     "source": "hatsfinance",
@@ -320,7 +320,7 @@
       "vault": "0xef0709445d394a22704850c772a28a863bb780b0",
       "repo": "Proof-Of-Humanity-V2-0xef0709445d394a22704850c772a28a863bb780b0"
     },
-    "id": "hatsfinance/proof-of-humanity-v2-audit-competition"
+    "id": "hatsfinance/proof-of-humanity-v2-audit-competition-7c523f"
   },
   {
     "source": "hatsfinance",
@@ -339,7 +339,7 @@
       "vault": "0x899bc13919880db76edf4ccd72bdfa5dfa666fb7",
       "repo": "SeeR-PM-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7"
     },
-    "id": "hatsfinance/seer-pm-audit-competition"
+    "id": "hatsfinance/seer-pm-audit-competition-224314"
   },
   {
     "source": "hatsfinance",
@@ -358,7 +358,7 @@
       "vault": "0x1286ecdac50215a366458a14968fbca4bd95067d",
       "repo": "Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d"
     },
-    "id": "hatsfinance/thorn-protocol-audit-competition"
+    "id": "hatsfinance/thorn-protocol-audit-competition-dfc1c8"
   },
   {
     "source": "hatsfinance",
@@ -377,7 +377,7 @@
       "vault": "0x2584ec89e69d6929fe48e80fbcc0c087608c1de6",
       "repo": "V3-Gov-Fee--2--0x2584ec89e69d6929fe48e80fbcc0c087608c1de6"
     },
-    "id": "hatsfinance/v3-gov-fee-2-audit-competition"
+    "id": "hatsfinance/v3-gov-fee-2-audit-competition-f7ee85"
   },
   {
     "source": "hatsfinance",
@@ -396,7 +396,7 @@
       "vault": "0x117767644c5de03c09ead8e73f961aa138b3c6d5",
       "repo": "V3-Gov-Fee--3--0x117767644c5de03c09ead8e73f961aa138b3c6d5"
     },
-    "id": "hatsfinance/v3-gov-fee-3-audit-competition"
+    "id": "hatsfinance/v3-gov-fee-3-audit-competition-cf7d92"
   },
   {
     "source": "hatsfinance",
@@ -415,7 +415,7 @@
       "vault": "0x9ebe6825b8fb4af920b5b927e036280bf2c97bd1",
       "repo": "V3-Gov-Fee--4--0x9ebe6825b8fb4af920b5b927e036280bf2c97bd1"
     },
-    "id": "hatsfinance/v3-gov-fee-4-audit-competition"
+    "id": "hatsfinance/v3-gov-fee-4-audit-competition-ad1400"
   },
   {
     "source": "hatsfinance",
@@ -434,7 +434,7 @@
       "vault": "0xdc28baf809ae52dc89e1eeb4d85c30b6cc6076aa",
       "repo": "V3-Gov-Fee--5--0xdc28baf809ae52dc89e1eeb4d85c30b6cc6076aa"
     },
-    "id": "hatsfinance/v3-gov-fee-5-audit-competition"
+    "id": "hatsfinance/v3-gov-fee-5-audit-competition-1049e7"
   },
   {
     "source": "hatsfinance",
@@ -453,7 +453,7 @@
       "vault": "0x0bb0c08fd9eeaf190064f4c66f11d18182961f77",
       "repo": "Velvet-Capital-0x0bb0c08fd9eeaf190064f4c66f11d18182961f77"
     },
-    "id": "hatsfinance/velvet-capital-audit-competition"
+    "id": "hatsfinance/velvet-capital-audit-competition-918e3d"
   },
   {
     "source": "hatsfinance",
@@ -472,7 +472,7 @@
       "vault": "0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573",
       "repo": "Wise-Lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573"
     },
-    "id": "hatsfinance/wise-lending-audit-competition"
+    "id": "hatsfinance/wise-lending-audit-competition-f0d24c"
   },
   {
     "source": "hatsfinance",
@@ -491,6 +491,6 @@
       "vault": "0x6ca9ca24d78af44582951825bef9eadcb210e5cf",
       "repo": "Circles-0x6ca9ca24d78af44582951825bef9eadcb210e5cf"
     },
-    "id": "hatsfinance/circles-audit-competition"
+    "id": "hatsfinance/circles-audit-competition-c339bf"
   }
 ]

@@ -1,0 +1,2703 @@
+[
+ {
+  "id": "consensys/0x-exchange-v4-62e9e0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/0x-v3-exchange-85a66e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/0x-v3-staking-51141c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/1inch-exchange-aggregationrouter-v5-d088bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity",
+   "yul"
+  ],
+  "scope": {
+   "repo": "https://github.com/1inch/1inch-contract"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/1inch-liquidity-protocol-2278f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aave-balancer-and-uniswap-v2-price-providers-c49dc0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aave-cpm-price-provider-a1918c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aave-governance-dao-a1f38c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aave-protocol-v2-95f593",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aave-safety-module-a2acb6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aave-token-c16381",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aligned-layer-b2785c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/amp-974437",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aragonblack-fundraising-9cac37",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/aragonone-aragon-network-presale-7e020f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/argent-account-amp-argent-multisig-starknet-transaction-v3-updates-2c9749",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo",
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/argent-account-amp-multisig-for-starknet-2da28d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo",
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/atomic-loans-d3a950",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "scope": {
+   "repo": "https://github.com/ConsenSys/atomic-loans-audit-report-2019-07"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "consensys/balancer-finance-9eb523",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/bancor-v2-amm-security-audit-3d6cf8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/bitbank-d8d1db",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/brahma-fi-25f7b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/bridge-mutual-91ea8a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/codefi-erc1400-assessment-429a15",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/connext-nxtp-noncustodial-xchain-transfer-protocol-64dbb8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/dandelion-organizations-a37e56",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/daofi-753a3b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/defi-saver-e201bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/definer-627c88",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/denaria-2-f31fa9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/dforce-lending-protocol-review-6eda1b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/dram-stablecoin-1e971e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/eigenlabs-eigenlayer-84c6e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/ens-permanent-registrar-40d8a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/erlc-iexec-a07b39",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/fairmint-continuous-securities-offering-d6f3b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "scope": {
+   "repo": "https://github.com/Fairmint/c-org"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/fei-protocol-50635b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/fei-protocol-v2-phase-1-c55716",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "limited-review"
+ },
+ {
+  "id": "consensys/fei-tribechief-18b31a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/filecoin-actors-8ffd04",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/forta-delegated-staking-377513",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/fuji-protocol-70b6cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/gamma-a55e18",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/geode-liquid-staking-81d6f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/geodefi-5da555",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/gitcoin-token-distribution-cb999d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/glif-filecoin-infinitypool-091dd2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/gluwacoin-erc-20-wrapper-f9a8a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/growth-defi-v1-c0e666",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/growthdefi-wheat-b4bc7d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/hedgey-token-lockup-and-vesting-plans-b3604c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/horizon-games-267132",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "limited-review",
+  "scope": {
+   "repo": "https://github.com/arcadeum/multi-token-standard"
+  }
+ },
+ {
+  "id": "consensys/idle-finance-2c4cdf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/iexec-poco-cab0cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/iExecBlockchainComputing/poco-dev"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/kilnfi-staking-consensys-77309b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/leequid-staking-897c03",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "formal-verification"
+ },
+ {
+  "id": "consensys/lido-v3-f6ada4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/lien-protocol-ba098d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/linea-burn-mechanism-8db688",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-canonical-token-bridge-b0cc77",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-contracts-update-28c511",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-cross-chain-governance-executor-96c8c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-custom-bridged-token-9d06a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-ens-2c0139",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-message-service-49ea56",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-plonk-verifier-9ad72b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "audit_kind": "formal-verification",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-rollup-update-997bf4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-rollup-update-9b08c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-token-and-airdrop-contracts-2195c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/linea-yield-manager-03a477",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/lybra-finance-4b1676",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/mcdex-mai-protocol-v2-042994",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/metamask-delegation-framework-07d669",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/metamask-delegation-framework-3aa2fc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/metamask-delegation-framework-april-2025-1d9ab0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/metamask-delegator-d567b3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/metamask-eip-7715-permissions-snap-05654b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/metamask-partner-snaps-filsnap-dd9267",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/metamask-partner-snaps-shapeshift-snap-fd8eba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche",
+   "bitcoin",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/metamask-partner-snaps-starknetsnap-dc350f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "consensys/metamask-usd-token-c23b54",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/metaswap-062487",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/mobymask-mvp-snap-259c93",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/msq-snap-e369dc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "icp"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "consensys/mstable-1-1-028984",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "fuzzing-campaign",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/notional-finance-44b1e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/notional-protocol-v2-1-735307",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/nuts-finance-btcplus-9a3407",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/omisego-morevp-3e9930",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/optimism-safetychecker-636820",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "fuzzing-campaign",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/orchid-bitwavemultisend-8b32c3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/OrchidTechnologies/orchid"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/orchid-multisend-0854e1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/OrchidTechnologies/orchid"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/orchid-network-protocol-8f2b8c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/paxos-4e4808",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/ethereum/solidity"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/pegasys-permissioning-e46f06",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/pillar-e03a78",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/pooltogether-1e847a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/pooltogether-lootbox-and-multiplewinners-strategy-8781b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/pooltogether-pods-b71820",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/pooltogether-sushi-and-yearn-v2-yield-sources-a7499f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/pstake-finance-c27ed4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cosmos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cosmos"
+  ]
+ },
+ {
+  "id": "consensys/push-protocol-snap-for-metamask-937f9e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/ramses-v3-06abcc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/rico-a1373f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/rocket-pool-atlas-v1-2-050491",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/rocket-pool-houston-d2b8d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/rocketpool-54a084",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/scape-10a5c1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/scapenftcollection-486f17",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/shell-protocol-54e4a4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/skale-network-717266",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/skale-token-e192e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/skyweaver-4a6ae7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/horizon-games/SkyWeaver-contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/slock-it-incubed3-96d726",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/socket-b33cf6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/solflare-metamask-snaps-solflare-sui-aptos-6dfa8c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "aptos",
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "move",
+   "solana"
+  ]
+ },
+ {
+  "id": "consensys/stakewise-v3-vaults-ethfoxvault-622da1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/starbase-2e7884",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/summary-thesis-tbtc-and-keep-fcfb34",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "consensys/tezoro-snap-14fc84",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/the-lao-1f9ad3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/thesis-cryptographic-review-8e501f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/thesis-tbtc-and-keep-324958",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/tidal-dda1c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/tokenize-it-a34cb2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/tribe-dao-flywheel-v2-xtribe-xerc4626-ce8040",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/trillion-network-5ee79b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/umbra-smart-contracts-8d5c61",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/usdi-19baf1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/usdkg-d9bbf0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/vega-vegatoken-d14718",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/vyper-f8e3db",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "limited-review"
+ },
+ {
+  "id": "consensys/wallet-guard-f3a486",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/web3-tickets-1c21cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "consensys/zer0-zauction-5386aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/zer0-zbanc-1802a1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/zer0-zdao-token-b63044",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/zer0-zns-63b364",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "consensys/zk-email-noir-f12f5d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "circom",
+   "noir"
+  ],
+  "audit_kind": "private-audit"
+ }
+]

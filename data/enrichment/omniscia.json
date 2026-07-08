@@ -1,0 +1,9591 @@
+[
+ {
+  "id": "omniscia/0xphase-balancer-implementation-cd2d52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/0xphase-core-protocol-eb1be2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/acumen-staking-token-system-712649",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/adrastia-managed-accumulator-e47642",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/adrastia-oracle-implementations-905a0f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/adrastia-single-asset-vault-price-accumulator-d7c73e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/agrotoken-token-implementation-a933b3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/angelblock-nft-sale-881d63",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/arcade-xyz-protocol-implementation-271626",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/arcade-xyz-protocol-migration-contracts-41b808",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/argo-ohm-lending-protocol-849b62",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/arkefi-token-implementation-63e7cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/atari-erc-token-a1ac72",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/avant-protocol-avusd-system-7bd21c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/avant-protocol-cross-chain-erc20-token-bridge-2bbfb7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "berachain",
+   "celo",
+   "ethereum",
+   "fantom",
+   "linea",
+   "optimism",
+   "polygon",
+   "zksync-era"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/badai-tech-staking-system-ca0e79",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/beehive-rain-protocol-round-2-2daa51",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/blast-royale-core-system-52307c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/blast-royale-round-2-62c68c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/blast-royale-vesting-002fd6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/blazeswap-decentralized-exchange-4ae31d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/bluejay-finance-bond-implementation-8b88df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/bolide-finance-main-storage-module-8cf2e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/bonq-borrowing-protocol-eb7283",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/boson-protocol-gate-withdrawal-updates-28d495",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/boson-protocol-v2-4-2-update-5cc178",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/boson-protocol-version-2-3-8700b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/boson-protocol-version-2-5-0-eb03c1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/box-fun-nft-box-fee-update-e855b0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/box-fun-nft-boxes-7291b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/brickken-protocol-token-implementation-603150",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/brokoli-network-support-contracts-52a580",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/bware-labs-bridge-vault-d7fa62",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/carbon-path-nft-token-e94cc4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/castle-crush-renft-lending-system-98badf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/chain-guardians-governance-token-fa1ab6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/cirus-token-14ced1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/colony-lab-staking-v2-85d8f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/congruent-crv-integrated-rewards-5294ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/criptan-wallet-implementation-dbed8d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/crypto4all-nft-implementation-64ebed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/cryptofrens-happy-token-staking-fb9c6e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dafi-protocol-crosschain-bridge-9bf843",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dafi-protocol-dfy-creation-6c65f6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dafi-protocol-dtoken-platform-fd2ee5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dafi-protocol-super-staking-implementation-d748e3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/DAFIProtocol/dDAFI"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dappradar-comakery-token-lockup-11987b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dappradar-staking-rewards-6d0188",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dappradar-token-670df7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/domi-token-implementation-2eb0fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/dua-token-implementation-a8f845",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/echidna-finance-core-protocol-f53c5f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/elastic-finance-eefi-contracts-v1-0783a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/ethelo-token-vesting-bebc21",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/etherlink-cross-chain-token-0da20a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-chainlink-support-a0b1aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-earn-yield-aggregator-002f9c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-ethereum-vault-connector-a5d748",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-evk-price-oracles-95209d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-merkle-mining-stkg-bac189",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-pr-173-fbb939",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-pr-183-2fc837",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-pr-191-aa8d1f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-staking-dutch-auctions-3eda09",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-swaphub-995d40",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/euler-finance-vault-kit-ead427",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/faculty-group-liquidity-mining-7942fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/faith-tribe-token-implementation-efca25",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/fermion-protocol-boson-rwa-sale-verification-protocol-1b5641",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/fermion-protocol-second-round-6410e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/fermion-protocol-v1-1-0-upgrade-a19fa9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/fetch-ai-atomix-lending-protocol-5b02d7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/fetch-ai-atomix-protocol-v2-70db8e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/flisko-ksm-contracts-84948d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/floe-labs-modular-lending-e2b4b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/flourishing-capital-token-implementation-54f3d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/galaxy-fight-club-gcoin-28bdaa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/glimpse-bsc-eth-token-1efcc6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/globedx-erc-token-a1e8de",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/gnosis-guild-zodiac-modifier-roles-9cd5a4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "gnosis"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/gnosis-guild-zodiac-pr-206-df0b87",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "gnosis"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/gogo-staking-rewards-ff26d4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/gravita-protocol-crosschain-oft-26cadc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/highrise-pocket-worlds-fuji-subnet-c82972",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/highrise-world-plot-implementation-de8ad8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/highrise-world-rise-token-da3219",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/hliquity-implementation-249c92",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "hedera"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/hot-cross-cross-pool-44f883",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/hot-cross-crossmint-nft-implementation-ae5323",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/hot-cross-hotvip-d8c122",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/hot-cross-send-e10e2e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/hot-cross-staking-pools-688da6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/hot-cross-vesting-implementation-1d3b1c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/hot-cross-yield-bedec9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/impact-market-community-47e476",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/impact-market-round-2-3d3137",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/instant-burn-cross-chain-b4a27c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/invert-nft-land-sale-8cb529",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/kanpeki-finance-core-protocol-fd7c90",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/klima-dao-algorithmic-bonding-system-a69bc0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/kwenta-escrow-staking-3fc872",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "hedera",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/kwenta-smart-margin-v3-129b01",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "hedera",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/kwenta-staking-v2-w-migrators-0e1c4d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "hedera",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/kyber-network-aggregation-router-634dc4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/kyber-network-aggregation-router-libraries-f6633a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/kyber-network-uniswap-v4-hooks-9ba7cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/kyo-finance-reward-voting-infrastructure-d28bf2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/laid-back-llamas-nft-32d9b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/lair-finance-bughole-restaking-7664e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/legend-of-dante-core-contracts-0f2d19",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/limechain-hashport-round-2-e03e9e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-adventure-hub-b17484",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-adventure-keys-d798a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-creator-token-eip721-wrapper-efa108",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-creator-token-standards-v3-f56c56",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-creator-token-transfer-validator-v5-8ff0e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-marketplace-implementation-3c2951",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-minimum-floor-price-nft-extension-65c224",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-multisig-implementation-cdc03b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-payment-processor-v2-1-0f0d77",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-payment-processor-v2-1-63be3e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-payment-processor-v3-73c65f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-permit-c-12a08e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-soulbound-multi-token-afd88a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-token-master-ffca7b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/limit-break-wrapped-native-0baad3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "celo",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/liquality-htlc-244e6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/loc-game-nft-implementation-4fab44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/lsd-exchange-staking-system-ba468b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/magic-dragon-dao-atlas-staker-f2ff47",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/magic-dragon-dao-atlas-staker-v2-43901c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/mantissa-finance-core-system-2dc7a8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/marblecoin-core-contracts-88ffba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/marblecoin-token-contracts-94b7f5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/maverick-protocol-amm-implementation-ab2307",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/maverick-protocol-amm-supplemental-fc1689",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/maverick-protocol-common-libraries-7711bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/maverick-protocol-reward-infrastructure-5f79f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/mean-finance-oracle-module-89d1b7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/mean-finance-permit2-adapter-6c4a26",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/mean-finance-swappers-module-4135db",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/mean-finance-transformers-module-7cacce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "gnosis",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/metasoccer-scout-nft-4925c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/metasoccer-scout-staking-c3a8aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/metasoccer-token-bonding-curve-681601",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/metavisor-automated-liquidity-vault-3d9c7d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/mitosis-core-protocol-267f26",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/more-markets-lending-system-17fdc8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/morpho-heap-ordering-structure-ee6739",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/morpho-labs-tokenized-vaults-2a8c0f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/morpho-specialized-token-68488e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/morpho-tokenized-vaults-v2-80a089",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/morpho-transaction-builder-c2fefa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/mousehaunt-nft-sale-system-e57a77",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/myso-finance-call-option-system-8a4796",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/myso-finance-lending-protocol-fe68e8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/native-defi-exchange-24d34b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/nevermined-data-marketplace-a3c0c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nevermined-nft-condition-update-dc381e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-block-payment-portal-514c0c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-bridge-implementation-4b9370",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-core-tokenization-system-update-311256",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-data-tunnel-v2-81992c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-dex-implementation-46ff04",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-dex-treasury-d7b1ce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-erc1155-bridge-f59ca5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "linea",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-escrow-contract-345884",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-investment-platform-2-9b0e7c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-investment-platform-3-908f23",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-liquidity-staker-425d45",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-liquidity-staker-c944aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-liquidity-staker-round-2-5d6d0e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-merkle-distributors-423e99",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-messaging-protocol-erc20-ed7e2e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "linea",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-messaging-protocol-upgrade-91a2a0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "linea",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-multisignature-wallet-0869ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-multisignature-wallet-8d0360",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-multitoken-bridge-8850d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-nft-bridge-b6af5b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-nft-platform-expansion-2ac48f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-odc-delta-fcce69",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "linea",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-oracle-factory-5bdc9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-time-based-liquidity-staker-226c68",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-token-implementation-af1cbe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-token-library-420d14",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nexera-token-payment-system-84d141",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/nftfy-erc-721-securitizer-579e45",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/night-life-crypto-staking-6e65b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/nitro-protocol-nitrolite-security-871e0e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/normal-finance-index-fund-280892",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/oceidon-token-implementation-d45e59",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/ola-guild-games-token-vesting-5845b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/olive-dao-liquidity-protocol-da8f3c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/olympus-dao-protocol-v2-689118",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/olympus-dao-treasury-allocator-943160",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/olympus-dao-yield-director-1addf2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/one-click-vault-implementation-562e7e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/outplay-games-oparcade-4f8f02",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/outplay-games-token-infrastructure-308b31",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/pangolin-fee-based-exchange-router-20791e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/parabola-finance-core-implementation-61c83f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/permission-ask-token-143d3b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/plutus-dao-hedge-vault-9b14d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cardano"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/polkadex-pdex-erc-token-830000",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/polytrade-finance-token-implementation-66d79f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/powercity-amplifier-system-1b636a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/powercity-earn-implementation-08a68d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/qanx-token-round-2-d3e257",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/rand-network-tokenomics-contracts-da659a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/rand-network-tokenomics-contracts-v2-a6ecbd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/rarum-nft-sale-521362",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/redacted-cartel-butterfly-token-v2-fb57ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/redacted-cartel-pirex-multi-token-convex-wrapper-10d479",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/saucerswap-labs-erc20-wrapper-6bd2aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "hedera"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/saucerswap-labs-periphery-e25b27",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "hedera"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/saucerswap-labs-router-implementation-f5cd2e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "hedera"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "omniscia/seen-haus-nft-auction-sales-343592",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/sheesha-finance-staking-vesting-70cf6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/sheesha-finance-token-distribution-2fade3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/sheesha-token-distribution-v2-17c631",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/size-credit-rebasing-token-vault-security-9e7ccf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/somee-token-migration-implementation-3b68a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/sophon-staking-merkle-contracts-c8b02c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/sophon-support-infrastructure-5f077e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/sova-prime-protocol-b3c875",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/sova-prime-spbtc-425ce1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/sovryn-babelfish-protocol-v1-ddb809",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/sovryn-bridge-implementation-v4-faf994",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/stake-dao-strategies-9bbe5f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/stake-dao-strategy-wrapper-bf1f2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/stake-dao-zerolend-integration-5fc2af",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/stakewise-eth2-staking-implementation-692c71",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/stakewise-swise-staking-5eec19",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steadefi-staking-vaults-128210",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-algebra-integral-position-manager-smart-e0b972",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "linea",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-algebra-strategies-47de2d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "linea",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-algebra-v4-hook-integration-b744b0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-base-liquidity-vaults-7351a3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-blackhole-position-manager-d5a23e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-core-implementation-c888ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "linea",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-pancakeswap-infinity-hook-31caf5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-periphery-updates-b1cf43",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-poolshark-vaults-a87230",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "linea",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-splash-single-asset-deposit-dfd638",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-sushiswap-fee-management-alm-482f71",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-uniswap-v4-liquidity-manager-3aca2c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-uniswap-v4-w-coverage-9fd80d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "linea",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/steer-protocol-velodrome-staking-manager-fba588",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/suzaku-network-core-contracts-f300e3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/suzaku-network-validator-manager-ffd1ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/symbiosis-finance-router-bridge-db1fdf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/syntetika-labs-deposit-registry-c5301b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/tangible-cross-chain-rebasing-token-46743d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/tangible-nft-baskets-b17dbb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/tangible-tnft-v2-148fd1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/teahouse-finance-portfolio-strategy-6bf6e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/tempest-token-implementation-fd5369",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/teneo-multicontract-tokenomical-system-3c904a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/transient-expirable-relay-contract-db5219",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/transient-price-betting-system-26f749",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/transient-token-bridge-df622d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/tren-finance-protocol-implementation-3fdebd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/trustworks-token-sale-contracts-5535bd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/tryhards-hazardland-29d22a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/turtle-dao-base-implementation-b01b8a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/turtle-dao-drip-distribution-system-58d8c3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/turtle-dao-drip-v3-7b7f82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/uforika-fora-token-implementation-539ce0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/ultra-yield-vault-contracts-9b43b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/unifty-farm-implementation-39e5ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/unifty-nif-erc-token-54c8b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/vendor-finance-specialized-upgradeability-implementation-5feb2f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/vfat-aggregator-connector-e99d94",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "linea",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/vfat-sickle-contracts-80f1f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "ethereum",
+   "linea",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/wagmidao-token-ecosystem-20dc3e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/wallfair-token-vesting-2d93de",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/xcad-network-energy-system-116734",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "omniscia/xcad-network-play-area-d9e937",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/xcaliswap-core-project-b6e642",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/xfai-labs-amplify-contracts-a337dc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "omniscia/xfai-labs-asset-staking-13240e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:15+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ }
+]

@@ -1,0 +1,4790 @@
+[
+ {
+  "id": "pashov/1inch-security-review-c5aece",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/1inchtokenplugins-security-review-58af93",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/aave-security-review-2025-11-29-7aad6c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/aave-security-review-7711f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/aburra-security-review-1b81e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/adapterfinance-security-review-447de7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/aegis-security-review-september-c4e499",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/aegisvault-security-review-f11263",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/agoraaccesscontrol-security-review-2025-06-05-5342aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/agorastableswap-security-review-2025-06-05-9d877c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ambire-second-security-review-b6a0f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ambire-security-review-b18283",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ambire-third-security-review-c9cc30",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ampleearn-security-review-2025-12-12-4e3ce2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/apdao-security-review-2024-10-03-c31f79",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/arcadia-security-review-be3d07",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/arcadia-security-review-october-a63771",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/arcana-security-review-f21468",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/aria-security-review-2025-04-25-797d75",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/aria-security-review-2025-05-12-719ce9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/astrolab-security-review-4a4337",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/azuro-second-security-review-71f2bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/azuro-security-review-ba3b59",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/azuro-security-review-e138ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/azuro-third-security-review-42af78",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/babylon7-security-review-c4f6fc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/batonlaunchpad-security-review-cdc822",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/beam-security-review-36a29b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/beamnodes-security-review-2025-01-28-725d6c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bearcave-second-security-review-e98f8f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/bearcave-security-review-f9f3b7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/biconomy-security-review-2025-11-26-695b68",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/biconomy-security-review-2026-05-14-ca8426",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/biconomycomposability-security-review-2025-03-22-e031d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/biconomynexus-security-review-2025-03-21-6ad952",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bio-security-review-2025-12-15-1a3aeb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bio-security-review-529bbd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bloom-security-review-329a84",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/blueberry-security-review-2025-03-12-5f1433",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/blueberry-security-review-2025-03-26-35d1b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/blueberry-security-review-2025-04-30-55e7b0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/blueberry-security-review-2025-05-16-be8de3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bnbchain-security-review-2026-04-30-226ed7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/bob-onramp-security-review-7268fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/bob-security-review-2025-03-17-999325",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/bob-security-review-august-aadb68",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/bob-security-review-june-0480fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/bob-security-review-september-ff58d9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/bob-staking-security-review-2025-10-18-1016a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bob-usdcbridge-security-review-ce40a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "ethereum",
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/brrito-security-review-1eec53",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bunni-security-review-august-8c6466",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/bunni-security-review-october-6af62c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/burve-security-review-2025-01-29-08eb86",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/burve-security-review-2025-03-05-29c04c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/buyburner-security-review-2024-12-14-6fbbe4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/cadmosfinance-security-review-a37d99",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/cardex-security-review-2025-01-21-34c6fe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/catalyst-security-review-a4b160",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/catalyst-security-review-april-8cf94e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/clave-security-review-2024-11-02-1c0318",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/clave-security-review-2024-12-23-0366b0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/coinflip-security-review-2025-02-05-088df0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/coinflip-security-review-2025-02-19-96bc5c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/cove-security-review-2024-12-30-c9b720",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/cove-security-review-2025-04-16-b2777b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/covenant-security-review-2025-08-18-9233a3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/cryptex-security-review-53c52a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/curio-security-review-fad8a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/curio-security-review-july-52f43f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/defiapp-security-review-2025-01-08-15e226",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/defiapp-security-review-2025-05-31-31edd2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/defiapp-security-review-2026-05-23-0abd69",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/descilaunchpad-security-review-2025-02-07-079d7c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/dinari-security-review-2024-12-07-e455d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/dumont-security-review-d5c562",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/dyad-security-review-ffa53b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ebisu-security-review-b9794a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/elixir-security-review-2025-08-17-996951",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/elytra-security-review-2025-07-10-47f56c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/elytra-security-review-2025-07-27-bc8340",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/enclave-security-review-2025-10-25-c4c1b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/endlessclouds-security-review-d32d40",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ethena-security-review-0d0163",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/ethena-security-review-94d536",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/ethena-security-review-august-2a6c30",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ethena-security-review-february-16398d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/ethena-security-review-may-d6e463",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ethena-security-review-october-ed97cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/eulerearn-security-review-2025-07-25-497245",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/evterminal-security-review-10167b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/falcon-security-review-2025-02-17-e48112",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/florencefinance-second-security-review-25742b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/florencefinance-security-review-7c6f69",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/forgottenplayland-security-review-140276",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/frontrunmarket-security-review-193872",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/fundraiser-security-review-2024-11-30-4733b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/funnel-security-review-2025-08-27-514cd7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/fyde-security-review-bb3bfd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/fyde-security-review-may-698152",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/g8keep-security-review-2024-12-12-c8fa70",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/g8keep-security-review-e288d7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gacha-security-review-2025-01-27-0d3bfa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gainsnetwork-security-july2-3d9d4e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gainsnetwork-security-review-2025-05-26-1e620a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gainsnetwork-security-review-ee7682",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gainsnetwork-security-review-february-7b69b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gainsnetwork-security-review-july-c5f9bd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gainsnetwork-security-review-may-1bd77a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gammaswap-security-review-2024-12-30-ba27d6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gatekeeper-security-review-2025-06-28-499684",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/ghowrapper-security-review-2025-02-07-9d0ba8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gigaverse-security-review-2025-01-18-60cd2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gmd-security-review-08a9b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/groupcoin-security-review-4de7d4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/gtrade-security-review-5ae187",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/honeyjar-security-review-838bee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hybux-security-review-2025-11-11-486e2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hydration-security-review-october-6cff3f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polkadot"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "polkadot"
+  ]
+ },
+ {
+  "id": "pashov/hyperbeat-security-review-2025-09-03-acad71",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperbloom-security-review-2025-06-24-1f8274",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hypercerts-security-review-f4a04c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperhyper-security-review-2025-03-30-e4d59b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperlend-security-review-2025-01-11-ce69da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperlend-security-review-2025-11-21-8bc185",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperlend-security-review-2026-01-26-8c9b5a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperstable-security-review-2025-02-26-1ed394",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperstable-security-review-2025-03-19-25eb8a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hyperstable-security-review-2025-06-03-8e1131",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hypurrfi-security-review-2025-02-12-ff9802",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/hytopia-security-review-2cca48",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/hytopiawallet-security-review-1a5878",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/increment-security-review-f6f59e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/initia-security-review-2025-06-17-c88fe1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/interpol-security-review-2024-12-24-acfa4b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/interpol-security-review-2df627",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ionprotocol-security-review-d6eecf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ionprotocol-security-review-july-995634",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ipnft-security-review-8eba8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/itos-security-review-2025-05-24-7fc335",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/karak-security-review-f98984",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/karak-security-review-june-16be04",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/kekotron-security-review-42f5c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/kinetiq-security-review-2025-02-26-524a53",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/kittenswap-security-review-2025-05-07-1fba4d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/kittenswap-security-review-2025-06-12-c51a4e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/kittenswap-security-review-2025-07-31-903675",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/klaster-security-review-6f2003",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/laposte-security-review-october-5d5a0d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo",
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/layerzero-security-review-de168c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/layerzero-security-review-september-16dbba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/layerzerozroclaim-security-review-649844",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/level-security-review-2025-04-09-f08fe3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/lizardstarking-security-review-ec48ff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/loopvaults-security-review-2025-04-30-9cbaec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/lucidly-security-review-6f222b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/lucidly-security-review-june-37d33f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/lumin-security-review-8fa381",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/lzorbit-security-review-10f5fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/lzratelimiter-security-review-bfc2f2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/mass-security-review-4ad78f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/mcp-security-review-2025-08-07-46803b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/metalabel-second-security-review-4fb6aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/metalabel-security-review-c2f7c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/moarcandy-security-review-56eb38",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/moleculevesting-security-review-397d8e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/mugen-security-review-b2fb5d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/museumofmahomes-security-review-d8e6e0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/nabla-security-review-009ee3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/napier-security-review-2025-09-30-09d4f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/napier-security-review-2026-02-06-3d8d6e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/neutrl-security-review-2025-03-27-9f4ea4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/nexus-security-review-2024-11-29-12f07c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/nftcapsule-security-review-3b9715",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/nftloots-security-review-58034a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/nftmirror-security-review-2024-12-30-213c4d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "base",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/ninjayielder-security-review-39ddfe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/noodles-security-review-2025-03-11-ac1f31",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/nucleus-security-review-2024-12-14-b74d3d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/nucleus-security-review-2025-07-29-dc04fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/nume-security-review-fcdd19",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/omo-security-review-2025-01-25-bd3bc0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/onchainheroes-security-review-2025-01-13-05fd7d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/opendollar-security-review-3f0927",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/opinion-security-review-2026-03-24-9d3aec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ostium-security-review-2025-01-21-e6f536",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/ostium-security-review-2025-04-06-94453b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ostium-security-review-2025-08-22-b4c2c5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ostium-security-review-2025-09-07-7d2320",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ostium-security-review-2025-09-14-6d2507",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ouroboros-security-review-2024-12-06-697cef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ouroboros-security-review-2025-06-30-4a5918",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/overload-security-review-c0933f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/parcelpayroll-security-review-2e7ef0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/peapods-security-review-2024-11-16-8b6089",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/pepeunchained-security-review-november-1fb602",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/pino-security-review-f277d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/pirex-security-review-448a2b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/polygun-security-review-2026-02-17-a8d353",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/polygun-security-review-2026-03-25-454fc7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/polygun-security-review-2026-04-16-563382",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/portals-security-review-5c4af5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/primodium-security-review-2024-10-02-ced206",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/protectorate-security-review-b4dac5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/pump-security-review-2025-03-18-2f1fe5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/pump-security-review-2025-04-28-fe93be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "frameworks": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "frameworks": [
+   "anchor"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/pump-security-review-2025-06-26-38b633",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/pump-security-review-2025-10-08-3a58ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/pump-security-review-dd879d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/pumpscience-security-review-2024-12-24-8ed02c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/punkbid-security-review-0e716d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/punksbids-security-review-0098ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/pupniks-security-review-99fbff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/radiant-security-review-2b39c4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/radiant-security-review-july-ae58fc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/radiant-security-review-june-c2b0cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/regnum-aurum-security-review-2025-11-27-589a7f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/regnumaurum-security-review-2025-08-12-4ff57d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/regnumaurum-security-review-2025-11-04-0de8da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/regnumaurum-security-review-2026-02-07-2ceb10",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/regnumaurum-security-review-2026-03-07-3e8865",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/regnumaurum-security-review-2026-03-21-e9089f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/regnumaurum-security-review-2026-03-26-b468b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/reserve-security-review-2025-06-02-a92ed6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/reserve-security-review-2026-02-27-825c40",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/resolv-security-review-2024-12-09-29bfc9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/resolv-security-review-2025-04-15-64fe12",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/resolv-security-review-2025-05-14-f6b4eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/resolv-security-review-2025-07-25-7c7f65",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/resolv-security-review-6dae5a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/resolv-security-review-august-100356",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/resolv-security-review-october-29c4b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/reya-security-review-october-24177b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/reyanetwork-security-review-7aeee2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/reyanetwork-security-review-april-504a96",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/reyanetwork-security-review-august-a6eb21",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/reyanetwork-security-review-july-f8fb95",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/reyanetwork-security-review-june-7da253",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/reyanetwork-security-review-june2-1bfc9d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/ripit-security-review-2025-04-25-971454",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ripit-security-review-2025-05-10-659968",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/rivus-security-review-edd86e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/rivus-security-review-october-d8ad97",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/rollingdutchauction-security-review-e6fb60",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/roots-security-review-2025-02-09-2e4e4b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/rwf-x-security-review-2025-08-20-bf0324",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/rwf-x-security-review-2025-11-17-a5d2d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/rwf-x-security-review-2025-11-27-2c1d83",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/saffron-security-review-01acbc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/saffron-security-review-2025-07-31-7658ba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/saffron-security-review-2026-03-06-1a3885",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/serious-security-review-c62878",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/sft-security-review-2efbec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/sharwafinance-security-review-76e760",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/shred-security-review-2026-01-31-2607ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/smoothly-security-review-1d2cd5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/sofamon-security-review-august-a0e8da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/sofamon-security-review-f3d59d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/solidlyv3amm-security-review-a0944a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/spectra-security-review-0e3bb7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/spectra-security-review-2025-01-17-f5ab30",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/spicenet-security-review-2026-04-06-182152",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/stakedao-security-review-2025-07-21-8cf845",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/stardusts-security-review-2024-12-19-bf2c42",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/starknet-security-review-2025-07-31-b81db8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "pashov/stationx-security-review-be4daf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/sthype-security-review-2025-10-13-e8c409",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/sthype-security-review-2025-11-10-9f3a9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/subsquid-security-review-794a87",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/supersale-security-review-november-819d2f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/sushiswap-security-review-b8c4f8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/sxt-security-review-2025-03-31-d345bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/tangent-security-review-2025-10-30-05b887",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/tangent-security-review-2025-12-08-d6d82a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/tanssi-security-review-2025-04-30-1655b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/tapiocadao-security-review-8261f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/tapiocadao-security-review-february-bafd7c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/theo-security-review-2026-03-19-fe86d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/titanx-security-review-129f6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/tokendistributor-security-review-c783fa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/tokenlogic-security-review-2025-05-05-83c1eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/topiastaking-security-review-e208cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/topstrike-security-review-2025-12-18-a735f4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/trove-security-review-2026-01-04-2ee632",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ulti-security-review-november-c19c22",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/ulti-security-review-november2-910227",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/uniswap-security-review-october-2a3555",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/usdv-security-review-2025-03-06-4b926e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/veilcash-security-review-2025-02-12-199400",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/vetenet-security-review-5aed80",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/wagmi-security-review-41fddb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/werc721-security-review-747fab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pashov/wishwish-security-review-2025-11-04-1-fa89e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/wrappedelon-security-review-3b168a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "pashov/yhairvesting-security-review-3b359d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/yieldbasis-security-review-2025-03-26-7d2b50",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/yuzuusd-security-review-2025-08-28-4ef67b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/yuzuusd-security-review-2026-01-14-af37ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/zerem-security-review-93268a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pashov/zipper-security-review-2025-05-05-9b3723",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:21+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ }
+]

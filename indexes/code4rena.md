@@ -102,9 +102,9 @@ Listing: https://code4rena.com/reports — 410 reports, 408 downloadable (2 unav
 | 2024-07-16 | Predy | [Predy](https://code4rena.com/reports/2024-05-predy) | ✓ |
 | 2024-07-12 | Krystal DeFi | [Krystal DeFi Invitational](https://code4rena.com/reports/2024-06-krystal-defi) | ✓ |
 | 2024-06-25 | DittoETH | [DittoETH](https://code4rena.com/reports/2024-03-dittoeth) | ✓ |
-| 2024-06-24 | Panoptic | [Panoptic](https://code4rena.com/reports/2023-11-panoptic) | ✓ |
-| 2024-06-24 | Panoptic | [Panoptic](https://code4rena.com/reports/2024-04-panoptic) | ✓ |
 | 2024-06-24 | Panoptic | [Panoptic](https://code4rena.com/reports/2024-06-panoptic) | ✓ |
+| 2024-06-24 | Panoptic | [Panoptic](https://code4rena.com/reports/2024-04-panoptic) | ✓ |
+| 2024-06-24 | Panoptic | [Panoptic](https://code4rena.com/reports/2023-11-panoptic) | ✓ |
 | 2024-06-24 | BakerFi | [BakerFi Invitational](https://code4rena.com/reports/2024-05-bakerfi) | ✓ |
 | 2024-06-21 | Munchables | [Munchables](https://code4rena.com/reports/2024-05-munchables) | ✓ |
 | 2024-06-17 | DYAD | [DYAD](https://code4rena.com/reports/2024-04-dyad) | ✓ |
@@ -261,8 +261,8 @@ Listing: https://code4rena.com/reports — 410 reports, 408 downloadable (2 unav
 | 2022-12-14 | Foundation | [Foundation Exhibition, Scheduling & Early Access Solo Audit by Lambda](https://code4rena.com/reports/2022-11-foundation) | ✓ |
 | 2022-12-13 | ENS | [ENS contest](https://code4rena.com/reports/2022-07-ens) | ✓ |
 | 2022-12-09 | Art Gobblers | [Art Gobblers contest](https://code4rena.com/reports/2022-09-artgobblers) | ✓ |
-| 2022-12-08 | Blur Exchange | [Blur Exchange contest](https://code4rena.com/reports/2022-11-non-fungible) | ✓ |
 | 2022-12-08 | Blur Exchange | [Blur Exchange contest](https://code4rena.com/reports/2022-10-blur) | ✓ |
+| 2022-12-08 | Blur Exchange | [Blur Exchange contest](https://code4rena.com/reports/2022-11-non-fungible) | ✓ |
 | 2022-11-29 | Frax Finance | [Frax Ether Liquid Staking contest](https://code4rena.com/reports/2022-09-frax) | ✓ |
 | 2022-11-17 | PartyDAO | [PartyDAO contest](https://code4rena.com/reports/2022-09-party) | ✓ |
 | 2022-11-11 | SKALE | [SKALE contest](https://code4rena.com/reports/2022-02-skale) | ✓ |
@@ -360,8 +360,8 @@ Listing: https://code4rena.com/reports — 410 reports, 408 downloadable (2 unav
 | 2022-02-09 | Mellow Protocol | [Mellow Protocol contest](https://code4rena.com/reports/2021-12-mellow) | ✓ |
 | 2022-02-03 | PoolTogether | [PoolTogether TwabRewards contest](https://code4rena.com/reports/2021-12-pooltogether) | ✓ |
 | 2022-01-27 | yAxis | [yAxis contest](https://code4rena.com/reports/2021-11-yaxis) | ✓ |
-| 2022-01-26 | Kuiper | [Kuiper contest](https://code4rena.com/reports/2021-09-defiprotocol) | ✓ |
 | 2022-01-26 | Kuiper | [Kuiper contest](https://code4rena.com/reports/2021-10-defiprotocol) | ✓ |
+| 2022-01-26 | Kuiper | [Kuiper contest](https://code4rena.com/reports/2021-09-defiprotocol) | ✓ |
 | 2022-01-25 | Fei Protocol | [Fei Protocol contest](https://code4rena.com/reports/2021-11-fei) | ✓ |
 | 2022-01-24 | Perennial | [Perennial contest](https://code4rena.com/reports/2021-12-perennial) | ✓ |
 | 2022-01-21 | Boot Finance | [Boot Finance contest](https://code4rena.com/reports/2021-11-bootfinance) | ✓ |

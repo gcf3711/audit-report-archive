@@ -1,0 +1,3588 @@
+[
+ {
+  "id": "abdk/abdk-0x-metatransaction-v-1-0-72a305",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-1inch-aggregationrouter-solidity-ab8a0c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-1inch-aggregationrouterv5-v-1-0-f27194",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-1inch-limitorderprotocol-solidity-d91af4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-1inch-limitordersettlement-v-1-0-3a59ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-1inch-losphaseii-v-1-0-c827f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-1inch-ordermixin-v-1-0-9fe235",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-aave-gho-v-4-0-bfd652",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-aave-paraswapadapter-solidity-2bfa18",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-aave-solidity-v-1-0-320e7b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-aktionariat-solidity-v-2-0-64528c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-algebra-algebraprotocol-v-3-0-15ca39",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-algebra-v-1-0-cd86ff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-audit-report-for-risk-harbor-5661c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-balancer-balancer-v2-v1-0-3714ae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-bebop-bebop-v-1-0-bf21e1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-bgdlabs-aavev3-5-v-3-0-cdf7eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/abdk-blockswap-cip-v-2-0-d5cae0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-blockswap-modulargateway-v-3-0-ef51cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-blockswap-rpbs-v-3-0-235989",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-brink-solidity-v-2-0-41f164",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-chainflip-chainflip-v-2-0-f9d12b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-chainflip-solidity-v-1-0-712bbd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-chi-chiprotocol-v-1-0-42a29d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-chronicle-aggor-v-2-0-f43694",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-chronicle-chronicleprotocol-v-1-0-4f18a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-cmta-cmtatruleengine-v-1-0-4d0f9c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-cmta-dvp-v-1-0-6f635b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-cmtat-audit-20210910-fb5a0b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-collection-collectionswap-v-1-0-ab19e8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-collectionswap-vault-v-1-0-22489e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-composablefinance-zk-ed25519-v-1-0-c1ce03",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-compoundlabs-quark-v-1-0-b6ddd8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-contango-core-v-1-0-25b6a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-contango-corev2-partii-v-3-0-f07cf3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-contango-corev2-v-2-0-5bae2c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-contango-corev2partiii-v-2-0-5c7472",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-defiedge-project1-v-1-0-31375a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-deltaprime-primeloans-v-1-0-5f261c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-eco-phasei-v-1-0-8d0b7e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-eco-phaseii-v-1-0-876564",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-edgeswap-circuit-v-1-0-f8defd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-edgeswap-solidity-v-2-0-208601",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-elephantslab-octogamexnftbridge-v-2-0-db0868",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-enso-shortcutrouter-v-1-0-cd06ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-enso-shortcutsclientcontracts-v-1-0-bc6c9c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-enso-tge-v-1-0-96d9eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-equation-equationdao-v-1-0-6bac67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-equation-equationdaov2-v-2-0-62dd31",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-equation-equationdaov3-v-1-0-cfe82e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-exactly-escrowedexa-v-2-0-6c0b93",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-exactly-exactlyperipheralcontracts-v-2-0-e0ef93",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-exactly-exactlyprotocol-v-1-0-2737ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-exactly-phaseii-v-3-0-7f9275",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-exactly-protocolupdate-1-v-1-0-91e5f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-exactly-protocolupdate-v-1-0-e4c4fa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-exactly-protocolupdate-v-4-0-d39e07",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-framework-conduit-solidity-233e2f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-gambit-orderbook-solidity-v-1-0-158fef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-gambit-solidity-v-1-0-7ad8f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-gearbox-corev3-v-3-0-d63059",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-gearbox-oracles-v-3-0-f3f8fa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-gmx-gmx-synthetics-v-1-0-5a576d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-gridex-gridexprotocol-v-2-0-aaf492",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-herodotus-herodotus-v-3-0-3c871c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-hunch-finance-hunch-finance-v-3-0-668fff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-indexcoop-indexprotocol-v-1-0-5acea1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-lemmalabs-infinitypools-v-2-0-fd6658",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-limitless-protocolv1-v-1-0-ea877e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-lombard-audit-2-1-td-v-1-01-0766bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "abdk/abdk-lombardfinance-stakeandbake-v-1-0-b92e1f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-lossless-solidity-v-2-0-9649d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-lumis-lumiscontracts-v-1-1-57f435",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-maker-univ2lporacle-95d9a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-makerdao-crop-solidity-64e39d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-makerdao-vote-delegate-v-1-0-f320d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-manta-mantanetwork-v-1-0-fdd44a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-matterlabs-zksync-v9-solidity-v-2-0-45b0ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "languages": [
+   "circom",
+   "rust",
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/abdk-maverick-maverickphase2-v-2-0-2324b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-maverick-maverickprotocol-v-3-0-879292",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-morpho-pre-liquidation-v-1-0-935bbb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-morphose-172e85",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-muffin-core-v-2-0-220e9e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-muffin-periphery-v-1-0-6b1f38",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-mystiko-mystikonetwork-v-3-0-a509b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-mystiko-solidity-zokrates-v-2-0-8b2681",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-nano-equihash-report-d62fdf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-nebra-saturn-circuits-v-1-0-79a557",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-nebra-saturn-circuitsupdate-v-1-0-3e7762",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-nebra-specaudit-parti-v-1-0-1adea3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/abdk-nexafinance-tokenportfolio-v-1-0-852a50",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-nilfoundation-blockchainverifier-v-2-0-6e9bb1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-nomial-contracts-v-1-0-fef1b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-notional-v2-fixes-v-2-0-3bf78c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-notionalv2-solidity-v-1-0-6df8e7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-ondo-ondoprotocol-1-0-b6bc2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-othernetglobalpteltd-saltyio-v-2-0-31d7bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-pandifi-soliditi-v-4-0-28ee0f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-podsfinance-podsyield-v-1-0-cc1650",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-polyhedra-whitepaper-v-1-0-71c6a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-primitive-v2-solidity-v2-0-8d01db",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-proximacapital-vault-v-1-0-b14594",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-railgun-circomsolidity-v-2-0-77a491",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "circom",
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-realt-realtokenwrapper-v-1-0-ab03ce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-realt-regccipcore-v-1-0-0ec327",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-realt-rmmv3v-3-0-67c682",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-redstone-adapterupdate-v-2-0-d8e2b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-redstone-multifeedadapter-v-1-0-c2b850",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-redstone-oracle-v-2-0-c3e25c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-redstone-oraclephaseii-v-2-0-1-a779ca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-redstone-oracles-v-2-0-d257b2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-redstone-oraclesmonorepo-v-1-0-01f675",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-relevant-solidity-v-1-0-a216f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-reservoirfi-ammcore-v-2-0-dbfb16",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-reservoirfi-ammcoreupdate-v-3-0-aa3ca6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-rift-riftprotocol-v-1-0-c99681",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-ringprotocol-hook-v-1-0-9a0e37",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-sense-part-2-v-1-0-34c7cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-sense-part1-v-1-0-38fe82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-spectral-specialstaking-v-2-0-b5f272",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-spectral-spectral-finance-v-1-0-07749c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-spectralfinance-scpoc-v-1-0-179564",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-stakewise-v3-core-v-1-0-94a0b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-starkware-os-v-1-0-b3adc3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-starkware-perpetual-v-1-0-331683",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "cairo"
+  ],
+  "chains": [
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "abdk/abdk-starkware-perpetual-v3-1-v-1-0-03bcd0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "cairo"
+  ],
+  "chains": [
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "abdk/abdk-starkware-perpetual-v3-2-v-1-0-ede37d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "cairo"
+  ],
+  "chains": [
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "abdk/abdk-termstructure-circom-v-1-0-918d34",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "circom"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructure-solidity-v-1-0-6051e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructure-termmaxv2-v-1-0-657dbe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructure-termstructurepartii-v-1-0-f893a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructure-tmx-v-1-0-48719d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructure-tsupdate-v-1-0-30aefa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "circom"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructurelabs-termmax-phase1-v-1-0-005102",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructurelabs-termmax-phase2-v-1-0-f0d3b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-termstructurelabs-termmax-phase3-v-1-0-0062e8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-thearena-starsarenafractionaltickets-v-1-0-c1b0cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-traderjoe-traderjoe-v-2-0-0de125",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-truefi-v2-v-1-0-d983a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-permit2-v-1-0-74c40e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-tokenlauncher-v-1-0-950984",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-twapauction-v-1-0-46a949",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-uniswapx-v-1-0-0e591f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-uniswapxv1-1-v-1-0-d692bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-universalrouter-v-2-0-a8e11f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-v4-core-v-0-9-3e8f86",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswap-v4-periphery-universalrouter-v-1-0-cd3b23",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswapv3-solidity-peripheralcontractspart1-c554f2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-uniswapv3-v-1-fdd031",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-usm-solidity-v1-0-68f4e0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-voltz-project1-v-1-0-963df5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-voltz-voltz-protocol-part-2-v-1-0-30fb19",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-vovo-vovofinance-v-1-0-6997bd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-weiroll-weiroll-v-1-0-3d829c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-wheelx-wheelxcontracts-v-1-0-b25160",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-xo-market-evmcontracts-v-1-0-5863f5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-xtoken-origination-v-1-0-ce1175",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-xtoken-terminal-v-2-0-a40e42",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-xtoken-v-1-0-5d30b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-yield-v-3-0-694f6d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-yield-yieldspace-tv-v-1-0-594e6c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zahastudio-twammhook-v-1-0-9b5808",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zcoinfoundation-lelantus-v-1-0-07dc59",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zeropool-evmsmart-solidity-v-2-0-07e360",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zeropool-fawkes-crypto-v3-0-ba1bac",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zeropool-libzeropool-v3-0-7ca808",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklend-zklendcore-v-1-0-dae93b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklink-circuitsphaseii-v-1-0-fa37fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklink-circuitssmartcontracts-v-6-0-74ccca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklink-costoptimisation-v-1-0-d18ddf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklink-mergetoken-v-2-0-50e508",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklink-nova-v-1-0-efa9b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklink-solidity-phaseii-v-1-0-9e9e80",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zklink-solidity-v-1-0-1f14fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zkswap-phase2-0-9-8-rust-v-1-0-016051",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zkswap-solidity-v-3-0-d601d7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zkswap-v3-v-1-0-153130",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/abdk-zksync-audit-v2-part2-60e987",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/abdk-zksync-solidityrust-v-1-0-8757c3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "languages": [
+   "rust",
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/audit-report-summary-for-semaphore-and-micromix-fb139f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/bankex-token-contract-review-da461d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/crowdwiz-token-contract-final-872892",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/divicoin-token-contract-review-c3c1e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/domuscoin-contract-review-public-copy-f3e2f4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/dragon-token-contract-review-40c502",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/esports-token-contract-review-52775c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/forwarder-smart-contract-audit-aa09d7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/gossamercontractwallet-audit-f66ac5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/harbor-smart-contract-review-july-2018-772548",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/harbor-smart-contracts-review-march-2019-161552",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/hive-contracts-review-report-6b945f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/livetree-contract-review-9f5eee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/marble-smart-contracts-audit-part-i-6d565f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/marble-smart-contracts-audit-part-ii-1fc7d6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/paragoncoin-token-contract-review-cb593c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/peeritycoin-token-contract-review-8be684",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/reyalabs-reyanetworkparti-v-1-0-d01a9c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/reyalabs-reyanetworkpartii-v-2-0-a381c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/reyalabs-reyanetworkpartiii-v-1-0-217677",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/rosca-token-contract-review-ddccbb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/set-smart-contract-review-june-2019-d21a66",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/set-smart-contract-review-may-2018-06722c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/set-v2-audit-august-2020-8bdc13",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/shping-smart-contract-version-2-review-ba7cad",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/synchrocoin-smart-contract-review-735997",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/tats-smart-contract-final-review-dfa908",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/timelock-smart-contract-audit-727521",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/tornado-circuit-audit-620378",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "circom",
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/tornado-cryptographic-review-6148e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/iden3/circomlib"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/tornado-solidity-audit-0d7dd8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/tornadocash-anonymity-mining-first-audit-abdk-e46561",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/transcodium-smart-contract-review-a8dd66",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/wallie-smart-contract-review-3acbd6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "abdk/wizcoin-token-contract-review-de2bda",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/wwh-smart-contract-review-a6548c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "abdk/zksync-1-0-audit-june-2020-796722",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ }
+]

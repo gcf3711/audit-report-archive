@@ -1,0 +1,1581 @@
+[
+ {
+  "id": "ackee/ackee-blockchain-1inch-fixed-rate-swap-report-6c4a74",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/1inch/fixed-rate-swap"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-aave-umbrella-report-8d2c2d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-astrid-finance-1-1-report-473558",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-2-report-ef53f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-3-report-0c4dd7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-4-report-7bb9df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-5-report-dd1b24",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-6-report-d6ab8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-7-report-638cd8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-crosschain-dex-report-1a1d9f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-interchain-token-service-report-27fc86",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-report-413eab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-axelar-squid-report-fceac0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-bitdca-staking-contracts-report-f29e5d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-brahma-console-v2-report-0a5081",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-breederdao-token-migrator-report-036819",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-candide-social-recovery-report-2d5ce0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-catalyst-generalised-incentives-report-536962",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-cian-yield-layer-report-2273cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-cow-flash-loan-router-report-e5dc49",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-cow-protocol-composablecow-extensiblefallbackhandler-report-c10d9e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-debridge-report-5ffc9e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-everstake-eth2-batch-deposit-report-eee187",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-everstake-report-793230",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-everstake-staking-report-8f3880",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-fluidkey-earn-module-report-96ccd1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-glitter-report-f7f8dc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-gnosis-report-a091ba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-goodghosting-report-7c7fcb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/Good-Ghosting/goodghosting-smart-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-goodghosting-report-a73bd1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-greenhood-contracts-report-6b1c48",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-helio-report-c4ca04",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-hyperlend-protocol-report-fee4d9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-ipor-mining-1-3-report-333e7a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-ipor-mining-report-f72192",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-ipor-protocol-1-4-report-f36df5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-ipor-protocol-report-763820",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-ipor-token-1-1-report-d44d05",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-kamino-lend-fuzz-tests-report-ea366e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-kapital-dao-report-8680b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layer-zero-4-report-0919f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-2-report-c6a659",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-3-report-94e56a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-prooflib-report-5775f8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-report-200b9d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-solidity-examples-2-report-5c9578",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-solidity-examples-report-d75728",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-stargate-2-report-7d1e22",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-layerzero-stargate-report-cc0142",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-leech-protocol-leech-protocol-report-79b8da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-let-s-get-hai-new-core-features-report-edb846",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-community-staking-module-report-6e76f9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-csm-v2-report-044937",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-simple-delegation-report-d53631",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-staking-router-v2-report-8c56b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-steth-optimism-report-a0e97d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-stonks-2-0-report-153344",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-stonks-report-6848ff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-triggerable-withdrawals-report-e51ba1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-lido-vault-wrapper-report-ce6af5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-liquid-bitcoin-lombard-finance-report-00fde9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-looksrare-staking-v2-report-b63ca3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-marinade-report-9064be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/marinade-finance/marinade-anchor"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-metadao-the-fundraising-and-report-d4cf90",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-monerium-smart-contracts-report-496f9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-monerium-smart-contracts-report-acde44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-monerium-v2-report-aa4789",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-neon-evm-report-0ffa58",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-neon-spl-governance-report-bed834",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-ovn-core-report-2c89c6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-ovn-ets-report-0f98ca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-pendle-report-3bdd2f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-printr-protocol-report-8e9efd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-pwn-protocol-report-36b3bc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-reserve-report-fe13bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-rhinestone-core-modules-report-2ab40c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-rhinestone-registry-report-403745",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-rhinestone-safe7579-report-2e5c02",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-safe-4337-module-report-fix-c0ba8d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-safe-report-3f2396",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-safe-report-cbbd86",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-safe-smart-account-report-da1bbb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-siren-amm-report-198b93",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-solady-report-056c89",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "yul"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-sollightning-report-cc89a8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-stable-labs-report-69f866",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-trader-joe-boostedmasterchefjoe-report-cfed9d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-trader-joe-report-b15f44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-unstoppable-domains-web3-domains-report-ff87f9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-vfat-farm-strategies-report-b3136d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-vfat-sickle-report-dcfc9f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-watt-protocol-first-universal-liquid-report-420c7e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "ackee/ackee-blockchain-wormhole-worldcoin-world-id-state-root-bridge-report-375252",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-zkemail-email-recovery-report-7560a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-zunami-report-ba108f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/ZunamiLab/ZunamiProtocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "ackee/ackee-blockchain-zunami-uzd-report-c99d13",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ }
+]

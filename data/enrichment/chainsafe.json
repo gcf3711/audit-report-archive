@@ -1,0 +1,495 @@
+[
+ {
+  "id": "chainsafe/1inch-11-2022-7e81b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/b3-points-08-2024-c0cba7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/beamer-01-2023-d2849c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/connext-12-2020-5e9136",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/delv-06-2023-d7792f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/delv-10-2021-6396f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/epns-protocol-03-2021-5682a6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/epns-protocol-05-2023-c6f0fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/epns-protocol-10-2021-535f37",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/epns-protocol-11-2022-5d6723",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/exactly-finance-05-2022-4b3bf3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/exactly-protocol-03-2024-fad328",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/exactly-protocol-10-2022-1f9832",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/franklin-06-2023-597d4d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/gnosis-05-2023-10d1d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsafe/gnosis-07-2023-d597ca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsafe/gnosis-08-2023-215bf9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "gnosis"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsafe/grappa-finance-02-2023-19c60f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/hashnote-vaults-02-2023-42ae67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/niftykit-v2-08-2022-7ba14e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/opengsn-03-2021-cc5c45",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/propy-auction-v2-05-2024-83072b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsafe/propy-nft-staking-02-2024-d90bcd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/propy-nft-staking-v2-05-2024-ee70a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/propy-payment-02-2024-f45c7c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/ribbon-07-2023-abde6f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/ribbon-finance-04-2021-932056",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/ribbon-finance-11-2021-4a8288",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/ribbonv2-july-2021-e28cae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/rocket-pool-04-2024-63e980",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/shape-gasback-08-2024-e1fd5a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/thegraph-04-2021-8a3ec5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsafe/zenon-05-2023-db9505",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ }
+]

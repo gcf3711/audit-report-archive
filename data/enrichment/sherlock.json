@@ -1,0 +1,6200 @@
+[
+ {
+  "id": "sherlock/2022-02-09-final-tempus-audit-report-7160b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/tempus-finance/tempus-protocol"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-06-02-preliminary-perennial-audit-report-c93625",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-mono"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-06-06-final-flux-audit-report-e18f43",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/fluxprotocol/fpo-evm"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-06-18-final-flux-follow-up-audit-report-f04eae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/fluxprotocol/fpo-evm"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-06-27-final-lyra-audit-report-d7f258",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/lyra-finance/lyra-protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-06-30-final-hook-audit-report-9dfe0d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/hookart/protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-07-05-final-opyn-squeeth-crab-v2-audit-report-9f8d36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-08-24-final-liquifi-audit-report-8536c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "flow",
+   "optimism",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/LiquiFi/vesting-contracts-v1"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm",
+   "other"
+  ]
+ },
+ {
+  "id": "sherlock/2022-08-24-final-perennial-audit-report-b9d11b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-mono"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-10-04-final-sherlock-audit-report-d29381",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-10-12-final-harpie-audit-report-4162ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-09-harpie-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-10-18-final-sentiment-audit-report-d1d781",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-08-sentiment-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-11-04-final-merit-circle-audit-report-e8046c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-10-merit-circle-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-11-09-final-fiat-i-audit-report-4f50d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-11-10-final-astaria-audit-report-a47425",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-10-astaria-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-11-16-final-nftport-audit-report-4c9c88",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-10-nftport-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-11-22-final-mover-audit-report-a52943",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-10-mover-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-11-28-final-rage-trade-audit-report-780d3b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-10-rage-trade-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-11-29-final-bond-protocol-audit-report-344e0d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-bond-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-12-01-final-frankendao-audit-report-162c41",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-frankendao-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-12-02-final-perennial-november-update-audit-report-a449a0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-mono"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-12-08-final-buffer-finance-audit-report-1bdc00",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-buffer-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-12-09-final-opyn-crab-netting-audit-report-0998f0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-opyn-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-12-12-final-bullvbear-audit-report-f66741",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-bullvbear-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2022-12-12-final-dodo-audit-report-ba7ebf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-dodo-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-12-12-final-telcoin-audit-report-268faa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-telcoin-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2022-12-27-final-nouns-dao-audit-report-e844f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-11-nounsdao-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-01-21-final-sentiment-january-update-audit-report-5a1328",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-01-sentiment-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-01-22-final-perennial-december-update-audit-report-a2795a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-mono"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-01-24-final-lyra-audit-report-009dfc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2022-12-lyra-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-01-24-final-sentiment-december-update-audit-report-00d576",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sentimentxyz/oracle"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-01-24-final-sentiment-november-update-audit-report-d7976a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sentimentxyz/protocol"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-02-28-final-perennial-february-update-audit-report-d0e9bd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-mono"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-03-02-final-surge-audit-report-1bbbb4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-surge-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-03-final-optimism-bedrock-audit-report-0a7a32",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-01-optimism-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-03-06-final-hats-audit-report-ae622e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-hats-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-10-final-volta-audit-report-fac950",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-volta-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-17-final-uxd-audit-report-fd7ea3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-01-uxd-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-21-final-union-finance-update-audit-report-ccf94d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-union-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-03-24-final-gmx-audit-report-6f451e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-gmx-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-25-final-kairos-loan-audit-report-f908fa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-kairos-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-27-final-openq-audit-report-563123",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-openq-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-27-final-y2k-audit-report-3f3da4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-03-Y2K-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-29-final-carapace-audit-report-e3cc6f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-carapace-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-03-30-final-telcoin-update-audit-report-0986f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-telcoin-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-04-04-final-bond-protocol-update-audit-report-a503be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-bond-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-04-15-final-notional-update-3-audit-report-7f21a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-notional-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-04-22-final-teller-audit-report-16e30b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-03-teller-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-04-24-final-splits-audit-report-981044",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-splits-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-05-05-final-footium-audit-report-118c2d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-footium-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-05-10-final-jojo-exchange-audit-report-6518cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-jojo-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-05-12-final-dodo-margin-trading-audit-report-f7d764",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-05-dodo-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-05-15-final-notional-v3-audit-report-c81f11",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-03-notional-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-05-25-final-eco-protocol-audit-report-799e67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-05-ecoprotocol-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-06-04-final-gmx-update-audit-report-0872da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-gmx-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-06-11-final-iron-bank-audit-report-4093d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-05-ironbank-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-06-12-final-unitas-protocol-audit-report-e9aab9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-unitasprotocol-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-06-14-final-index-audit-report-cf003b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-05-Index-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-06-15-final-perennial-audit-report-257fff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-05-perennial-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-06-22-final-ajna-update-audit-report-fb97c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-ajna-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-06-29-final-arrakis-audit-report-8ce926",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-arrakis-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-01-final-dodo-v3-audit-report-3ef4de",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-dodo-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-03-final-dinari-audit-report-d62296",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-dinari-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-03-final-hubble-exchange-audit-report-159ebe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-hubble-exchange-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-07-03-final-symmetrical-audit-report-6da0cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-symmetrical-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-05-final-unstoppable-audit-report-c8b6b4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-unstoppable-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-08-final-bond-options-audit-report-b8317f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-bond-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-08-final-gfx-labs-audit-report-3fc2be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-gfx-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-11-final-glif-audit-report-50e200",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-glif-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-15-final-ajna-update-audit-report-d826c8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-04-ajna-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-17-final-index-update-audit-report-c0a685",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-Index-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-07-21-final-tokensoft-audit-report-babf77",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-tokensoft-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-08-15-final-perennial-v2-audit-report-0952b2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-07-perennial-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-08-15-final-perennial-v2-audit-report-c833d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-07-perennial-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-08-29-final-tokemak-v2-audit-report-884723",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-tokemak-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-09-04-final-symmetrical-update-audit-report-338ec0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-08-symmetrical-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-09-06-final-kyberswap-audit-report-3dec60",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-07-kyber-swap-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-09-23-final-perennial-v2-fix-review-audit-report-b21b2c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-09-perennial-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-1-12-final-nouns-builder-audit-report-a5ede2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-09-nounsbuilder-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-10-04-final-syndr-audit-report-8be052",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-syndr-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-10-23-final-real-wagmi-2-audit-report-f32961",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-10-real-wagmi-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-10-28-final-aloe-audit-report-509110",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-10-aloe-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-11-04-final-looksrare-audit-report-cc7261",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-10-looksrare-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-11-14-final-perennial-v2-update-1-audit-report-0d8d8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-10-perennial-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-11-25-final-notional-update-4-audit-report-8cc2bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-10-notional-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-11-29-final-convergence-audit-report-a09e62",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-11-convergence-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-12-24-final-dodo-gsp-audit-report-76beea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-dodo-gsp-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-12-26-final-olympus-rbs-2-0-audit-report-bf7990",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-11-olympus-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-12-30-final-dodo-v3-update-audit-report-911271",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-dodo-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-13-04-final-olympus-update-audit-report-15dc57",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-03-olympus-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-17-12-final-footium-update-audit-report-2c944a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-18-04-final-sense-update-audit-report-69e792",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-03-sense-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-19-04-final-taurus-audit-report-69939b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-03-taurus-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-21-09-final-allo-v2-audit-report-0e0cb0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-09-Gitcoin-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-22-09-final-cooler-update-audit-report-1911c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-08-cooler-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-24-04-final-kairos-loan-audit-report-f4c112",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-02-kairos-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-25-06-final-real-wagmi-audit-report-0ddb2d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-06-real-wagmi-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2023-25-12-final-layer3-audit-report-cccc36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2023-27-10-final-ajna-2-audit-report-0d5502",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-09-ajna-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-05-final-symm-io-audit-report-89fc86",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-08-final-truflation-audit-report-81c207",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-truflation-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-10-final-ubiquity-audit-report-5b5bd4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-ubiquity-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-13-final-rio-vesting-escrow-audit-report-0c4792",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-01-rio-vesting-escrow-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-15-final-telcoin-platform-audit-audit-report-f3f32a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-01-telcoin-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-18-final-jojo-exchange-update-audit-report-cb4a55",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-18-final-notional-update-5-audit-report-312671",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-notional-update-5-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-24-final-looksrare-yolo-audit-report-c6c218",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-01-looksrare-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-01-25-final-olympus-on-chain-governance-audit-report-6f3823",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-01-olympus-on-chain-governanc"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-01-26-final-covalent-audit-report-4584d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-11-covalent-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-02-04-final-flat-money-audit-report-578b36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-flatmoney-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-02-08-final-rubicon-finance-audit-report-cb7e42",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-rubicon-finance-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-02-13-final-100x-audit-report-0619f5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "move"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-01-100x-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-02-16-final-arcadia-audit-report-1613c5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-arcadia-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-02-16-final-stealth-audit-report-e1ada7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-stealth-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-02-26-final-napier-audit-report-dc500d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-01-napier-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-02-27-final-real-wagmi-2-update-audit-report-ead4c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-leverage-contracts-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-05-final-jala-swap-audit-report-7c7f3f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-jala-swap-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-06-final-smilee-finance-audit-report-f85575",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-smilee-finance-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-07-final-rio-network-audit-report-7ce54b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-jud"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-07-final-telcoin-platform-audit-update-audit-report-53ea72",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-telcoin-platform-audit-update"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-15-final-tapioca-audit-report-490008",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-tapioca-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-18-final-amphor-audit-report-565780",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-amphor-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-18-final-perpetual-audit-report-b895b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-perpetual-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-03-20-final-woofi-swap-audit-report-cd1096",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-woofi-swap-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-20-final-zap-protocol-audit-report-fa8c4c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-zap-protocol-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-21-final-copra-finance-audit-report-c5ac49",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-copra-finance-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-22-final-mento-audit-report-3c12e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-mento-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-03-22-final-radicalxchange-audit-report-dbb38f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-radicalxchange-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-23-final-wagmileverage-v2-audit-report-a45994",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-wagmileverage-v2-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-25-final-seismic-finance-audit-report-fcee57",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-seismic-finance-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-27-final-m-0-audit-report-dec488",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-10-mzero-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-28-final-vvv-vesting-staking-audit-report-f05743",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-30-final-axis-finance-audit-report-eac494",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-axis-finance-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-03-31-final-goat-trading-audit-report-457e7b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-goat-trading-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-04-01-final-nouns-dao-clients-incentives-audit-report-e4b527",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-nouns-dao-2-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-04-04-final-optimism-fault-proofs-audit-report-4cac34",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-optimism-2024-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-04-06-final-perennial-v2-update-2-audit-report-823f87",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-02-perennial-v2-3-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-04-12-final-flat-money-fix-review-contest-audit-report-6e7524",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-04-13-final-xkeeper-audit-report-3b4d8a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-xkeeper-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-04-19-final-alchemix-optimism-bridging-and-reward-routing-audit-report-345219",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-alchemix-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-04-25-final-arcadia-aerodrome-integrations-audit-report-65d003",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-arcadia-pricing-module-judgin"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-04-25-final-zivoe-audit-report-53d69a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-zivoe-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-04-26-final-titles-publishing-protocol-audit-report-1bd53f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-titles-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-04-29-final-teller-finance-audit-report-ed7c11",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-teller-finance-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-05-02-final-fairside-network-audit-report-859395",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-fairside-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-05-02-final-uncuts-app-by-rekt-audit-report-2122c1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-uncuts-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-05-04-final-exactly-protocol-audit-report-83f8a0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-04-interest-rate-model-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-05-12-final-kwenta-x-perennial-integration-update-audit-report-bdb3cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-05-20-final-gamma-locked-staking-contract-audit-report-7ba495",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-gamma-staking-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-05-24-final-sophon-farming-contracts-audit-report-e98e05",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-sophon-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-05-28-final-beefy-cowcentrated-liquidity-manager-audit-report-d1d5aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-beefy-cowcentrated-liquiditymanager-judging"
+  }
+ },
+ {
+  "id": "sherlock/2024-05-31-final-midas-audit-report-82fc1e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-midas-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-01-final-terrace-audit-report-244d09",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-terrace-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-04-final-arrakis-valantis-sot-audit-audit-report-08b382",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-03-arrakis-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-04-final-tokensoft-distributor-contracts-update-audit-report-5de193",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-tokensoft-distributor-contract"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-06-final-pooltogether-the-prize-layer-for-defi-audit-report-f8b9df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-pooltogether-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-09-final-telcoin-wallet-audit-report-253efb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity",
+   "yul"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-assembly-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-20-final-elfi-audit-report-050ebb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-elfi-protocol-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-22-final-dhedge-audit-report-7f04c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-dhedge-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-06-22-final-symmio-v0-83-update-contest-audit-report-d5714e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-symmetrical-update-2-judgin"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-24-final-aleo-audit-report-a28804",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-aleo-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-27-final-mellow-modular-lrts-audit-report-aebcda",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-mellow-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-06-30-final-orderly-network-audit-report-16d1aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-orderly-network-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-03-final-notional-leveraged-vaults-pendle-pt-and-vault-incentives-audit-be3e7c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-11-final-deepr-audit-report-ee0927",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-deepr-finance-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-11-final-magicsea-the-native-dex-on-the-iotaevm-audit-report-0a839f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-magicsea-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-13-final-union-finance-update-2-audit-report-a7bdab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-union-finance-update-2-judgi"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-16-final-aloe-update-audit-report-4db037",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-aloe-update-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-17-final-super-boring-audit-report-d987be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-superboring-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-19-final-allora-audit-report-1a9d5b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-allora-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-25-final-exactly-protocol-update-staking-contract-audit-report-698f68",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-ju"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-07-25-final-velocimeter-audit-report-d9898a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-velocimeter-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-08-03-final-kwenta-staking-rewards-upgrade-audit-report-8f652d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-07-kwenta-staking-contracts-jud"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-08-05-final-makerdao-endgame-audit-report-5be5e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-makerdao-endgame-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-08-20-final-winnables-raffles-audit-report-765154",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-winnables-raffles-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-08-24-final-sentiment-v2-audit-report-628381",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-sentiment-v2-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-08-29-final-rumpel-point-tokenization-protocol-audit-report-cd4329",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-09-09-final-velar-artha-perpdex-audit-report-12da8c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "audit_kind": "competition",
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-velar-artha-judging"
+  },
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "sherlock/2024-09-10-final-zerolend-one-audit-report-5857b7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-new-scope-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-09-13-final-perennial-v2-update-3-audit-report-40d58a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-perennial-v2-update-3-judgin"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-09-15-final-flayer-audit-report-e61ccc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-flayer-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-09-20-final-boost-core-incentive-protocol-audit-report-135c61",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-09-21-final-saffron-lido-vaults-audit-report-9ccd49",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-saffron-finance-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-09-23-final-morphl2-audit-report-3853ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-morphl2-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-09-24-final-woofi-swap-on-solana-audit-report-586175",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-woofi-solana-deployment-jud"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "sherlock/2024-09-25-final-thanos-l2-native-token-bridge-audit-report-f82709",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-tokamak-network-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-10-07-final-predict-fun-lending-market-audit-report-0bce2c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-09-predict-fun-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-10-08-final-symmio-v0-8-4-update-contest-audit-report-c0d3af",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-09-symmio-v0-8-4-update-conte"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-10-21-final-index-x-morpho-leverage-integration-audit-report-63ce5e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-10-morpho-x-index-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-10-27-final-gamma-brevis-rewarder-audit-report-bbed9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-10-gamma-rewarder-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-10-27-final-orderly-solana-vault-contract-audit-report-092a8e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-09-orderly-network-solana-contract-j"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "sherlock/2024-10-29-final-covalent-ewm-light-client-audit-report-dec89a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-10-covalent-2-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-10-31-final-mento-x-good-integration-audit-report-cbcac6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-10-mento-update-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-01-final-avantis-v1-5-cross-asset-leverage-audit-report-334d35",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-09-avantis-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-02-final-ethos-network-social-contracts-audit-report-08937b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-10-ethos-network-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-09-final-telcoin-update-2-audit-report-15bde7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-telcoin-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-13-final-velodrome-cf7a58",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/velodrome-finance/superchain-contracts-private"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-11-17-final-vvv-launchpad-investments-token-distribution-audit-report-3f21dd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-vvv-exchange-update-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-23-final-hatssignergate-v2-audit-report-079476",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-hats-protocol-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-24-final-superfluid-locker-system-audit-report-0ea54c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-superfluid-locking-contract-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-25-final-debita-finance-v3-audit-report-d749b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-10-debita-judging"
+  }
+ },
+ {
+  "id": "sherlock/2024-11-28-final-wasabi-audit-report-7f20d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/DkodaLabs/wasabi_perps"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-11-30-final-nouns-dao-auction-streams-audit-report-e9d1e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-12-01-final-extra-finance-audit-report-26bfef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-extra-finance-v1-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-12-02-final-resolv-core-audit-report-8315d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-resolv-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-12-05-final-ethos-network-financial-contracts-audit-report-a23618",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging"
+  }
+ },
+ {
+  "id": "sherlock/2024-12-09-final-oku-s-new-order-types-contract-contest-audit-report-19ca21",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-oku-judging"
+  }
+ },
+ {
+  "id": "sherlock/2024-12-10-final-teller-lender-groups-update-audit-audit-report-4d3fe8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-teller-finance-update-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-12-17-final-tally-collaborative-audit-report-82cbec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/withtally/govstaking"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-12-21-final-idle-finance-credit-vaults-audit-report-6ef3d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-12-idle-finance-judging"
+  }
+ },
+ {
+  "id": "sherlock/2024-12-21-final-mach-finance-audit-report-3488df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "sonic"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-12-mach-finance-judging"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2024-12-22-final-tally-arb-staker-audit-report-2aedd6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2024-12-30-final-ethos-reputation-market-fix-review-contest-audit-report-53532f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-12-ethos-update-judging"
+  }
+ },
+ {
+  "id": "sherlock/2024-22-01-final-avail-audit-report-278c2c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2023-12-avail-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-01-02-final-cork-best-efforts-audit-contest-report-b1ff52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-cork-protocol-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-01-03-final-axion-audit-report-7ae3d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-10-axion-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-01-31-final-beraborrow-audit-report-fc5072",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2025-01-31-final-perennial-v2-update-4-audit-report-362902",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-01-perennial-v2-4-update-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-02-11-final-rain-private-best-efforts-audit-contest-report-d87c2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-11-rain-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-02-15-final-aave-public-audit-contest-report-5cee4c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-01-aave-v3-3-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-03-10-final-symmio-staking-and-vesting-audit-report-e62c66",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-03-14-final-crestal-network-audit-report-2b48e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-03-crestal-network-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-03-14-final-pinlink-rwa-tokenized-depin-marketplace-audit-report-5006a0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-04-26-final-aegis-collaborative-audit-report-a8a298",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-04-aegis-staked-yusd"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "sherlock/2025-05-03-final-aegis-im-yusd-audit-report-39c5b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-04-aegis-op-grant-judging"
+  },
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "sherlock/2025-05-29-final-native-smart-contract-v2-audit-report-66d623",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-05-native-smart-contract-v2-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-05-30-final-metalend-collaborative-audit-report-e08430",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-05-metalend-may-19th-2025"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-06-05-final-seamless-protocol-collaborative-audit-report-1749131188-01bcd8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-04-seamless-protocol-leverage-token"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-06-27-final-apebond-collaborative-audit-report-1751030104-92b3ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "frameworks": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "frameworks": [
+   "anchor"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "sherlock/2025-07-04-final-metalend-collaborative-audit-report-fdd1fe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-06-metalend-june-24th"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-07-18-final-notional-exponent-audit-report-c19c0a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-08-14-final-malda-audit-report-ff687b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/2025-08-15-final-highway-collaborative-audit-report-1755278424-c5cd40",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-08-20-final-report-hydrex-collaborative-audit-report-7a2363",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-08-24-final-neutrl-protocol-audit-report-753920",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-08-neutrl-protocol-judging"
+  }
+ },
+ {
+  "id": "sherlock/2025-09-10-final-football-fun-collaborative-audit-report-1757498747-eb6fbe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-08-football-fun-revision-audit-aug-26"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-09-11-final-usg-tangent-audit-report-eed540",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-09-23-final-vesu-starknet-vault-kit-collaborative-audit-report-33c8fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "sherlock/2025-10-16-final-atleta-network-collaborative-audit-report-3cbbb9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-10-31-final-vesu-vaults-collaborative-audit-report-1761914943-d38945",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-09-vesu-vaults-periphery-contracts-s"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "sherlock/2025-11-06-final-football-fun-collaborative-audit-report-1762392691-1-918019",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-10-football-fun-oct-29th"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-12-09-final-prodigy-finance-collaborative-audit-report-1765292688-a9bd6e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-09-prodigy-finance-sept-25th"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2025-12-10-final-vesu-collaborative-audit-report-1765410223-256106",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-11-vesu-nov-10th"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "sherlock/2025-12-16-final-fluent-collaborative-audit-report-1765847709-6a82e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-12-fluent-dec-10th"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-01-21-final-atleta-network-collaborative-audit-report-1768993820-8d1bf3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2026-01-atleta-immutable-contract-jan-17t"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-01-23-final-nuva-labs-collaborative-audit-report-1769163881-d75ffa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cosmos"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-11-provlabs-nu-blockchain-nov-20th"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "cosmos"
+  ]
+ },
+ {
+  "id": "sherlock/2026-02-03-final-yieldfi-collaborative-audit-report-1770139561-b2c6c6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-02-05-final-aave-labs-collaborative-audit-report-1770295450-42ab84",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-02-10-final-tori-finance-collaborative-audit-report-1770734349-c1bad1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2026-01-tori-finance-jan-15th"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-02-18-final-fluent-collaborative-audit-report-1771428647-64487c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "solana"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "sherlock/2026-02-27-final-easya-kickstart-collaborative-audit-report-1772158857-82529f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2026-02-easya-feb-19th"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-03-06-final-notional-collaborative-audit-report-1772819509-6abea2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-03-10-final-veil-cash-collaborative-audit-report-1773152467-4b84e3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2026-02-veil-cash-mar-2nd-2026"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-03-18-final-vesu-collaborative-audit-report-1773874144-639bef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "sherlock/2026-05-14-final-aave-labs-collaborative-audit-report-1778767107-d77119",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/2026-06-16-final-odei-collaborative-audit-report-1781625249-b27aed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/ajna-coverage-agreement-2023-07-15-aaff15",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "bsc",
+   "ethereum",
+   "fantom",
+   "optimism",
+   "polygon",
+   "tron"
+  ],
+  "scope": {
+   "repo": "https://github.com/ajna-finance/contracts"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/arcadia-coverage-agreement-2024-04-01-af0141",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/arcadia-finance/accounts-v2"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/arcadia-finance-coverage-agreement-2024-03-25-7063c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/arcadia-finance/accounts-v2"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/buffer-finance-coverage-agreement-1d035b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/bufferfinance/Buffer-Protocol-v2"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/cascade-final-blackthorn-report-4e4ef2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/euler-coverage-agreement-262f68",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/euler-coverage-agreement-revised-2022-10-19-7f66dd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/euler-xyz/euler-contracts"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/final-report-nuva-labs-5ed396",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cosmos"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-11-provlabs-nu-blockchain-nov-20th"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "cosmos"
+  ]
+ },
+ {
+  "id": "sherlock/flat-money-bug-bounty-coverage-agreement-2024-06-18-10b3c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/dhedge/flatcoin-v1"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/goat-trading-bug-bounty-coverage-agreement-2024-05-14-e4e82e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "bsc",
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/inedibleX/goat-trading"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/holyheld-coverage-agreement-2023-06-23-4de21e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/hook-coverage-agreement-2023-06-23-64b483",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/hookart/protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/hook-protocol-coverage-agreement-36528a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/hookart/protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/liquifi-coverage-agreement-2023-06-23-f97ffe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LiquiFi/vesting-contracts-v1"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/liquifi-coverage-agreement-revised-2022-12-08-cccf55",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LiquiFi/vesting-contracts-v1"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/lrt-integrations-audit-report-b1519b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-05-napier-update-judging"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/lyra-avalon-coverage-agreement-revised-2022-10-19-99cffe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/lyra-finance/lyra-protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/lyra-coverage-agreement-da6869",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/lyra-finance/lyra-protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/lyra-newport-coverage-agreement-2023-06-23-4ae16c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/lyra-finance/lyra-protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/lyra-newport-coverage-agreement-2023-08-21-4dbb1c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/lyra-finance/lyra-protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/lyra-newport-coverage-agreement-revised-2023-01-30-22f9d9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/lyra-finance/lyra-protocol"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/mover-coverage-agreement-384ab9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism",
+   "polygon"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/openq-coverage-agreement-2023-03-27-2d18af",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/OpenQDev/OpenQ-Contracts"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/openq-coverage-agreement-2023-06-23-9d1a95",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/OpenQDev/OpenQ-Contracts"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/opyn-squeeth-coverage-agreement-2023-06-23-695470",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/opynfinance/squeeth-monorepo"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/opyn-squeeth-coverage-agreement-73d3b7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/opynfinance/squeeth-monorepo"
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "sherlock/opyn-squeeth-coverage-agreement-revised-2022-12-15-5c43ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/opynfinance/squeeth-monorepo"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/perennial-coverage-agreement-2023-06-23-acbdbf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-mono"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/perennial-coverage-agreement-2023-10-02-8ec91d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-v2"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/perennial-coverage-agreement-2024-05-22-f2bdf4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/perennial-coverage-agreement-revised-2023-02-28-47b610",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/equilibria-xyz/perennial-mono"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/rage-trade-coverage-agreement-02f944",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "scope": {
+   "repo": "https://github.com/RageTrade/delta-neutral-gmx-vaults"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/redeemer-audit-report-54c73d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2024-08-midas-minter-redeemer-judgi"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/sentiment-coverage-agreement-2023-06-23-58117a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/sentiment-coverage-agreement-revised-2023-2-17-a01e98",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-protocol/sherlock-reports"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/teller-coverage-agreement-2023-07-15-1fa1b3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/teller-protocol/teller-protocol-v2"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/teller-coverage-agreement-2024-04-01-51dc7f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/teller-protocol/teller-protocol-v2"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/union-finance-coverage-agreement-2023-04-26-c700c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/unioncredit/union-v2-contracts"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/union-finance-coverage-agreement-2023-06-23-654367",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/unioncredit/union-v2-contracts"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/union-finance-coverage-agreement-2025-01-03-1829d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "scope": {
+   "repo": "https://github.com/unioncredit/union-v2-contracts"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/usual-coverage-agreement-2025-07-20-a6e3b7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-02-usual-labs"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "sherlock/usual-coverage-agreement-2025-07-22-317916",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:27+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/sherlock-audit/2025-02-usual-labs"
+  },
+  "audit_kind": "competition",
+  "ecosystems": [
+   "evm"
+  ]
+ }
+]

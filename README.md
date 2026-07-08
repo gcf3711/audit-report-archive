@@ -6,12 +6,14 @@ and Markdown indexes are tracked in git; the report files themselves are not
 committed (copyright stays with the audit firms) and are fully reproducible
 with one command.
 
-Current scope is **collection only** — report content analysis is a later phase.
+Scope: **collection** (done, kept fresh monthly) and **metadata enrichment**
+(phase 2, in progress — chain / language / category per report, see
+[Enrichment](#enrichment-phase-2)); report content analysis is a later phase.
 
 ## Status
 
 <!-- STATUS:BEGIN -->
-**9409** reports catalogued across **47** sources (**7680** PDF, **1729** HTML) — **9377** verified downloadable (fetched locally), **32** unavailable (upstream dead links or archive-only). Last updated **2026-07-07**.
+**9409** reports catalogued across **47** sources (**7680** PDF, **1729** HTML) — **9377** verified downloadable (fetched locally), **32** unavailable (upstream dead links or archive-only). Last updated **2026-07-08**.
 
 | Source | Reports | PDF | HTML | Downloadable | Unavailable | Listing |
 |---|---|---|---|---|---|---|
@@ -137,13 +139,39 @@ python -m audit_collector build-index           # regenerate indexes/ + README s
 
 Run with `PYTHONPATH=src` if not installed (`PYTHONPATH=src python -m audit_collector ...`).
 
+## Enrichment (phase 2)
+
+`src/audit_enrich/` derives per-report metadata — target blockchains,
+implementation languages, protocol category, audit kind, in-scope repo —
+without touching collector data. Records live in
+`data/enrichment/<source>.json` keyed by catalog `id`; schema and controlled
+vocabularies in [config/enrichment.yaml](config/enrichment.yaml),
+deterministic rules in
+[config/enrichment-rules.yaml](config/enrichment-rules.yaml).
+
+Cheap layers run first; each value carries `provenance` (method +
+confidence), and a later pass only overrides a stronger one by the authority
+rule in `store.py` (manual edits always win):
+
+```bash
+python -m audit_enrich extract          # 0: report text -> data/cache/text/
+python -m audit_enrich enrich           # 1+2: source priors + keyword/regex
+python -m audit_enrich llm [--limit N]  # 3: local `claude` CLI for the gaps
+python -m audit_enrich status           # coverage per source
+```
+
+The LLM layer shells out to the logged-in Claude Code CLI (`claude -p`,
+no API key) and only processes reports the deterministic layers left
+incomplete; it is resumable and validates every answer against the
+vocabularies.
+
 ## Metadata schema
 
 Each catalog entry (`data/catalog/<source>.json`):
 
 | field | meaning |
 |---|---|
-| `id` | `<source>/<slug>` |
+| `id` | `<source>/<title-slug>-<url-hash>` (stable + unique; enrichment join key) |
 | `source` / `source_name` | source key / display name |
 | `project`, `title` | audited project, report title |
 | `date` | ISO date (`YYYY-MM-DD`, `YYYY-MM`, or `YYYY`); best-effort |

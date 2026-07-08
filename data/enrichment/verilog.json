@@ -1,0 +1,397 @@
+[
+ {
+  "id": "verilog/benddao-v2-audit-report-ebaf89",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/BendDAO/bend-v2"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "verilog/bitty-audit-2025-jul-147034",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/dodo-stake-contract-audit-report-7c843b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/DODOchain/stake-contract"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/gemnify-audit-report-24f33d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/GMX-For-NFT/gemnify-contract"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/mantle-l2-erc20-token-bridge-report-6a828b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/mantlenetworkio/lido-l2"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/mantle-lsp-l2-report-3ab0c4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/mantle-lsp/L2-token-contract"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/mantle-mdi-quests-report-a752c3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/mantle-xyz/mdi-quests"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/mantle-staking-hub-audit-report-58a4ef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/marionette-thena-adapter-report-6e0767",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/redacted-cartel/hidden-hand-marionette"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "verilog/netz-audit-joint-report-7abcac",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "verilog/redacted-hidden-hand-marionette-report-4ca6b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/redacted-cartel/hidden-hand-marionette"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "verilog/sonorus-erc20-and-vester-audit-report-566575",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sonorus-network/sonorus-contract-audit"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "verilog/untangled-finance-audit-report-1eefe4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/untangledfinance/untangled-protocol-v2"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ }
+]

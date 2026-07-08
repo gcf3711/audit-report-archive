@@ -1,0 +1,3779 @@
+[
+ {
+  "id": "hexens/1inch-crosschain-aug-25-final-102ef6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/1inch/cross-chain-swap"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/1inch-crosschain-jul-25-final-de1517",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "scope": {
+   "repo": "https://github.com/1inch/solana-crosschain-protocol"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "hexens/1inch-crosschain-jun-25-final-c51199",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "scope": {
+   "repo": "https://github.com/1inch/solana-crosschain-protocol"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "hexens/1inch-fusionmode-hexens-1-296628",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/1inch-fusionmode-hexens-2-8d95f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/1inch-mar-23-public-00269f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/1inch-nov23-public-c59dcb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/1inch-oct23-public-ba8df3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/1inch-review-apr24-5f41f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/1inch/limit-order-protocol"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/1inch-sol-feb-25-public-1ccc6f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon",
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "hexens/algebra-public-11-08-ff24dc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/cryptoalgebra/Algebra"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/anq-stablecoin-jan-26-final-4b4e5a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/api3-public-aff15e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/api3dao/api3-dao"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/astrolab-april23-audit-public-upd-d9663c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/avacloud-circuits-audit-apr25-final-da3f77",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "circom"
+  ],
+  "scope": {
+   "repo": "https://github.com/ava-labs/EncryptedERC"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/avacloud-etrapay-audit-jan25-final-15276e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/ava-labs/EncryptedERC"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/azuro-public-38efa3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Azuro-protocol/Azuro-v2"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/babylon-jan-2023-31128b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/bahamut-april23-public-490ccd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/basisos-nov-24-final-797297",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/camino-network-03-2e0f23",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/camino-network-security-review-20-02-4a0e94",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/celo-staking-audit-mar24-public-36d0f8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "celo",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/celo-org/staked-celo"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/chaos-bgd-labs-edge-apr-25-final-c1263f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/ChaosLabsInc/chaos-agents"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/clabs-june23-public-governance-protocol-v2-c003fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/deq-fi-audit-may24-public-2126cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/refresh-labs/deq-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/eigenlayer-apr-25-final-55c267",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Layr-Labs/eigenlayer-middleware"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/eigenlayer-oct23-public-restaking-liquid-staking-712805",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/everclear-dec-25-final-83d170",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "scope": {
+   "repo": "https://github.com/everclearorg/monorepo"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "hexens/fasttoken-public-b976dd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/fasttoken1/fasttoken-distribution-eth-contr"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/fuel-audit-pre-deposit-contract-june-24-public-1b5ae9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/FuelLabs/predeposit-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fuel-audit-september-2024-connectors-predicates-public-45efb4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/FuelLabs/fuel-connectors"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fuel-audit-september-2024-diffs-on-the-bridge-and-state-contracts-public-172787",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/FuelLabs/fuel-bridge"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fuel-audit-september-2024-points-migration-function-public-694ae9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/FuelLabs/predeposit-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fuel-bridge-apr24-public-0c9963",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fuel-o2-aug-25-final-ab6145",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/FuelLabs/fuel-o2"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/fuel-o2-oct-25-final-006645",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/FuelLabs/fuel-o2"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/fuel-sway-standard-audit-july24-public-f620d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/FuelLabs/sway-standard-implementations"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fungify-audit-feb24-public-13-07-45-63abea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/fungify-dao/taki-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fungify-audit-june-2024-public-d58770",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fungify-nft-audit-feb24-public-4dc996",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/fungify-dao/taki-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fungify-nov23-public-c7c40e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/fungify-oct23-public-48c94a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/glif-audit-july-2024-public-2-23cafc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/glif-audit-july-2024-public-34987f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/glif-plus-aug-25-final-c38ff7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/glifio/plus"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/glif-plus-nov-25-final-ba9a67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/glifio/plus"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-crosscurve-mar-26-final-6d9480",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-cybro-mar-26-final-843870",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/cybro-io/contracts-v2"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-elfomofi-apr-26-final-70654e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/ElfomoFi/elfomofi-vaults"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-katana-jan-26-final-363818",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/katana-network/kat-vault-lz"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-layercover-may-26-final-92189b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/LayerCover/protocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-layerswap-mar-26-final-a49e04",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/layerswap/layerswap-depository"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-obsdn-may-26-final-839e12",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/obsdn-trade/perpetual"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-polygon-zkevm-public-27-02-23-a76d20",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/hexens-royco-entry-point-and-integrations-apr-26-final-eabd4a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/roycoprotocol/royco-dawn"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-royco-jan-26-final-1f8b64",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-royco-mar-26-final-edb13a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/hexens-sentio-token-mar-26-final-a0aa01",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/sentioxyz/sentio-token-audit"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/hexens-zharta-feb-26-final-a13051",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Zharta/lending-erc20-protocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/holonym-zk-audit-may-2024-public-d32341",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "circom"
+  ],
+  "scope": {
+   "repo": "https://github.com/holonym-foundation/wallet-recovery-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/infura-din-oct-25-final-5f7915",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/DIN-center/din-avs"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/juiceswap-jan-26-final-baac99",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/JuiceDollar/smartContracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/kalqix-dec-25-final-38c75f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/kalqix/contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/kyberswap-dec-25-final-ee647e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/KyberNetwork/smart-intent-sc"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/kyberswap-nov-25-final-b6fcfc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/KyberNetwork/ks-aggregation-router"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/layerswap-audit-dec24-public-940331",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/layerswap/layerswap-atomic-bridge"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/layerzero-audit-aug24-216ac1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LayerZero-Labs/wrapped-asset-bridge-v2"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/layerzero-audit-jun24-a75659",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LayerZero-Labs/orbit-adapter"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/layerzero-audit-may25-f8f7f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LayerZero-Labs/ondo-oft-rate-limiter"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/layerzero-audit-oct24-ef2673",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LayerZero-Labs/devtools"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/layerzero-audit-sept24-db7408",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LayerZero-Labs/orbit-adapter"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/layerzero-zro-claim-contract-june-2024-public-c1101c1-a2f3f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/LayerZero-Labs/ZROClaim"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/lendle-deployment-audit-sep-25-final-b06878",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/lido-february23-public-upd18-04-29a795",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/logarithm-labs-metavault-jul-25-final-d6bba7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Logarithm-Labs/logarithm_metavault"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/mantissa-public-10-06-17d8ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Mantissa-Finance/shared-audit"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/mantle-cmeth-audit-aug-2024-public-6b5695",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/Se7en-Seas/cMETH-boring-vault"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/mantle-scs-aug23-public-liquid-staking-protocol-b6614b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/mantle-sep23-public-oracle-98bcac",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/meth-protocol-oct-25-final-c6bf8c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "scope": {
+   "repo": "https://github.com/mantle-lsp/contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/mintify-jan24-pentest-public-c532ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/mintify-staking-mar-25-final-4dbe03",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon",
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "hexens/moonbound-may-25-final-6320a3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/nimbus-public-0921-05189e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/nimbusplatformorg/nim-smartcontract"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/nimbus-public-161221-760bb4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/nimbusplatformorg/nim-smartcontract"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/pancakeswap-infinity-combined-core-b409d6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon",
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/pancakeswap-infinity-combined-periphery-7bd846",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/pancakeswap/pancake-v4-periphery"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/pencils-audit-aug-2024-public-f56377",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/persistence-jan24-scope1-2-public-ecc693",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "frameworks": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cosmos",
+   "polygon"
+  ],
+  "frameworks": [
+   "cosmwasm"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cosmos",
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/persistence-stkbnb-audit-april-2024-public-1-e01961",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/polygon-technology-aug23public-c701c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/quickswap-28-06-23-perps-new-commit-public-7ce5df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/quickswap-april23-public-upd-e35b26",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/risc-zero-aug23-public-e99293",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/risc0/risc0"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/risc-zero-crypto-scs-audit-may24-public-8a618f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/risc0/risc0-ethereum"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/risc0-dec-24-final-7f3b83",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/risc0/risc0-ethereu"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/risc0-povw-jul-25-final-17c339",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/risc0/zirgen"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/rocifi-aug23-public-07d840",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/rocifi-sma-public-428e23",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/RociFi/cydonia"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/rush-trading-audit-sep-2024-public-diff-f215b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/rush-trading-jan-25-public-1002-346d22",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/rush-trading/contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/secured-finance-aug-25-final-b648bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Secured-Finance/stablecoin-contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/secured-finance-dec-24-public-2aebe2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/shib-sou-v2-nov-25-final-f2d471",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/slash-payment-aug23-web3-payment-platform-public-upd-213e1f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/socket-audit-dec24-67efa1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/socket-audit-mar24-726300",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/socket-aug23-public-cross-chain-token-0e9b46",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/socket-aug23confidential-cross-chain-bridge-0409-42038c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/socket-jan24-supertoken-public-37721a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-arbitrum-audit-april-2024-public-adb3ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SpoolFi/spool-v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-audit-aug-2024-public-7121ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-audit-feb-2024-public-f6a45b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SpoolFi/spool-v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-jan24-public-1-c15d3d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SpoolFi/spool-v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-jan24-public-yield-generator-strategy-e2014b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-june-2024-ethena-strat-and-svb-public-ead02d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/solidant/spool-v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-metamorpho-audit-april-2024-public-1bc162",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SpoolFi/spool-v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/spool-strats-audit-may24-public-8a90f9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SpoolFi/spool-v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/stakewise-audit-sept-2024-public-d6af5b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/stakewise/v3-periphery"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/stakewise-aug-25-final-a121ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/stakewise/v3-periphery"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/swell-audit-jan-2024-public-492bd5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SwellNetwork/v3-contr"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/swell-l2-pre-deposit-audit-april-2024-public-4e0c9a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SwellNetwork/swell-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/swell-mar24-public-677416",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/SwellNetwork/swell-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/syncdao-report-4b3d42",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/syncdao/contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/t3rn-jun-25-final-716683",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/thesauros-oct-25-final-c45223",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Thesauros/contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/tokemak-acctoke-migration-sep-24-public-881a27",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/tokemak-audit-mar25-final-eeb8de",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/Tokemak/v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/tokemak-audit-may-2024-public-fbec4d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/tokemak-dec-24-public-5d2f12",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/Tokemak/v"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/tokemak-mainnet-follow-up-audit-july-2024-public-f2c72a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/Tokemak/v2-core"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/train-protocol-feb-25-public-upd-d40ee7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon",
+   "starknet"
+  ],
+  "languages": [
+   "cairo",
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo",
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/train-protocol-solana-fuel-audit-may25-final-04a02f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "scope": {
+   "repo": "https://github.com/TrainProtocol/contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "hexens/trendex-jan-26-final-0177ca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/trupenny-sc-75e0ae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/ufarm-may-25-final-23b71c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/UFarmDigital/UFarm-EVM-Contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/usual-susd0-nov-25-final-2e8a6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/usual-dao/USD0x-protocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/usual-susd0-oct-25-final-5a9168",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/usual-dao/core-protocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/usual-usd0pp-nov-25-final-2e9941",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/usual-dao/core-protocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/valantis-audit-sept-2024-public-4c9602",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/ValantisLabs/Validly"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/valantis-jan24-public-913f4b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/valantis-mar-25-final-3a417a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/valantis-may-25-final-03550b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/ValantisLabs/valantis-stex-khype"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/valora-audit-june24-public-57ec2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/valora-inc/swap-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/yelay-audit-sept-2024-public-2360cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/yelay-nft-rewards-audit-jan-2025-public-57f7b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/solidant/yelay-rewards"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hexens/yelay-oct-25-final-ddf36c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/YieldLayer/yelay-lite"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/zealous-may-25-final-4e0a9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/louissaadgo/zealous-swap-contract"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/zealous-may-25-final-upd-d79f17",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/louissaadgo/zealous-swap-contract"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/zharta-dec-25-final-73b77a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Zharta/lending-erc20-protocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/zharta-oct-25-final-5bc4b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Zharta/lending-erc20-protocol"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "hexens/zksync-audit-aug25-final-866f97",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "scope": {
+   "repo": "https://github.com/matter-labs/zksync-airbender"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ }
+]

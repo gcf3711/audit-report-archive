@@ -1,0 +1,101 @@
+# Deterministic enrichment rules — data for layers 1 and 2.
+# (Schema and vocabularies live in enrichment.yaml; this file must only
+# use values declared there.)
+
+# ---- layer 1: per-source priors (method: source-prior) -----------------
+# What we know about a source before opening any report. Kept deliberately
+# conservative: only facts that hold for (nearly) every report of the
+# source, at an honest confidence.
+priors:
+  certora:              {audit_kind: {value: formal-verification, confidence: high}}
+  runtimeverification:  {audit_kind: {value: formal-verification, confidence: medium}}
+  enigmadark:           {audit_kind: {value: fuzzing-campaign, confidence: medium}}
+  code4rena:            {audit_kind: {value: competition, confidence: high}}
+  sherlock:             {audit_kind: {value: competition, confidence: medium}}
+  hatsfinance:          {audit_kind: {value: competition, confidence: high}}
+  ottersec:             {chains: {values: [solana], confidence: low}}
+  informal:             {ecosystems: {values: [cosmos], confidence: medium}}
+  oaksecurity:
+    ecosystems: {values: [cosmos], confidence: medium}
+    languages:  {values: [rust], confidence: low}
+    frameworks: {values: [cosmwasm], confidence: low}
+
+# Sources that are audit firms doing engagements: default kind at low
+# confidence (any stronger signal overrides).
+default_audit_kind: {value: private-audit, confidence: low}
+
+# ---- layer 2: keyword patterns (methods: filename / text-regex) --------
+# Case-insensitive regexes, matched with word boundaries where sensible.
+# Filename pass scans title+filename+url; text pass scans the first part
+# of the extracted report text.
+keywords:
+  chains:
+    ethereum:   ['\bethereum\b', '\bmainnet\b.{0,20}\bethereum\b']
+    arbitrum:   ['\barbitrum\b']
+    optimism:   ['\boptimism\b', '\bop stack\b']
+    base:       ['\bbase (chain|network|mainnet)\b']
+    polygon:    ['\bpolygon\b', '\bmatic\b']
+    bsc:        ['\bbsc\b', '\bbnb chain\b', '\bbinance smart chain\b']
+    avalanche:  ['\bavalanche\b', '\bavax\b']
+    fantom:     ['\bfantom\b']
+    gnosis:     ['\bgnosis (chain|safe)\b', '\bxdai\b']
+    zksync-era: ['\bzksync\b']
+    scroll:     ['\bscroll\b']
+    linea:      ['\blinea\b']
+    mantle:     ['\bmantle\b']
+    celo:       ['\bcelo\b']
+    moonbeam:   ['\bmoonbeam\b', '\bmoonriver\b']
+    tron:       ['\btron\b']
+    berachain:  ['\bberachain\b']
+    sonic:      ['\bsonic (chain|network|mainnet)\b']
+    solana:     ['\bsolana\b']
+    cosmos:     ['\bcosmos\b', '\bcosmos-sdk\b', '\bibc\b.{0,30}\bcosmos\b']
+    osmosis:    ['\bosmosis\b']
+    near:       ['\bnear protocol\b', '\bnear blockchain\b']
+    aptos:      ['\baptos\b']
+    sui:        ['\bsui (blockchain|network|move)\b']
+    starknet:   ['\bstarknet\b']
+    cardano:    ['\bcardano\b', '\bplutus\b']
+    polkadot:   ['\bpolkadot\b', '\bkusama\b', '\bparachain\b']
+    ton:        ['\bton blockchain\b', '\bthe open network\b']
+    tezos:      ['\btezos\b']
+    algorand:   ['\balgorand\b']
+    hedera:     ['\bhedera\b']
+    stellar:    ['\bstellar\b', '\bsoroban\b']
+    icp:        ['\binternet computer\b', '\bicp\b.{0,20}\bcanister', '\bcanister\b.{0,30}\bicp\b']
+    flow:       ['\bflow blockchain\b', '\bcadence\b']
+    bitcoin:    ['\bbitcoin\b']
+    lightning:  ['\blightning network\b']
+
+  languages:
+    solidity:   ['\bsolidity\b', '\bpragma solidity\b']
+    vyper:      ['\bvyper\b']
+    yul:        ['\byul\b']
+    huff:       ['\bhuff\b']
+    rust:       ['\brust\b', '\bcargo\.toml\b']
+    move:       ['\bmove (language|module|contract)s?\b']
+    cairo:      ['\bcairo\b']
+    go:         ['\bgolang\b', '\bwritten in go\b']
+    haskell:    ['\bhaskell\b', '\bplutus\b']
+    func:       ['\bfunc\b.{0,30}\bton\b']
+    tact:       ['\btact\b.{0,30}\bton\b']
+    michelson:  ['\bmichelson\b', '\bsmartpy\b', '\bligo\b']
+    teal:       ['\bteal\b', '\bpyteal\b']
+    circom:     ['\bcircom\b']
+    noir:       ['\bnoir\b']
+
+  frameworks:
+    cosmwasm:   ['\bcosmwasm\b']
+    anchor:     ['\banchor\b.{0,40}\b(program|solana)\b', '\bsolana\b.{0,40}\banchor\b']
+    substrate:  ['\bsubstrate\b']
+    ink:        ['\bink!\b']
+
+  audit_kinds:
+    competition:          ['\baudit (competition|contest)\b', '\bbug bounty competition\b']
+    formal-verification:  ['\bformal verification\b', '\bformally verified\b']
+    fuzzing-campaign:     ['\bfuzzing (campaign|engagement)\b', '\binvariant test(ing)? (campaign|suite)\b']
+    limited-review:       ['\blimited (review|scope)\b', '\bpreliminary review\b']
+
+# Chains implied by other findings (applied after keyword passes):
+#   language cairo -> starknet, language teal -> algorand, etc. — kept in
+# code (layer_regex.IMPLIED) because it is logic, not vocabulary.

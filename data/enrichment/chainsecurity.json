@@ -1,0 +1,7507 @@
+[
+ {
+  "id": "chainsecurity/1inch-delegation-5bbb46",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/1inch-erc20-74f001",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/1inch-farming-c379d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/1inch-limit-order-19ca7a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/31third-adapter-e44894",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/3f-grunt-463d9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/3f-grunt-funds-770b16",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/aave-cowswap-adapters-5fe45a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/aave-v3-3a9a1b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/aave-v4-ea7bd7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/aave-v4-tokenization-spoke-989fdd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/allocator-deployment-scripts-cec4d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/angle-protocol-48ac4e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/arbitrum-token-bridge-df5778",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/archblock-33421e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/argent-account-3762ba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "chainsecurity/argent-accounts-v0-5-0-argent-accounts-v0-5-0-chainsecurity-940e84",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "chainsecurity/arrakis-modular-smart-contracts-d8be6e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/arrakis-uniswap-v4-module-755b36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/arrangerconduit-bf6b8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/augur-platform-75af8f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/bancor-carbon-723167",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/bancor-v3-b742ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/basin-smart-contracts-77bf2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/block-v-dual-token-smart-contracts-9b3295",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/block-v-smart-contract-73f0fe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/borrowing-module-a490b2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/bridge-executors-a06484",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/capped-oracle-feed-716479",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ccip-bridge-69d322",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/cctp-v2-smart-contracts-034862",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/cctp-v2-smart-contracts-inclusive-of-the-standard-transfer-fee-switch-20d731",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/cdp-registry-75d69c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/chief-migration-smart-contracts-4d6080",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/chief-smart-contracts-c017f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/circle-perimeter-0a5f30",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/circle-xreserve-smart-contracts-a4e27b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/claim-fee-4eb865",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/claystack-matic-platform-f0e1cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/compound-franchiser-v2-0ac8aa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/compound-iii-ac02a4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/compound-quark-smart-contracts-f81b18",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/compound-suptb-119b2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/conditional-tokens-da2209",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/conic-crypto-pool-update-4af651",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/conic-protocol-07ac27",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/controllers-for-truefi-carbon-08b852",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/core-engine-1677f6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/core-updates-to-sparklend-42c92c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/coreledger-7e0675",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/cross-chain-transfer-protocol-cctp-718ac7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/crvusd-d03271",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ctoken-unredacted-0543d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/curve-convex-feature-6f7320",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/curve-eth-seth-7aa089",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/curve-fast-bridge-817b49",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/curve-fee-splitter-a09a36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/curve-finance-tricrypto-aa9375",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/curve-lp-steth-oracle-f82d9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/curve-scrvusd-0bf659",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/d3m-erc4626-b61a37",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dai-teleport-bridge-9828cb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/daostack-v2-554dbc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/deuro-smart-contracts-45f569",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dfm-core-628897",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity",
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/diamond-pau-deploy-1740d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/diamond-pau-v1-12-493ee0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/diamond-pau-v1-13-3ac524",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/digixdao-cf7fc4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/direct-deposit-module-d3m-584c3e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/direct-deposit-v2-fbfb5e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/divergence-protocol-v1c-8d9071",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dma-v2-ii-smart-contracts-94bbca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dot-crypto-security-audit-2babcf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dss-allocator-c5bb36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dss-charter-2a51e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dss-crop-join-c4a4b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dss-cure-19b084",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dss-emergency-spells-3fa068",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dss-flappers-fefe66",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dss-proxy-1f3dbd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dssproxyactions-b2f9ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/dual-foundation-staking-final-db34bc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/eip4788-7e885f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/endgame-toolkit-427e59",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enso-weiroll-0990ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/enzyme-extensions-iii-8b9904",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-onyx-ccip-wallet-a9d762",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-onyx-da3eb0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-protocol-v4-sulu-200e96",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-dec-21-35907d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-ii-b7c452",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-iv-52ac6e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-v-e4917b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-vii-09fc28",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-viii-f96f8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-x-7f4167",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-xi-6fe3c4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-xii-5e3f40",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-xiii-943fc6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-xiv-a87c17",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/enzyme-sulu-extensions-xxiii-15b204",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/epoch-governor-865a01",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/erc4626-router-384b30",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/eth-b2c-staking-4e5f5b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/ethereal-smart-contracts-277a3a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ethereum-name-service-ens-1afd90",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/ethereum-vault-connector-5f5850",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/euler-vault-kit-9875b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/eulerswap-00e9c4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/everstake-eth-b2c-staking-dummy-2d3d21",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/exchange-4d8220",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/exchange-v2-474fb8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/firetoken-ed9004",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/flapperuniv2-38712b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/flapperuniv2swaponly-28f836",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/franchiser-smart-contracts-dccc27",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/frankencoin-c1b691",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/frankencoin-v2024-bbadd7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/frax-bamm-smart-contracts-48b5a8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/fund-distribution-4037e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/fxswap-v3-2f9136",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/g-uni-lp-oracle-172357",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gateway-smart-contracts-d89b94",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-auction-91ff7f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-core-oracles-v3-10-28a937",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-permissionless-smart-contracts-947056",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-system-21aca5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-v2-1-709c9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-v2-d9a22d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-v3-1-integrations-70812e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-v3-1-integrations-b23308",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gearbox-v3-core-06749b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gelato-smart-wallet-677af6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/gemjoin9-for-paxg-9d1ac6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/grove-alm-controller-384a6f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/grove-alm-controller-93d8d5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/grove-governance-relay-9e2c89",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/grove-user-actions-16b9ba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/grove-xchain-helpers-886217",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/hedgehog-protocol-d9bd52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/hellogold-foundation-9e1d0a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/herodotus-cairo-libs-787e74",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo",
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/herodotus-on-starknet-4de2a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo",
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/hilbtc-5fad49",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/hoprnet-token-b8e7d6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/htx-token-a6353a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/iexec-security-audit-af1d82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/iexec-v3-security-audit-f7e7e0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/immutable-atoken-vault-d1ae3a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/interest-rate-strategy-980139",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/intmax-2-smart-contracts-75c9f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "scroll"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/intmax-2-zkp-circuits-979802",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "scroll"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/intmax-plonky2-bn254-keccak256-6070cb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/java-tron-limited-review-fa1b23",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "audit_kind": "limited-review",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/kernel-smart-contracts-8ff846",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/kill-switch-a1d594",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/kuma-protocol-8357b2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/kyber-network-bb86f4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/kyberswap-classic-97ea67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/kyberswap-elastic-339177",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/kyberswap-elastic-legacy-f2831c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "formal-verification"
+ },
+ {
+  "id": "chainsecurity/layerzeroreceiver-60695e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/legend-scripts-21febc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/lido-staking-router-423363",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/lido-v1-65e28c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/limited-code-review-fuel-sway-optimizations-bd5823",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/limited-review-fume-finance-smart-contracts-dd8d65",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "limited-review"
+ },
+ {
+  "id": "chainsecurity/limited-review-vyper-compiler-front-end-type-system-c5e8e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "limited-review"
+ },
+ {
+  "id": "chainsecurity/limited-review-vyper-compiler-ir-optimizer-and-safe-math-module-e1b47d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "limited-review",
+  "scope": {
+   "repo": "https://github.com/vyperlang/vyper"
+  }
+ },
+ {
+  "id": "chainsecurity/lip-23-rebase-check-smart-contracts-22d21a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/liquidations-2-0-3fcef0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/makerdao/mips"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/liquity-v2-bold-smart-contracts-e39444",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/liquity-v2-voting-smart-contracts-6510d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/lockstake-smart-contracts-b8aea1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/m-extensions-smart-contracts-b078c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/m-zero-protocol-and-governance-c932e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/m-zero-wrapped-m-token-9ddd94",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/makerdao-arbitrum-farms-db3e32",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/makerdao-d3m-aavev3-usds-pool-486f47",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/makerdao-dss-vest-df44d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/makerdao-savings-usds-00c078",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/makerdao-sky-deployment-scripts-7d51f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/makerdao-usds-wrappers-01ae28",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/makina-core-ef1899",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/makina-lite-a1cfef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/makina-periphery-28cbc8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mangrove-core-38a00d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mangrove-dss-vest-12eef5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mangrove-exchange-b6649a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mangrove-exchange-f288a0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mangrove-kandel-strats-057c4f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mangrove-order-90bc82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/margin-dex-79ab4c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mellow-protocol-2eb79f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/melon-protocol-79f5ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mento-core-v3-86ec76",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mento-liquity-v2-e3fb7d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/migration-bot-dfeef0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/mimo-capital-mcag-contracts-4acca8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/moebius-protocol-smart-contracts-4d6c0d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/morpho-vault-v2-52cf16",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/multivault-smart-contracts-ce9b6f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/musd-3789a4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/myso-finance-core-v1-security-audit-e3f210",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/negriskadapter-c64083",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/neulock-smart-contracts-fc6ee9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/node-management-module-64631c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/hoprnet/hoprnet"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/oasis-app-modular-proxy-actions-6c6fea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/oasis-automation-consultancy-smart-contracts-c3fdb8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/oasis-multiply-5ef708",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/oasis-multiply-fmm-extension-54915f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/oasis-positionmanager-c8706f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/oasis-savings-dai-1e7f51",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/oft-oapp-88533d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/omnibridge-c16ced",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/op-farms-smart-contracts-01ab48",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/op-token-bridge-582d04",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/optimism-dai-bridge-c2ec09",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/makerdao/optimism-dai-bridge"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/oyfi-b4dc74",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/partner-tracker-84438a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/pau-administered-agent-fc47e0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/pau-assemblers-8b9e2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/paxos-19df44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/payment-channels-8691c4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/pegkeeperv2-66c0ef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/pendle-boros-markets-9294d9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/pendle-v2-core-39e54e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/plusplus-custody-5dba8a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/poa-network-02a2d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/pol-transition-smart-contracts-d31fdc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/polkadot-a19732",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polkadot"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "polkadot"
+  ]
+ },
+ {
+  "id": "chainsecurity/polygon-fx-portal-68cd5c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/polygon-pos-portal-6d0bc6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/posdao-b6ae7e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/price-oracles-69c640",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/protego-smart-contracts-04ca45",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/proxy-wallet-factories-41a629",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/psm-lite-d1b986",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/q-blockchain-77779e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/quark-v2-and-quark-scripts-eea77d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/rate-limited-flapper-b1619c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ren-smart-contracts-22d1da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/republic-protocol-ef9046",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/rwa-toolkit-02e95f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/saffron-fixed-income-vaults-9f61fe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sbold-a7d52e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/scribe-makerdao-624a5b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/security-council-aip-b32192",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/sink-gauge-v2-4b3df1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-ccip-dvn-adapter-4f87e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-diamond-pau-2eeba2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-dss-blow2-f52806",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-dss-exec-lib-e64eae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-governance-oapp-9ef45e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "chainsecurity/sky-layerzero-governance-dvn-3c0a1c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-lz-governance-relay-eb5b39",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-nfat-facility-9255f9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-oapp-oft-50df99",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "chainsecurity/sky-parallelized-allocation-system-pas-318c68",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/sky-rates-converter-322e87",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-smart-contracts-cf7d1f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-sp-beam-module-02216f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-stusds-19d04b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-wormhole-ntt-migration-update-0e0acb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "chainsecurity/sky-xchain-helpers-34d66f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sky-xchain-ssr-oracle-791d2f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/slipstream-dynamic-fee-853d35",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/smart-allocator-smart-contracts-cf704a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/snapshot-x-smart-contracts-63ce8c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/solana-crosschain-governance-payload-scripts-d05b0e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "chainsecurity/solver7702delegate-883a31",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/spark-alm-controller-diff-audit-200000",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/spark-alm-controller-e362e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/spark-psm-68bf68",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/spark-savings-intents-f564ce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/spark-user-actions-5d6f59",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/spark-vaults-e5787a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/spark-vaults-v2-261068",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sparkdao-governance-relay-7aa9ad",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sparklend-advanced-f60f46",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sparklend-cap-automator-0c2e03",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sparklend-freezer-0f22a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sparklendconduit-7c30c1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sparkrewards-184eae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/spool-v2-8300e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ssv-dkg-tool-bb2d0a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "limited-review",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/stake-beacon-chain-sbc-deposit-ddb92b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "formal-verification"
+ },
+ {
+  "id": "chainsecurity/stakedao-bribe-platform-6095b0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/stakedao-frax-702d8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/stakedao-liquidlockers-b8575c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/staking-and-surplus-9d40e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/staking-erc-721-erc-1155-a44efc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/star-guard-1739dd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/starknet-dai-bridge-36ac72",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo",
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/starknet-perpetual-0ff1e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "chainsecurity/starknet-teleport-63f3e7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "optimism",
+   "starknet"
+  ],
+  "languages": [
+   "cairo",
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo",
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/starknetid-auto-renew-6b01bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "chainsecurity/state-replication-gateway-srg-3da57e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/steakhouse-box-smart-contracts-d49506",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/stk-security-audit-eac969",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/stokr-20aa36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/strategies-e1e58d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sturdy-aggregator-a3b1a6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/stusdt-smart-contracts-2b048e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/subsquid-network-da54b7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-aavev3-flashloan-26a631",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extension-xxv-8813a3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extension-xxvi-b9de3e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extensions-vi-11f6b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extensions-xix-a82391",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extensions-xv-e8f5c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extensions-xviii-9a4bdf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extensions-xx-7688ff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/sulu-extensions-xxiv-fae168",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/summer-earn-protocol-2c8579",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/summer-fi-automation-v2-smart-contracts-9bd611",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/summer-fi-defi-modular-actions-v2-1d6a6b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/superchain-diff-223d36",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/superchain-slipstream-8e49d7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/svm-alm-controller-4987fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "chainsecurity/swaap-core-v1-980c51",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/swaap-earn-protocol-c465c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/swaap-finance-safeguardpool-31f539",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/swaap-v2-euler-adapter-696d48",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/swbtc-smart-contracts-d2c79f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/switcheo-1a84bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/symbiotic-aera-adapter-056bac",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/symbiotic-burners-smart-contracts-f33490",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/symbiotic-core-f0d936",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/symbiotic-default-rewards-b72e3c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/symbiotic-security-vault-16a629",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/system-contracts-v1-2-9d7f25",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/tenx-af4659",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/threshold-network-790234",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/tricrypto-ng-9d1951",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/trinity-smart-contracts-c91d60",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "limited-review"
+ },
+ {
+  "id": "chainsecurity/tron-peg-usd-coin-usdc-f9b340",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "tron"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/truefi-carbon-d0e046",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/truefi-fluorine-00fe8e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ultrayield-smart-contracts-f1c190",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/uma-sports-oracle-0ae2d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/uncap-finance-edd625",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "chainsecurity/uniswap-franchiser-expiry-d4693b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/uniswap-permit2-c8859a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/univ2-migration-deployment-scripts-ccb0a6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/unslashed-enzyme-bridge-feecd7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/unstoppable-wallet-ef9996",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/usdd-exchange-smart-contracts-915088",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/usdd-on-ethereum-727bba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum",
+   "tron"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/usdd-psm-smart-contracts-098621",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/usdd-v2-smart-contracts-70c297",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/usdfi-amm-gauges-and-bribes-65e08c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/usdo-express-cf3367",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/usdo-fb6d12",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/usds-smart-contracts-05b0c8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/usdt0-arbitrum-v2-f8039b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/usdt0-smart-contracts-9f768e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/v3-governance-66dbf1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/v3-oracles-865214",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/vault-bridge-token-9f476a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/vault-revenue-splitter-da3e85",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/velodrome-superchain-interoperability-db5619",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/velodrome-superswap-router-f466d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/verified-erc20-a1057e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/vesu-protocol-06bf83",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": false,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/vesu-v2-1710e3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "starknet"
+  ],
+  "languages": [
+   "cairo"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "chainsecurity/votedelegate-smart-contracts-341f35",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/wbtc-solana-bridge-9cf152",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "frameworks": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "frameworks": [
+   "anchor"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "chainsecurity/wormhole-layerzero-migration-library-b420b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "solana"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "chainsecurity/wrapped-bitcoin-wbtc-cf28e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "chainsecurity/xchain-helpers-4d0984",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/xchain-helpers-d0e128",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/xchain-ssr-oracle-42058b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/xena-finance-b97fdb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/xgov-smart-contracts-80806e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity",
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ybal-763ca3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity",
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/ycrv-and-zapycrv-46ca80",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yearn-tokenized-strategy-cc4c06",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yearn-v3-vaults-b159b0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yelay-lite-smart-contracts-6389a7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yeth-70220e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yeth-governance-5b3519",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yeth-periphery-6358cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "vyper"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yield-aggregators-defi-asset-management-0a6758",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yield-basis-core-de1b5c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yieldnest-protocol-cbae62",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/yldr-com-3cb152",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "chainsecurity/zilliqa-4ca91d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/zkbob-smart-contracts-security-audit-03800c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "chainsecurity/zksync-dai-bridge-not-deployed-6edf08",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:04+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ }
+]

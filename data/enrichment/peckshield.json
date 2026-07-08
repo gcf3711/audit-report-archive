@@ -1,0 +1,8984 @@
+[
+ {
+  "id": "peckshield/bella-audit-report-2020-48-en-1-0-bb1b9b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/cobo-audit-report-2020-09-en-1-0-2e2bcf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/defis-network-swap-audit-report-2020-20-cn-1-0-9c3ab3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/dip001-audit-report-2020-03-en-1-0-90ae10",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/dodo-audit-report-2020-16-en-1-0-8dd7da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/harmony-audit-report-2019-22-v0-2-31dfce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/instadapp-audit-report-2020-04-en-1-0-6002b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/maker-audit-report-2019-16-en-1-0-b00551",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-orcus-v1-0-529e57",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-2crazynft-v1-0-ac62d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-3wm-v1-0-b4b4d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-88mph-v1-0-83845e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-88mph-zero-coupon-bonds-v1-0-e5ebbc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-88mphv3-v1-0-9e78ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-aavev3-v1-0-66e417",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-acet-v1-0-284983",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-add-xyz-v1-0-df1193",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-agentfi-v1-0-5e9b88",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-aia-bridge-v1-0-ec3f6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-airswap-staking-v1-0-5d780d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-airswap-v1-0-2-14c9a6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-airswap-v1-0-a83f6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-airswapv4-2-v1-0-6d41a1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-airswapv4-poolregistry-v1-0-653d11",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-airswapv4-swaperc20-v1-0-a644a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-airswapv4-v1-0-fcfa18",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-ait-v1-0-8ee5f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-alldefi-v1-0-5c9c77",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/alldefi/vault"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-alldefi-vault-v1-0-e6b765",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/alldefi/eth-vault"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-altixstaking-v1-0-66a8ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-ampleforth-spot-v1-0-6750f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-amy-v1-0-b083a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-angrymining-v1-0rc-2a2933",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-angrytoken-v1-0-51cd7f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-aperocket-v1-0-79a41b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-arche-v1-0-3bf382",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-arthswap-masterchef-v1-0-ed9384",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-asteroidx-v1-0-1-4ab8a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-asteroidx-v1-0-79bc62",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-astriddao-v1-0-1891cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-atlantis-v1-0-ca62a1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-atlendis-v1-0-02deb4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-atomicacore-v1-0-cb7344",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-auditchain-v1-0-2020-108-e69755",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-augmented-v1-0-3deb16",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-automata-v1-0-607f03",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-avault-sigvalidationmodule-v1-0-e7ff50",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-avault-v1-0-458e78",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-avix-v1-0-cfadc6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust",
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-babypie-v1-0-5aca5a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-babyswap-v1-0-2cc5e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bancorv3-v1-0-008acb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-basepump-v1-0-2210e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-beamex-v1-0-033d57",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "moonbeam"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-beamswap-v1-0-6f2d11",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "moonbeam"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bep20-eg-v1-0-a58996",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bep20-leons-v1-0-dd13a7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bep20-tokoin-v1-0-ac9dcc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-betterbank-v1-0-a1caba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-binopoly-v1-0-14de71",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-blackhole-algebrapools-v1-0-c0265b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bnpl-v1-0-1c356d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-boltfi-vault-v1-0-8b6b71",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bool-v1-0-02a24a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-boringdao-1-0-2020-89-b58be2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bscstationstartpools-v1-0-babc44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-bsd-v1-0-b99b6d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-btc-v1-0rc-6ee1f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-btdotfinance-v1-0-09c765",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-buffer-v1-0-284ea4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-cadabra-v1-0-0cfd09",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-cakepie-v1-0-efc951",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-celer-multibridge-v1-0-df4511",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-chocalatecash-v1-0-f1793d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-chocolate-v1-0-9f0532",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-chronos-v1-0-ff0e34",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-cogi-v1-0-a77587",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-coin98-v1-0-dccc06",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-coin98staking-v1-0-84bc6c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-convex-frax-staking-v1-0-c25e45",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-copycat-1-0-8db49e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-creatorbid-v1-0-ecb47f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-crypto4all-tozex-v1-0-8dc2c1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-cryptobattles-v1-0-07dbcb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-cryptoheroes-1-0-533744",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-cryptozoan-v1-0-af181b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-cygnus-v1-0-21a007",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dackieswap-v1-0-aa1c01",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-daomakerventureyield-5556ad",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-daoswapv3-v1-0-b801e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/XXX/daoswap-V3"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-darkcrypto-v1-0-7f99ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-darkness-dollar-v1-0-177a85",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dcav2-1-0-1a6a28",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-defiai-v1-0-8f872a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-defiyieldprotocol-v1-0-17e6f8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-demeter-v1-0-47c6eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-deri-v1-0-1f3f90",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-deriv2-v1-0-808d81",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-deriv2everlasting-v1-0-7b4ddc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-deriv3-1-0-dec9a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-deriv4-1-0-aad6fe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-deriv4-supra-v1-0-ffc254",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "aptos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "move"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-donut-v1-0-fc13b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dotc-v1-0-1-f34a56",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dotc-v1-0-2-735398",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-double-v1-1-5cf980",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dsg-v1-0-8f0dce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dtrade-v1-0-cd2097",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dtravel-nft-v1-0-36b3ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dtravelstaking-v1-0-3ebbde",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/dTravel/staki"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-duet-bond-v1-0-ad1a97",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-duet-v1-0-f1cfef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-duneswap-v1-0-ff8fa5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dynatoken-gtccampaign-v1-0-1a61a4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dyp-v1-0-43085b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dypearnvault-v1-0-f17044",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-dyson-v1-0-cd5086",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-earning-farm-cff-v1-0-410549",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-eigenpie-v1-0-1-bba947",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-eigenpie-v1-0-ab0f7c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-enzo-v1-0-202e86",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-equilibria-v1-0-98bd95",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-adm-v1-0-1faa82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-agro-1-0-8a0d7a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-ava-v1-0-d4a047",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/AVA-Foundation/ava-token-swap"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-bomb-v1-0-978361",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-cusd-v1-0-acb906",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-dram-v1-0-9b07f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-dynatoken-v1-0-d894d6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-eeuro-v1-0-412044",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/membranefi/euro-stablecoin.g"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-fat-v1-0-6fc6e1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-gcow-v1-0-a8bdd3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-glidr-v1-0-a4ef43",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-htc-v1-0-5b52d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-luckychip-v1-0-7db15c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-metastrike-v1-0-62b927",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/MetastrikeHQ/smartcontracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-mint-v1-0-bff692",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-pumpmeme-v1-0-7144cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-shell-v1-0-0fd15d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/OT-Sea/Shell-EVM"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-teh-v1-0-a4f941",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-trvl-v1-0-274b6b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-vusd-v1-0-710602",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-w3w-v1-0-9b0bbf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-xterio-v1-0-271fe2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/XterioTech/xt-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-yyds-v1-0-38479f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc20-zkid-v1-0-d732d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/zkSyncid/zkidTokenContract"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc404-xrgb-v1-0-17b2fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erc721-ownthedoge-v1-0-183dcf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/kvdenden/doge-pixels"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-erd-v1-0-ffd8df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-evotrade-v1-0-760ccb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-evryhub-v1-0-0f8c6c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-evrynet-v1-0-25a555",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-evrytoken-v1-0-73fbe2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-extrafi-v1-0-92a572",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-fanscreate-v1-0-497d19",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-farmerland-v1-0-f618a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-farmhero-v1-0-73e95d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feeder-v1-0-6cc14c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feederlending-v1-0-580ec7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feg-bridge-v1-0-0fd8b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feg-feeconverter-v1-0-cce752",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feg-migrator-v1-0-162cb3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feg-migrator2-v1-0-588c82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feg-smartdefi-v1-1-f00edb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-feg-v1-0-b130a1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-fegstaking-v1-0-22c535",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-firebird-swap-v1-0-62da74",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-fishingtownauditreport-v1-1-683ac3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-flashstake-v1-0-8cb6ce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-formless-v1-0-d9ceb1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-friend3-v1-0-03c412",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/Friend3-Group/Friend3-Smart-Contract-V2"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-frontera-v1-0-baf967",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-fuelonblast-v1-0-e1898b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gains-staking-v1-0-eb77c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gains-v1-0-a3a7b3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gatherdao-v1-0-5e3f57",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-geist-v1-0-07d8cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-ginfinance-farm-v1-0-8382e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-goatswap-v1-0-ef5713",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-goldroom-v1-0-2a9a7e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-goledo-v1-0-8233ac",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gumballv2-v1-0-6a8475",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gymnet-v1-0-c3e5ad",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gymnetworkv2-v1-0-56eeb2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gymstreet-v1-0-883360",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-gyro-v1-0-c9d29f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-handle-v1-0-9b5368",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hbtc-chain-cn-2020-14-3a9502",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hbtc-chain-en-2020-14-388665",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hbtc-wallet-cn-1-0-eade44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/hbtc-chain/walle"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hbtc-wallet-en-1-0-dcf574",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hegic-hardcore-beta-v1-0-2a11f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hegic-herge-protocol-upgrade-v1-0-08f454",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hegic-v1-0-0c41a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hegic-v8888-v1-0-432b5b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hlnd-v1-0-56f80f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hodl-v1-0-79af73",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-holdefi-v1-0-ff7b92",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-holdstation-v1-0-b5dd3d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-honeyfarm-v1-0-1-876a82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "avalanche"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-honeyfarm-v1-0-99392c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/RenovJ/honeyfarm-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hope-v1-2-58874c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-horizonprotocol-v1-0-620033",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hurricaneswap-v1-0-9830db",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hybra-v1-0-83e5ba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hybra-ve33-v1-0-050591",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hybra-ve33-v1-0-1-3a1a79",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hyperflash-v1-0-7778d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hyperswapx-v2-v1-0-e4954c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-hyperswapx-v3-v1-0-84177f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/HyperSwapX/v3-contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-illuvium-v1-0-ff60ef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-influpia-v1-0-f4b405",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-initcapital-v1-0-b9b7ae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-intenet-v1-0-321027",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-invtai-v1-0-edee7a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-ironlend-v1-0-9c031d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-janisdex-v1-0-b59360",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-janisdex-v1-2-4eb4e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-juku-v1-0-b74e26",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-jump-fun-v1-0-d3ccd9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-jungleroad-v1-0-c3c293",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-kaidex-v1-0-8105ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-kalmar-bond-v1-0-263f21",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-kalmar-v1-0-7ba74d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-kaoyaswap-v1-0-66ab0e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-kolvault-v1-0-431cf5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-kops-maxyieldusdt-v1-0-3b08b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-kratosdao-v1-0-6138b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-layerbank-v1-0-23aff7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-legendsneverdie-v1-0-dddd38",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-lensprotocol-v1-0-66206b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-levana-v1-0-b50f20",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-linbit-v1-0-9e4a55",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin",
+   "linea"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin",
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-lineabank-v1-0-b9c741",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "linea"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-liondex-v1-0-df8c8c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-liquidfinance-v1-0-31a93f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-logx-v1-0-8194a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-longfil-v1-0-84023c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-looksrare-aggregator-v1-0-346496",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-looksrare-aggregatorfeesharing-v1-0-b16a3a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-looksrare-v1-0-979f8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-looksrare-yolo-v1-0-5bcfc0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-looksrareexchangev2-v1-0-2876ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-lucidao-v1-0-21188e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-luckybid-v1-0-bdf01d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-luckychip-v1-0-a571c6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-luckychipstaking-v1-0-d8c3c1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-luckytoken-v1-0-4cdf37",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-magpie-launchpadv2-v1-0-ef4f30",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-magpie-v1-0-545efa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-magpie-v1-1-d0aae3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-magpiev2-v1-1-438d47",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mantisswap-v1-0-b8e296",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-maxfun-v1-0-9af506",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-melt-v1-0-fa7a43",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-memefi-v1-0-e1e5c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-merlin-v1-0-a4d9fe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mesa-v1-0-56f077",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-metafinance-v1-0-959fdb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-metatime-v1-0-30c2ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-milkyswap-v1-0-9d9ad4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cardano"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mint-greenid-v1-0-089463",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/Mint-Blockchain/Contract-GreenID"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-minterest-v1-0-137bbb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mintid-mintgenesisnft-v1-0-c63892",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mintid-mintgenesisnft-v1-1-cb4341",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mixtoearn-v1-0-fb5445",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mu-v1-0-2de73c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mushrooms-v1-0-46fe13",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-mydefipet-v1-0-7167d5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-narwhalcasino-v1-0-bffe80",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-nbc-v1-0-ff9268",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-nearth-masterstaker-v1-0-d62f37",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-nested-v1-0-05300e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-nexon-v1-0-8302c6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-olive-v1-0-3e5822",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-olivedao-v1-0-0c9fe0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-olympusdao-v1-0-79b757",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-omnipool-v1-0-962442",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-oneswap-v1-0-fd2e7a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-onyxdaoregistry-v1-0-002167",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-onyxstaking-v1-0-46a9c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-openleverage-1-0-1-e58c47",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-openleverage-limitorder-v1-0-2bf0da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-openleverage-v1-0-33bc9d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-openport-v1-0-b7f785",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-opensky-v1-0-cf2da6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-openskybespokeloan-v1-0-f05ff4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-openswap-cn-2020-119-dec66b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/hbtc-chain/bhchain"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-openswap-en-2020-119-9771d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cosmos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cosmos"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-opyn-v1-0-aefd91",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-orama-v1-0-55822a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-ot-future-v1-0-acdbc7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-otsea-v1-0-0743a8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-palio-v1-0-3cb870",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/XterioTech/xt-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakebunny-prediction-v1-0-a97643",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswap-cakepool-v1-0-d678f0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswap-crossfarming-v1-0-7f2374",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswap-farmbooster-v1-0-e727e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswap-masterchefv2-v1-0-e0be43",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswap-predictionv2-v1-0-378b90",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswaplottery-v1-0-7653b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswapv3-masterchefv3-v1-0-40e538",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pancakeswapv3-v1-0-ba6210",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pandora-v1-0-d0472b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-panz-nextgen-v1-0-6bf15b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-paraluni-v1-0-300c56",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-parcelpayroll-v1-0-5eb365",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "gnosis"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-paxo-v1-0-096c5c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pegasusdollar-v1-0-b79ed1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-penpie-v1-0-1-fc2c3c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-perplimitorders-v1-0-a351c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-phuture-frpvault-v1-0-c04d57",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-phuture-v1-0-965beb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pikaperpv2-v1-0-7806df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pikaperpv3audit2-v1-0-555389",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pikaprotocol-v1-1-6c36d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pikaster-v1-0-c7ff44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pikaster-v1-1-d4a85e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pinksale-goatswap-v1-0-7a1fec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pinksale-pinklock-v1-0-10766a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pinksale-subscriptionpool-v1-0-aee31f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pionex-swapx-v1-0-44ea71",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-playpad-ido-dq-v1-0-28c747",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-plena-v1-0-6ebe4f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-plexus-v1-0-fd46cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-plutosnetworkv3-v1-0-5bf245",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-plutosv1-v1-0-8484a8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pluz-v1-0-27fbc6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-pod-v1-0-b3857f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-polyjeff-v1-0-4d79e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-poop-v1-0-f5d041",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-print3r-v1-0-b09111",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-prjx-v1-0-6fefca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-projectchosen-v1-0-7eecc0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-quantoswap-v1-0-b6e41b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-qubit-v1-0-7fc6e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-quollfinance-v1-0-f0d7f0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-quollv2-v1-0-e929ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-r2-v1-0-96b6be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rabbit-leveragebullbear-v1-0-e366ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rabbit-v1-0-706826",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-radiant-v1-0-8b58e1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-radiantv2-v1-0-dcfb81",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-radpie-v1-0-2788db",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-raffle-v1-0-44782b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rafflev2-v1-0-e77135",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rangocometintermediary-v1-0-d422db",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-reactorfusion-v1-0-73ba42",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rehold-v1-0-ff6b2e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-revert-compoundor-v1-0-60e979",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-revert-lend-v1-0-df9f84",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-revert-v1-0-398d70",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-revert-v3utils-v1-0-ff3a93",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-revert-v4utils-v1-0-988d05",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-revertfinance-selfcompoundor-v1-0-ebe7e8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-ribbon-v1-0-7aef5d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rikkei-v1-0-f046fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-roefinance-v1-0-32b70e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rollup-v1-0-d0a9fa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rosepad-v1-0-2642cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-rowa-v1-0-498a51",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-safestake-v1-0-2dd65b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-satoshiincognito-v1-0-b2643a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-satoshiswap-v1-0-600055",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-satoshivm-v1-0-9e3081",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sheepdex-v1-0-b451f2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-shibanova-v1-0-487b42",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-shield-v1-0-1-d98a81",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-shield-v1-0-66dc44",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-shoebill-v1-0-ca1abc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-smoothy-v1-0-989027",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sofa-v1-0-92699f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-solidly-v1-0-a9457b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sorbettofragola-v1-0-c6a735",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sparklex-earning-v1-0-f4cd5a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sparklex-farming-v1-0-faf572",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sparklex-unisv3strategy-v1-0-9025a7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sperax-v1-0-fd4552",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-spherium-v1-0-0e4a21",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-spl-ava-v1-0-30acce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-spool-arbitrum-v1-0-c5c3d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-spool-v1-0-69a4c6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-squadswap-dynamo-wow-v1-0-26454b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-squadswap-v1-0-b8679e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-ssap-v1-0-3fc885",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-stackervc-v1-0-a33cdc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-stackit-v1-0-645b1a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-stader-v1-0-95e282",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "fantom",
+   "hedera",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "other"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-stone-v1-0-e49775",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-stoneerc20-v1-0-1b8c6b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-stonev2-v1-0-d1b48a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-streams-v1-0-de0f34",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-surfswap-v1-0-85605a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-sushiswap-v1-0-ae827e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-suterusu-v1-0-033446",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-svm-evm-bridge-v1-0-0ab925",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/SatoshiVM/svm-evmBridge-audits"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-swarm-bundles-v1-0-1-9786ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-swerve-v1-0-a82e1e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-swing-aggregator-v1-0-fbf0bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-swing-v1-2-3ed19e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-swopxlending-v1-0-28fccf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-symmetry-v1-0-343182",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-symphony-v1-0-b566ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-syncbank-ido-v1-0-f6a4e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-synclublsd-v1-1-006649",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-synthswap-v1-0-c9c7c2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-syrupal-v1-0-d67e2a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-szns-v1-0-a80f15",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-t-fi-v1-0-d6b3cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tars-protocol-claimer-v1-0-129ddc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tchoke-v1-0-6edb7c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tender-v1-0-1f2bc3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tenlend-v1-0-230498",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-testaspace-v1-0-95aaf4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tetu-v1-0-3831b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tetuv2-v1-0-d2b2c4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-themisv3-v1-0-d1ac52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-thena-v1-0-d332b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-thetanuts-v1-0-2db36a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-thorswap-migration-v1-0-9aa034",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-thorswap-v1-0-813844",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tortleninja-v1-0-38b88d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "fantom"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-toxicdeer-v1-0-b646c9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tradao-v1-0-e94768",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "avalanche",
+   "bsc",
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tranchess-20231228-v1-0-d0e963",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tranchess-v1-0-590dea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tranchessv1-1-v1-0-675cbc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tranchessv1-2-v1-0-005dc4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tranchessv2-1-v1-0-dff129",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-tranchessv2-v1-0-234667",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-travala-anyswapv5erc20-v1-0-e6c809",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-travala-ava-token-v1-0-70da6f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/travala/travala-ava-bep20-smartcontract"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-unchainx-v1-0-5fc028",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-uncxvesting-v1-0-98044e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-unfettered-v1-0-a34357",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-unibtc-v1-0-66837d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bitcoin"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-universefinance-v1-0-6fb06d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-unlimitedleverage-v1-0-d0423c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-uwu-v1-0-371ab2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-vechain-v1-0-f513bc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-velix-v1-0-89f57b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-velvet-v1-0-cf835d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-venus-mintbehalf-v1-0-d31f1b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-venus-v1-0-2faf1f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-venusgrant-v1-0-495489",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-voodoo-v1-0-5f2184",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-vrhdao-v1-0-44823b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-vsd-v1-0-c7018f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wbeth-v1-0-ebaf02",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wbethv2-v1-0-e40f81",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-whiteheart-v1-0-d423ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-whitehole-v1-0-efa5e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-whiterock-v1-0-3eb578",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wombat-v1-0-9f9c6e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wombat-volatilepool-v1-0-58e3f8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wombatv2-v1-0-4150d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wombatv3-v1-0-82aeab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wombatv3-v1-1-3a4a8f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wombatv4-v1-0-574e5a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-woofiearn-v1-0-791f32",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-wusd-v1-0-76d0e3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xave-v1-0-f761c5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xbank-v1-0-5995d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "cairo"
+  ],
+  "chains": [
+   "starknet"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cairo"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xcarnival-v1-0-71d0d5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xraise-v1-0-d29fcb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xswaprouter-v1-0-095146",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xterio-airdrop-v1-0-ad9d46",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xterio-launchpool-v1-0-74910c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xterio-onchainiap-v1-0-8e881d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xterio-staking-v1-0-99ad12",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/XterioTech/xt-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-xterio-v1-0-4cac54",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zenlink-v1-0-9cb013",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "frameworks": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polkadot"
+  ],
+  "frameworks": [
+   "substrate"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "polkadot"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zenlinkdex-v1-0-d1e5c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "frameworks": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polkadot"
+  ],
+  "frameworks": [
+   "substrate"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "polkadot"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zerobase-vault-v1-0-0e8a27",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zetaearn-v1-0-dc7f95",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zigzag-forwarder-v1-0-fc01cf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zkasino-lottery-v1-0-8f826d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zkex-vesting-v1-0-7563af",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/ZKEX/token-vesting"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zkfi-v1-0-3c066b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zkt-v1-0-baf8ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/peckshield-audit-report-zyberswap-v1-0-8201d4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/perpfi-audit-report-2020-46-en-1-0-8c6850",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/polynetwork-pr12-review-91462a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc",
+   "ethereum",
+   "polygon"
+  ],
+  "scope": {
+   "repo": "https://github.com/polynetwork/eth-contracts"
+  },
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "peckshield/set-audit-report-2019-28-en-1-0-811a70",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/starkex-audit-report-2019-29-en-1-0-15539f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/test-1b59a2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/usr-audit-report-2020-05-en-1-0-0279fd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "peckshield/xswap-audit-report-2020-06-en-1-0-2ee742",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ }
+]

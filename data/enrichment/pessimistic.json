@@ -1,0 +1,2398 @@
+[
+ {
+  "id": "pessimistic/1inch-aggregation-router-v4-security-analysis-by-pessimistic-92faa0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-aggregation-router-v6-security-analysis-by-pessimistic-637e09",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-aggregationrouter-v5-security-analysis-by-pessimistic-58124e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-cross-chain-atomic-swaps-v2-security-analysis-by-pessimistic-ad9246",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-farming-security-analysis-by-pessimistic-81fea5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-fixedrateswap-security-analysis-by-pessimistic-525e43",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-fusion-settlement-extension-v2-1-security-analysis-by-pessimistic-dfddce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-fusion-settlement-extension-v2-security-analysis-by-pessimistic-7e5b98",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-gasless-swaps-security-analysis-by-pessimistic-49e9b2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-limit-order-protocol-security-analysis-by-pessimistic-85cb8a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-limit-swap-security-analysis-by-pessimistic-updated-03137c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-merkledrop-security-recheck-09c996",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-multi-farming-contracts-v3-security-analysis-by-pessimistic-cd25ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/1inch-vesting-security-analysis-by-pessimistic-9580d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/a2dao-security-analysis-by-pessimistic-bed987",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/agent-a-i-security-analysis-by-pessimistic-7ccd67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/amplified-strategy-vault-security-analysis-by-pessimistic-7d0d6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/aquaris-token-security-analysis-by-pessimistic-532262",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/artm-security-analysis-by-pessimistic-538140",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/azuro-cashout-security-analysis-by-pessimistic-17c252",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/azuro-rewardpoolv2-security-analysis-by-pessimistic-bbb930",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/azuro-v1-security-analysis-by-pessimistic-0568f6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/azuro-v2-betexpress-security-analysis-by-pessimistic-2d836d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/azuro-v2-livecore-security-analysis-by-pessimistic-f626d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/azuro-v2-security-analysis-by-pessimistic-787956",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/babylon-security-analysis-by-pessimistic-d1251b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/beam-dao-security-analysis-by-pessimistic-40feb6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/beam-swaps-security-audit-by-pessimistic-0f2e38",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/beam-upgradeable-dao-security-analysis-by-pessimistic-80debf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/bebop-security-analysis-by-pessimistic-9159b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/blockchain-testament-security-analysis-by-pessimistic-2d7145",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/bloquo-security-analysis-by-pessimistic-69428b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/brydge-security-analysis-by-pessimistic-aea98f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cega-lp-offramp-security-analysis-by-pessimistic-20e145",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/certain-fi-security-analysis-by-pessimistic-9cbd5c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cheelee-security-analysis-by-pessimistic-65f3b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/choise-security-analysis-by-pessimistic-1f672e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/choise-token-security-analysis-by-pessimistic-12658c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cpool-security-analysis-by-pessimistic-1b63e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cryptolegacy-security-analysis-by-pessimistic-f552e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cybro-lidovault-security-analysis-by-pessimistic-befcbd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cybro-liquidity-manager-security-analysis-by-pessimistic-577839",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cybro-lpmanager-security-analysis-by-pessimistic-f22c78",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cybro-one-click-lending-security-analysis-by-pessimistic-2f4219",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cybro-security-analysis-by-pessimistic-991313",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/cybro-staking-security-analysis-by-pessimistic-689de0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/defi-plaza-security-analysis-by-pessimistic-75d924",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/defipie-security-audit-by-pessimistic-9af5e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/defiplaza-radix-security-analysis-by-pessimistic-7bc608",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/defirex-security-audit-by-pessimistic-public-541f14",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/denet-security-analysis-by-pessimistic-a05b6b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/dexdao-security-analysis-by-pessimistic-b3d3fa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/dexsport-security-analysis-by-pessimistic-90814e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/drizzle-finance-security-analysis-by-pessimistic-fbec47",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/ember-security-audit-by-pessimistic-6ae452",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/ethgild-security-analysis-by-pessimistic-34edce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fananees-nft-security-analysis-by-pessimistic-bd15a7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fct-core-security-analysis-by-pessimistic-278fbc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fct-economy-security-analysis-by-pessimistic-be6350",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fct-engines-security-analysis-by-pessimistic-6a118f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fct-extensions-security-analysis-by-pessimistic-db33d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fct-flash-loans-executors-security-analysis-by-pessimistic-764379",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fct-libraries-security-analysis-by-pessimistic-596057",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fct-smart-wallet-fct-runner-security-analysis-by-pessimistic-22cfd4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fluence-dao-security-analysis-by-pessimistic-10444d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/fluence-deal-security-analysis-by-pessimistic-0070ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/ggmt-erc20-security-analysis-by-pessimistic-fe9dbe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/ggmv-security-analysis-by-pessimistic-d17844",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/gysr-security-audit-by-pessimistic-cbbfe1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/hodlessbottoken-security-analysis-by-pessimistic-9b8ede",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/holyheld-security-audit-report-by-pessimistic-d0adf8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/hypersea-security-analysis-by-pessimistic-7c994b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/impossible-finance-security-analysis-by-pessimistic-3091ae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/intentable-kirobo-fct-part-1-security-analysis-by-pessimistic-0b4955",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/intentable-kirobo-fct-part-2-security-analysis-by-pessimistic-5c0c8a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/intentable-kirobo-fct-part-3-security-analysis-by-pessimistic-5cfac7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/intentable-kirobo-smart-wallet-security-analysis-by-pessimistic-a2488a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/iq-nft-staking-security-analysis-by-pessimistic-fdb0a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/iq-protocol-v2-security-analysis-by-pessimistic-33eb82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/iq-token-security-analysis-by-pessimistic-841e8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/juicybet-token-security-analysis-by-pessimistic-1cfc4d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/jupiter-security-analysis-by-pessimistic-4f64d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kicktoken-security-analysis-by-pessimistic-9d8f07",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-access-registry-security-analysis-by-pessimistic-a59ece",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-access-security-analysis-by-pessimistic-eeae85",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-bridger-security-analysis-by-pessimistic-df610a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-bridger-v2-security-analysis-by-pessimistic-277f35",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-governance-security-analysis-by-pessimistic-f730ce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-sealedbidtokensale-security-analysis-by-pessimistic-a3104d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-security-analysis-by-pessimistic-30d5ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-superbridge-hooks-security-analysis-by-pessimistic-7dd14d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kinto-token-vesting-security-analysis-by-pessimistic-06a08a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kommodo-security-analysis-by-pessimistic-fb1ef7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/krystal-security-analysis-by-pessimistic-ecb8be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/kyberpool-security-audit-by-pessimistic-23ac1c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/leea-labs-security-analysis-by-pessimistic-caf1c8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/lido-stonks-security-analysis-by-pessimistic-053b90",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/liquifi-security-audit-by-pessimistic-ce9c1b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/locus-arbitrum-strategies-security-analysis-by-pessimistic-589df6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "pessimistic/locus-security-analysis-by-pessimistic-0fe71b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/lopswap-security-analysis-by-pessimistic-f58242",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/makersplace-security-analysis-by-pessimistic-e9299f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/makersplace-security-audit-by-pessimistic-515547",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/mars-colony-liquidity-mining-security-analysis-by-pessimistic-74b1c8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/mars-colony-security-analysis-by-pessimistic-27a97f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/mean-finance-security-analysis-by-pessimistic-d0a8ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/mellow-protocol-gearbox-integration-security-analysis-by-pessimistic-a91f8f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/mellow-protocol-hstrategy-security-analysis-by-pessimistic-45b16b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/morpho-aave-v2-security-analysis-by-pessimistic-54e84d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/morpho-vaults-security-analysis-by-pessimistic-a2bd23",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/neatar-security-analysis-by-pessimistic-49a22f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/neuron-option-strategy-security-analysis-by-pessimistic-f897ff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/neuron-options-security-analysis-by-pessimistic-697012",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/opium-pools-security-analysis-by-pessimistic-3e51cc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/opium-security-analysis-by-pessimistic-72c447",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/paladin-dullahan-security-analysis-by-pessimistic-316d0e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/paladin-security-analysis-by-pessimistic-729ebe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/parsiq-token-security-audit-by-pessimistic-20e8fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/plasmafinance-quadrat-booster-security-analysis-by-pessimistic-d87d26",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerledger-escrow-security-analysis-by-pessimistic-9a1e18",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-agent-security-analysis-by-pessimistic-11-08-2023-6303a4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-agent-security-analysis-by-pessimistic-24-05-2023-a0cf23",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-agent-security-analysis-by-pessimistic-26-07-2023-739914",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-balancer-connectors-security-analysis-by-pessimistic-e2fbec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-cvp-bridge-security-analysis-by-pessimistic-036eeb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-erc20vaultswap-security-analysis-by-pessimistic-f7b8c1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-lending-security-audit-by-pessimistic-6941b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-pvp-security-analysis-by-pessimistic-fc9dcd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-tornado-connector-router-security-analysis-by-pessimistic-0be191",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-vaults-security-analysis-by-pessimistic-2e83f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/powerpool-vesting-security-audit-by-pessimistic-1d00f6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/rari-bridged-token-security-analysis-by-pessimistic-9d3c52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/rarible-migration-security-analysis-by-pessimistic-3b708c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/reactive-network-token-security-analysis-by-pessimistic-bbf50e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/realfevr-security-analysis-by-pessimistic-5de1c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/recovery-crypto-security-analysis-by-pessimistic-0a9b3a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/resolv-security-analysis-by-pessimistic-d00221",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/resolv-wstusr-security-analysis-by-pessimistic-002ef6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/rewind-security-analysis-by-pessimistic-3a9fef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/rivo-security-analysis-by-pessimistic-2cfa8e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/sahara-vesting-security-analysis-by-pessimistic-98ae00",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/seascape-lighthouse-security-analysis-by-pessimistic-b1b876",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/smartcredit-security-analysis-by-pessimistic-eb2937",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/solidblock-security-recheck-22bdf7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/sovryn-security-audit-report-by-pessimistic-8f2027",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/spiko-atm-security-analysis-by-pessimistic-51aeed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/spiral-dao-lockers-security-analysis-by-pessimistic-674581",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/spiral-dao-sdt-adapter-security-analysis-by-pessimistic-e30208",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/spiral-dao-security-analysis-by-pessimistic-0a7e81",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/stabiliti-security-analysis-by-pessimistic-c42dd0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/stableplaza-security-analysis-by-pessimistic-65f5e7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/stakewise-security-analysis-by-pessimistic-c21e6a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/starton-security-analysis-by-pessimistic-5c36ef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/stonkleague-security-analysis-by-pessimistic-159e37",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/superdao-security-analysis-by-pessimistic-0d9cf9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/swarm-markets-nifty-minter-security-analysis-by-pessimistic-87d4bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/swarm-markets-security-analysis-by-pessimistic-a5ef02",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/sweat-economy-security-analysis-by-pessimistic-861c52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/swt-token-security-analysis-by-pessimistic-051a8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/sx1411-assettoken-security-analysis-by-pessimistic-241c34",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/syntropy-security-analysis-by-pessimistic-23fa5f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/tangem-gassless-transactions-security-analysis-by-pessimistic-34495a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/tangem-security-analysis-by-pessimistic-d03e4a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/thx-security-analysis-by-pessimistic-fa589c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/tornado-cash-security-analysis-by-pessimistic-b65edb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/tymio-security-analysis-by-pessimistic-95afda",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/venus-erc4626-wrapper-security-analysis-by-pessimistic-c836ad",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/venus-security-analysis-by-pessimistic-3e5754",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "limited-review"
+ },
+ {
+  "id": "pessimistic/via-protocol-security-analysis-by-pessimistic-95b5eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/virtuswap-security-analysis-by-pessimistic-b0ab51",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/warden-yield-security-analysis-by-pessimistic-ca561c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/weft-finance-security-analysis-by-pessimistic-77dd97",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/work-x-reward-security-analysis-by-pessimistic-b0f456",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/work-x-token-security-analysis-by-pessimistic-cfe4da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/workx-security-analysis-by-pessimistic-f2c3d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/xdao-2-security-recheck-c6ac56",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/xdao-security-analysis-by-pessimistic-03d014",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/xdao-security-analysis-by-pessimistic-ae3195",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/xyzverse-presale-security-analysis-by-pessimistic-f36eeb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "pessimistic/yfvalue-security-audit-by-pessimistic-011085",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:24+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ }
+]

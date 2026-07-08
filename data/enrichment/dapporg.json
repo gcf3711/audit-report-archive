@@ -1,0 +1,95 @@
+[
+ {
+  "id": "dapporg/mooniswap-review-7e73d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/dapp-org/mooniswap-tests"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "dapporg/optimism-review-9e5ba4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "dapporg/radicle-review-bef8eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "dapporg/tinlake-review-fab466",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/dapp-org/tinlake-tests"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "dapporg/uniswapv2-review-b38462",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "formal-verification"
+ }
+]

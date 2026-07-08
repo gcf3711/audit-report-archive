@@ -1,0 +1,458 @@
+[
+ {
+  "id": "hatsfinance/accumulated-finance-audit-competition-4e0666",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "hatsfinance/audit-competition-2-audit-competition-9be970",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/audit-competition-one-audit-competition-675811",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/audit-competition-one-audit-competition-bf29ac",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/circles-audit-competition-c339bf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "chains": [
+   "gnosis"
+  ],
+  "scope": {
+   "repo": "https://github.com/aboutcircles/circles-contracts-v2"
+  },
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hatsfinance/daosis-audit-competition-1d4f3c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "hatsfinance/ether-fi-audit-competition-ec4767",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "chains": [
+   "ethereum"
+  ],
+  "scope": {
+   "repo": "https://github.com/hats-finance/ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4"
+  },
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hatsfinance/fenix-audit-competition-b48958",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "hatsfinance/hats-arbitration-contracts-audit-competition-5e2791",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/illuminex-audit-competition-c5fbf2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "chains": [
+   "bitcoin"
+  ],
+  "ecosystems": [
+   "bitcoin"
+  ]
+ },
+ {
+  "id": "hatsfinance/inbal-s-vault-audit-competition-9d2a2c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/inverter-network-audit-competition-ff71d6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "hatsfinance/ion-protocol-audit-competition-2dfabb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/mento-audit-competition-906db6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "chains": [
+   "celo"
+  ],
+  "scope": {
+   "repo": "https://github.com/mento-protocol/mento-core"
+  },
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hatsfinance/old-accumulated-finance-audit-competition-e0abf0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/palmera-audit-competition-faefbc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "hatsfinance/pointing-system-v2-audit-competition-039dbc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/proof-of-humanity-v2-audit-competition-7c523f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "competition",
+  "chains": [
+   "ethereum"
+  ],
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "hatsfinance/seer-pm-audit-competition-224314",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "hatsfinance/thorn-protocol-audit-competition-dfc1c8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ },
+ {
+  "id": "hatsfinance/v3-gov-fee-2-audit-competition-f7ee85",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/v3-gov-fee-3-audit-competition-cf7d92",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/v3-gov-fee-4-audit-competition-ad1400",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/v3-gov-fee-5-audit-competition-1049e7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/hats-contracts"
+  }
+ },
+ {
+  "id": "hatsfinance/velvet-capital-audit-competition-918e3d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition",
+  "scope": {
+   "repo": "https://github.com/hats-finance/Velvet-Capital-0x0bb0c08fd9eeaf190064f4c66f11d18182961f77"
+  }
+ },
+ {
+  "id": "hatsfinance/wise-lending-audit-competition-f0d24c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:10+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "competition"
+ }
+]

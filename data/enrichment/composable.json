@@ -1,0 +1,457 @@
+[
+ {
+  "id": "composable/2022-11-fujidao-labs-ou-f2d276",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/Fujicracy/fuji-v2"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2023-01-milkyice-b196b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/codefunded/smartcontracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2023-03-divaprotocol-4c23d4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/divaprotocol/diva-protocol-v1"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2023-09-research-portfolio-3e3be8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2023-11-codefunded-03fbb0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-01-gasbot-v2-4b06f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-02-arcade-mission-pools-b5e26d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-03-chickendao-tg-bot-06a4e2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "composable/2024-05-fidl-metaallocator-2db80d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-07-arcade-mission-pools-ba4374",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-07-flexy-797dc0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-09-braintrust-8bb75d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-10-redstone-avs-2f5335",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2024-12-yieldnest-integration-with-kernel-d246ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-02-lido-oracle-v5-57115b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-02-othentic-rewardsv2-52def3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-05-shroomy-staking-fa183a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-06-lido-oracle-v5-2-b90786",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/lidofinance/lido-oracle"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-06-lido-oracle-v6-bf724f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/lidofinance/lido-oracle"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-07-lido-oracle-v7-dcf66b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-08-lido-oracle-v5-4-1-9edee8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-08-neverland-a850ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-09-lido-oracle-v6-0-2-9bfe79",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/lidofinance/lido-oracle"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-09-lido-oracle-v7-5d79fc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2025-09-lido-oracle-v7-second-69850d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/202509-neverland-selfrepay-ade0cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2026-02-lido-oracle-v7-1-4f74fa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/lidofinance/lido-oracle"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "composable/2026-05-lido-oracle-v8-8d5676",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:06+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ }
+]

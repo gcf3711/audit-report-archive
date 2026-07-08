@@ -1,0 +1,408 @@
+[
+ {
+  "id": "enigmadark/2024-03-invariant-testing-euler-evk-f3639e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2024-04-01-security-review-report-asterix-540054",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2024-04-01-security-review-report-solady-erc6551-935746",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2024-04-30-security-review-report-juiceboxprotocolv4-004023",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2024-09-30-security-review-report-aave-v3-2-bd59b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "fuzzing-campaign",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "enigmadark/2024-11-18-architecture-review-report-kinode-23bbfc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2024-11-security-review-flayerlabs-flaunch-10b7fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2024-12-enigmadark-invariant-testing-engagement-eulerlabs-eulerearn-9350a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2024-12-security-review-extension-flayerlabs-flaunch-71c56a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-03-security-review-flayerlabs-flaunch-v1-1-protocol-upgrade-4a1650",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-03-security-review-penetration-testing-unhosted-wallet-extension-core-backe-21e5b5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-04-invariant-testing-engagement-twyne-v1-a4b215",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-04-managed-security-review-ambit-labs-hyperdrive-lst-ab2038",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-04-security-review-arrakis-finance-arrakis-modular-pancakeswap-v4-uniswap-v-d99760",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-05-13-security-review-aave-v3-4-a26dc8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "fuzzing-campaign",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "enigmadark/2025-05-best-efforts-security-review-silo-finance-silo-v2-core-a2e1df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-05-managed-security-review-ambit-labs-hyperdrive-router-2f0f16",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-07-invariant-testing-engagement-makina-finance-makina-core-889a1d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-07-managed-security-review-pearl-labs-alto-lending-b2b07f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-07-security-review-arrakis-finance-arrakis-modular-uniswap-v4-public-module-5cbfd5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-08-managed-security-review-ambit-labs-hyperdrive-subaccounts-e3c11d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-09-security-review-arrakis-finance-arrakis-modular-pancakeswap-v3-integrati-cf4ea9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-09-security-review-makina-finance-makina-periphery-machine-share-oracle-246577",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-11-invariant-testing-engagement-twyne-aave-atokenwrapper-f4152b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-11-invariant-testing-engagement-twyne-aave-integration-cb92de",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-11-security-review-arrakis-finance-arrakis-modular-uni-v4-hook-integration-19ce0d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2025-11-security-review-euler-labs-euler-earn-rescue-strategy-e570a5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ },
+ {
+  "id": "enigmadark/2026-02-security-review-silo-finance-silo-v3-298ae3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "fuzzing-campaign"
+ }
+]

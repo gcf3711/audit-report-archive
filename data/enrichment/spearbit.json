@@ -1,0 +1,2660 @@
+[
+ {
+  "id": "spearbit/aragon-generic-money-spearbit-security-review-november-2025-901dd6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/aragon-spearbit-security-review-july-2025-13bfcb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/artgobblers-spearbit-security-review-3bf0bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/astaria-spearbit-security-review-1881e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/astaria-spearbit-security-review-july-a1ead4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/astera-spearbit-security-review-december-2024-ab9563",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/avara-aptos-v3-0-2-core-spearbit-security-review-56154d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "aptos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "move"
+  ]
+ },
+ {
+  "id": "spearbit/avara-aptos-v3-0-2-periphery-spearbit-security-review-584384",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "aptos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "move"
+  ]
+ },
+ {
+  "id": "spearbit/avara-aptos-v3-1-v3-3-core-spearbit-security-review-b24529",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "aptos"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "move"
+  ]
+ },
+ {
+  "id": "spearbit/axiom-contracts-spearbit-security-review-december-2023-c61d57",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/axiom-contracts-spearbit-security-review-january-2024-73dcec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum",
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/axiom-contracts-spearbit-security-review-october-2023-420ed8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/balancer-spearbit-security-review-september-2024-d58ea7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/base-spearbit-security-review-august-2024-f65e67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/beethoven-sonic-staking-spearbit-security-review-december-2024-d3a4c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/beets-looped-sonic-spearbit-security-review-september-2025-f26279",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/berachain-beacon-kit-spearbit-security-review-november-2024-2fa7e1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/berachain-beacon-kit-spearbit-security-review-october-2024-6a415e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/berachain-bex-spearbit-security-review-september-2024-09759c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/berachain-governance-spearbit-security-review-october-2024-4cf609",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/berachain-honey-spearbit-security-review-october-2024-c828e9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/berachain-pol-spearbit-security-review-october-2024-6750cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/biconomy-spearbit-security-review-october-2024-595834",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/botanix-spearbit-security-review-april-2025-57bea9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/brahma-spearbit-security-review-826667",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/brink-spearbit-security-review-engagement-1-2bcc43",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/brink-spearbit-security-review-engagement-2-c48f75",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/buck-labs-spearbit-security-review-january-2026-c4adc6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/centrifuge-spearbit-security-review-july-2024-9502d1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust",
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/clober-spearbit-security-review-25318b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/coinbase-op-enclave-spearbit-security-review-december-2024-b26518",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/coinbase-session-keys-spearbit-security-review-september-2024-7f0a46",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/coinbase-verified-pools-spearbit-security-review-september-2024-48dedb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/collar-spearbit-security-review-december-2024-933d61",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/connext-spearbit-security-review-e1f60e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/connextnxtp-spearbit-security-review-323a7a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism",
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/cronfinance-spearbit-security-review-ce80e7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/delv-spearbit-security-review-february-2024-1f8755",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/delv-spearbit-security-review-june-2023-5adfd4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/delv-spearbit-security-review-june-2024-67248c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/delv-spearbit-security-review-march-2024-306787",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/eigenlayer-spearbit-vciso-february-2025-5f5733",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/etherex-contracts-spearbit-security-review-august-2025-b35bd7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/euler-spearbit-security-review-evc-april-2024-495603",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/euler-spearbit-security-review-evk-april-2024-304ba4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/euler-spearbit-security-review-october-2024-38ca9a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/euler-spearbit-security-review-oracle-april-2024-64e213",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/fastlane-spearbit-security-review-april-2024-8650a0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/gauntlet-spearbit-security-review-7f54ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/gauntlet-spearbit-security-review-april-2025-1e4da9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/huma-2024-spearbit-security-review-2318e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/infinifi-spearbit-security-review-march-2025-01962c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/infrared-spearbit-security-review-january-2025-69b735",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "berachain"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/kinetiq-spearbit-security-review-march-2025-e99a13",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/kinetiq-spearbit-security-review-november-2025-71b162",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/kyber-hook-uniswap-foundation-spearbit-security-review-october-2025-44d885",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/lifi-retainer1-spearbit-security-review-ed05b7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/lifi-spearbit-security-review-13b4c6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/liquidcollective-spearbit-security-review-84b3e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/liquidcollective2-spearbit-security-review-f585d0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/liquidcollective3-spearbit-security-review-46e924",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/liquidcollectivepr-spearbit-security-review-3fd8f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/liquidcollectivepr-spearbit-security-review-july-69e988",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/liquidcollectivepr-spearbit-security-review-sept-fe9714",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/liquidops-spearbit-security-review-april-2025-cbccf1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/llama-spearbit-dec-security-review-fd373a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/llama-spearbit-security-review-da53da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/locke-spearbit-security-review-3875f2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/looksrare-spearbit-security-review-5140ca",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/maplev2-b7e8ef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/matter-labs-snark-wrapper-spearbit-security-review-18ecf0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "zksync-era"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/matter-labs-spearbit-security-review-march-2025-559850",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "zksync-era"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/monad-spearbit-security-review-september-2025-39b438",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/morpho-av3-spearbit-security-review-2e0d59",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/morpho-spearbit-security-review-december-2024-c3a60d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/morpho-spearbit-security-review-ff09c6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/morpho-spearbit-security-review-october-2024-3e8e62",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/morpho-spearbit-security-review-september-2025-3189f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/morpho-vaults-v2-fixes-spearbit-security-review-august-2025-ac8a76",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/morpho-vaults-v2-spearbit-security-review-may-2025-9c0523",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/morphov1-spearbit-security-review-066398",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/neutrl-spearbit-security-review-july-2025-599a97",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/nouns-spearbit-security-review-38c436",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/omni-halo-spearbit-security-review-august-2024-bb6288",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/omni-solidity-spearbit-security-review-september-2024-01a7f0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/ondo-spearbit-security-review-march-2025-85fd52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/ondo-spearbit-security-review-may-2025-111859",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/optimism-mtcannon-spearbit-security-review-december-2024-3aa5c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/optimism-spearbit-security-review-july-2025-2e3c4b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/optimism-spearbit-security-review-may-2025-b10f9f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/optimism-upgrade-15a-spearbit-security-review-april-2025-630c1a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/optimism-upgrade13-spearbit-security-review-january-2025-a32c80",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/optimism-verify-upgrade16-spearbit-security-review-september-2025-1488ed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/optimismdrippie-spearbit-security-review-49c707",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/optimisminterop-spearbit-security-review-february-2025-104870",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/overlay-spearbit-security-review-d8bfae",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/overprotocol-spearbit-security-review-june-2024-6f41b3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/overprotocol-spearbit-vciso-may-2024-9b9e38",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/paladin-spearbit-security-review-c33372",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/pendle-spearbit-security-review-august-2025-2e103a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "arbitrum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/pendle-spearbit-security-review-july-2024-a8bfcd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/porter-spearbit-security-review-cab9f3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/primitive-spearbit-security-review-3ea518",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/primitive-spearbit-security-review-july-859c0a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/puffer-spearbit-security-review-february-2025-98bafa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/redacted-dinero-infrastructure-security-review-854388",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/report-blast-contracts-review-draft-b1bce7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/report-blast-node-review-draft-0fb5d8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "optimism"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/royco-spearbit-security-review-october-2024-01fc0a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/satsbridge-frontend-spearbit-security-review-january-2025-9f5310",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/seadrop-spearbit-security-review-7fc54a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/seaport-spearbit-security-review-8f247d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/semantic-layer-spearbit-security-review-may-2025-24e9f8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "high"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/sense-spearbit-security-review-38a781",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/size-spearbit-security-review-009e8b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/solady-coinbase-spearbit-security-review-december-2024-a981bc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/sorella-spearbit-security-review-october-2024-e68702",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/sphinx-spearbit-security-review-fa5cdc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/stackup-spearbit-security-review-july-2025-99e853",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/steakhouse-app-web2-spearbit-security-review-september-2025-0ba06f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/strong-dao-spearbit-security-review-december-2025-160048",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/sudoswap-spearbit-security-review-180c33",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/sudoswaplssvm2-spearbit-security-review-641146",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/superform-v2-periphery-spearbit-security-review-june-2025-9453cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/tenbin-spearbit-security-review-january-2026-911eec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/tezos-spearbit-security-review-june-2024-03f723",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tezos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "spearbit/tezos-spearbit-security-review-september-2024-45c50d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tezos"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "spearbit/thala-spearbit-vciso-december-2024-e2e3da",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/timeless-spearbit-security-review-df8333",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/tracer-spearbit-security-review-909f5d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/tradable-spearbit-security-review-july2024-e89950",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/uniswap-the-compact-spearbit-security-review-may-2025-fab1b9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/uniswapx-spearbit-security-review-july-2024-3ec277",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/velodrome-spearbit-security-review-8f61eb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/velodrome-spearbit-security-review-nov23-cdbede",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "spearbit/zkevm-bridge-spearbit-27-march-1d17a9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/zkevm-cryptography-spearbit-27-march-47192b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/zkevm-engagement-1-spearbit-27-march-383015",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/zkevm-engagement-2-spearbit-27-march-7fc5bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "spearbit/zkevm-engagement-3-spearbit-6-april-4daf20",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ }
+]

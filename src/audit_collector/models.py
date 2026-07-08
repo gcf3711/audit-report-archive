@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import re
 import unicodedata
 from dataclasses import dataclass, field, asdict
@@ -31,7 +32,10 @@ class Report:
 
     @property
     def id(self) -> str:
-        return f"{self.source}/{slugify(self.title)}"
+        # title slug for readability + report_url hash for uniqueness
+        # (titles collide: e.g. 97 Sigma Prime reports are just "review")
+        url_hash = hashlib.md5(self.report_url.encode()).hexdigest()[:6]
+        return f"{self.source}/{slugify(self.title)}-{url_hash}"
 
     def to_dict(self) -> dict:
         d = asdict(self)

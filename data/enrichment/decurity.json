@@ -1,0 +1,907 @@
+[
+ {
+  "id": "decurity/1inch-aggregation-router-v6-audit-report-2023-1-1-2ca7fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/1inch/1inch-contract"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-aggregation-router-v6-limit-order-v4-audit-report-2023-1-1-5880ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-aqua-swapvm-audit-report-2025-1-0-e59b05",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-aqua-swapvm-audit-update-report-2026-1-1-d474b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-calldata-compressor-audit-report-2023-1-0-291440",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-cross-chain-swaps-audit-report-2024-1-1-accaf7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "zksync-era"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "decurity/1inch-cross-chain-swaps-v2-audit-report-2024-1-1-65fab5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-farming-audit-report-1-0-815411",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/1inch/farming."
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-fusion-mode-audit-report-1-1-aa367b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/1inch/delegating"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-fusion-mode-audit-report-2-1-1e9e2b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/1inch/limit-order-settlement"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-fusion-v2-audit-report-2023-1-1-f843be",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/1inch/limit-order-settlement"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-fusion-v2-audit-report-2024-1-1-da1139",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-selfdestruct-refactoring-audit-report-2024-1-0-15141f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/1inch/limit-order-p"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/1inch-settlementextension-audit-report-2023-1-0-5ec02b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/aqueduct-twamm-audit-report-2023-1-1-0bc4dd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/bebop-jam-audit-report-1-1-84324a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/clearpool-open-term-pools-audit-report-2024-1-1-7707f5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/clearpool-usdx-audit-report-2024-1-1-313a58",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/collectif-dao-audit-report-1-2-2779ea",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/cryptolegacy-audit-report-2025-1-1-1a9eb2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/dyson-finance-audit-report-1-0-4d10e6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Gabriel-Dyson/dyson-audit-2022-09-26."
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/east-finance-audit-report-1-0-d403c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/etherfi-liquifier-diff-audit-report-2024-1-1-6c358b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/fluence-dao-audit-report-1-1-9e1fff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/frankencoin-audit-report-2024-1-1-89c514",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-balancer-v3-integrations-audit-report-1-1-8c48e1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-balancer-v3-integrations-audit-report-2-0-fa327d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-curve-pendle-oracle-update-audit-report-1-1-06fa05",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-governor-v3-audit-report-1-0-b9c701",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-infinifi-uniswap-v4-audit-report-1-1-b82b19",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-integrations-misc-audit-report-1-1-35b937",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-kelp-lrt-integration-audit-report-1-1-d3e2cd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-midas-integration-audit-report-1-1-05c3ff",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-pendle-mellow-integrations-audit-report-1-1-48425a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-securitize-integration-audit-report-1-1-184bd5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/gearbox-sky-pyth-integrations-audit-report-1-1-d45eba",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/monkeykingdom-security-audit-report-1-0-bc0487",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/0xBURP/MonkeyKingdom-MonkeyLegends."
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/mortgagefi-audit-report-1-1-24223a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/mortgagefi-update-audit-report-2025-1-1-840849",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/nuon-audit-report-2024-1-1-07259a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/oracle-dao-security-audit-report-1-0-1c1268",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/Oracle-DAO/core-contracts."
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/socket-across-bridge-integration-audit-2024-1-1-19c760",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/socket-hop-l2-integration-audit-report-2024-1-1-935cee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/socket-mantle-integration-audit-report-2024-1-1-62ece1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "decurity/socket-mayan-integration-audit-report-2025-1-1-54139f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/socket-scroll-integration-audit-2024-1-1-1d2253",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "scroll"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "decurity/socket-stargate-v2-integration-audit-2024-1-1-051bc9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/socket-superbridge-integration-audit-2024-1-1-d9e5e4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/symbiosis-finance-frontend-audit-report-1-1-e0cc6d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/symbiosis-finance/web-app."
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/symbiosis-finance-relayers-audit-report-1-1-4a8699",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "decurity/tethys-finance-security-audit-report-1-0-be4990",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/thales-market-liquidity-pool-audit-report-1-1-8b3573",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/thales-markets/contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/thales-market-speedmarkets-audit-report-1-1-d179f6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/tokenlon-limit-order-audit-report-1-1-6db0fc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/consenlabs/tokenlon-contracts."
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/tokenlon-rfqv2-audit-report-1-1-8e0938",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/ton-verification-report-1-1-24344e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/ufarm-audit-report-2023-1-1-9fbe28",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/unore-v2-audit-report-1-1-cb7113",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "scope": {
+   "repo": "https://github.com/UnoRe/SSIP-SSRP-contracts"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/vooi-pool-security-audit-report-1-1-f6fa2c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/yearn-univ3stablesjoint-audit-report-1-0-e765d4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "scope": {
+   "repo": "https://github.com/fp-crypto/joint-strategy."
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "decurity/zkbob-contracts-cdp-audit-report-1-1-56b41a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ }
+]

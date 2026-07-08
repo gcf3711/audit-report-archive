@@ -1,0 +1,4209 @@
+[
+ {
+  "id": "blocksec/blocksec-1perp-feeearner-smart-contract-signed-20251104-45b5df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-aloe-1-1-signed-648087",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-alpaca-v1-0-signed-0c5bfb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-alphax-protocol-alphax-protocol-contract-tron-signed-20260430-0992c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "tron"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-arken-v1-0-signed-a3419f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-astherus-202502-signed-5f8b00",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-astherus-apxexchange-202506-signed-e1e3af",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-aura-network-v1-0-14d89d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cosmos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cosmos"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-baelor-agent-router-signed-20260527-ccc7a3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bedrock-br-token-v1-0-signed-069695",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bgw-swap-aggregator-solana-v1-0-signed-9517f4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-bitget-bgw-new-staking-evm-signed-20250925-27e546",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitget-bgw7702-signed-20260403-0805c0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitget-onchain-evm-signed-20250627-5d5b82",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitget-rwa-evm-contracts-signed-20260415-d074ec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitget-rwadividenddistributor-contract-signed-20260508-e68779",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitget-swap-aggregator-v1-0-signed-aed33f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitgetwallet-bgw-swap-aggregator-evm-signed-20260518-a68626",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitgetwallet-bgw-swap-aggregator-solana-signed-20260518-7b276b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-bitgetwallet-deficard-contracts-signed-20260603-3afbb3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitway-app-chain-v1-0-signed-8b4a8e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "cosmos"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "cosmos"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-bitway-frost-v1-0-signed-c50a1f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-bitway-shutter-v1-0-signed-bb0f48",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-blcokchainbg-onchain-solana-signed-20250923-327858",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-boost-farm-v1-0-signed-e81bef",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-burrow-margin-trade-v1-0-signed-d87a07",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-burrow-v1-0-signed-c0b70d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-burrow-v2-0-signed-e2952e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-burrowland-pyth-v1-0-signed-6c687c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-burrowland-v3-signed-d1ae96",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cakepie-2nd-v1-0-signed-71ebc3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cakepie-v1-0-signed-d97d07",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cakepie-v1-1-signed-e19348",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cellula-v1-0-signed-8a560e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cobo-cobotokenization-signed-20260317-2b830e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cobo-cobotokenization-signed-20260401-4d9353",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cobotokenization-v1-0-signed-8d3c50",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-coordinape-v1-1-signed-7e1279",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cornerstone-v1-0-signed-9f1c14",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-crossearn-v1-0-signed-487ac0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-cruise-v1-0-signed-f0d01a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-dapdap-monad-game-v1-0-signed-621021",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-dappos-ia-v1-0-signed-04d9ad",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-dcs-protocol-commerce-payments-signed-20260402-cfea5d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-defibox-vault-v1-0-signed-0ca7ce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-defibox-vault-v1-1-signed-6586bb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-delorean-v1-0-signed-414a45",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-deltatrade-dca-v1-0-signed-9503fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-deltatrade-solana-v1-0-signed-c99a3e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-deltatrade-v2-0-signed-546c14",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-dstock-core-v1-0-signed-ea404f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-dstock-oft-v1-0-signed-05bcb5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-duboisgold-kbar-signed-20260408-ac122e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-duet-stablecoin-v1-0-5226b8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-earnmos-v1-0-signed-c97dd2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-easycoin-v1-0-signed-629a67",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "frameworks": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "chains": [
+   "solana"
+  ],
+  "frameworks": [
+   "anchor"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-eigenpie-1-0-signed-c3600b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-eos-rex-v1-0-signed-75dd3c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-eos-wram-v1-0-signed-dbdda4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-eos-wram-v1-1-signed-e40e75",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-eos-wram-v1-2-signed-ddc48c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-eos-wram-v1-3-signed-1db5bc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-extrafinance-v1-0-signed-a9bf10",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ferro-v1-0-signed-59bc78",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-filda-dao-v1-0-signed-777fed",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-firnprotocol-v1-0-signed-bc40c3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-flap-sh-flapaiprovider-contracts-signed-20260318-733631",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-flyfoundation-flypad-v1-0-signed-04845a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-fyllo-v1-1-signed-028e9e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-glorifinance-v1-0-signed-8bd37d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-goatfi-multistrategy-v1-0-signed-e88bf8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-habittrade-stove-protocol-v1-0-signed-512466",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-halo-token-earn-membership-v1-0-signed-c93df4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-halotrade-v1-0-signed-773dd3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-hertzflow-perp-contracts-signed-20260518-04aff9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-impossible-finance-swap-v1-2-6f700f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-inverter-network-wcmadapter-contract-signed-20260703-0f4114",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-latteswap-flat-v1-1-9ab383",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-linear-v1-0-signed-8ccf21",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-lista-lending-202504-signed-ccdaeb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-lista-lending-202512-signed-9c2d66",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-lista-lending-provider-v1-0-signed-de534d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-lista-lptokenprovider-v1-0-signed-9fa922",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-loansnap-baconcoin-v1-0-229707",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-lotus-v1-0-signed-a43e5d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magefinance-v1-1-signed-031cf5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-cakepie-latest-signed-1e2978",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-cakepie-v1-0-signed-03d6ab",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-eigenpie-latest-signed-88dd4f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-eigenpie-v1-1-signed-fbc085",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-eigenpie-v1-4-signed-42652c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-launchpad-v1-0-signed-b44494",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-penpie-latest-signed-7069d7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-penpie-prt-v1-0-signed-7748e0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-penpie-v2-1-signed-c33392",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-penpie-v2-3-signed-c8f0e8",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-magpie-penpieautomkt-v1-0-signed-7a9ee4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-mancake-v1-0-signed-8bec00",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-mancake-v1-1-signed-4a071a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-manta-fast-finality-v1-0-signed-319529",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-mantle-fiat24-contracts-signed-20260608-92256c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-mantle-fiat24-v1-0-signed-7fa6df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "filename",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-mantle-ur-topup-contract-solana-signed-20260409-6dd266",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "mantle",
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm",
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-megaeth-dtf-v1-0-signed-2c1b0e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-megaeth-normal-account-contracts-signed-20260610-7dab1c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-megaeth-pt-signed-20260317-f4915c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-megaeth-pt-v1-0-signed-3892ee",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-megaeth-staking-contracts-signed-20260407-3e3751",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-megaeth-staking-contracts-signed-20260417-950600",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-mellow-vaults-v1-3-signed-1475f7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-melos-dao-v1-0-signed-b90c85",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-memefarming-v1-0-signed-1683e5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-metapool-v1-1-signed-2b3ac6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-monster-token-v1-0-signed-61cdd5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-monster-token-v1-1-signed-fc872d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-morph-emerald-upgrade-v1-0-signed-9a9e87",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-morph-morph-reth-signed-20260623-b9c4bc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-multichain-vemult-v1-0-signed-12b203",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-nearx-v2-0-signed-b0d5ce",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-nearx-v3-0-signed-eedda6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-neox-v1-0-signed-57ccfd",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-nfex-v1-0-signed-e9f37e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-noah-v1-0-signed-1a8435",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-noahv3-v1-0-signed-c64235",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-noirwallet-zcash-wallet-wasm-signed-20260609-b1bf39",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-norewsin-web-starcore-relay-billing-signed-20260703-9050d2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-oct-anchor-v1-0-signed-e40d1b",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-oct-convertor-v1-0-signed-ff8f71",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-octopus-network-restaking-v1-0-signed-d9f22d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-octopus-vesting-v1-0-signed-45e1d6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-oinfinance-v1-0-63123c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-okx-smart-wallet-recovery-solana-v1-0-signed-03de58",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-okx-smart-wallet-recovery-v1-0-signed-a010c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-okx-smart-wallet-v1-0-signed-755ccb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "chains": [
+   "ethereum"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-pacifica-bridge-contract-signed-20260401-1f81df",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "chains": [
+   "solana"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "solana"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-pacifica-fi-perp-contracts-signed-20250424-5559fb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-pancake-aggregator-v1-0-signed-d67c52",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-pancake-v1-0-signed-b3727a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-pancake-vecake-v1-0-signed-db01b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-pancakeswap-cross-farming-v1-0-signed-af41d3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "evm"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-paras-market-signed-v1-0-cee02e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-paras-nft-signed-v1-0-2d11fe",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-paras-token-v1-0-signed-f81fb4",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-pause-guardian-v1-0-signed-0a1a49",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-pembrock-v1-0-signed-305302",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-penpie-v1-0-signed-15acec",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-permaswap-v1-0-signed-64fb53",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "go"
+  ],
+  "scope": {
+   "repo": "https://github.com/everFinance/perma"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-permaswap-v1-0-signed-7d1568",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "go"
+  ],
+  "scope": {
+   "repo": "https://github.com/everFinance/perma"
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-phoenix-bonds-v1-0-8ddd90",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-polynetwork-v2-0-1eb8de",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-popcorn-v1-0-signed-feca20",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-puffer-pufeth-v1-1-signed-77821c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-puffer-v1-0-signed-232ff2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-pumpbtc-v1-1-signed-22a27a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-r25-asyncvault-contracts-signed-20260428-09f9dc",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-r25-syncvault-contracts-signed-20260428-02ca49",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-rabby-wallet-swap-router-v1-0-signed-30d5b3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-radiant-glp-v1-0-signed-456242",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-radiant-v2-0-c71caf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-radpie-v1-0-signed-f23c45",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-raincoin-wrain-v1-0-signed-3d66a3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ramdefi-v1-0-signed-13d2c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-rams-rambank-v1-0-signed-3e2380",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-rams-rambank-v1-1-signed-55896a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-rams-ramx-v1-0-signed-ba483e",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-bridge-v1-0-signed-258a50",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-degenpool-v1-0-signed-ca6053",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-degenpool-v2-0-signed-97dc5c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-deltabot-v1-0-signed-d11491",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-exchange-v4-0-signed-2cdefb",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-burrowland-ref-dcl-ref-exchange-signed-20260509-ef4d17",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-dcl-v1-0-signed-fab15f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-dcl-v2-0-signed-076465",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-dcl-v3-0-signed-b5bd69",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-exchange-v1-0-signed-f5a632",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-exchange-v2-0-signed-e4e607",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-exchange-v3-0-signed-686619",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-finance-xref-v1-0-signed-64958c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-lp-as-collateral-v1-0-signed-c10126",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-token-locker-v1-0-signed-3d9704",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-ref-token-locker-v2-0-signed-231564",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-refve-v1-0-signed-8e8ce5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-revest-v1-0-signed-58e55a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-rhea-finance-rhea-lsd-signed-20260324-514c76",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-rhea-multichain-account-v1-0-signed-62312d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   },
+   "ecosystems": {
+    "method": "text-regex",
+    "confidence": "medium"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "chains": [
+   "near"
+  ],
+  "audit_kind": "private-audit",
+  "ecosystems": [
+   "other"
+  ]
+ },
+ {
+  "id": "blocksec/blocksec-rhea-rnear-v1-0-signed-6524c5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-rhea-token-v1-0-signed-38d7f1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-satashi-account-v1-0-signed-2f26b1",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-satoshi-bridge-v1-0-signed-f15e75",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-side-v1-0-signed-38526d",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-sosovaluelabs-ssi-v1-0-signed-b6af6f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-spherium-bridge-v1-1-signed-4c47de",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-spherium-bridgev2-v1-0-signed-4c752c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-staketogether-v1-1-signed-85e449",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-stnd-v1-7-signed-05170c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-tentou-mimboku-v1-0-signed-57824c",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-tknhomes-tkn-v1-0-signed-e224c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-upheaval-v1-0-signed-c1928f",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-wencore-v1-0-signed-50a6c7",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-whale-loan-v1-4-6bfcbf",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-windranger-v1-2-signed-645a91",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-xaue-lab-xaue-lending-signed-20260611-458540",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-xp-network-v1-0-2f7ab2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "filename",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "rust"
+  ],
+  "audit_kind": "private-audit"
+ },
+ {
+  "id": "blocksec/blocksec-xyfinance-v1-0-signed-78f5a3",
+  "schema_version": 1,
+  "enriched_at": "2026-07-08T14:27:58+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "languages": {
+    "method": "text-regex",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "low"
+   }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "audit_kind": "private-audit"
+ }
+]
