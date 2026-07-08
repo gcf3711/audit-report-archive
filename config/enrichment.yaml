@@ -1,0 +1,220 @@
+# Enrichment schema + controlled vocabularies (design spec, phase 2).
+#
+# Defines the per-report metadata layer that sits ON TOP of collection:
+# enrichment records live in data/enrichment/<source>.json (one array per
+# source, entries keyed by the catalog `id`), never inside the catalogs —
+# collection stays rerunnable without touching analysis output, and vice
+# versa. The enrichment pipeline must validate every value against the
+# vocabularies below; extending a vocabulary is a reviewed edit to this
+# file FIRST, then data. Unknown/ambiguous stays null — never guess into
+# a controlled field.
+#
+# Every extracted field records HOW it was derived (method) and how much
+# to trust it (confidence), so cheap deterministic passes and LLM passes
+# can coexist and later passes can overwrite earlier ones by rule:
+# higher confidence wins; equal confidence -> later method in the
+# `methods` list (they are ordered by increasing authority).
+
+schema_version: 1
+
+# ---------------------------------------------------------------- record
+# One enrichment record per catalog entry:
+#
+#   id: "blocksec/uniswap-v4-core"      # catalog id (join key)
+#   enriched_at: "2026-07-15T08:00:00Z"
+#   schema_version: 1
+#   chains: [ethereum, arbitrum]        # values from vocab.chains
+#   ecosystems: [evm]                   # derived from chains (see mapping)
+#   languages: [solidity]               # vocab.languages
+#   frameworks: []                      # vocab.frameworks (optional detail)
+#   category: defi-dex                  # vocab.categories (single value)
+#   audit_kind: private-audit           # vocab.audit_kinds
+#   project_id: uniswap                 # key into data/enrichment/projects.json
+#   scope:                              # audit target, when stated in report
+#     repo: "https://github.com/Uniswap/v4-core"
+#     commit: "abc123..."
+#   findings:                           # null if not machine-readable
+#     critical: 0
+#     high: 2
+#     medium: 5
+#     low: 9
+#     informational: 12
+#   text_extracted: true                # false = scanned/unparseable PDF
+#   provenance:                         # per-field method + confidence
+#     chains:    {method: text-regex, confidence: high}
+#     languages: {method: source-prior, confidence: medium}
+#     category:  {method: llm, confidence: medium}
+#
+# Multi-value fields (chains, languages, frameworks) are sorted, deduped
+# lists. Single-value fields (category, audit_kind, project_id) are null
+# when undetermined. `provenance` is required for every non-null
+# enrichment field.
+
+fields:
+  chains:      {type: list,   vocab: chains, required: false}
+  ecosystems:  {type: list,   vocab: ecosystems, derived_from: chains}
+  languages:   {type: list,   vocab: languages, required: false}
+  frameworks:  {type: list,   vocab: frameworks, required: false}
+  category:    {type: scalar, vocab: categories, required: false}
+  audit_kind:  {type: scalar, vocab: audit_kinds, required: false}
+  project_id:  {type: scalar, vocab: null, required: false}   # projects.json key
+  scope:       {type: object, required: false}
+  findings:    {type: object, required: false}
+  text_extracted: {type: bool, required: true}
+  provenance:  {type: object, required: true}
+
+# ------------------------------------------------------- extraction meta
+methods:          # ordered: later = more authoritative at equal confidence
+  - source-prior  # per-source default (e.g. ottersec -> solana)
+  - filename      # keyword in file/dir name or repo path
+  - text-regex    # deterministic match in extracted report text
+  - github-linguist  # language stats of the in-scope repo
+  - external-api  # DeFiLlama / CoinGecko cross-reference
+  - llm           # model extraction from report text
+  - manual        # human-set; never overwritten by a pipeline run
+
+confidence: [low, medium, high]
+
+# ---------------------------------------------------------- vocabularies
+vocab:
+  # Specific chains/networks. `ecosystems` groups them for coarse filtering.
+  chains:
+    # EVM family
+    - ethereum
+    - arbitrum
+    - optimism
+    - base
+    - polygon
+    - bsc
+    - avalanche
+    - fantom
+    - gnosis
+    - zksync-era
+    - scroll
+    - linea
+    - mantle
+    - celo
+    - moonbeam
+    - tron          # EVM-compatible via TVM
+    - berachain
+    - sonic
+    - evm-other     # stated EVM chain not in this list
+    # non-EVM
+    - solana
+    - cosmos        # hub + generic cosmos-sdk chains
+    - osmosis
+    - near
+    - aptos
+    - sui
+    - starknet
+    - cardano
+    - polkadot      # relay + substrate parachains
+    - ton
+    - tezos
+    - algorand
+    - hedera
+    - stellar
+    - icp
+    - flow
+    - bitcoin
+    - lightning
+    - other
+
+  ecosystems:       # derived: chain -> family (mapping kept in code)
+    - evm
+    - solana
+    - cosmos
+    - move           # aptos + sui
+    - polkadot
+    - bitcoin
+    - cairo          # starknet
+    - other
+
+  # Implementation language of the AUDITED code (not the report format).
+  languages:
+    - solidity
+    - vyper
+    - yul
+    - huff
+    - fe
+    - rust
+    - move
+    - cairo
+    - go
+    - typescript
+    - javascript
+    - python
+    - c
+    - cpp
+    - haskell        # incl. plutus
+    - func           # TON
+    - tact           # TON
+    - clarity        # Stacks
+    - michelson      # Tezos (incl. SmartPy/LIGO output)
+    - teal           # Algorand (incl. pyteal)
+    - scilla
+    - wasm-other
+    - circom         # zk circuits
+    - noir
+    - zkvm-other
+    - other
+
+  frameworks:        # optional refinement; only when clearly stated
+    - cosmwasm       # rust on cosmos
+    - anchor         # rust on solana
+    - substrate      # rust on polkadot
+    - ink            # rust contracts on substrate
+    - openzeppelin
+    - foundry
+    - hardhat
+    - other
+
+  # Primary protocol category — pick the single best fit; when several
+  # apply (e.g. a DEX with its own stablecoin) choose what the audited
+  # scope mostly is.
+  categories:
+    - defi-dex            # AMMs, orderbooks, aggregators
+    - defi-lending        # money markets, CDPs
+    - defi-derivatives    # perps, options, synthetics
+    - defi-yield          # vaults, yield aggregators, farming
+    - stablecoin
+    - liquid-staking      # LSTs, restaking
+    - staking-validators  # staking infra, delegation, PoS core
+    - bridge-interop      # bridges, messaging (LayerZero, IBC apps)
+    - nft
+    - gaming-metaverse
+    - dao-governance      # governance, treasuries, multisigs as product
+    - wallet-custody      # wallets, account abstraction, custody
+    - token-distribution  # vesting, airdrops, launchpads, ICO/IDO
+    - rwa                 # real-world assets, tokenized securities
+    - payments
+    - privacy-zk          # mixers, zk protocols, zk circuits as scope
+    - oracle
+    - identity-naming     # DID, name services
+    - chain-core          # L1/L2 node, consensus, VM, compiler, precompiles
+    - dev-tooling         # SDKs, libraries, standards implementations
+    - other
+
+  audit_kinds:
+    - private-audit       # firm engaged by the project (the default)
+    - competition         # public contest (code4rena, sherlock, cantina, hats)
+    - formal-verification # certora, runtime verification style
+    - fuzzing-campaign    # invariant/fuzzing engagements (enigma dark etc.)
+    - limited-review      # explicitly scoped-down / preliminary review
+    - other
+
+# --------------------------------------------- projects registry (sketch)
+# data/enrichment/projects.json — canonical project entities, entity
+# resolution target for the `project_id` field:
+#   {
+#     "uniswap": {
+#       "name": "Uniswap",
+#       "aliases": ["uniswap v2", "uniswap v3", "uniswap-labs", "UNI"],
+#       "website": "https://uniswap.org",
+#       "defillama_slug": "uniswap",   # optional external keys
+#       "category": "defi-dex"         # project-level default
+#     }, ...
+#   }
+# Rule: report-level category (this schema) overrides the project-level
+# default when they differ (a firm may audit only the vesting contract of
+# a DEX project).
