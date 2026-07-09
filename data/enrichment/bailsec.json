@@ -2,7 +2,7 @@
  {
   "id": "bailsec/bailsec-0x-crosschainreceiver-final-report-cad0c3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -20,12 +20,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/0xProject/0xsettler"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-0x-crosschainreceiver-update-final-report-a5f8a5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -43,12 +44,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/0xProject/0xsettler"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-0x-safeguard-final-report-e86b53",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -66,12 +68,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/0xProject/0xsettler"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-1inch-fee-protocol-final-report-cfa4ec",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -89,12 +92,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/1inch/fusionprotocol"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-algebra-core-update-audit-differential-final-report-681d01",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -112,12 +116,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/cryptoalgebra/Algebra"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-algebra-factory-update-audit-differential-final-report-ecd3d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -135,12 +140,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/cryptoalgebra/Algebra"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-algebra-fee-architecture-update-differential-final-report-6b7454",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -158,12 +164,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/cryptoalgebra/Algebra"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-algebra-finance-swapx-fee-plugin-final-report-f76407",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -181,12 +188,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/cryptoalgebra/Algebra"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-algebra-integral-update-audit-differential-final-report-github-resolutio-9a0677",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -194,22 +202,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/cryptoalgebra/Algebra"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-alto-lending-market-final-report-09fda0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -217,7 +226,11 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -227,12 +240,14 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/altomoney/v1"
-  }
+  },
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-amphor-final-report-github-resolution-addition-33ab8d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -250,12 +265,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/AmphorProtocol/synthetic-vault"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-atlantis-final-report-d69506",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -273,12 +289,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/atlantisprotocol/contracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-cairo-finance-vaults-final-report-github-resolution-a40e01",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -290,11 +307,11 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -305,18 +322,19 @@
   "chains": [
    "starknet"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/cairofinanceapp/Farm"
   },
   "ecosystems": [
    "cairo"
-  ]
+  ],
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-camelot-grail-final-report-26f10d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -334,12 +352,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/CamelotLabs/exchangecontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-camelot-grail-final-report-8461ef",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -357,12 +376,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/CamelotLabs/exchangecontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-defi-money-boostedstaker-final-report-0cf31e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -380,12 +400,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/defidotmoney/boostedstaker"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-defi-money-chainlinkema-final-report-62cb61",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -403,12 +424,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/defidotmoney/dfmcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-defi-money-fee-module-final-report-92e07c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -426,12 +448,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/defidotmoney/dfmcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-defi-money-leveragezap-final-report-f1dc6c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -449,12 +472,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/defidotmoney/dfmcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-euler-auxilliary-final-report-c6e889",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -472,12 +496,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/euler-xyz/euler-priceoracle"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-euler-erc20burnablemintable-final-report-aa58d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -495,12 +520,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/euler-xyz/evkperiphery"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-euler-finance-eul-erc20-final-report-7841db",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -518,12 +544,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/euler-xyz/eulergovernance"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-five-pillar-final-report-9d4092",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -541,12 +568,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/fivepillarstoken/InvestmentManager"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-gamma-uniswapv4-integrations-final-report-fd1068",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -564,12 +592,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/GammaStrategies/UniswapV4Hypervisor"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-gamma-vaults-final-report-68665f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -587,12 +616,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/GammaStrategies/AlgebraIntegralHypervisor"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-gu-final-report-d34e70",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -610,12 +640,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/GUFactory/livecontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-hyperdrive-lst-final-report-d27b17",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -633,12 +664,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/ambitfi/hyperdrivecontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-hyperdrive-tokenization-final-report-dc0f3e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -656,12 +688,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/ambitfi/hyperdrivecontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-hypertrade-v3-core-final-report-3b8adc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -676,12 +709,13 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review"
+  "audit_kind": "limited-review",
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-ichi-vaults-final-report-bb93a8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -699,12 +733,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/ichifarm/algebra-integral-ichivaults"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-impermax-v3-core-final-report-942922",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -722,12 +757,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/Impermax-Finance/impermax-v3core"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-inceptionlrt-vaults-final-report-5287ec",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -745,12 +781,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/inceptionlrt/smartcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-kernel-dao-distributor-final-report-395554",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -768,12 +805,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/Kelp-DAO/KelpDAOcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-kernel-final-report-9c4d8d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -791,12 +829,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/Kelp-DAO/kernel-smart-contractsprivate"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-lfj-final-report-bfa044",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -814,12 +853,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/traderjoe-xyz/joerouter"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-liquify-final-report-f3d59b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -827,12 +867,13 @@
     "confidence": "medium"
    }
   },
-  "audit_kind": "limited-review"
+  "audit_kind": "limited-review",
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-lista-dao-credit-loan-final-report-b0ad13",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -840,7 +881,11 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -850,12 +895,14 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/listadao/moolah"
-  }
+  },
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-lista-dao-lista-lending-final-report-ab6229",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -873,12 +920,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/listadao/moolah"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-lista-dao-lista-lending-update-final-report-7ea2d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -896,12 +944,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/listadao/moolah"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-lista-dao-slisbnb-provider-final-report-bc22d1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -919,12 +968,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/lista-dao/listatoken"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-lista-dao-slisbnbminter-final-report-f56651",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -942,12 +992,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/listadao/moolah"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-lista-dao-usdt-distributor-final-report-b33649",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -965,12 +1016,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/lista-dao/listatoken"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-listadao-fixed-term-lending-followup-audit-final-report-9e4a40",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -978,7 +1030,11 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -988,12 +1044,14 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/listadao/moolah"
-  }
+  },
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-listadao-smart-collateral-liquidators-extension-final-report-f80367",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1011,12 +1069,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/listadao/moolah"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-meuna-final-report-b29676",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1034,12 +1093,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/meuna-io/meunacontract"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-mev-x-differential-final-report-efc94e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1047,7 +1107,7 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1057,12 +1117,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/mev-x-project/MEV-XHomelander"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-mev-x-plugin-final-report-dc9a6b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1080,12 +1141,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/OIS-Solutions/MEV-XHomelander"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-midasswap-smart-collateral-final-report-953e80",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1103,12 +1165,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/jk889971/MidasContracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-mira-erc20-token-final-report-0e01b6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1123,12 +1186,13 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review"
+  "audit_kind": "limited-review",
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-mira-network-final-report-fd89d4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1146,12 +1210,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/Aroha-Labs/mira-contractsv0"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-moebius-finance-final-report-3c92ce",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1169,12 +1234,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/Moebius-Finance/contractsaudit"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-nest-ve-core-final-report-2d6507",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1182,7 +1248,7 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1192,12 +1258,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/FenixProtocol/nestcore"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-nome-final-report-f7e2cb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1215,12 +1282,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/nome-protocol/nomecontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-onlycockscrypto-full-report-github-3-resolutions-5e24d3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1228,22 +1296,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/OnlyCocksCrypto/OnlyCocksCrypto"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-parallel-bridge-bridgeabletoken-final-report-847cac",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1261,12 +1330,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/mimocapital/titan"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-parallel-protocol-prl-token-final-report-bf0167",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1284,12 +1354,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/parallel-protocol/PRLtoken"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-parallel-protocol-v3-core-final-report-5263e1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1307,12 +1378,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/parallel-protocol/parallelcore"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-ponzio-the-cat-final-report-9a1559",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1330,12 +1402,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/PonzioTheCat/contracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-prom-erc20classic-final-report-0e4299",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1353,12 +1426,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/prom-io/mymemesapp"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-redacted-audit-b4e65a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1366,19 +1440,20 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-robinos-final-report-0db170",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1396,12 +1471,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/swapsicledex/robinos-prediction-smartcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-rocketpool-saturn-final-report-b0723d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1419,12 +1495,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/rocketpool/rocketpool"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-smardex-ecosystem-final-report-71f6ef",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1442,12 +1519,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/SmarDex-Ecosystem/usdncontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-smardex-p2p-lending-final-report-089f15",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1465,12 +1543,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/SmarDexEcosystem/SPRO_contracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-smardex-router-final-report-58f552",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:39+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1488,12 +1567,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/SmarDex-Ecosystem/universalrouter"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-smardex-usdn-final-report-3441a8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1511,12 +1591,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/SmarDex-Ecosystem/usdncontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-stader-labs-bnbx-final-report-7cce5a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1534,12 +1615,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/staderlabs/bnbX"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-stader-labs-maticx-final-report-eb5509",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1557,12 +1639,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/staderlabs/maticX"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-stryke-marginzero-clamm-options-final-report-faa7c1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:07+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1580,12 +1663,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/marginzeroxyz/contracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-swapx-exchange-final-report-eb1bb2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1603,12 +1687,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/SwapX-Exchange/contractsrb"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-swapx-staking-airdrop-vesting-final-report-aaed6a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:00:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1626,12 +1711,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/SwapX-Exchange/contractsrb"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-symbiotic-rewardsv2-final-report-ffbdd1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1649,12 +1735,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/symbioticfi/rewardsv2"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-telos-oftv1-2-update-differential-resolution-final-report-github-495331",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1662,22 +1749,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/telosnetwork/TelosOFT"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-terminal-finance-dex-final-report-2c6973",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:01:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1695,12 +1783,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/terminalfinance/contracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-token-mill-evm-final-report-87684d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1708,7 +1797,7 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1718,20 +1807,29 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/traderjoe-xyz/token-millv2"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-token-mill-v2-sol-rust-final-report-91cb7a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T03:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1741,12 +1839,19 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/traderjoe-xyz/sol-token-millv2"
-  }
+  },
+  "chains": [
+   "solana"
+  ],
+  "llm_done": true,
+  "ecosystems": [
+   "solana"
+  ]
  },
  {
   "id": "bailsec/bailsec-trustswap-locknft-priceestimator-resolution-final-report-github-f05e43",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1754,22 +1859,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/teamfinance-contracttokenlock"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-locktoken-resolution-final-audit-report-github-e391ea",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1777,22 +1883,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/teamfinance-contracttokenlock"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-locktoken-update-final-audit-report-github-resolution-e51576",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1800,22 +1907,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/teamfinance-contracttokenlock"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-multisender-final-report-github-resolution-ad6a49",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1823,22 +1931,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/multi-sendercontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-stakingpool-audit-resolution-extension-04748f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1846,22 +1955,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/teamfinance-contractstackingpool"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-stakingpool-final-report-github-resolution-acc350",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1869,22 +1979,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/teamfinance-contractstackingpool"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-swaptoken-final-audit-report-github-2-resolution-0e53a5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1892,22 +2003,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/swapcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-swaptoken-final-audit-report-github-resolution-2dc139",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:52+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1915,22 +2027,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/swapcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-trustswap-vesting-resolution-final-audit-report-github-5b0f15",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1938,22 +2051,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/trustswap/teamfinance-contractvesting"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-usual-money-final-report-post-audit-review-bdcba7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1961,22 +2075,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/usualdao/pegasus"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-xtrade-update-audit-differential-final-report-98e61d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1994,12 +2109,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/GammaStrategies/Algebra-IntegralGamma"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/bailsec-zkswap-final-report-github-resolution-492d12",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:59:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2007,22 +2123,23 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "limited-review",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/ZkSwapFinance/governanceStakingcontracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/cairo-final-report-github-cc22f8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2038,7 +2155,7 @@
     "confidence": "low"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2051,12 +2168,13 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "cairo"
-  ]
+  ],
+  "llm_done": true
  },
  {
   "id": "bailsec/cve-token-final-report-github-fdd12a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2074,12 +2192,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/Chainverge/SmartContracts"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/degenwin-final-report-github-f990e3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2095,7 +2214,7 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2112,12 +2231,13 @@
   },
   "ecosystems": [
    "cairo"
-  ]
+  ],
+  "llm_done": true
  },
  {
   "id": "bailsec/kuma-protocol-final-report-github-a933ec",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2135,12 +2255,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/mimo-capital/kumastaking"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/overhere-final-report-github-d1f3a4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2158,12 +2279,13 @@
   "audit_kind": "limited-review",
   "scope": {
    "repo": "https://github.com/Whatzhub/merchproject"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "bailsec/pharao-farmpot-github-c31b8f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2171,12 +2293,13 @@
     "confidence": "medium"
    }
   },
-  "audit_kind": "limited-review"
+  "audit_kind": "limited-review",
+  "llm_done": true
  },
  {
   "id": "bailsec/prestige-club-forensic-blockchain-tracement-github-615200",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:27:57+00:00",
+  "enriched_at": "2026-07-09T02:58:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2184,6 +2307,7 @@
     "confidence": "medium"
    }
   },
-  "audit_kind": "limited-review"
+  "audit_kind": "limited-review",
+  "llm_done": true
  }
 ]

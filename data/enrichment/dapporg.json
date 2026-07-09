@@ -2,94 +2,123 @@
  {
   "id": "dapporg/mooniswap-review-7e73d3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "enriched_at": "2026-07-09T04:50:06+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/dapp-org/mooniswap-tests"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dapporg/optimism-review-9e5ba4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "enriched_at": "2026-07-09T04:50:06+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "ethereum",
    "optimism"
   ],
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "dapporg/radicle-review-bef8eb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "enriched_at": "2026-07-09T04:50:06+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "dapporg/tinlake-review-fab466",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "enriched_at": "2026-07-09T04:50:06+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/dapp-org/tinlake-tests"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dapporg/uniswapv2-review-b38462",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:07+00:00",
+  "enriched_at": "2026-07-09T04:50:06+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  }
 ]

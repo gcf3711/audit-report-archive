@@ -2,7 +2,7 @@
  {
   "id": "cdsecurity/10102-inheritance-report-61c7cd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -10,11 +10,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -24,32 +28,40 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/aelin-sub7-security-review-760dcd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/airpuff-report-f620a7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -57,149 +69,252 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/arbero-report-5b1d05",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/ascendant-report-4e17f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/athena-report-eac438",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/azuro-report-01578b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/beezie-official-361b35",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/beeziestableswap-audit-1bec12",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/blerb-report-87e07c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/blessed-report-47138c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/buildefi-report-3eceb1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "defi-dex",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "cdsecurity/cerebro-report-2-614f32",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "typescript"
+  ],
+  "llm_done": true
  },
  {
   "id": "cdsecurity/cerebro-report-3ec63a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -207,11 +322,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -221,12 +344,17 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "solana"
-  ]
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/chateaucapital-report-a91705",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -234,57 +362,104 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/crashgame-audit-32a3d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/credifi-report-293dca",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "cdsecurity/dexlynbridge-report-94f75e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -294,12 +469,17 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "move"
-  ]
+  ],
+  "languages": [
+   "move"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/donutdao-audit-3dcac9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -307,55 +487,71 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/dragonstone-report-a22e7d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/ebase-report-2b18dd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -368,155 +564,265 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/esim-report-01619e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/euler-audit-73e068",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/euler-report-2025-2af408",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/garagesale-report-14ace7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/groge-report-b805e1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/hexpayday-report-e2d7a6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/hyperlend-2nd-review-ad6a87",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/hyperlend-report-2b17bb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/keiko-report-f28ecc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/libree-report-264794",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "payments",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/mahalend-c52305",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/matrix-official-90d7c2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -524,11 +830,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -538,38 +848,59 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/megapot-report-d75521",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/midnight-official-6d9310",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/molly-report-0f0197",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -577,31 +908,41 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/olympusx-followup-report-f93242",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:35:08+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -614,24 +955,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/olympusx-report-f5ef37",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:35:08+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -641,64 +988,90 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/pear-protocol-audit-4a88ac",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/peggedfarmkeeper-report-6038b2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/phoenix-audit-report-fa4bc3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:29:40+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/privacypools-report-f22fa6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/purrlend-6ff2d1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -706,15 +1079,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -729,32 +1106,35 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit",
+  "audit_kind": "limited-review",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/securitybot-report-635de9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/shogun-report-3f90bf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -762,11 +1142,15 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -779,102 +1163,151 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/smartinvoice-report-af9409",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "payments",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/sumermoney-report-b9be54",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/supralabs-dora-report-bc3720",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:30:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/supravrf-report-0c76e4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/sway-report-6c02a6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:35:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/sweepr-report-328632",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/tajirmedia-report-49d796",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -884,25 +1317,33 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "solana"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/titanx-farms-report-7e0608",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/tokenlocker-report-a06434",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:31:17+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -910,159 +1351,238 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/tradfilines-report-996dcd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "bitcoin",
    "ethereum"
   ],
   "audit_kind": "private-audit",
   "ecosystems": [
-   "bitcoin",
    "evm"
-  ]
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/tria-report-76e09e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/turbo-report-c2f124",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:33:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/ultra-markets-report-034b83",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/universalpage-report-7045fd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "evm-other"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "cdsecurity/varonve-report-b0c9bb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/voltstaking-audit-1128fd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/vox-report-8451b8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/vyper-boost-report-50222b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:28:08+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
-   "vyper"
+   "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/whirl-report-d716a1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1074,11 +1594,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1091,44 +1615,70 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/wizardgallery-report-98cf23",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "evm-other"
+  ],
+  "category": "nft",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "cdsecurity/xns-report-eab5a8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:34:48+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1138,19 +1688,27 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "identity-naming",
+  "llm_done": true
  },
  {
   "id": "cdsecurity/zktsunami-report-2eb1d1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:01+00:00",
+  "enriched_at": "2026-07-09T04:32:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "privacy-zk",
+  "llm_done": true
  }
 ]

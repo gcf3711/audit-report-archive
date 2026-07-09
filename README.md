@@ -143,7 +143,9 @@ Run with `PYTHONPATH=src` if not installed (`PYTHONPATH=src python -m audit_coll
 
 `src/audit_enrich/` derives per-report metadata — target blockchains,
 implementation languages, protocol category, audit kind, in-scope repo —
-without touching collector data. Records live in
+without touching collector data. Current coverage (all 9409 reports
+processed, null when the report doesn't state it): chains 44%, languages
+59%, category 74%. Records live in
 `data/enrichment/<source>.json` keyed by catalog `id`; schema and controlled
 vocabularies in [config/enrichment.yaml](config/enrichment.yaml),
 deterministic rules in

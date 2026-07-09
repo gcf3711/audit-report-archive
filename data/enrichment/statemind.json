@@ -2,58 +2,133 @@
  {
   "id": "statemind/2022-07-08-yearn-veyfi-voting-and-rewardpool-f7160f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "vyper"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2022-07-29-1inch-aggregation-router-v5-a6909c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "statemind/2022-08-15-lido-insurance-fund-1b7c0e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2022-09-09-lido-mev-boost-relay-allowlist-a263b3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -63,125 +138,243 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "vyper"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "statemind/2022-09-30-lido-easy-track-fc65d5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2022-11-25-arrakis-v2-core-and-palm-c08669",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-01-27-lido-trp-vesting-escrow-370ac4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/dxo/we"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "vyper"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2023-02-03-keep3r-sidechain-oracles-ad96c5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:13:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-04-20-lido-gateseals-e1c47c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "vyper"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-04-28-lido-v2-efb85e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-05-10-lido-v2-deployment-validation-448a9b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-05-17-lido-polygon-v2-5528c2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -192,159 +385,316 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-08-11-buttonwood-buttonswap-core-745386",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-08-15-myso-v2-bde461",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-08-28-instadapp-avocado-v3-f46c2b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-08-29-arrakis-v2-core-rev2-ef3bf3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:14:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-08-31-arrakis-v2-periphery-fb8107",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "llm_done": true
  },
  {
   "id": "statemind/2023-10-20-lido-roles-analysis-ed580a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2023-10-30-curve-stablecoin-76a9d9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "vyper"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "statemind/2023-12-29-instadapp-fluid-1b5523",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-01-17-dega-ispo-655ce1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-02-02-curve-lending-90512a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "vyper"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-03-01-yearn-v3-604b6b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-03-08-vyper-storage-layout-1ac0aa",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:15:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "chains": {
@@ -352,16 +702,20 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
-   "vyper"
+   "python"
   ],
   "chains": [
    "ethereum"
@@ -372,38 +726,66 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-03-12-lido-voting-559bc7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:17:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-03-19-valantis-core-222f97",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:17:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-04-10-instadapp-avocado-chain-agnostic-feature-38cede",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:17:20+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -411,11 +793,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -425,55 +815,99 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-04-11-lido-gateseal-deployment-validation-3b2132",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:17:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "languages": [
+   "vyper"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-04-23-valantis-hot-8ce820",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:17:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-05-01-symbiotic-default-collateral-55f100",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:17:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "statemind/2024-05-23-vyper-compiler-modules-c9fed8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:17:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "chains": {
@@ -481,11 +915,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -498,230 +936,663 @@
   "scope": {
    "repo": "https://github.com/vyperlang/vyper"
   },
+  "audit_kind": "limited-review",
+  "ecosystems": [
+   "evm"
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
+ },
+ {
+  "id": "statemind/2024-05-27-mellow-lrt-52ba22",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T04:17:20+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
   "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
+ },
+ {
+  "id": "statemind/2024-05-30-mellow-lrt-obol-e60b7a",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T04:18:28+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
   "ecosystems": [
    "evm"
   ]
  },
  {
-  "id": "statemind/2024-05-27-mellow-lrt-52ba22",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
-   }
-  },
-  "audit_kind": "private-audit"
- },
- {
-  "id": "statemind/2024-05-30-mellow-lrt-obol-e60b7a",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
-   }
-  },
-  "audit_kind": "private-audit"
- },
- {
   "id": "statemind/2024-09-12-lido-dual-governance-2024-f11599",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:18:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2024-09-20-mellow-simple-lrt-final-report-ee7f2b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:18:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2024-12-20-symbiotic-core-final-report-2a876c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:18:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2024-12-27-symbiotic-hooks-final-report-e09f57",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:18:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "staking-validators",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-01-31-mellow-multivault-with-deployment-2128f6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:18:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-02-24-yield-basis-core-2025-6249c9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:18:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "defi-yield",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-03-10-lido-gateseal-deployment-2025-2f8440",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:18:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "vyper"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-05-27-dual-governance-script-review-2025-bbed7a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-05-30-symbiotic-relaycontracts-ai-report-f499e8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-08-19-lido-dual-governance-upgrade-deployment-b30752",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-09-19-lido-tw-and-csm-v2-final-report-upd-a33f7e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2025-10-14-instadapp-liquidity-layer-updated-31a569",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2026-03-02-instadapp-fluid-pr-validation-eee37f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2026-03-04-instadapp-avocado-eip-7702-pr-validation-1a6ba5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "statemind/2026-04-20-stakewise-core-v3-c6e3da",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T04:19:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  }
 ]

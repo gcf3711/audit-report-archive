@@ -2,33 +2,59 @@
  {
   "id": "certora/01-01-2022-aave-protocol-v3-fv-bda806",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/01-04-2023-radicle-drips-fv-86c334",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "payments",
+  "llm_done": true
  },
  {
   "id": "certora/01-06-2026-compound-v3-extended-pause-aad7e2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -36,25 +62,32 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-07-2025-silo-v2-fv-mr-b58c09",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/01-07-2026-compound-v3-governor-whitelist-a7e11f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -69,12 +102,13 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-07-2026-compound-v3-multiplier-plugin-a8d289",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -82,25 +116,32 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-08-2024-ajna-fv-mr-f43454",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/01-10-2026-lido-v3-fv-668d95",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -115,12 +156,13 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-10-2026-lido-v3-oracle-v7-mr-aa504f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -128,12 +170,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-13-2026-lido-v3-mr-d64473",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -141,12 +184,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-15-2025-origin-dollar-fv-f4fdc4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -156,17 +200,23 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/01-20-2025-jito-tiprouter-mr-5a9117",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -174,16 +224,17 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-20-2025-silo-coverage-coverage-cc5794",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -194,42 +245,62 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/01-24-2023-aave-rescue-mission-phase-1-fv-mr-b79264",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "certora/01-24-2025-twamm-hook-31c195",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/01-25-2024-blend-mr-7be645",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -237,7 +308,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -247,12 +322,16 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "other"
-  ]
+  ],
+  "languages": [
+   "rust"
+  ],
+  "llm_done": true
  },
  {
   "id": "certora/01-28-2025-veda-boring-bridge-mr-c434bc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -264,7 +343,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -274,16 +357,18 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "solana"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/01-30-2025-blend-v1-fv-a02e37",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -291,12 +376,15 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "solana",
    "stellar"
   ],
   "audit_kind": "formal-verification",
@@ -304,40 +392,83 @@
    "repo": "https://github.com/Certora/blend-contracts"
   },
   "ecosystems": [
-   "other",
-   "solana"
-  ]
+   "other"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "llm_done": true
  },
  {
   "id": "certora/02-05-2025-lido-dg-fv-mr-8811ee",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/02-10-2025-lulo-mr-e9218a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "solana"
+  ]
  },
  {
   "id": "certora/02-12-2025-balancer-mev-tax-hook-mr-0a0e8d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -347,111 +478,121 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/02-12-2025-relend-network-mr-52d8cf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/backstopprotocol/ERC-7770"
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/02-12-2025-whetstone-doppler-mr-114376",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/02-15-2025-squads-fv-mr-7760b7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "certora/02-18-2025-balancer-stablesurgehook-mr-dbd871",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/02-18-2025-lido-dg-reaudit-fv-mr-8703c0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/02-20-2025-eigenlayer-slashing-fv-mr-f9ed9a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "high"
-   }
-  },
-  "audit_kind": "formal-verification"
- },
- {
-  "id": "certora/02-24-2025-kamino-lending-fv-mr-5de6f5",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "high"
-   }
-  },
-  "audit_kind": "formal-verification"
- },
- {
-  "id": "certora/02-25-2021-origin-ousd-token-fv-85dbe9",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -460,14 +601,60 @@
    }
   },
   "audit_kind": "formal-verification",
+  "llm_done": true
+ },
+ {
+  "id": "certora/02-24-2025-kamino-lending-fv-mr-5de6f5",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T03:32:16+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
+ },
+ {
+  "id": "certora/02-25-2021-origin-ousd-token-fv-85dbe9",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T03:17:12+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/OriginProtocol/origin-dollar"
-  }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/02-25-2025-balancer-liquiditybootstrappool-mr-b00feb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:32:16+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -477,46 +664,64 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/02-28-2021-dforce-lending-fv-da31b7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:17:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/dforce-network/LendingContracts"
-  }
+  },
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/03-02-2025-moviepass-msx-mr-9e3ed6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/03-02-2026-apyx-apxusd-c15418",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -524,28 +729,57 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/03-03-2021-sushiswap-bentobox-fv-ef9f17",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/sushiswap/bentobox"
-  }
+  },
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/03-03-2021-sushiswap-kashi-pair-fv-d69078",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "formal-verification",
+  "scope": {
+   "repo": "https://github.com/sushiswap/kashi-lending"
+  },
+  "category": "defi-lending",
+  "llm_done": true
+ },
+ {
+  "id": "certora/03-03-2026-kleros-v2-mr-ceb561",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -554,27 +788,12 @@
    }
   },
   "audit_kind": "formal-verification",
-  "scope": {
-   "repo": "https://github.com/sushiswap/kashi-lending"
-  }
- },
- {
-  "id": "certora/03-03-2026-kleros-v2-mr-ceb561",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "high"
-   }
-  },
-  "audit_kind": "formal-verification"
+  "llm_done": true
  },
  {
   "id": "certora/03-03-2026-light-extension-mr-6926db",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -582,12 +801,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/03-03-2026-orbt-mr-b4bef3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -595,12 +815,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/03-05-2026-cozy-finance-fv-371171",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -608,12 +829,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/03-05-2026-cozy-router-euler-helpers-mr-aa9b3a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -621,25 +843,32 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/03-06-2024-protofire-ve8020-launchpad-fv-mr-6dfafb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "certora/03-06-2026-1delta-compound-integration-mr-9ae879",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -647,25 +876,39 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/03-07-2023-aave-gho-fv-mr-57e78d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/03-10-2026-calastone-ctd-mr-4f0d3a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:37:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -673,25 +916,39 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/03-13-2024-delv-hyperdrive-fv-mr-2d8e96",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/03-14-2024-aave-ghostewardv2-fv-mr-b0cd47",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -699,7 +956,7 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -707,7 +964,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -720,97 +981,163 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/03-15-2023-aave-v3-core-pr-820-mr-2f2bc6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/03-17-2022-traderjoe-rocket-joe-staking-fv-6430ba",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/03-21-2024-coinbase-wallet-fv-mr-0f9500",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "certora/03-21-2025-mayan-fastmctp-mr-a18601",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:32:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/03-24-2026-suilend-fv-mr-687d60",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/03-24-2026-suilend-liquid-staking-fv-mr-96f1a5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/03-30-2021-sushiswap-masterchef-v2-fv-0a2476",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:17:12+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -820,6 +1147,10 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -828,51 +1159,78 @@
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/sushiswap/sushiswap"
-  }
+  },
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/03-30-2026-templar-fv-mr-078633",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/04-01-2021-balancer-v2-vault-fv-4d637d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/04-02-2022-openzeppelin-governance-fv-8b9889",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "certora/04-02-2026-compound-reth-capo-by-woof-mr-735df8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -880,12 +1238,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/04-02-2026-reserve-fixed-lib-fv-59a06c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -893,12 +1252,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/04-03-2023-lido-v2-fv-mr-acbc10",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -910,7 +1270,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -920,29 +1284,44 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/04-04-2023-aave-staticatoken-v3-fv-36029e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/04-06-2022-benqi-fv-7c5e52",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -954,7 +1333,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -967,29 +1350,37 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/04-08-2024-seamless-ilm-fv-mr-18c45f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/04-10-2024-cables-mr-398ad8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -997,7 +1388,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1007,12 +1402,14 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "other"
-  ]
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/04-10-2024-tokemak-v2-lmpstrategy-fv-mr-4b20d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1022,69 +1419,42 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/04-10-2025-texture2-0-mr-fv-b461d5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/04-13-2026-tradeport-gold-strategy-mr-f426ae",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "high"
-   }
-  },
-  "audit_kind": "formal-verification"
- },
- {
-  "id": "certora/04-13-2026-umia-mr-926cfa",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "high"
-   }
-  },
-  "audit_kind": "formal-verification"
- },
- {
-  "id": "certora/04-18-2025-claynosaurz-nft-8e93a0",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "high"
-   }
-  },
-  "audit_kind": "formal-verification"
- },
- {
-  "id": "certora/04-21-2021-furucombo-fv-99c5b6",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -1093,14 +1463,67 @@
    }
   },
   "audit_kind": "formal-verification",
+  "llm_done": true
+ },
+ {
+  "id": "certora/04-13-2026-umia-mr-926cfa",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T03:35:38+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   }
+  },
+  "audit_kind": "formal-verification",
+  "llm_done": true
+ },
+ {
+  "id": "certora/04-18-2025-claynosaurz-nft-8e93a0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T03:32:16+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "formal-verification",
+  "category": "nft",
+  "llm_done": true
+ },
+ {
+  "id": "certora/04-21-2021-furucombo-fv-99c5b6",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T03:17:12+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "source-prior",
+    "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/dinngodev/furucombo-contract."
-  }
+  },
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "certora/04-24-2026-compound-treasury-manager-mr-e5d292",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1108,7 +1531,7 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1116,7 +1539,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1129,130 +1556,215 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/04-25-2021-sushiswap-compound-strategy-fv-766235",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/sushiswap/bentobox"
-  }
+  },
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/04-27-2026-veda-yield-streaming-mr-2aa1a7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/04-30-2024-aave-v3-1-mr-c7c4aa",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/04-30-2024-curve-fv-mr-3fddff",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/04-30-2024-mzero-fv-mr-5f37ec",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/04-30-2026-saturn-dollar-m0-extensions-fv-mr-62e3ff",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/04-30-2026-saturn-dollar-mr-99d63f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/05-03-2024-kinto-core-account-abstraction-fv-mr-3641e7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/05-05-2024-lido-dg-designreview-b05cc3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1260,7 +1772,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1273,16 +1789,18 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/05-07-2021-celo-core-v4-fv-c309e4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1290,7 +1808,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1303,81 +1825,134 @@
   },
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "certora/05-09-2019-compound-money-market-fv-8a0377",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/05-10-2023-balancer-timelockauthorizer-fv-855817",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:25:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/05-18-2026-veda-fuzzing-report-a53683",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/05-19-2026-veda-incentive-teller-system-mr-61c3fb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/05-22-2024-paraswap-augustus-v6-fv-mr-4f0cb8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/05-22-2024-slender-mr-77223f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1385,7 +1960,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1395,16 +1974,18 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "other"
-  ]
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/05-24-2024-token2022fv-09c75f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1412,7 +1993,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1422,12 +2007,14 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "solana"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "certora/05-26-2026-compound-bytecoderepository-mr-aa5fd1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -1435,12 +2022,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/05-26-2026-compound-comet-service-patch-mr-5f450c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -1448,12 +2036,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/05-30-2026-spark-alm-controller-v1-8-0-mr-a608b0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:36:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -1461,12 +2050,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/06-02-2025-polygon-vault-bridge-mr-8f6eda",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1478,7 +2068,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1488,77 +2082,137 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/06-04-2024-tether-token-fv-mr-c93e2f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/06-08-2021-lyra-option-market-fv-5cf933",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "certora/06-13-2022-openzeppelin-erc1155-extensions-fv-720aa4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "certora/06-15-2023-aave-vault-fv-mr-c2d6e4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/06-16-2025-safe-v1-5-0-fv-mr-c7958d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:32:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/06-20-2024-aave-risk-steward-fv-mr-659fa1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1573,7 +2227,8 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/06-26-2022-aave-asteth-fv-mr-7f2a8a",
@@ -1591,11 +2246,11 @@
  {
   "id": "certora/07-01-2022-aave-l2-bridge-fv-mr-73a0f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1603,7 +2258,15 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1615,16 +2278,21 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/07-01-2022-aave-stweard-savax-fv-mr-cf9490",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1632,7 +2300,15 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1642,25 +2318,43 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/07-01-2022-compound-comet-fv-a1b6c0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/07-04-2021-zesty-fv-e54780",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -1671,12 +2365,13 @@
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/zestymarket/zesty-contracts-v2"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "certora/07-04-2024-huma-mr-a8fa9d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -1684,55 +2379,88 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/07-07-2025-kamino-vault-e885f0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/07-09-2022-aave-token-v3-fv-mr-b024a6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "certora/07-11-2022-silo-protocol-fv-ee73df",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/07-15-2022-aave-frax-mai-listing-fv-mr-c1a366",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1740,7 +2468,15 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1752,16 +2488,21 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/07-15-2022-aave-steward-susd-mr-94007d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1769,75 +2510,167 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "avalanche",
    "optimism"
   ],
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/07-15-2023-aave-delivery-infrastructure-fv-mr-1f9544",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/07-15-2023-aave-governance-v3-fv-mr-b69581",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/07-18-2025-fragmetric-restaking-v0-6-3-1e309b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:32:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "solana"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "solana"
+  ]
  },
  {
   "id": "certora/07-19-2020-compound-open-oracle-fv-2410c7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "oracle",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/07-27-2023-aave-stktoken-v3-fv-23ee76",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1849,7 +2682,15 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1859,25 +2700,57 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "certora/07-28-2025-kamino-limo-0f6028",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:32:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "category": "defi-dex",
+  "llm_done": true,
+  "ecosystems": [
+   "solana"
+  ]
  },
  {
   "id": "certora/08-01-2021-rolla-fv-544f25",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1887,17 +2760,23 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "certora/08-10-2018-compound-math-update-fv-3b89d8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1909,7 +2788,7 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1919,29 +2798,36 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "llm_done": true
  },
  {
   "id": "certora/08-12-2024-eigenlayer-pepe-fv-mr-42aa5e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "certora/08-25-2019-celo-governance-fv-72f279",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -1949,7 +2835,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1959,12 +2849,14 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/08-25-2021-pintu-token-fv-0f72a7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1974,25 +2866,31 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "certora/08-29-2022-aave-starknet-bridge-fv-mr-625bbb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -2000,7 +2898,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2009,18 +2911,20 @@
    "starknet"
   ],
   "languages": [
-   "cairo"
+   "solidity"
   ],
   "audit_kind": "formal-verification",
   "ecosystems": [
    "cairo",
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/09-02-2024-symbiotic-shared-security-protocol-fv-mr-2d7893",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2028,12 +2932,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/09-05-2018-compound-math-price-oracle-fv-befb25",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2041,29 +2946,36 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/09-05-2024-uniswap-v4-core-fv-mr-67ef9c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/09-08-2019-makerdao-mcd-bug-report-fv-c25735",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -2071,117 +2983,214 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "bitcoin"
+   "ethereum"
   ],
   "audit_kind": "formal-verification",
   "ecosystems": [
-   "bitcoin"
-  ]
+   "evm"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/09-08-2019-makerdao-mcd-invariants-fv-f58806",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "stablecoin",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/09-08-2022-aave-governance-v2-fv-mr-fa832c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/09-08-2024-euler-evk-v3-fv-mr-b902d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/09-16-2020-aave-token-v1-fv-30bbce",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/09-16-2022-balancer-stable-pool-fv-cf7fcd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/09-19-2024-jitorestaking-v1-fv-mr-b5fa94",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "certora/09-29-2025-1inch-cross-chain-swap-mr-16b3f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:32:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/09-30-2022-aave-btc-b-fv-mr-3d498d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -2189,7 +3198,15 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2199,25 +3216,36 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "certora/10-10-2024-reflector-fv-mr-4df299",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/10-21-2025-safe-mobile-896505",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2225,90 +3253,142 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/10-29-2020-aave-protocol-v2-fv-c4819d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/aave/protocol-v2"
-  }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/11-01-2021-notional-fv-b91ba5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/notional-finance/contracts-v2"
-  }
+  },
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/11-04-2021-sushiswap-constant-product-pool-fv-713567",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/11-04-2021-sushiswap-trident-router-fv-a028e4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/11-05-2021-popsicle-v3-optimizer-fv-2f99b8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/Popsicle-Finance/PopsicleV3Optimizer"
-  }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "certora/11-11-2024-jito-restaking-v2-fv-mr-0240d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -2316,7 +3396,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2326,54 +3410,123 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "solana"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "certora/11-16-2020-keep-fully-backed-bonding-fv-6602c6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:17:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/keep-network/keep-ecdsa"
-  }
+  },
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/11-16-2023-gmx-v2-fv-mr-0b19cf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "certora/11-22-2022-aave-proof-of-reserve-fv-mr-092ab0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/11-25-2024-fragmetric-fv-mr-791315",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2381,146 +3534,249 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/11-26-2024-alluvial-liquidcollective-fv-mr-82b3e9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/11-27-2024-balancer-v3-fv-mr-3910a1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:26:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "certora/11-30-2021-euler-fv-712690",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:18:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/12-01-2023-layerzero-endpointv2-fv-85c31d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/12-02-2020-aave-token-v2-delegation-fv-786559",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:17:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/12-02-2022-dcspark-sidechain-bridge-fv-a65fb2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "certora/12-04-2024-glow-v1-mr-c955bc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/12-04-2024-manifest-fv-mr-58aaf9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "solana"
+  ],
+  "category": "defi-dex",
+  "llm_done": true,
+  "ecosystems": [
+   "solana"
+  ]
  },
  {
   "id": "certora/12-06-2024-sonic-gateway-fv-mr-9bbfef",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:28:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "sonic"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/12-07-2021-openzeppelin-governance-fv-a9b5d9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:19:26+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "certora/12-07-2022-aave-cl-price-adapter-mr-8cecfa",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:10+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -2528,7 +3784,15 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2538,51 +3802,74 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "certora/12-10-2024-frax-bamm-fv-mr-2e8ece",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/12-11-2024-glow-lrt-mr-6d26f5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/12-12-2024-liquity-bold-fv-155a0d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:30:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/12-12-2024-squadsv4-fv-mr-4c289d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:31:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2590,12 +3877,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/12-13-2024-jito-interceptor-fv-mr-cf6d05",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2603,46 +3891,66 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/12-14-2022-aave-v3-0-1-fv-06dc3b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:20:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/12-17-2020-synthetix-multi-collateral-loans-fv-f67a9a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:17:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "certora/12-19-2019-orchid-fv-a76205",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
@@ -2650,7 +3958,11 @@
     "confidence": "high"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2663,25 +3975,40 @@
   "audit_kind": "formal-verification",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "certora/12-21-2023-gho-stability-module-fv-mr-b27faf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:23:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "certora/12-22-2025-calastone-digital-investment-33aad4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:33:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2689,12 +4016,13 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/12-24-2015-grove-alm-da18d6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:15:53+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -2702,67 +4030,134 @@
     "confidence": "high"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "llm_done": true
  },
  {
   "id": "certora/12-27-2019-synthetix-depot-mr-874275",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:16:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "certora/12-28-2020-opyn-gamma-fv-72e3c2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:17:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "audit_kind": "formal-verification",
   "scope": {
    "repo": "https://github.com/opynfinance/GammaProtocol"
-  }
+  },
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "certora/12-29-2022-aave-stktoken-v1-5-fv-09e425",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:22:07+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "certora/12-29-2024-aquarius-mr-f7b593",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "stellar"
+  ],
+  "category": "defi-dex",
+  "llm_done": true,
+  "ecosystems": [
+   "other"
+  ]
  },
  {
   "id": "certora/12-30-2024-balancer-gyropools-mr-f1270b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:02+00:00",
+  "enriched_at": "2026-07-09T03:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2772,11 +4167,17 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "high"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification"
+  "audit_kind": "formal-verification",
+  "category": "defi-dex",
+  "llm_done": true
  }
 ]

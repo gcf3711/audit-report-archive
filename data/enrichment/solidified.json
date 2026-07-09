@@ -2,88 +2,153 @@
  {
   "id": "solidified/audit-report-1inch-money-market-28-03-2022-147781",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/1inch/money-market-protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-2key-14-10-2019-2535c1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-agrotoken-contract-18-02-2021-a1a1c8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/agrotoken-io/token"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-alongside-18-04-2022-d5762e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Alongside-Finance/index-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-alucoin-28-06-2021-dd389a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/m89/token-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-anchor-protocol-20210406-7c1fa7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "frameworks": {
@@ -91,8 +156,20 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -101,37 +178,66 @@
   "frameworks": [
    "cosmwasm"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "cosmos"
+  ]
  },
  {
   "id": "solidified/audit-report-anibear-695c60",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-12-10-2021-f103af",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -144,12 +250,17 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-17-07-2021-8cfe20",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -157,11 +268,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -174,12 +293,17 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-26-07-2021-0b079b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -187,11 +311,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -204,12 +336,17 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-3-oct-2021-f6380c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -217,11 +354,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -234,28 +375,36 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-core-library-2d1fcf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -271,12 +420,14 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-core-library-extension-18-10-2023-639e8c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -284,15 +435,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -308,28 +463,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-core-library-v2-f6a026",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:30:00+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -345,12 +506,14 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-primatecoin-19-april-2022-bcda71",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -358,35 +521,45 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-publisher-nft-season-2-contracts-18-10-2023-5d9178",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:30:00+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -402,157 +575,266 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-animoca-wighawag-17-07-2021-ad127d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/wighawag/universal-forwarder"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aperture-finance-528a94",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Aperture-Finance/Aperture-Contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-api3dao-15-04-2021-f66cfb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/api3dao/api3-dao"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aquafi-15-sept-2021-819eb3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/BlockzeroLabs/aquafi-premium-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aquafi-21-sept-2021-0cf7cf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/BlockzeroLabs/aquafi-premium-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-argent-26-11-2018-1b894b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-aventus-protocol-05-11-18-77f528",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aventus-protocol-15-11-2019-b8accc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-68ef73",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -565,24 +847,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-aaave-bridge-160833",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -595,24 +890,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-compound-bridge-c1a871",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -625,24 +933,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-curve-bridge-aacb9f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -655,24 +976,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-dca-bridge-e99a77",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -685,24 +1019,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-element-bridge-3b496f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -715,24 +1062,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-lido-bridge-64de3b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -745,24 +1105,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-set-bridge-5a5466",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -775,53 +1148,102 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-aztec-subsidy-contract-882db2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/aztecProtocol/aztec-connect-bridges"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "privacy-zk",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-b-protocol-16-02-2021-9b6f8b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/backstop-protocol/BCompound"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-backstop-protocol-02-10-2020-5a8a78",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -830,66 +1252,115 @@
   "scope": {
    "repo": "https://github.com/backstop-protocol/dss-cdp-manager"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-battlefly-4159db",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-battlefly-deposit-locker-11-01-2023-final-1065b9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-battlefly-otc-35ee88",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/BattleFly-Game/battlefly-smart-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-benji-token-650dfe",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -899,184 +1370,386 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-betoken-20-05-2019-6db108",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-betx-21-01-2019-ad4bc3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-blocks-token-contract-11-01-2021-6720ea",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-blocks-token-contract-23-07-2021-9c69a1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-blockzero-10-05-2021-0004f6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/BlockzeroLabs/dropzero-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-blockzero-17-05-2021-f29f17",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/BlockzeroLabs/dropzero-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-braintrust-15-08-2021-c3c6e1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Snowfork/BTRST-Contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-braintrust-nft-48f124",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/oak-security/audit-braintrust-nft"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-brane-vault-21-02-2021-55f76f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-bulltoken-03-14-18-16527d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-c-layer-phase-1-14-10-2019-149b9b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1085,12 +1758,14 @@
   "scope": {
    "repo": "https://github.com/c-layer/contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-cardstack-31-5-2021-483c5c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1098,11 +1773,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1115,12 +1798,17 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-cereal-28-06-2021-620e92",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1128,8 +1816,12 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1138,24 +1830,34 @@
   "scope": {
    "repo": "https://github.com/Cerealia/CEREAL-Utility-Token"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-charm-finance-27-10-2020-b47b95",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1168,96 +1870,150 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-clipper-12-07-2021-a2b4c7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/shipyard-software/galleon-dex"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-clipper-dex-23-08-2021-81e2f1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/shipyard-software/galleon-dex"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-coder-inc-02-25-18-aa6ec5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-cool-cats-ef0280",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/coolcatsnft/shadow-wolves-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-cultoscoin-2-eb2738",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1273,138 +2029,251 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-cycled-ico-04-25-18-bdcc90",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-dadi-01-28-18-8820cc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-dan-nft-1-d1adac",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-dau-72d5ec",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Lexim-gold/Lexim-ERC20-Token"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-dfyn-6658ea",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/dfyn/V2-Contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-diagonal-b81144",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/oak-security/audit-diagonal-finance"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "payments",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-dopex-21-06-2021-6e4151",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/dopex-io/core-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-dubois-gold-01-06-2021-4fd68a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/DuboisGold/dgm-contracts-v2"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-dubois-gold-04-11-2020-cef951",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1416,11 +2285,15 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1436,53 +2309,89 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-dubois-gold-07-05-2021-4dfcae",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/DuboisGold/dgm-contracts-v2"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-etched-21-06-2021-cd737c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-ethanchor-16-06-2021-34fb33",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1495,60 +2404,95 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-ether-fi-cee43b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:30:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/GadzeFinance/dappContracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-euler-07-05-2021-effb4d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/euler-xyz/euler-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-eztoken-02-11-18-233aed",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1564,99 +2508,186 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-fansunite-17-01-2019-24d5cd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-flash-protocol-04-12-2020-5ff079",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/XIO-Network/xio-flash-token"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-flash-protocol-27-02-2021-9434f0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/XIO-Network/xio-flash-token"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-fluid-finance-26-08-2021-43fb5c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-foam-signaling-26-11-2018-16c21e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-fraktal-28-10-2021-37c4e7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1665,37 +2696,60 @@
   "scope": {
    "repo": "https://github.com/FraktalNFT/contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-frameit-03-02-2022-2c1eb6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-freshcut-6d923f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1708,96 +2762,161 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-galleon-dex-10-7-2021-2db530",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/shipyard-software/galleon-dex"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-galleon-dex-17-5-2021-12e91b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/shipyard-software/galleon-dex"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-gamee-token-615f99",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "polygon"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-gath3r-08-07-2021-d1be08",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-gnosis-dx-03-29-18-72d6fa",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1810,115 +2929,211 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-golem-gnt-desposit-02-08-2019-2-13d814",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/OpenZeppelin/openzeppelin-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "payments",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-grease-monkey-3edac3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Grease-Monkey-Games/tm-smart-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-guild-of-guardians-13-04-2021-4924be",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-guild-of-guardians-20-04-2021-770a2c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-guild-of-guardians-31-03-2021-77fdfa",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-hermez-16-02-2021-2a348e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/hermeznetwork/contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-hermez-31-10-2020-5d3a21",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/hermeznetwork/contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-hez-matic-20-08-2021-8b0f1e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1926,11 +3141,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1943,21 +3166,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-hodl-30-06-2020-8c8b26",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1966,47 +3198,85 @@
   "scope": {
    "repo": "https://github.com/jpbeaudet/HODLCommodity"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-hodl2-05-11-2020-325c65",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/HODLCommodity/HODLDex2"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-hop-05-05-2021-6c4fb4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
    "arbitrum",
    "gnosis",
-   "optimism"
+   "optimism",
+   "polygon"
   ],
   "scope": {
    "repo": "https://github.com/hop-exchange/contracts"
@@ -2014,29 +3284,43 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-hop-12-04-2021-affc12",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
    "arbitrum",
+   "ethereum",
    "gnosis",
    "optimism"
   ],
@@ -2046,106 +3330,194 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-hop-25-06-2021-207039",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/hop-protocol/contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-ichi-onetoken-24-05-2021-final-7a1cac",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ichifarm/ichi-oneToken"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-icomply-03-19-18-939dd1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-icomply-10-10-2018-2c5e58",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-iconiq-lab-03-07-18-b93513",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-icostart-05-14-18-8a8d61",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -2154,21 +3526,27 @@
   "scope": {
    "repo": "https://github.com/ICOStart/Crowdsale"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-immutable-27-05-2020-94282e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -2177,21 +3555,27 @@
   "scope": {
    "repo": "https://github.com/immutable/platform-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "payments",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-immutable-gods-unchained-s1-09-06-2020-8f3892",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -2200,24 +3584,34 @@
   "scope": {
    "repo": "https://github.com/immutable/platform-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-insuredao-13-08-2021-3ff029",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2230,85 +3624,160 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-ivy-cash-12-10-2021-7f4e74",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Waly-Cash/hawk"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-ivy-cash-29-08-2021-bc5dd5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Waly-Cash/hawk"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-kirobo-22-06-2021-13d900",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/kiroboio/ki-eth-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-krawlcat-30-09-2020-fff705",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/yesbit/smart-contract-audits"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-kresko-2024-01-12-fbddaa",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:30:00+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -2317,21 +3786,27 @@
   "scope": {
    "repo": "https://github.com/kreskohq/kresko-protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-kresko-a78174",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -2340,21 +3815,27 @@
   "scope": {
    "repo": "https://github.com/kreskohq/kresko-protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-kresko-update-6aede5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:30:00+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -2363,116 +3844,224 @@
   "scope": {
    "repo": "https://github.com/kreskohq/kresko-protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-kuende-17-10-2018-b01279",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-landtoken-14-07-2021-f142c3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ls-jordan/LS---TEST-ROPSTEN"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-landtoken-18-07-2021-92fde0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ls-jordan/LS---TEST-ROPSTEN"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-lido-26-05-2021-7ee8b6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/delphidigital/lido-staked-aave"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-longship-0a396f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/shipyard-software/hydrofoil"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-loopring-hebao-wallet-21-05-2020-1914f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-mauve-cd10a1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2480,11 +4069,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2497,118 +4094,245 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-mbaex-multisig-16-01-2019-2addca",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-mbaex-stablecoin-16-01-2019-deae78",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-melon-competition-05-11-18-bc1686",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-melon-protocol-06-08-18-03b60b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-melonport-09-01-2019-2064eb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-metislab-06-04-2021-99d708",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/MetisProtocol/metis"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-mito-15-07-2021-32f8f2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-mito-37f2bd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2618,24 +4342,33 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-mobie-24-09-2020-1-98484c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2648,12 +4381,14 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "other"
-  ]
+  ],
+  "category": "payments",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-morpho-protocol-04-11-2021-cdbb32",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2661,11 +4396,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2678,32 +4417,54 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-mybit-04-29-18-9eb58b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-mynx-token-29-04-2021-0163ce",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2711,11 +4472,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2725,40 +4490,63 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-neon-13-05-2021-f5a294",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/kdzapp/neon-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-nexus-mutual-22-04-2019-04c202",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2768,92 +4556,150 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-nftsalon-19-05-2021-5044c1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/kole-swapnil/CryptoArt"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-niftex-04-03-2021-033aa4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/metalithio/niftex-v2-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-oases-crowdsale-4cb738",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/oases-team/oases-crowdfund"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-ob1-rewards-06-03-2019-8fddbb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-octotoken-contract-21-12-2020-c15163",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2863,44 +4709,68 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-ola-finance-21-oct-2021-743623",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ola-finance/ola-audit"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-olax-07-11-2022-bd07ce",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ola-finance/olaX-audit"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-olivex-03-09-2021-6cc15d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2908,11 +4778,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2925,48 +4803,87 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-omp-token-b9ef24",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum",
+   "polygon"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-open-campus-genesis-nft-16-06-2023-80a5dc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/NFTStudios/animoca-open-campus-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-opencampus-educoin-57410d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2974,11 +4891,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2991,156 +4916,280 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-opensea-contract-creator-08-08-2021-13808e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ProjectOpenSea/opensea-contract-creator"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-opiria-04-13-18-45099f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-origin-governance-d17328",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/OriginProtocol/ousd-governance"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-origin-ingest-28-04-2021-8d8830",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/OriginProtocol/nft-launchpad"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-origin-protocol-17-12-2020-7d1bc8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/OriginProtocol/origin-dollar"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-origin-protocol-fix-audit-31-05-2021-971186",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:34:18+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/OriginProtocol/origin-dollar"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-origin-protocol-staking-contract-17-12-2020-ab96eb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/OriginProtocol/origin-dollar"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-origin-reward-staking-2ca232",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/OriginProtocol/nft-launchpad"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-orion-14-08-2021-7dbd86",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -3153,169 +5202,295 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-pandora-1-12f11a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/advancedblockchain/pandora-protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-paraswap-01-09-2021-9232a0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/BlockzeroLabs/vortex-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-paraswap-06-04-2021-c26de2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/solidified-platform/audits"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-paraswap-20-01-2021-4700da",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-paraswap-22-07-2021-0c81bc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/paraswap/paraswap-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-paraswap-29-03-2021-b68451",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/solidified-platform/audits"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-paraswap-31-03-2021-3b6c21",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/solidified-platform/audits"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-passage-protocol-6747d6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/passage-protocol/toll-booth"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-passport-contracts-10-12-2022-f31dc6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/passage-protocol/passport-contracts-2"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "identity-naming",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-pawtocol-upi-token-26-11-2019-5b117c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -3328,12 +5503,14 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-persistence-24-08-2021-f8c519",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -3341,11 +5518,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -3358,37 +5543,59 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-phoenix-token-18-01-2021-16445d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/PhoenixDAO/PHNX-Contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-pods-28-07-2020-d116a1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -3397,24 +5604,34 @@
   "scope": {
    "repo": "https://github.com/pods-finance/contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-pods-finance-12-07-2021-175ed7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -3427,140 +5644,256 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-polymath-core-02-14-18-1bcf3c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-polymath-core-2-0-0-08-18-2018-d8e1e6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-polymath-patches-for-generaltransfermanger-counttransfermanager-and-676459",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-polymath-token-distribution-01-09-18-61914e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-polymath-toro-release-07-07-18-317622",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-polymath-usdtieredsto-and-cappedsto-04-03-2019-b696d7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-polymath-volume-restriction-transafer-manager-22-03-2019-1b70fd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-poseidon-dao-09-12-2022-76e140",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Poseidon-DAO/poseidon-token"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-primate-payout-claim-distributor-e79130",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -3568,201 +5901,345 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-props-protocol-26-03-2021-261aa3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:31:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/propsproject/props-protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-punkbodies-11-04-2021-cf727a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "nft",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-quanta-05-09-2020-0b14b5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-quanta-05-09-2020-copy-1e8c39",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-quidd-1-9ed897",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Quidd/quidd-mintables-poc"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-quidd-648614",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:27:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Quidd/quidd-mintables-poc"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-rae-token-28-03-2019-8e728a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-rai-ungovernance-57e522",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:43:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/reflexer-labs/geb-tellor-median"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-reserve-protocol-2b8c83",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/reserve-protocol/protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-reserve-protocol-3-4-0-c1faed",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:30:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/reserve-protocol/protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-restart-energy-ico-01-13-18-49931a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-sandbox-16-09-2020-828c4a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -3770,8 +6247,12 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -3780,171 +6261,287 @@
   "scope": {
    "repo": "https://github.com/thesandboxgame/sandbox-private-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-3-oct-2021-6d60e3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/thesandboxgame/sandbox-smart-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-sandbox-asset-bug-fix-15-01-2020-2b995a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-assets-04-09-2019-d6d5e7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-assets-patch-update-30-10-2019-41351b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-claimable-erc1155-10-12-2020-749322",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-erc20-25-09-2019-3eb27f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:16+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-multiclaim-05-03-2021-fb4de2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/thesandboxgame/sandbox-smart-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-permit-token-extension-08-03-2021-7f42b0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/thesandboxgame/sandbox-smart-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-reward-pool-22-10-2020-5d7da1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/thesandboxgame/sandbox-private-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-starterpack-02-10-2020-bc00e2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -3953,21 +6550,27 @@
   "scope": {
    "repo": "https://github.com/thesandboxgame/sandbox-private-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sandbox-starterpack-29-09-2020-969014",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:26:34+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -3976,28 +6579,34 @@
   "scope": {
    "repo": "https://github.com/thesandboxgame/sandbox-private-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sifchain-peggy-5bcac8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4006,131 +6615,188 @@
    "ethereum"
   ],
   "languages": [
+   "go",
    "solidity"
   ],
   "audit_kind": "private-audit",
   "ecosystems": [
    "cosmos",
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sifchain-token-sale-12-11-2020-54700a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:05+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Sifchain/balancer"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-sifchain-token-sale-17-01-2021-fd13bd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:30:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Sifchain/balancer"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-singularitynet-12-02-2019-24cd47",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-singularitynet-25-04-2021-c17ab9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/singnet/agi-v2"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-singularitynet-servicerequest-28-02-2019-0491c6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-singularitynet-staking-30-04-2021-6c1b30",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:33:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/singnet/snet-stake"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-size-lending-4a88cc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:30:00+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -4139,56 +6805,106 @@
   "scope": {
    "repo": "https://github.com/SizeLending/size-v2-solidity"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-skale-ea745a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/skalenetwork/IMA"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-skale-self-recharging-wallets-79b369",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/skalenetwork/skale-manager"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "evm-other"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-snowbridge-10-09-2021-final-7750e5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4203,57 +6919,89 @@
   "ecosystems": [
    "evm",
    "polkadot"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-solidified-token-sale-06-13-2018-4465f6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-spring-token-11-01-2018-688ce5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-springrole-01-23-18-ff4dbf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4266,56 +7014,116 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-stakefish-20-09-2021-8b6a73",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/stakefish/eth2-validation-services-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-stakehouse-16-11-2021-f8eec4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/bsn-eng/Stakehouse-Solidified"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-swap-ethereum-nft-sale-25-06-2021-721746",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4325,106 +7133,187 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-taylor-01-22-18-1cdf0e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-temco-07-30-18-f08172",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-tinytap-coursenft-f4db43",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/NegruGeorge/2442719549b3580c9797088bda413575"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-tinytap-coursevault-80e60b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:03+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/tinytap/smart-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-token-io-09-09-18-5eb3e7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:11+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "category": "stablecoin",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-topl-08-14-2018-1b5d50",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -4433,12 +7322,14 @@
   "scope": {
    "repo": "https://github.com/Topl/Midgard"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-tower-nft-payout-19-april-22-c5ad32",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:39:36+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -4446,51 +7337,74 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-transak-24-11-2022-093638",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Transak/nft-connector"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-trident-gold-08-2f20-2f2018-06f3c7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4503,24 +7417,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-truefi-helium-c016fb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:44:15+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4533,80 +7457,130 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-turms-message-transport-19-03-2019-b77f12",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:24:42+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-uniswap-v3-liquidity-manager-24-06-2021-f84d96",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:35:58+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/reflexer-labs/geb-uni-v3-manager"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-unitrade-06-10-2020-53fe2a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/UniTradeApp/unitrade-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-usm-10-12-2020-e2b9fe",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:29:34+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/usmfum/USM"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-vanytoken-04-03-2020-f7dc6c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:25:58+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -4614,8 +7588,12 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -4624,69 +7602,109 @@
   "scope": {
    "repo": "https://github.com/Intoit82/VanyToken"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-vega-protocol-11-10-2021-68c3ab",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/vegaprotocol/Claim_Codes"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-violet-protocol-1779f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:41:29+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/violetprotocol/core-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-vortex-02-09-2021-339981",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:37:56+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/BlockzeroLabs/vortex-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-vreo-06-29-18-4960a0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:23:24+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -4695,12 +7713,14 @@
   "scope": {
    "repo": "https://github.com/Vreo/vreo-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-wbtc-11-19-2018-177b43",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:21:44+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -4708,15 +7728,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4734,24 +7758,34 @@
   "ecosystems": [
    "bitcoin",
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-wchi-30-03-2021-ed0c1d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:32:32+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4764,57 +7798,106 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-well-inc-03-02-18-f59503",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "solidified/audit-report-wiva-digital-04-07-2021-8b7111",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:36:30+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/wivtech/wiva-smc"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-wyvern-exchange-02-16-18-7b7cd4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4827,24 +7910,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-wyvern-exchange-v2-03-07-18-8043e9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:22:32+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4854,24 +7947,37 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-xaya-2fffdd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:38:56+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -4884,54 +7990,98 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "identity-naming",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-xaya-democrit-a2466f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-09T01:28:59+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/xaya/delegation-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-yesbit-30-09-2020-1-d28cd2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/yesbit/smart-contract-audits"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "solidified/audit-report-yesbit-30-09-2020-edeced",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:28+00:00",
+  "enriched_at": "2026-07-08T18:27:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/yesbit/smart-contract-audits"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  }
 ]

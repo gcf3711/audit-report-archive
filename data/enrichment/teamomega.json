@@ -2,116 +2,150 @@
  {
   "id": "teamomega/202104-dxdao-staking-9b3f46",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202106-api3dao-90f8e5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "teamomega/202106-prime-dao-v1-final-report-8c00a4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202107-primedao-v2-audit-final-report-5be02f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "teamomega/202111-delphia-08868f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "teamomega/202111-primedao-lbp-audit-final-805322",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -120,52 +154,66 @@
   "scope": {
    "repo": "https://github.com/PrimeDAO/contracts-v2"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "teamomega/202112-blindex-audit-final-report-ebba26",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "teamomega/202112-enterdao-4f2dd0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "teamomega/202112-spectre-2db96f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -173,48 +221,59 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "teamomega/202204-fragmint-bd6677",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "teamomega/202205-backedfinance-08fc10",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -223,34 +282,53 @@
   "scope": {
    "repo": "https://github.com/backed-fi/backed-token-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "teamomega/202205-dxgovernance-bca162",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "teamomega/202205-primedao-seed-module-3a25e7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -259,52 +337,66 @@
   "scope": {
    "repo": "https://github.com/PrimeDAO/launch-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "teamomega/202206-dxdao-carrot-a94e42",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "teamomega/202207-altitude-v1-0-28d86f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202208-toucan-celo-bridge-4faa2d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -312,15 +404,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "filename",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -336,21 +432,27 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202212-everbloom-4cb5d1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -359,21 +461,27 @@
   "scope": {
    "repo": "https://github.com/StruccAB/Everbloom-Solidity-Contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "teamomega/202301-backedfinance-1e1176",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -382,41 +490,53 @@
   "scope": {
    "repo": "https://github.com/backed-fi/backed-token-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "teamomega/202303-dxdao-governance-a515d0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:02:45+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "teamomega/202306-stackly-3ab5cd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -425,21 +545,27 @@
   "scope": {
    "repo": "https://github.com/SwaprHQim/stackly"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "teamomega/202307-backed-e63c95",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -448,37 +574,56 @@
   "scope": {
    "repo": "https://github.com/backed-fi/backed-token-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "teamomega/202308-lsdai-aed1a2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/lsdai/lsdai-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "teamomega/202309-gnosis-bridge-3c775e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:03:10+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -487,34 +632,53 @@
   "scope": {
    "repo": "https://github.com/Luigy-Lemon/tokenbridge-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202310-altitude-v1-1-9d5bbf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202310-backed-wrapped-tokens-f56541",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:01+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -523,12 +687,14 @@
   "scope": {
    "repo": "https://github.com/backed-fi/wrapped-tokens"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202312-toucanprotocol-65ec38",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -536,15 +702,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -560,44 +730,56 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "teamomega/202402-eulerfinance-d71cae",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "formal-verification",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/euler-xyz/fee-flow"
-  }
+  },
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "teamomega/202402-opusedu-659e65",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -606,21 +788,27 @@
   "scope": {
    "repo": "https://github.com/LimeChain/opus-edu-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "teamomega/202404-yieldnest-faab00",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -629,12 +817,14 @@
   "scope": {
    "repo": "https://github.com/yieldnest/yieldnest-protocol"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "teamomega/202406-gnosis-hashi-721688",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -642,15 +832,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -666,21 +860,27 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202407-backed-rebasingtokens-03205d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -689,53 +889,85 @@
   "scope": {
    "repo": "https://github.com/backed-fi/backed-token-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "teamomega/202407-inverter-issuancetoken-a94bb1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:04:55+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/InverterNetwork/contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "teamomega/202408-altitude-morpho-integration-bcc328",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/refi-network/protocol-v1-audit"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202410-backed-token-bridge-e0e7ca",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -744,12 +976,14 @@
   "scope": {
    "repo": "https://github.com/backed-fi/backed-ccip-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202412-giza-arma-security-review-150502",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -757,11 +991,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -771,21 +1009,27 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202501-altitude-parallel-farming-d316f4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -794,28 +1038,36 @@
   "scope": {
    "repo": "https://github.com/refi-network/protocol-v1-audit"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/20250124-freename-snap-d4b822",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/FreenameDomains/freename-resolution-snap"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "identity-naming",
+  "llm_done": true
  },
  {
   "id": "teamomega/202502-giza-token-6448f4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -823,15 +1075,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -847,16 +1103,18 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "teamomega/202504-gnosis-tokenbridge-upgrade-8ba882",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -864,11 +1122,15 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -884,25 +1146,40 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202505-altitude-e7b6c8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202505-giza-arma-may-cf88e7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -910,11 +1187,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -924,12 +1205,16 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "python"
+  ],
+  "llm_done": true
  },
  {
   "id": "teamomega/202505-giza-february2025-c390c3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:06:37+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -937,11 +1222,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -954,25 +1243,55 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202508-giza-pendle-7cf95c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "ethereum",
+   "sonic"
+  ],
+  "languages": [
+   "python"
+  ],
+  "category": "defi-yield",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "teamomega/202508-inverterdlf-dbc0dd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -980,15 +1299,15 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1004,12 +1323,13 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "llm_done": true
  },
  {
   "id": "teamomega/202509-karpatkey-shares-bb1f40",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1017,11 +1337,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1031,37 +1355,54 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "llm_done": true
  },
  {
   "id": "teamomega/202510-backed-ccipreceiver-upgrade-50116f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/backed-fi/backed-ccip-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202510-backed-rebasing-tokens-88cb7f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1070,21 +1411,26 @@
   "scope": {
    "repo": "https://github.com/backed-fi/backed-token-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "teamomega/202510-backed-token-bridge-update-df7117",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:07:40+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1093,16 +1439,18 @@
   "scope": {
    "repo": "https://github.com/backed-fi/backed-ccip-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202510-gnosis-bridge-usds-upgrade-59749a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:08:31+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -1110,15 +1458,20 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
+   "ethereum",
    "gnosis"
   ],
   "languages": [
@@ -1130,21 +1483,27 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "teamomega/202511-backed-atomic-swap-d205c9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:08:31+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1153,12 +1512,14 @@
   "scope": {
    "repo": "https://github.com/backed-fi/swap-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "teamomega/202603-inverter-itry-oracle-final-report-38b8f4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:08:31+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1166,11 +1527,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1183,12 +1552,17 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "teamomega/202605-backed-token-erc4626-378823",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:08:31+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1196,15 +1570,19 @@
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1220,21 +1598,27 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "teamomega/202605-society-protocol-final-audit-report-498760",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:29+00:00",
+  "enriched_at": "2026-07-09T03:08:31+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -1243,6 +1627,8 @@
   "scope": {
    "repo": "https://github.com/SocietyProtocol/web3-app-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  }
 ]

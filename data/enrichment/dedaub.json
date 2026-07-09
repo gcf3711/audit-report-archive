@@ -2,20 +2,26 @@
  {
   "id": "dedaub/0x-settler-crosschainreceiverfactory-june-10-2025-5eff87",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "dedaub/0x-settler-intent-upgrade-jan-23-2025-11ce94",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -23,11 +29,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -43,25 +53,33 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/0x-settler-january-30-2026-5c92e4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/0x-timelock-gnosis-guard-march-13-2025-d5d35d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -69,11 +87,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -83,24 +105,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "dedaub/9inch-delta-jul-11-2023-5d8228",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -110,24 +138,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/9inch-sep-10-2023-a4d11e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -137,80 +171,112 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/actuator-finance-sep-06-2024-b48924",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/algem-diamond-refactoring-jan-26-2023-f6b4b7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/algem-lending-adapter-mar-07-2023-aabb60",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/algem-nov-18-2022-879144",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/aori-feb-10-2023-d12841",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/elstongun/Aori"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/aori-margin-prime-may-08-2023-5b83a9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -218,8 +284,12 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -228,157 +298,265 @@
   "scope": {
    "repo": "https://github.com/elstongun/Aori"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/apriori-lockedaprmon-november-24-2025-1b970d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/archblock-stablecoins-gbpt-upgrade-jan-24-2024-a3a2ca",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/armor-rca-feb-10-2022-565436",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "dedaub/armorfi-arcore-feb-24-2021-cc4a9c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "dedaub/arrow-markets-jan-17-2022-2af22a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/avant-usd-june-6-2024-ee135e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/avely-finance-mar-28-2022-30703f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "scilla"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/belt-crosschain-amm-part-1-nov-08-2021-dda71f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/saddle-finance/saddle-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/belt-crosschain-amm-part-2-dec-01-2021-c11ee6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/belt-finance-nov-01-2021-1e73ff",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/benqi-ignite-mar-28-2023-71797e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -388,196 +566,305 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/blazing-trading-suite-july-20-2024-a82de1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/blur-finance-delta-jan-20-2023-ec5961",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "dedaub/blur-finance-re-audit-oct-21-2022-384a95",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "dedaub/blur-finance-v1-0-jun-10-2022-cb9cbe",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity",
+   "vyper"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "dedaub/blur-finance-v1-1-jun-10-2022-2759de",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "dedaub/bondex-token-and-token-vesting-mar-7-2024-a15296",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "dedaub/brokkr-oct-01-2022-45f604",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/cavalre-amm-aug-18-2023-beda80",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/CavalRe/multiswap"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/cavalre-amm-financial-considerations-sep-10-2022-a06551",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/CavalRe/amm"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/cavalre-amm-jul-10-2023-338eae",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/CavalRe/amm"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/cavalre-amm-oct-16-2023-7ac95f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/CavalRe/multiswap"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/cavalre-amm-sep-10-2022-a7d633",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/CavalRe/amm"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/chainlink-ampleforthkeeper-feb-18-2021-97aa56",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/chainlink-cbor-jan-28-2022-e9f43f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -585,73 +872,115 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/chainlink-uniswap-anchored-view-nov-29-2021-14263c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/chainlink-vrf-v2-audit-sep-30-2021-75a128",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/smartcontractkit/chainlink"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/counterstake-nov-17-2021-f620d4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "dedaub/defi-saver-automation-v1-0-feb-02-2021-960362",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -661,80 +990,133 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "dedaub/defi-saver-v3-1-delta-feb-22-2024-d52d1a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "dedaub/defi-saver-v3-strategies-dec-22-2021-7f9508",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "dedaub/dyson-finance-oct-13-2022-127eb3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/ease-jul-20-2022-bdd70e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "dedaub/ebisu-ccip-integration-sep-19-2025-27d758",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ebisufinance/ebisu-money"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/ebisu-may-28-2025-1cf9e6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -742,11 +1124,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -759,40 +1145,52 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "bitcoin"
-  ]
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/ebisu-weeth-susdai-oracles-integration-oct-23-2025-9b92f8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/ebisufinance/ebisu-money-plasma"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-batch-validator-depositor-april-02-2025-1ecd1b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -802,28 +1200,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-eip-1884-impact-study-sep-19-2019-9b1125",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -833,19 +1237,21 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit",
+  "audit_kind": "other",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-eip-3074-impact-study-may-19-2021-ee4dd0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -853,11 +1259,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -867,27 +1277,37 @@
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit",
+  "audit_kind": "other",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-eip-4788-beacon-root-sep-01-2023-ff2be0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -897,24 +1317,33 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "other"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-eip2935-december-13-2024-29e0e5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -924,24 +1353,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-eip7002-december-13-2024-ee733c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -951,24 +1386,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-eip7251-december-13-2024-6ae2d7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -978,53 +1419,63 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-receipts-and-transactions-ssz-root-impact-study-jun-14-2023-1dd80b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "ethereum",
-   "optimism",
-   "polygon"
+   "ethereum"
   ],
-  "audit_kind": "private-audit",
+  "audit_kind": "limited-review",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-removal-of-selfdestruct-study-may-23-2023-a7bf78",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1034,141 +1485,203 @@
   "scope": {
    "repo": "https://github.com/ricmoo/will-o-the-wisp"
   },
-  "audit_kind": "private-audit",
+  "audit_kind": "limited-review",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "dedaub/ef-verkle-trees-gas-cost-changes-inisights-aug-10-2021-ce5b86",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
    "ethereum"
   ],
-  "audit_kind": "private-audit",
+  "audit_kind": "other",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "dedaub/eigenlayer-middleware-april-30-2025-6264ac",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/eigenlayer-middleware-feb-05-2024-20a95f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Layr-Labs/eigenlayer-middleware"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/enosys-multi-decimal-collateral-support-december-2-2025-65ee26",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/flrfinance/liquity-v2_bold-fork"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "evm-other"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/enosys-october-20-2025-4992b5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/enso-ccip-receiver-january-09-2026-29131f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "dedaub/enso-finance-flashloan-adapters-february-02-2026-afb226",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/EnsoBuild/shortcuts-client-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/enzyme-oct-08-2021-8ef665",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1178,183 +1691,306 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dev-tooling",
+  "llm_done": true
  },
  {
   "id": "dedaub/eoracle-eofactory-august-28-2025-e425c1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/eoracle-middleware-delta-april-10-2024-849677",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Eoracle/eoracle-middleware"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/eoracle-middleware-mar-08-2024-9c1013",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Eoracle/eoracle-middleware"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/eoracle-target-contracts-june-21-2024-afc768",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/eoracle-target-contracts-v2-delta-jan-24-2025-ed0436",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/eoracle-token-staking-july-26-2024-7b9484",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/felix-2nd-audit-january-21-2025-a3062a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/felixprotocol/felix-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "evm-other"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/felix-dec-18-2024-5ee5ab",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/fiat-dao-delphi-mar-01-2022-5e286d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/fiatdao/delphi"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/fluidkey-stealth-account-kit-may-24-2024-4da704",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "typescript"
+  ],
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "dedaub/follows-app-oct-26-2023-c052e1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Folome-online/smart-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "dedaub/furucombo-funds-apr-21-2022-cd7a5b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/furucombo-smart-wallet-and-gelato-sep-13-2021-3a0867",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -1362,136 +1998,252 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "wallet-custody",
+  "llm_done": true
  },
  {
   "id": "dedaub/gfx-interest-protocol-may-16-2022-00c4b9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/gizatech-avs-june-30-2025-f0849a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/gmx-synthetics-nov-20-2022-da82b0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/goodghosting-v2-pool-jun-16-2022-15503b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "polygon"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/gravita-apr-03-2023-a6a8ea",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/gysr-apr-04-2023-8d4ff6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/hann-finance-cdp-core-december-30-2025-a89846",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:49:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/ilayer-v1-july-28-2025-113687",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/illuminex-jan-19-2024-63d605",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "other"
+  ],
+  "category": "privacy-zk",
+  "llm_done": true,
+  "ecosystems": [
+   "other"
+  ]
  },
  {
   "id": "dedaub/immunefi-arbitration-protocol-feb-07-2024-73e10e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1499,11 +2251,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1513,92 +2269,160 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "dedaub/immunefi-jul-16-2021-e554ca",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "dedaub/immunefi-protocol-sep-14-2021-3cac4e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "dedaub/infura-din-avs-september-4-2025-c4bcf3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/io-net-ide-tokenomics-may-11-2026-0920ff",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:50:01+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "solana"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "solana"
+  ]
  },
  {
   "id": "dedaub/layerzero-dvn-avs-may-13-2025-90de83",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Layr-Labs/DVN-AVS"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "dedaub/lido-avalanche-aug-03-2022-41b627",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1608,24 +2432,33 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/lido-avalanche-re-audit-nov-22-2022-59b1a9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1635,252 +2468,364 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-chicken-bonds-b-protocol-jul-21-2022-9fad5f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-chicken-bonds-delta-nft-additions-sep-23-2022-49308b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-chicken-bonds-jul-13-2022-77be8f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-v2-aug-28-2024-5f97bd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-v2-cantina-fixes-review-may-13-2025-c8014f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
-  "audit_kind": "competition",
+  "audit_kind": "private-audit",
   "scope": {
    "repo": "https://github.com/liquity/bold"
-  }
+  },
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-v2-governance-1st-audit-aug-12-2024-46664d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-v2-governance-2nd-audit-nov-11-2024-d2770a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-v2-governance-3rd-audit-dec-22-2024-0df64d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "dedaub/liquity-v2-second-audit-nov-11-2024-16d9e3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/maple-finance-core-mar-12-2021-d07dc2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/maple-token-mar-12-2021-6ef59e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "dedaub/maverick-pool-positions-mar-31-2023-5885eb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/metalswap-nft-staking-pool-may-30-2024-7df365",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "dedaub/mixbytes-lido-on-kusama-polkadot-liquid-staking-delta-apr-14-2023-2b11f5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
+   "other",
    "polkadot"
   ],
-  "audit_kind": "private-audit",
+  "audit_kind": "limited-review",
   "ecosystems": [
+   "other",
    "polkadot"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/mixbytes-lido-on-kusama-polkadot-liquid-staking-delta-mar-28-2022-098cdf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "moonbeam",
    "polkadot"
   ],
   "audit_kind": "private-audit",
   "ecosystems": [
-   "evm",
    "polkadot"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/mixbytes-lido-on-kusama-polkadot-liquid-staking-delta-sep-27-2022-604403",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -1890,151 +2835,239 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "polkadot"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/muffin-feb-17-2022-5d7598",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/multichain-mar-28-2022-a8e11b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "dedaub/neby-september-13-2024-9e424c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/NebyDex/neby-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/nexus-mutual-staking-v2-jul-12-2022-e267a7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/obelisk-mar-05-2024-a9af05",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "dedaub/onering-jul-21-2022-24f131",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:34:08+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/othentic-december-20-2024-64def3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/othentic-september-23-2024-281004",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/otsea-dec-18-2023-ff8b39",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/otsea-p2p-markets-may-29-2024-81bcb5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2044,179 +3077,279 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "solana"
-  ]
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "dedaub/pendle-finance-v2-yield-tokenization-and-trading-jul-01-2022-d0d799",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/pentagon-vortexes-jan-14-2021-60852e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/perpetual-v2-apr-27-2022-c1b9c5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/perpetual-protocol/perp-lushan"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/perpetual-v2-jan-30-2023-19faf0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/perpetual-protocol/perp-curie-contract"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/perpetual-v2-sep-13-2022-6c1a13",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/perpetual-protocol/perp-lushan"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/pichi-finance-marketplace-june-28-2024-49e612",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "dedaub/polynomial-power-perps-may-11-2023-c2b979",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/predicate-avs-feb-15-2024-0e3398",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/AethosNetwork/aethos-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/predicate-avs-sep-23-2024-3703fd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/preon-jun-30-2023-0437a6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/primitive-v2-sep-28-2021-778dde",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:28:20+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/rho-markets-may-17-2024-b8f9f2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2229,51 +3362,78 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/rysk-ciao-feb-06-2024-d30b52",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/rysk-feb-10-2023-7fc341",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/rysk-gmx-hedging-reactor-dec-09-2022-fd0638",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/rysk-jun-18-2022-a6d4eb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2281,11 +3441,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2295,36 +3463,47 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/satlayer-bvs-erc20-staking-august-9-2025-672a37",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/satlayer-bvs-slashing-june-20-2025-e6b2f8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -2336,16 +3515,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "bitcoin",
    "cosmos"
   ],
   "languages": [
@@ -2359,31 +3541,35 @@
   },
   "audit_kind": "private-audit",
   "ecosystems": [
-   "bitcoin",
    "cosmos"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/satlayer-core-phase-1-march-25-2025-3f5c32",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "bitcoin",
    "cosmos"
   ],
   "scope": {
@@ -2391,14 +3577,15 @@
   },
   "audit_kind": "private-audit",
   "ecosystems": [
-   "bitcoin",
    "cosmos"
-  ]
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "dedaub/satlayer-slay-erc20-june-16-2025-ea7441",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2406,8 +3593,12 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -2416,70 +3607,117 @@
   "scope": {
    "repo": "https://github.com/satlayer/token"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "dedaub/satoshi-finance-feb-26-2024-18bb57",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Satoshi-Finance/sato-dev"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "bsc"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/sbold-may-19-2025-e185b5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:47:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/K3Capital/sBOLD"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/simplyvc-jan-16-2023-39ce3c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "dedaub/simplyvc-staking-aug-26-2024-6802cb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:43:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "dedaub/simplyvc-tulipfarm-jan-21-2021-c3dcb7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:26:48+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -2487,70 +3725,102 @@
     "confidence": "high"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "dedaub/solid-world-aug-03-2023-ca935c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "dedaub/solid-world-mar-01-2023-f0a753",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "dedaub/solid-world-may-12-2023-c5267e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "rwa",
+  "llm_done": true
  },
  {
   "id": "dedaub/sonata-august-14-2025-552d01",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2563,37 +3833,47 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/stable-jack-dec-24-2024-0a1fdd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:44:23+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "dedaub/stella-jul-19-2023-cfb60d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2603,24 +3883,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/struct-finance-struct-core-may-30-2022-cf7c4e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2630,106 +3920,174 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/term-finance-jun-22-2023-887407",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:38:04+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/tusd-proof-of-reserve-oct-27-2022-d67951",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/uxd-oct-31-2022-cbc01f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/vaultedge-april-1-2025-9f6f35",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/vesper-metronome-synth-and-escrowed-met-feb-28-2023-9e0e95",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:36:36+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/vesper-one-oracle-dec-14-2022-ef3e2c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/vesper-pools-delta-esvsp-vsp-minter-may-12-2022-ae80f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/bloqpriv/vesper-pools-v3"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "avalanche"
+  ],
+  "category": "defi-yield",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/vesper-protocol-dec-14-2021-80a970",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2737,11 +4095,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2754,70 +4120,120 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/vesper-strategies-delta-dec-14-2022-c3612f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:35:38+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/vesper-synth-delta-feb-16-2022-3cde3d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/bloqpriv/vesper-synth"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "dedaub/vine-money-march-04-2024-c2767f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:40:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/VineMoney/VineMoney"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "evm-other"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/virtue-v2-feb-11-2025-2691fc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:45:43+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/virtuoso-liquity-v2-design-audit-apr-24-2023-82d934",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:37:33+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2825,26 +4241,32 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
    "ethereum"
   ],
-  "audit_kind": "private-audit",
+  "audit_kind": "limited-review",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/witnesschain-watchtower-mar-23-2024-37f070",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2852,11 +4274,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -2866,170 +4292,321 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "dedaub/xtoken-origination-terminal-mar-04-2022-edffce",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:30:47+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "dedaub/yearn-angle-strategy-april-05-2022-81e52d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/yearn-stargate-strategy-april-08-2022-3ca3db",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "dedaub/yeti-finance-dec-21-2021-07aecd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:29:31+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "dedaub/yeti-finance-platypus-and-new-vaults-may-13-2022-57480b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:33:44+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/yeti-finance-vault-and-oracles-may-06-2022-119397",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:31:52+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "avalanche"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "defi-lending",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/yeti-finance-yeti-wavax-swapper-dec-07-2023-8a1d0d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:39:02+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "avalanche"
+  ],
+  "category": "defi-dex",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "dedaub/yuzuusd-october-6-2025-1c83ff",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:48:14+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Telos-Consilium/ouroboros-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/yuzuusd-psm-february-09-2026-d7adf9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:50:01+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
    "repo": "https://github.com/Telos-Consilium/ouroboros-contracts"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "solidity"
+  ],
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "dedaub/zircuit-op-bridge-july-24-2024-b6439e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:42:09+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
   "chains": [
-   "ethereum",
    "optimism"
   ],
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "dedaub/zircuit-ztakingpool-mar-11-2024-457cc8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:08+00:00",
+  "enriched_at": "2026-07-09T03:41:00+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "staking-validators",
+  "llm_done": true
  }
 ]

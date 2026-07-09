@@ -2,7 +2,7 @@
  {
   "id": "verilog/benddao-v2-audit-report-ebaf89",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -10,8 +10,12 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -20,24 +24,26 @@
   "scope": {
    "repo": "https://github.com/BendDAO/bend-v2"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "verilog/bitty-audit-2025-jul-147034",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:50+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -47,28 +53,33 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "llm_done": true
  },
  {
   "id": "verilog/dodo-stake-contract-audit-report-7c843b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -84,12 +95,14 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "verilog/gemnify-audit-report-24f33d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:50+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -101,11 +114,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -121,28 +138,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "verilog/mantle-l2-erc20-token-bridge-report-6a828b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -158,28 +181,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "verilog/mantle-lsp-l2-report-3ab0c4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -195,28 +224,34 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "verilog/mantle-mdi-quests-report-a752c3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -232,7 +267,9 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "nft",
+  "llm_done": true
  },
  {
   "id": "verilog/mantle-staking-hub-audit-report-58a4ef",
@@ -264,7 +301,7 @@
  {
   "id": "verilog/marionette-thena-adapter-report-6e0767",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -272,8 +309,12 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -282,7 +323,9 @@
   "scope": {
    "repo": "https://github.com/redacted-cartel/hidden-hand-marionette"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "verilog/netz-audit-joint-report-7abcac",
@@ -300,7 +343,7 @@
  {
   "id": "verilog/redacted-hidden-hand-marionette-report-4ca6b6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -312,11 +355,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -332,21 +379,35 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "verilog/sonorus-erc20-and-vester-audit-report-566575",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -355,12 +416,20 @@
   "scope": {
    "repo": "https://github.com/sonorus-network/sonorus-contract-audit"
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "bsc"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "verilog/untangled-finance-audit-report-1eefe4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:31+00:00",
+  "enriched_at": "2026-07-09T03:17:22+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -372,11 +441,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -392,6 +465,8 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "rwa",
+  "llm_done": true
  }
 ]

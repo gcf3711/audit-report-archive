@@ -2,85 +2,111 @@
  {
   "id": "oxorio/1inch-fusion-mode-v1-audit-report-0578ae",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/aave-liquid-emodes-audit-report-0716c5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:43:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "oxorio/aave-v3-3-0-audit-report-02db44",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:45:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "oxorio/altitude-audit-report-8faa22",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "oxorio/altitude-v2-audit-report-b81006",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "oxorio/bitlend-audit-report-f1887f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/clash-of-coins-report-f247db",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
@@ -88,83 +114,102 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "oxorio/fathom-dao-audit-report-029293",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/fathom-dao-reaudit-report-44ea48",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/fathom-stablecoin-audit-report-cc3b92",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "stablecoin",
+  "llm_done": true
  },
  {
   "id": "oxorio/fathom-vaults-audit-report-bf2a9c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/inceptionlrt-audit-report-e08196",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -174,50 +219,96 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "oxorio/kalp-gini-accounting-report-5d8664",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "other"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "other"
+  ]
  },
  {
   "id": "oxorio/kalp-gini-vesting-report-4905d8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "other"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "other"
+  ]
  },
  {
   "id": "oxorio/launchnodes-lido-impact-staking-audit-report-9e58e4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:43:09+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -227,89 +318,115 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-earn-audit-report-5b835d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:45:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-easytrack-audit-report-d884d2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-governance-crosschain-bridges-audit-report-ba948b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-jumpgate-audit-report-e137f8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-l2-audit-report-129bae",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-on-polygon-audit-report-d3c34d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -319,16 +436,18 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-on-polygon-pr67-audit-report-2ffceb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -336,11 +455,15 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -353,24 +476,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-on-polygon-pr69-audit-report-8e176c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -380,24 +509,30 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-on-polygon-requestwithdraw-fix-audit-report-2bf258",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -407,111 +542,165 @@
   "audit_kind": "private-audit",
   "ecosystems": [
    "evm"
-  ]
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "oxorio/lido-v2-off-chain-audit-report-ecee5f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:49+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
-   }
-  },
-  "audit_kind": "private-audit"
- },
- {
-  "id": "oxorio/lido-v2-on-chain-audit-report-4e5d79",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
-   }
-  },
-  "audit_kind": "private-audit"
- },
- {
-  "id": "oxorio/lido-wsteth-on-bnb-deployment-verification-report-a7ecf2",
-  "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
-  "text_extracted": true,
-  "provenance": {
-   "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
-   "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    }
   },
+  "audit_kind": "private-audit",
   "chains": [
    "ethereum"
   ],
-  "audit_kind": "private-audit",
+  "languages": [
+   "python"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true,
   "ecosystems": [
    "evm"
   ]
  },
  {
-  "id": "oxorio/ltv-audit-report-04-11-25-d1f5b0",
+  "id": "oxorio/lido-v2-on-chain-audit-report-4e5d79",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
+ },
+ {
+  "id": "oxorio/lido-wsteth-on-bnb-deployment-verification-report-a7ecf2",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T04:43:09+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "audit_kind": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "chains": [
+   "bsc"
+  ],
+  "audit_kind": "limited-review",
+  "ecosystems": [
+   "evm"
+  ],
+  "category": "liquid-staking",
+  "llm_done": true
+ },
+ {
+  "id": "oxorio/ltv-audit-report-04-11-25-d1f5b0",
+  "schema_version": 1,
+  "enriched_at": "2026-07-09T04:45:13+00:00",
+  "text_extracted": true,
+  "provenance": {
+   "audit_kind": {
+    "method": "llm",
+    "confidence": "medium"
+   }
+  },
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/ltv-vault-craft-audit-report-04-11-25-027f01",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:45:13+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
    "solidity"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "oxorio/mansa-tranches-audit-report-4ad64e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "oxorio/oxorio-e6c97b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:41:12+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
@@ -519,214 +708,346 @@
     "confidence": "low"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "llm_done": true
  },
  {
   "id": "oxorio/privacy-pools-core-audit-report-b5c2b5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "oxorio/privacy-pools-precommitment-pr-audit-report-47a661",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "oxorio/privacy-pools-v1-audit-report-ac166a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "oxorio/rho-protocol-audit-report-965df0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "oxorio/triumph-token-report-11-02-26-618fa5",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:45:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "gaming-metaverse",
+  "llm_done": true
  },
  {
   "id": "oxorio/wisdomtree-erc20basicstandard-report-annex-712654",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:43:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "oxorio/wisdomtree-erc20controlledstandard-report-annex-ef8c61",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:43:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "oxorio/wisdomtree-erc20revocablecompliancestandard-report-annex-1ba814",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:43:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "oxorio/wisdomtree-erc20revocablestandard-report-annex-4c2d87",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:43:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "oxorio/wisdomtree-tokenstandards-report-a1eb2d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:43:09+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "other",
+  "llm_done": true
  },
  {
   "id": "oxorio/worldshards-bep-20-token-scope-review-report-29-07-2025-40df76",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:45:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "bsc"
+  ],
+  "category": "gaming-metaverse",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "oxorio/worldshards-erc20-layerzero-bridge-audit-report-d62ca2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:45:13+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "oxorio/worldshards-erc20-token-report-c30dd7",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:44:25+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "ecosystems": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "chains": [
+   "ethereum"
+  ],
+  "languages": [
+   "solidity"
+  ],
+  "category": "token-distribution",
+  "llm_done": true,
+  "ecosystems": [
+   "evm"
+  ]
  },
  {
   "id": "oxorio/zunami-protocol-v2-audit-report-cbf4ae",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "oxorio/zunami-protocol-v2-reaudit-2-report-1b0eda",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "oxorio/zunami-protocol-v2-reaudit-report-901105",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:18+00:00",
+  "enriched_at": "2026-07-09T04:42:28+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-yield",
+  "llm_done": true
  }
 ]

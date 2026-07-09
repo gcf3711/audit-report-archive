@@ -2,24 +2,28 @@
  {
   "id": "informal/1-executive-summary-868b49",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -34,37 +38,42 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/1-executive-summary-f510fe",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
    "cosmos"
   ],
   "languages": [
-   "go",
-   "rust"
+   "go"
   ],
   "scope": {
    "repo": "https://github.com/informalsystems/ibc-rs"
@@ -72,16 +81,18 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/2-project-dashboard-5755c0",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
@@ -89,8 +100,12 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -99,16 +114,18 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/2-project-dashboard-c195d8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
@@ -116,8 +133,12 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -126,29 +147,34 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/2022-09-30-audit-osmosis-token-factory-883a89",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
-   "cosmos",
    "osmosis"
   ],
   "scope": {
@@ -157,12 +183,14 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2022-11-30-audit-report-stride-stakeibc-icacallbacks-a3e62e",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -170,32 +198,42 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "liquid-staking",
+  "llm_done": true
  },
  {
   "id": "informal/2022-12-20-audit-osmosis-twap-gamm-f22e13",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -207,16 +245,18 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2022-12-25-audit-celestia-payment-module-9fc714",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
@@ -224,8 +264,12 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
@@ -237,20 +281,26 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2022-2023-audit-partnership-anoma-proof-of-stake-5ea0d6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "audit_kind": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
     "method": "source-prior",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
     "confidence": "medium"
    }
   },
@@ -260,45 +310,75 @@
   },
   "ecosystems": [
    "cosmos"
-  ]
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2023-02-03-audit-report-mars-protocol-envoy-module-8372c1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-lending",
+  "llm_done": true
  },
  {
   "id": "informal/2023-02-10-audit-report-ics-replicated-security-8e42e1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -307,20 +387,25 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2023-03-27-audit-osmosis-crosschainswaps-swaprouter-a57077",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "frameworks": {
@@ -328,12 +413,16 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -351,16 +440,18 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2023-03-27-audit-osmosis-token-transfer-analysis-testing-8573fe",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "frameworks": {
@@ -368,12 +459,20 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -388,52 +487,98 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "rust"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/2023-03-30-celestia-namespaced-merkle-tree-library-audit-18d28a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2023-04-06-audit-report-neutron-sdk-dao-wasmd-tge-8e5119",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go",
+   "rust"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2023-04-06-audit-scope-q1-q2-2023-56686c",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "frameworks": {
@@ -441,12 +586,24 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "frameworks": [
@@ -455,21 +612,42 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go",
+   "rust"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2023-04-11-audit-report-skip-mev-tendermint-a8cf8a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:12+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -478,12 +656,20 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2023-05-16-audit-report-duality-dex-and-incentives-modules-7cf914",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -491,19 +677,25 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2023-06-23-audit-report-osmosis-q2-e435f6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -511,12 +703,16 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -525,12 +721,14 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2023-08-04-audit-report-axelar-axelarnet-3391bb",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -538,12 +736,16 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -554,93 +756,144 @@
    "cosmos",
    "evm"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/2023-09-13-audit-report-celestia-rsmt2d-library-ad0f44",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2023-11-05-audit-report-neutron-smart-contracts-overrule-liquidity-migration-34d3d3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2023-11-11-audit-report-neutron-duality-v0-5-0-integration-of-cosmos-sdk-0-47-45665d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
-   "cosmos",
-   "osmosis"
+   "cosmos"
   ],
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2023-30-10-audit-fee-abstraction-module-by-notional-f7d992",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -649,21 +902,31 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/2024-02-26-namada-masp-final-report-e79486",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -672,32 +935,50 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "informal/2024-03-21-liquidity-migration-audit-report-3c3c10",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "defi-yield",
+  "llm_done": true
  },
  {
   "id": "informal/2024-03-28-neutron-chain-manager-report-747166",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "frameworks": {
@@ -705,12 +986,20 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "frameworks": [
@@ -719,21 +1008,34 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2024-04-30-namada-abci-replay-protection-fee-and-gas-metering-final-report-c6aa40",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -742,139 +1044,210 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/2024-08-16-ibc-and-masp-integrations-final-report-8660ef",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/2024-12-11-namada-governance-pgf-a763e6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "dao-governance",
+  "llm_done": true
  },
  {
   "id": "informal/2024-12-11-neutron-dex-model-98fb6f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:09:34+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/2025-03-25-xrpl-evm-sidechain-6992ba",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:12:14+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
-   "cosmos"
+   "evm-other"
   ],
   "ecosystems": [
-   "cosmos"
+   "evm"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/2025-07-18-neutron-timewave-q2-2025-valence-protocol-audit-report-final-919fca",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:12:14+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "llm_done": true
  },
  {
   "id": "informal/2025-07-30-neutron-q3-2025-dex-fractional-banking-audit-report-final-0d7250",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:12:14+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/3-engagement-goals-641330",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:02:47+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -882,32 +1255,46 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/3-engagement-goals-e8b396",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -916,29 +1303,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/4-coverage-9f7187",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -953,25 +1349,31 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "limited-review",
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/4-coverage-bf3539",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -983,81 +1385,137 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/5-recommendation-summary-261544",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/5-recommendation-summary-a10ced",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/6-findings-summary-4e0d7d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/6-findings-summary-82b672",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -1066,12 +1524,17 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/anoma-q3-2025-token-token-distributor-audit-report-final-v3-27926b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -1079,19 +1542,25 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "informal/anoma-q4-2025-risc-zero-rm-evm-protocol-adapter-audit-final-report-v2-14c090",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -1099,19 +1568,25 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "informal/apex-q1-2025-reactor-skyline-critical-path-audit-report-final-f42c7b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -1119,12 +1594,16 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1133,63 +1612,84 @@
   "ecosystems": [
    "evm"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/babylon-q2-2025-genesis-v2-upgrade-audit-report-final-2d1f1d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
-   "cosmos"
+   "bitcoin"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "bitcoin"
+  ],
+  "category": "staking-validators",
+  "llm_done": true
  },
  {
   "id": "informal/celestia-q2-2025-cip-31-audit-report-final-24386b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
-   "cosmos"
+   "other"
   ],
   "ecosystems": [
-   "cosmos"
+   "other"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "token-distribution",
+  "llm_done": true
  },
  {
   "id": "informal/celestia-q2-2025-hana-library-audit-report-final-v2-edf6e4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
@@ -1197,50 +1697,68 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
-   "ethereum",
-   "optimism"
+   "other"
   ],
   "languages": [
    "rust"
   ],
   "ecosystems": [
-   "evm"
+   "other"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/celestia-q2-2025-high-throughput-recovery-audit-report-final-v2-1a9de8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
-   "cosmos"
+   "other"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "other"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/dydx-q3-2025-proposer-selection-updates-audit-report-final-66ceb2",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:10:54+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -1248,19 +1766,25 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/espresso-q1-2025-epoch-change-protocol-audit-report-final-7f10a1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:12:14+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -1268,32 +1792,46 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/findings-6075d9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:28+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1305,25 +1843,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-01-3cf5f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1335,25 +1886,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-02-fb7ed8",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1365,25 +1929,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-03-f18550",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1395,25 +1972,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-04-4f6e32",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1425,36 +2015,45 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-05-6f8e52",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
    "cosmos"
   ],
   "languages": [
-   "rust"
+   "go"
   ],
   "scope": {
    "repo": "https://github.com/cosmos/ics"
@@ -1462,25 +2061,35 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-06-4ea6bf",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1492,25 +2101,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-07-281b59",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1522,25 +2144,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-08-a8715f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:04:57+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1552,25 +2187,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-09-5010ee",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1582,25 +2230,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-10-fc232f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1612,25 +2273,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-11-6291f3",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1642,25 +2316,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-12-fcd9c4",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1672,25 +2359,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-13-ad6b39",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1702,25 +2402,38 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "formal-verification",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-ibc-14-b0289d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -1732,41 +2445,78 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-01-aae66b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-02-aac916",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:05:38+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -1775,61 +2525,121 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-03-074409",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-04-62814a",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-05-f95dfa",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -1838,21 +2648,41 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-06-eee535",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -1861,81 +2691,161 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-07-2090ea",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-08-91630d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-09-13167f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-10-48e65d",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:06:33+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -1944,21 +2854,41 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "defi-derivatives",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-11-993c78",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -1967,21 +2897,41 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "oracle",
+  "llm_done": true
  },
  {
   "id": "informal/if-injective-12-682d28",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "scope": {
@@ -1990,72 +2940,140 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/informal-agoric-report-phase1-0ad352",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
-   "cosmos"
+   "other"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "other"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/informal-agoric-report-phase2-d0987b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
-   "cosmos"
+   "other"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "other"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/informal-agoric-report-phase3-bb9ccc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
-   "cosmos"
+   "other"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "formal-verification",
+  "chains": [
+   "other"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/informal-evmos-report-2021q4-9e7053",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
@@ -2063,12 +3081,16 @@
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -2077,25 +3099,35 @@
   "ecosystems": [
    "evm"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/informal-report-injective-audit-202106-bab5f9",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -2104,54 +3136,71 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "defi-dex",
+  "llm_done": true
  },
  {
   "id": "informal/informal-report-interlay-audit-2021q2-1e59cc",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
-   "bitcoin",
    "polkadot"
   ],
   "ecosystems": [
-   "bitcoin",
    "polkadot"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/informal-report-interlay-audit-2021q3-336fdd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:01:21+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -2160,65 +3209,104 @@
   "ecosystems": [
    "polkadot"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "rust"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/invariants-161ae1",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "other",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/invariants-3f613b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:07:46+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "other",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/invariants-8fb80b",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "chains": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "chains": [
@@ -2230,12 +3318,17 @@
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "languages": [
+   "go"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/invariants-c57806",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -2245,37 +3338,63 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/invariants-d6b23f",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "languages": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "languages": [
+   "go"
+  ],
+  "category": "chain-core",
+  "llm_done": true
  },
  {
   "id": "informal/invariants-ffe3cd",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -2285,64 +3404,96 @@
    "audit_kind": {
     "method": "source-prior",
     "confidence": "low"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/namada-q2-2025-e2e-shielded-transaction-balance-consistency-audit-report-final-46d1a6",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:12:14+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "privacy-zk",
+  "llm_done": true
  },
  {
   "id": "informal/report-801571",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:08:50+00:00",
   "text_extracted": true,
   "provenance": {
    "languages": {
-    "method": "text-regex",
+    "method": "llm",
     "confidence": "medium"
    },
    "ecosystems": {
-    "method": "source-prior",
+    "method": "llm",
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "chains": {
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "languages": [
-   "rust"
+   "go"
   ],
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "chains": [
+   "cosmos"
+  ],
+  "category": "bridge-interop",
+  "llm_done": true
  },
  {
   "id": "informal/zenrock-q1-2026-hush-privacy-protocol-audit-report-cac962",
   "schema_version": 1,
-  "enriched_at": "2026-07-08T14:28:11+00:00",
+  "enriched_at": "2026-07-09T04:12:14+00:00",
   "text_extracted": true,
   "provenance": {
    "ecosystems": {
@@ -2350,13 +3501,19 @@
     "confidence": "medium"
    },
    "audit_kind": {
-    "method": "source-prior",
-    "confidence": "low"
+    "method": "llm",
+    "confidence": "medium"
+   },
+   "category": {
+    "method": "llm",
+    "confidence": "medium"
    }
   },
   "ecosystems": [
    "cosmos"
   ],
-  "audit_kind": "private-audit"
+  "audit_kind": "private-audit",
+  "category": "privacy-zk",
+  "llm_done": true
  }
 ]
