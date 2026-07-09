@@ -4,6 +4,7 @@
     python -m audit_enrich enrich  [sources...]           # layers 1+2 (deterministic)
     python -m audit_enrich llm     [sources...] [--limit N] [--model haiku]
     python -m audit_enrich status                         # coverage per source
+    python -m audit_enrich stats [--top N]                # value distributions
 
 Layers are idempotent and per-source isolated; run them in any order,
 rerun any time (`enrich` recomputes deterministic fields, `llm` only
@@ -96,6 +97,30 @@ def cmd_llm(args) -> None:
                 return
 
 
+def cmd_stats(args) -> None:
+    """Value distributions across all enrichment records."""
+    from collections import Counter
+    counters = {"chains": Counter(), "ecosystems": Counter(),
+                "languages": Counter(), "category": Counter(),
+                "audit_kind": Counter()}
+    n = 0
+    for source in _sources([]):
+        for r in store.load(source).values():
+            n += 1
+            for f in ("chains", "ecosystems", "languages"):
+                counters[f].update(r.get(f) or [])
+            for f in ("category", "audit_kind"):
+                if r.get(f):
+                    counters[f][r[f]] += 1
+    print(f"{n} enrichment records\n")
+    for field, c in counters.items():
+        print(f"-- {field} ({sum(c.values())} values, "
+              f"{len(c)} distinct) --")
+        for value, count in c.most_common(args.top):
+            print(f"  {value:22} {count:>6}  {count * 100 // n:>2}%")
+        print()
+
+
 def cmd_status(args) -> None:
     print(f"{'source':24} {'records':>7} {'text':>5} {'chains':>6} "
           f"{'langs':>5} {'categ':>5} {'llm':>5}")
@@ -124,11 +149,15 @@ def main() -> None:
     parser = argparse.ArgumentParser(prog="audit_enrich")
     sub = parser.add_subparsers(dest="command", required=True)
     for name, fn in [("extract", cmd_extract), ("enrich", cmd_enrich),
-                     ("llm", cmd_llm), ("status", cmd_status)]:
+                     ("llm", cmd_llm), ("status", cmd_status),
+                     ("stats", cmd_stats)]:
         p = sub.add_parser(name)
         p.set_defaults(fn=fn)
-        if name != "status":
+        if name not in ("status", "stats"):
             p.add_argument("sources", nargs="*")
+        if name == "stats":
+            p.add_argument("--top", type=int, default=15,
+                           help="values shown per field (default 15)")
         if name == "llm":
             p.add_argument("--limit", type=int, default=None,
                            help="max reports this run (default: all pending)")

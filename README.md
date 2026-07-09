@@ -160,6 +160,7 @@ python -m audit_enrich extract          # 0: report text -> data/cache/text/
 python -m audit_enrich enrich           # 1+2: source priors + keyword/regex
 python -m audit_enrich llm [--limit N]  # 3: local `claude` CLI for the gaps
 python -m audit_enrich status           # coverage per source
+python -m audit_enrich stats            # value distributions (chains/languages/...)
 ```
 
 The LLM layer shells out to the logged-in Claude Code CLI (`claude -p`,
