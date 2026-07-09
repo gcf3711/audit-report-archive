@@ -21,6 +21,7 @@ uv run python -m audit_collector build-index
 uv run python -m audit_enrich extract
 uv run python -m audit_enrich enrich
 uv run python -m audit_enrich llm || echo "llm layer incomplete (quota?); next run resumes"
+uv run python -m audit_enrich stats --top 10 --readme > /dev/null
 
 git add data/catalog data/enrichment indexes README.md
 if ! git diff --cached --quiet; then

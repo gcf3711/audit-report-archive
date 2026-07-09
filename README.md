@@ -145,7 +145,30 @@ Run with `PYTHONPATH=src` if not installed (`PYTHONPATH=src python -m audit_coll
 implementation languages, protocol category, audit kind, in-scope repo —
 without touching collector data. Current coverage (all 9409 reports
 processed, null when the report doesn't state it): chains 44%, languages
-59%, category 74%. Records live in
+59%, category 74%.
+
+### What's in the corpus
+
+<!-- ENRICHMENT:BEGIN -->
+Across **9409** reports, top 10 values per field (counts; full lists via `python -m audit_enrich stats`):
+
+| Chain | Language | Category | Audit kind |
+|---|---|---|---|
+| ethereum (1913) | solidity (4462) | defi-dex (856) | private-audit (8257) |
+| solana (600) | rust (655) | defi-yield (792) | competition (706) |
+| cosmos (466) | go (158) | defi-lending (716) | formal-verification (226) |
+| polygon (459) | cairo (155) | bridge-interop (607) | limited-review (190) |
+| bitcoin (250) | move (63) | token-distribution (601) | other (26) |
+| arbitrum (250) | javascript (48) | liquid-staking (416) | fuzzing-campaign (4) |
+| starknet (233) | typescript (42) | chain-core (378) |  |
+| algorand (228) | vyper (42) | defi-derivatives (348) |  |
+| aptos (227) | yul (23) | dao-governance (304) |  |
+| optimism (161) | other (20) | nft (295) |  |
+
+Ecosystem totals: evm 2790 · solana 600 · cosmos 598 · other 481 · move 260 · bitcoin 250 · cairo 233 · polkadot 29.
+<!-- ENRICHMENT:END -->
+
+Records live in
 `data/enrichment/<source>.json` keyed by catalog `id`; schema and controlled
 vocabularies in [config/enrichment.yaml](config/enrichment.yaml),
 deterministic rules in

@@ -97,8 +97,7 @@ def cmd_llm(args) -> None:
                 return
 
 
-def cmd_stats(args) -> None:
-    """Value distributions across all enrichment records."""
+def _collect_stats() -> tuple[int, dict]:
     from collections import Counter
     counters = {"chains": Counter(), "ecosystems": Counter(),
                 "languages": Counter(), "category": Counter(),
@@ -112,6 +111,49 @@ def cmd_stats(args) -> None:
             for f in ("category", "audit_kind"):
                 if r.get(f):
                     counters[f][r[f]] += 1
+    return n, counters
+
+
+def _update_readme_stats(n: int, counters: dict, top: int) -> bool:
+    """Rewrite the ENRICHMENT block in README.md; returns True if updated."""
+    cov = {f: sum(counters[f][k] for k in counters[f]) for f in counters}
+    rows = []
+    cols = ["chains", "languages", "category", "audit_kind"]
+    ranked = {f: counters[f].most_common(top) for f in cols}
+    for i in range(max(len(ranked[f]) for f in cols)):
+        cells = []
+        for f in cols:
+            if i < len(ranked[f]):
+                value, count = ranked[f][i]
+                cells.append(f"{value} ({count})")
+            else:
+                cells.append("")
+        rows.append("| " + " | ".join(cells) + " |")
+    eco = " · ".join(f"{k} {v}" for k, v in counters["ecosystems"].most_common())
+    block = "\n".join([
+        f"Across **{n}** reports, top {top} values per field "
+        f"(counts; full lists via `python -m audit_enrich stats`):",
+        "",
+        "| Chain | Language | Category | Audit kind |",
+        "|---|---|---|---|",
+        *rows,
+        "",
+        f"Ecosystem totals: {eco}.",
+    ])
+    readme = ROOT / "README.md"
+    text = readme.read_text()
+    begin, end = "<!-- ENRICHMENT:BEGIN -->", "<!-- ENRICHMENT:END -->"
+    if begin not in text or end not in text:
+        return False
+    head, rest = text.split(begin, 1)
+    _, tail = rest.split(end, 1)
+    readme.write_text(head + begin + "\n" + block + "\n" + end + tail)
+    return True
+
+
+def cmd_stats(args) -> None:
+    """Value distributions across all enrichment records."""
+    n, counters = _collect_stats()
     print(f"{n} enrichment records\n")
     for field, c in counters.items():
         print(f"-- {field} ({sum(c.values())} values, "
@@ -119,6 +161,10 @@ def cmd_stats(args) -> None:
         for value, count in c.most_common(args.top):
             print(f"  {value:22} {count:>6}  {count * 100 // n:>2}%")
         print()
+    if args.readme:
+        ok = _update_readme_stats(n, counters, args.top)
+        print("README enrichment block updated" if ok
+              else "README markers not found — block not written")
 
 
 def cmd_status(args) -> None:
@@ -158,6 +204,8 @@ def main() -> None:
         if name == "stats":
             p.add_argument("--top", type=int, default=15,
                            help="values shown per field (default 15)")
+            p.add_argument("--readme", action="store_true",
+                           help="also rewrite the ENRICHMENT block in README.md")
         if name == "llm":
             p.add_argument("--limit", type=int, default=None,
                            help="max reports this run (default: all pending)")
