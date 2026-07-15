@@ -1,25 +1,6 @@
 [
   {
     "source": "hatsfinance",
-    "project": "Accumulated finance",
-    "title": "Accumulated finance audit competition",
-    "report_url": "https://github.com/hats-finance/Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784/blob/master/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784/master/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/accumulated-finance-audit-competition_026a7223.md",
-    "sha256": "75d52584a92d2c100babc3e2e2ce4c21b88cae650c15604ca50df97caf3ede71",
-    "size_bytes": 9805,
-    "downloaded_at": "2026-07-07T11:37:48+00:00",
-    "extra": {
-      "vault": "0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784",
-      "repo": "Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784"
-    },
-    "id": "hatsfinance/accumulated-finance-audit-competition-4e0666"
-  },
-  {
-    "source": "hatsfinance",
     "project": "Audit competition  2",
     "title": "Audit competition  2 audit competition",
     "report_url": "https://github.com/hats-finance/Audit-competition--2-0xb806174529d5a884dcc8c956e58f75bc3ec59a37/blob/main/audit/Hats%20-%20Audit%20Report.pdf",
@@ -77,63 +58,6 @@
   },
   {
     "source": "hatsfinance",
-    "project": "DAOsis",
-    "title": "DAOsis audit competition",
-    "report_url": "https://github.com/hats-finance/DAOsis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4/blob/main/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/DAOsis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4/main/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/daosis-audit-competition_20cd0b94.md",
-    "sha256": "37e1229e22fa885645e287645fefd09f9a4fee5098c801a9063fc8ba9ae7b069",
-    "size_bytes": 22211,
-    "downloaded_at": "2026-07-07T11:37:52+00:00",
-    "extra": {
-      "vault": "0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4",
-      "repo": "DAOsis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4"
-    },
-    "id": "hatsfinance/daosis-audit-competition-1d4f3c"
-  },
-  {
-    "source": "hatsfinance",
-    "project": "ether fi",
-    "title": "ether fi audit competition",
-    "report_url": "https://github.com/hats-finance/ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4/blob/master/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4/master/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/ether-fi-audit-competition_87622520.md",
-    "sha256": "2f2e1c6f33959da9ae18fa29a8b01f7c14aefcc3576098d75fc0a80f282cd8da",
-    "size_bytes": 7048,
-    "downloaded_at": "2026-07-07T11:37:53+00:00",
-    "extra": {
-      "vault": "0x36c3b77853dec9c4a237a692623293223d4b9bc4",
-      "repo": "ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4"
-    },
-    "id": "hatsfinance/ether-fi-audit-competition-ec4767"
-  },
-  {
-    "source": "hatsfinance",
-    "project": "Fenix",
-    "title": "Fenix audit competition",
-    "report_url": "https://github.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/blob/main/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/main/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/fenix-audit-competition_bcd85d78.md",
-    "sha256": "044930de6be052d6ad3c2c750a6c20f36469108c6d99d24d42dc02860af64881",
-    "size_bytes": 13061,
-    "downloaded_at": "2026-07-07T11:37:54+00:00",
-    "extra": {
-      "vault": "0x9d7765a7ebd5b6322a30797a44a5428531970d3d",
-      "repo": "Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d"
-    },
-    "id": "hatsfinance/fenix-audit-competition-b48958"
-  },
-  {
-    "source": "hatsfinance",
     "project": "HATs Arbitration Contracts",
     "title": "HATs Arbitration Contracts audit competition",
     "report_url": "https://github.com/hats-finance/HATs-Arbitration-Contracts-0x79a618f675857b45934ca1c413fd5f409cf89735/blob/main/audit/Hats%20-%20Audit%20Report.pdf",
@@ -153,25 +77,6 @@
   },
   {
     "source": "hatsfinance",
-    "project": "illuminex",
-    "title": "illuminex audit competition",
-    "report_url": "https://github.com/hats-finance/illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf/blob/main/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf/main/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/illuminex-audit-competition_1d6a7e51.md",
-    "sha256": "8e7f2489b03fba426ee3f6a73f2470330ec9da82e318b17aaab2d342f539f2b6",
-    "size_bytes": 8024,
-    "downloaded_at": "2026-07-07T11:37:56+00:00",
-    "extra": {
-      "vault": "0x0bb4aa1f58719707405c231fcdf0b405714799cf",
-      "repo": "illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf"
-    },
-    "id": "hatsfinance/illuminex-audit-competition-c5fbf2"
-  },
-  {
-    "source": "hatsfinance",
     "project": "Inbal s vault",
     "title": "Inbal s vault audit competition",
     "report_url": "https://github.com/hats-finance/Inbal-s-vault-0x81213518b154c5a98de9677b111d0b41051977bf/blob/main/audit/Hats%20-%20Audit%20Report.pdf",
@@ -188,25 +93,6 @@
       "repo": "Inbal-s-vault-0x81213518b154c5a98de9677b111d0b41051977bf"
     },
     "id": "hatsfinance/inbal-s-vault-audit-competition-9d2a2c"
-  },
-  {
-    "source": "hatsfinance",
-    "project": "Inverter Network",
-    "title": "Inverter Network audit competition",
-    "report_url": "https://github.com/hats-finance/Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/blob/main/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/main/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/inverter-network-audit-competition_720b05de.md",
-    "sha256": "ca57ed98e487f5d55760eb5c7d23a4e94f8c9dae32762f6037fda9cc0005350d",
-    "size_bytes": 49415,
-    "downloaded_at": "2026-07-07T11:37:58+00:00",
-    "extra": {
-      "vault": "0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb",
-      "repo": "Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb"
-    },
-    "id": "hatsfinance/inverter-network-audit-competition-ff71d6"
   },
   {
     "source": "hatsfinance",
@@ -267,25 +153,6 @@
   },
   {
     "source": "hatsfinance",
-    "project": "Palmera",
-    "title": "Palmera audit competition",
-    "report_url": "https://github.com/hats-finance/Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/blob/main/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/main/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/palmera-audit-competition_81c3fb2d.md",
-    "sha256": "30a3ab966fc39765775cc38023a6e86093135f15522376d834b672d3b601c1a1",
-    "size_bytes": 30266,
-    "downloaded_at": "2026-07-07T11:38:03+00:00",
-    "extra": {
-      "vault": "0x5fee7541ddcd51ba9f4af606f87b2c42eea655be",
-      "repo": "Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be"
-    },
-    "id": "hatsfinance/palmera-audit-competition-faefbc"
-  },
-  {
-    "source": "hatsfinance",
     "project": "Pointing system v2",
     "title": "Pointing system v2 audit competition",
     "report_url": "https://github.com/hats-finance/Pointing-system-v2-0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01/blob/main/audit/Hats%20-%20Audit%20Report.pdf",
@@ -302,63 +169,6 @@
       "repo": "Pointing-system-v2-0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01"
     },
     "id": "hatsfinance/pointing-system-v2-audit-competition-039dbc"
-  },
-  {
-    "source": "hatsfinance",
-    "project": "Proof Of Humanity V2",
-    "title": "Proof Of Humanity V2 audit competition",
-    "report_url": "https://github.com/hats-finance/Proof-Of-Humanity-V2-0xef0709445d394a22704850c772a28a863bb780b0/blob/master/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Proof-Of-Humanity-V2-0xef0709445d394a22704850c772a28a863bb780b0/master/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/proof-of-humanity-v2-audit-competition_e7b386e1.md",
-    "sha256": "6e6f165b6e46e11bea5aafe02b9d0aaffb85edd38e2731a59630c3a1c17a9de8",
-    "size_bytes": 15636,
-    "downloaded_at": "2026-07-07T11:38:05+00:00",
-    "extra": {
-      "vault": "0xef0709445d394a22704850c772a28a863bb780b0",
-      "repo": "Proof-Of-Humanity-V2-0xef0709445d394a22704850c772a28a863bb780b0"
-    },
-    "id": "hatsfinance/proof-of-humanity-v2-audit-competition-7c523f"
-  },
-  {
-    "source": "hatsfinance",
-    "project": "SeeR PM",
-    "title": "SeeR PM audit competition",
-    "report_url": "https://github.com/hats-finance/SeeR-PM-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/blob/main/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/SeeR-PM-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/main/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/seer-pm-audit-competition_a7afa5f2.md",
-    "sha256": "4cc254d9935d14a05bca5e841185a629d5b04bbd0eeae95e216edcdbb79deb19",
-    "size_bytes": 7810,
-    "downloaded_at": "2026-07-07T11:38:05+00:00",
-    "extra": {
-      "vault": "0x899bc13919880db76edf4ccd72bdfa5dfa666fb7",
-      "repo": "SeeR-PM-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7"
-    },
-    "id": "hatsfinance/seer-pm-audit-competition-224314"
-  },
-  {
-    "source": "hatsfinance",
-    "project": "Thorn protocol",
-    "title": "Thorn protocol audit competition",
-    "report_url": "https://github.com/hats-finance/Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/blob/main/report.md",
-    "date": null,
-    "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/main/report.md",
-    "file_type": "md",
-    "local_path": "data/reports/hatsfinance/thorn-protocol-audit-competition_ece9dfec.md",
-    "sha256": "dcc6cacbb4a3e3ce510470c3a60208848fabbd828fb93e200a9b4abd4d039e0d",
-    "size_bytes": 9738,
-    "downloaded_at": "2026-07-07T11:38:06+00:00",
-    "extra": {
-      "vault": "0x1286ecdac50215a366458a14968fbca4bd95067d",
-      "repo": "Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d"
-    },
-    "id": "hatsfinance/thorn-protocol-audit-competition-dfc1c8"
   },
   {
     "source": "hatsfinance",
@@ -438,10 +248,257 @@
   },
   {
     "source": "hatsfinance",
+    "project": "Audit competition _One",
+    "title": "Audit competition _One audit competition",
+    "report_url": "https://github.com/hats-finance/Audit-competition-_One-0x8c552014a41c88d7bdeb3546f434924ef37085d1/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2023-12-04",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Audit-competition-_One-0x8c552014a41c88d7bdeb3546f434924ef37085d1/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x8c552014a41c88d7bdeb3546f434924ef37085d1",
+      "repo": "Audit-competition-_One-0x8c552014a41c88d7bdeb3546f434924ef37085d1"
+    },
+    "id": "hatsfinance/audit-competition-one-audit-competition-a0a740"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "ether fi",
+    "title": "ether fi audit competition",
+    "report_url": "https://github.com/hats-finance/ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4/blob/master/report.md",
+    "date": "2023-12-20",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4/master/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/ether-fi-audit-competition_87622520.md",
+    "sha256": "2f2e1c6f33959da9ae18fa29a8b01f7c14aefcc3576098d75fc0a80f282cd8da",
+    "size_bytes": 7048,
+    "downloaded_at": "2026-07-07T11:37:53+00:00",
+    "extra": {
+      "vault": "0x36c3b77853dec9c4a237a692623293223d4b9bc4",
+      "repo": "ether-fi-0x36c3b77853dec9c4a237a692623293223d4b9bc4"
+    },
+    "id": "hatsfinance/ether-fi-audit-competition-ec4767"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Pointing system v2",
+    "title": "Pointing system v2 audit competition",
+    "report_url": "https://github.com/hats-finance/Pointing-system-v2-0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-01-17",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Pointing-system-v2-0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01",
+      "repo": "Pointing-system-v2-0x92c5aa3ccae62b0d3116adb56275b4f97f96dd01"
+    },
+    "id": "hatsfinance/pointing-system-v2-audit-competition-ff5694"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Ion Protocol",
+    "title": "Ion Protocol audit competition",
+    "report_url": "https://github.com/hats-finance/Ion-Protocol-0xb3e2aa0c92de7e453ec8e9c1137a20d0ebf0a57e/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-01-22",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Ion-Protocol-0xb3e2aa0c92de7e453ec8e9c1137a20d0ebf0a57e/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0xb3e2aa0c92de7e453ec8e9c1137a20d0ebf0a57e",
+      "repo": "Ion-Protocol-0xb3e2aa0c92de7e453ec8e9c1137a20d0ebf0a57e"
+    },
+    "id": "hatsfinance/ion-protocol-audit-competition-7fb6b5"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Wise Lending",
+    "title": "Wise Lending audit competition",
+    "report_url": "https://github.com/hats-finance/Wise-Lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/blob/master/report.md",
+    "date": "2024-04-08",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Wise-Lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/master/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/wise-lending-audit-competition_96de4a30.md",
+    "sha256": "9ad148b0ce344f4119a5db64c5f8095d444b10b2526419fcec71dfb04c402020",
+    "size_bytes": 14841,
+    "downloaded_at": "2026-07-07T11:38:12+00:00",
+    "extra": {
+      "vault": "0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573",
+      "repo": "Wise-Lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573"
+    },
+    "id": "hatsfinance/wise-lending-audit-competition-f0d24c"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "V3 Gov Fee  2",
+    "title": "V3 Gov Fee  2 audit competition",
+    "report_url": "https://github.com/hats-finance/V3-Gov-Fee--2--0x2584ec89e69d6929fe48e80fbcc0c087608c1de6/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-04-09",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/V3-Gov-Fee--2--0x2584ec89e69d6929fe48e80fbcc0c087608c1de6/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x2584ec89e69d6929fe48e80fbcc0c087608c1de6",
+      "repo": "V3-Gov-Fee--2--0x2584ec89e69d6929fe48e80fbcc0c087608c1de6"
+    },
+    "id": "hatsfinance/v3-gov-fee-2-audit-competition-bbb562"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "V3 Gov Fee  4",
+    "title": "V3 Gov Fee  4 audit competition",
+    "report_url": "https://github.com/hats-finance/V3-Gov-Fee--4--0x9ebe6825b8fb4af920b5b927e036280bf2c97bd1/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-04-11",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/V3-Gov-Fee--4--0x9ebe6825b8fb4af920b5b927e036280bf2c97bd1/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x9ebe6825b8fb4af920b5b927e036280bf2c97bd1",
+      "repo": "V3-Gov-Fee--4--0x9ebe6825b8fb4af920b5b927e036280bf2c97bd1"
+    },
+    "id": "hatsfinance/v3-gov-fee-4-audit-competition-ad0438"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "V3 Gov Fee  5",
+    "title": "V3 Gov Fee  5 audit competition",
+    "report_url": "https://github.com/hats-finance/V3-Gov-Fee--5--0xdc28baf809ae52dc89e1eeb4d85c30b6cc6076aa/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-05-06",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/V3-Gov-Fee--5--0xdc28baf809ae52dc89e1eeb4d85c30b6cc6076aa/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0xdc28baf809ae52dc89e1eeb4d85c30b6cc6076aa",
+      "repo": "V3-Gov-Fee--5--0xdc28baf809ae52dc89e1eeb4d85c30b6cc6076aa"
+    },
+    "id": "hatsfinance/v3-gov-fee-5-audit-competition-b0098a"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "V3 Gov Fee  3",
+    "title": "V3 Gov Fee  3 audit competition",
+    "report_url": "https://github.com/hats-finance/V3-Gov-Fee--3--0x117767644c5de03c09ead8e73f961aa138b3c6d5/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-06-19",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/V3-Gov-Fee--3--0x117767644c5de03c09ead8e73f961aa138b3c6d5/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x117767644c5de03c09ead8e73f961aa138b3c6d5",
+      "repo": "V3-Gov-Fee--3--0x117767644c5de03c09ead8e73f961aa138b3c6d5"
+    },
+    "id": "hatsfinance/v3-gov-fee-3-audit-competition-d670c6"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "HATs Arbitration Contracts",
+    "title": "HATs Arbitration Contracts audit competition",
+    "report_url": "https://github.com/hats-finance/HATs-Arbitration-Contracts-0x79a618f675857b45934ca1c413fd5f409cf89735/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-07-24",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/HATs-Arbitration-Contracts-0x79a618f675857b45934ca1c413fd5f409cf89735/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x79a618f675857b45934ca1c413fd5f409cf89735",
+      "repo": "HATs-Arbitration-Contracts-0x79a618f675857b45934ca1c413fd5f409cf89735"
+    },
+    "id": "hatsfinance/hats-arbitration-contracts-audit-competition-2c6998"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Palmera",
+    "title": "Palmera audit competition",
+    "report_url": "https://github.com/hats-finance/Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/blob/main/report.md",
+    "date": "2024-08-05",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/main/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/palmera-audit-competition_81c3fb2d.md",
+    "sha256": "30a3ab966fc39765775cc38023a6e86093135f15522376d834b672d3b601c1a1",
+    "size_bytes": 30266,
+    "downloaded_at": "2026-07-07T11:38:03+00:00",
+    "extra": {
+      "vault": "0x5fee7541ddcd51ba9f4af606f87b2c42eea655be",
+      "repo": "Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be"
+    },
+    "id": "hatsfinance/palmera-audit-competition-faefbc"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Inverter Network",
+    "title": "Inverter Network audit competition",
+    "report_url": "https://github.com/hats-finance/Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/blob/main/report.md",
+    "date": "2024-08-12",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/main/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/inverter-network-audit-competition_720b05de.md",
+    "sha256": "ca57ed98e487f5d55760eb5c7d23a4e94f8c9dae32762f6037fda9cc0005350d",
+    "size_bytes": 49415,
+    "downloaded_at": "2026-07-07T11:37:58+00:00",
+    "extra": {
+      "vault": "0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb",
+      "repo": "Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb"
+    },
+    "id": "hatsfinance/inverter-network-audit-competition-ff71d6"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "illuminex",
+    "title": "illuminex audit competition",
+    "report_url": "https://github.com/hats-finance/illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf/blob/main/report.md",
+    "date": "2024-08-20",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf/main/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/illuminex-audit-competition_1d6a7e51.md",
+    "sha256": "8e7f2489b03fba426ee3f6a73f2470330ec9da82e318b17aaab2d342f539f2b6",
+    "size_bytes": 8024,
+    "downloaded_at": "2026-07-07T11:37:56+00:00",
+    "extra": {
+      "vault": "0x0bb4aa1f58719707405c231fcdf0b405714799cf",
+      "repo": "illuminex-0x0bb4aa1f58719707405c231fcdf0b405714799cf"
+    },
+    "id": "hatsfinance/illuminex-audit-competition-c5fbf2"
+  },
+  {
+    "source": "hatsfinance",
     "project": "Velvet Capital",
     "title": "Velvet Capital audit competition",
     "report_url": "https://github.com/hats-finance/Velvet-Capital-0x0bb0c08fd9eeaf190064f4c66f11d18182961f77/blob/main/report.md",
-    "date": null,
+    "date": "2024-08-28",
     "listing_url": "https://github.com/hats-finance",
     "download_url": "https://raw.githubusercontent.com/hats-finance/Velvet-Capital-0x0bb0c08fd9eeaf190064f4c66f11d18182961f77/main/report.md",
     "file_type": "md",
@@ -457,22 +514,60 @@
   },
   {
     "source": "hatsfinance",
-    "project": "Wise Lending",
-    "title": "Wise Lending audit competition",
-    "report_url": "https://github.com/hats-finance/Wise-Lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/blob/master/report.md",
-    "date": null,
+    "project": "Fenix",
+    "title": "Fenix audit competition",
+    "report_url": "https://github.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/blob/main/report.md",
+    "date": "2024-09-01",
     "listing_url": "https://github.com/hats-finance",
-    "download_url": "https://raw.githubusercontent.com/hats-finance/Wise-Lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/master/report.md",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/main/report.md",
     "file_type": "md",
-    "local_path": "data/reports/hatsfinance/wise-lending-audit-competition_96de4a30.md",
-    "sha256": "9ad148b0ce344f4119a5db64c5f8095d444b10b2526419fcec71dfb04c402020",
-    "size_bytes": 14841,
-    "downloaded_at": "2026-07-07T11:38:12+00:00",
+    "local_path": "data/reports/hatsfinance/fenix-audit-competition_bcd85d78.md",
+    "sha256": "044930de6be052d6ad3c2c750a6c20f36469108c6d99d24d42dc02860af64881",
+    "size_bytes": 13061,
+    "downloaded_at": "2026-07-07T11:37:54+00:00",
     "extra": {
-      "vault": "0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573",
-      "repo": "Wise-Lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573"
+      "vault": "0x9d7765a7ebd5b6322a30797a44a5428531970d3d",
+      "repo": "Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d"
     },
-    "id": "hatsfinance/wise-lending-audit-competition-f0d24c"
+    "id": "hatsfinance/fenix-audit-competition-b48958"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Proof Of Humanity V2",
+    "title": "Proof Of Humanity V2 audit competition",
+    "report_url": "https://github.com/hats-finance/Proof-Of-Humanity-V2-0xef0709445d394a22704850c772a28a863bb780b0/blob/master/report.md",
+    "date": "2024-09-26",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Proof-Of-Humanity-V2-0xef0709445d394a22704850c772a28a863bb780b0/master/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/proof-of-humanity-v2-audit-competition_e7b386e1.md",
+    "sha256": "6e6f165b6e46e11bea5aafe02b9d0aaffb85edd38e2731a59630c3a1c17a9de8",
+    "size_bytes": 15636,
+    "downloaded_at": "2026-07-07T11:38:05+00:00",
+    "extra": {
+      "vault": "0xef0709445d394a22704850c772a28a863bb780b0",
+      "repo": "Proof-Of-Humanity-V2-0xef0709445d394a22704850c772a28a863bb780b0"
+    },
+    "id": "hatsfinance/proof-of-humanity-v2-audit-competition-7c523f"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "OLD Accumulated finance",
+    "title": "OLD Accumulated finance audit competition",
+    "report_url": "https://github.com/hats-finance/OLD-Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784/blob/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "date": "2024-10-06",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/OLD-Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784/develop/audit/Hats%20-%20Audit%20Report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784",
+      "repo": "OLD-Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784"
+    },
+    "id": "hatsfinance/old-accumulated-finance-audit-competition-256f40"
   },
   {
     "source": "hatsfinance",
@@ -492,5 +587,100 @@
       "repo": "Circles-0x6ca9ca24d78af44582951825bef9eadcb210e5cf"
     },
     "id": "hatsfinance/circles-audit-competition-c339bf"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "SeeR PM",
+    "title": "SeeR PM audit competition",
+    "report_url": "https://github.com/hats-finance/SeeR-PM-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/blob/main/report.md",
+    "date": "2024-10-20",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/SeeR-PM-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/main/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/seer-pm-audit-competition_a7afa5f2.md",
+    "sha256": "4cc254d9935d14a05bca5e841185a629d5b04bbd0eeae95e216edcdbb79deb19",
+    "size_bytes": 7810,
+    "downloaded_at": "2026-07-07T11:38:05+00:00",
+    "extra": {
+      "vault": "0x899bc13919880db76edf4ccd72bdfa5dfa666fb7",
+      "repo": "SeeR-PM-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7"
+    },
+    "id": "hatsfinance/seer-pm-audit-competition-224314"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Accumulated finance",
+    "title": "Accumulated finance audit competition",
+    "report_url": "https://github.com/hats-finance/Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784/blob/master/report.md",
+    "date": "2024-10-28",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784/master/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/accumulated-finance-audit-competition_026a7223.md",
+    "sha256": "75d52584a92d2c100babc3e2e2ce4c21b88cae650c15604ca50df97caf3ede71",
+    "size_bytes": 9805,
+    "downloaded_at": "2026-07-07T11:37:48+00:00",
+    "extra": {
+      "vault": "0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784",
+      "repo": "Accumulated-finance-0x75278bcc0fa7c9e3af98654bce195eaf3bb6a784"
+    },
+    "id": "hatsfinance/accumulated-finance-audit-competition-4e0666"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Thorn protocol",
+    "title": "Thorn protocol audit competition",
+    "report_url": "https://github.com/hats-finance/Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/blob/main/report.md",
+    "date": "2024-11-21",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/main/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/thorn-protocol-audit-competition_ece9dfec.md",
+    "sha256": "dcc6cacbb4a3e3ce510470c3a60208848fabbd828fb93e200a9b4abd4d039e0d",
+    "size_bytes": 9738,
+    "downloaded_at": "2026-07-07T11:38:06+00:00",
+    "extra": {
+      "vault": "0x1286ecdac50215a366458a14968fbca4bd95067d",
+      "repo": "Thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d"
+    },
+    "id": "hatsfinance/thorn-protocol-audit-competition-dfc1c8"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "Mento",
+    "title": "Mento audit competition",
+    "report_url": "https://github.com/hats-finance/Mento-0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694/blob/develop/report.md",
+    "date": "2025-02-20",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/Mento-0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694/develop/report.md",
+    "file_type": "md",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "vault": "0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694",
+      "repo": "Mento-0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694"
+    },
+    "id": "hatsfinance/mento-audit-competition-3b43ec"
+  },
+  {
+    "source": "hatsfinance",
+    "project": "DAOsis",
+    "title": "DAOsis audit competition",
+    "report_url": "https://github.com/hats-finance/DAOsis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4/blob/main/report.md",
+    "date": "2025-03-19",
+    "listing_url": "https://github.com/hats-finance",
+    "download_url": "https://raw.githubusercontent.com/hats-finance/DAOsis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4/main/report.md",
+    "file_type": "md",
+    "local_path": "data/reports/hatsfinance/daosis-audit-competition_20cd0b94.md",
+    "sha256": "37e1229e22fa885645e287645fefd09f9a4fee5098c801a9063fc8ba9ae7b069",
+    "size_bytes": 22211,
+    "downloaded_at": "2026-07-07T11:37:52+00:00",
+    "extra": {
+      "vault": "0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4",
+      "repo": "DAOsis-0x8ef21ecb2af12ce9cc0e475eec25f90a9622b4f4"
+    },
+    "id": "hatsfinance/daosis-audit-competition-1d4f3c"
   }
 ]

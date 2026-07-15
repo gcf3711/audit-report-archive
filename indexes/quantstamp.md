@@ -1,9 +1,10 @@
 # Quantstamp
 
-Listing: https://certificate.quantstamp.com/ — 392 reports, 391 downloadable (1 unavailable upstream).
+Listing: https://certificate.quantstamp.com/ — 393 reports, 391 downloadable (2 unavailable upstream).
 
 | Date | Project | Report | Fetched |
 |---|---|---|---|
+| 2026-07-08 | Taler | [Taler](https://certificate.quantstamp.com/full/taler/dfa77a39-d190-49f6-b57b-48d073f0c8a0/index.html) | ✗ |
 | 2026-06-16 | HToken | [HToken](https://certificate.quantstamp.com/full/h-token/66acb5d6-3bd0-4565-938b-8eddd1eb8fb6/index.html) | ✓ |
 | 2026-06-16 | Bitsafe - Dec Manager | [Bitsafe - Dec Manager](https://certificate.quantstamp.com/full/bitsafe-dec-manager/9d0b465f-46c1-41bc-8d56-cfb3d3c44a76/index.html) | ✓ |
 | 2026-05-18 | Zircuit Finance - Circle CCTP Adapter | [Zircuit Finance - Circle CCTP Adapter](https://certificate.quantstamp.com/full/zircuit-finance-circle-cctp-adapter/6230ed06-8fd1-4d27-b745-dc9ef59abac4/index.html) | ✓ |

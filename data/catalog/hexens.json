@@ -3,6 +3,26 @@
     "source": "hexens",
     "project": "Algebra 11 08",
     "title": "Algebra public 11 08",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Algebra_public_11_08.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Algebra_public_11_08.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Algebra_public_11_08.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/algebra-public-11-08-b39401"
+  },
+  {
+    "source": "hexens",
+    "project": "Algebra 11 08",
+    "title": "Algebra public 11 08",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Algebra_public_11_08.pdf",
     "date": "2022-11-18",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -23,6 +43,26 @@
     "source": "hexens",
     "project": "API3",
     "title": "API3 public",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/API3_public.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/API3_public.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "API3_public.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/api3-public-725831"
+  },
+  {
+    "source": "hexens",
+    "project": "API3",
+    "title": "API3 public",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/API3_public.pdf",
     "date": "2022-11-18",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -38,6 +78,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/api3-public-aff15e"
+  },
+  {
+    "source": "hexens",
+    "project": "Azuro",
+    "title": "Azuro public",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Azuro_public.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Azuro_public.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Azuro_public.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/azuro-public-17590f"
   },
   {
     "source": "hexens",
@@ -81,6 +141,26 @@
   },
   {
     "source": "hexens",
+    "project": "FastToken",
+    "title": "FastToken public",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/FastToken_public.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/FastToken_public.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "FastToken_public.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fasttoken-public-dfc129"
+  },
+  {
+    "source": "hexens",
     "project": "Mantissa 10 06",
     "title": "Mantissa public 10 06",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Mantissa_public_10_06.pdf",
@@ -98,6 +178,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/mantissa-public-10-06-17d8ab"
+  },
+  {
+    "source": "hexens",
+    "project": "Mantissa 10 06",
+    "title": "Mantissa public 10 06",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mantissa_public_10_06.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mantissa_public_10_06.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Mantissa_public_10_06.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/mantissa-public-10-06-4fa0ce"
   },
   {
     "source": "hexens",
@@ -121,6 +221,26 @@
   },
   {
     "source": "hexens",
+    "project": "Nimbus 0921",
+    "title": "Nimbus public 0921",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Nimbus_public_0921.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Nimbus_public_0921.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Nimbus_public_0921.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/nimbus-public-0921-5f1a68"
+  },
+  {
+    "source": "hexens",
     "project": "Nimbus 161221",
     "title": "Nimbus public 161221",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Nimbus_public_161221.pdf",
@@ -141,6 +261,26 @@
   },
   {
     "source": "hexens",
+    "project": "Nimbus 161221",
+    "title": "Nimbus public 161221",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Nimbus_public_161221.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Nimbus_public_161221.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Nimbus_public_161221.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/nimbus-public-161221-fcefec"
+  },
+  {
+    "source": "hexens",
     "project": "SyncDAO",
     "title": "SyncDAO report",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/SyncDAO_report.pdf",
@@ -158,6 +298,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/syncdao-report-4b3d42"
+  },
+  {
+    "source": "hexens",
+    "project": "SyncDAO",
+    "title": "SyncDAO report",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/SyncDAO_report.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/SyncDAO_report.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "SyncDAO_report.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/syncdao-report-f20dd0"
+  },
+  {
+    "source": "hexens",
+    "project": "Trupenny SC",
+    "title": "Trupenny SC",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Trupenny_SC.pdf",
+    "date": "2022-11-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Trupenny_SC.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Trupenny_SC.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/trupenny-sc-3a0a10"
   },
   {
     "source": "hexens",
@@ -201,6 +381,46 @@
   },
   {
     "source": "hexens",
+    "project": "Babylon jan",
+    "title": "Babylon jan 2023",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Babylon-jan-2023.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Babylon-jan-2023.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Babylon-jan-2023.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/babylon-jan-2023-b13d3e"
+  },
+  {
+    "source": "hexens",
+    "project": "RociFi SMA",
+    "title": "RociFi SMA public",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/RociFi%20SMA_public.pdf",
+    "date": "2023-01-04",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/RociFi%20SMA_public.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "RociFi SMA_public.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/rocifi-sma-public-075d5f"
+  },
+  {
+    "source": "hexens",
     "project": "RociFi SMA",
     "title": "RociFi SMA public",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/RociFi%20SMA_public.pdf",
@@ -238,6 +458,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/1inch-fusionmode-hexens-1-296628"
+  },
+  {
+    "source": "hexens",
+    "project": "1inch FusionMode Hexens.1",
+    "title": "1inch FusionMode Hexens.1",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_FusionMode_Hexens.1.pdf",
+    "date": "2023-03-14",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_FusionMode_Hexens.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch_FusionMode_Hexens.1.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-fusionmode-hexens-1-2bfc5e"
+  },
+  {
+    "source": "hexens",
+    "project": "1inch FusionMode Hexens.2",
+    "title": "1inch FusionMode Hexens.2",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_FusionMode_Hexens.2.pdf",
+    "date": "2023-03-14",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_FusionMode_Hexens.2.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch_FusionMode_Hexens.2.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-fusionmode-hexens-2-1edc8f"
   },
   {
     "source": "hexens",
@@ -281,6 +541,26 @@
   },
   {
     "source": "hexens",
+    "project": "Hexens Polygon zkEVM",
+    "title": "Hexens Polygon zkEVM PUBLIC 27.02.23",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Hexens_Polygon_zkEVM_PUBLIC_27.02.23.pdf",
+    "date": "2023-03-22",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Hexens_Polygon_zkEVM_PUBLIC_27.02.23.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Hexens_Polygon_zkEVM_PUBLIC_27.02.23.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-polygon-zkevm-public-27-02-23-b6a1be"
+  },
+  {
+    "source": "hexens",
     "project": "Lido February23 upd",
     "title": "Lido February23 Public upd18.04",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Lido_February23_Public_upd18.04.pdf",
@@ -301,6 +581,46 @@
   },
   {
     "source": "hexens",
+    "project": "Lido February23 upd",
+    "title": "Lido February23 Public upd18.04",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Lido_February23_Public_upd18.04.pdf",
+    "date": "2023-04-19",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Lido_February23_Public_upd18.04.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Lido_February23_Public_upd18.04.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/lido-february23-public-upd18-04-bdaa98"
+  },
+  {
+    "source": "hexens",
+    "project": "QuickSwap April23 upd",
+    "title": "QuickSwap April23 Public upd",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/QuickSwap_April23_Public_upd.pdf",
+    "date": "2023-05-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/QuickSwap_April23_Public_upd.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "QuickSwap_April23_Public_upd.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/quickswap-april23-public-upd-68168d"
+  },
+  {
+    "source": "hexens",
     "project": "QuickSwap April23 upd",
     "title": "QuickSwap April23 Public upd",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/QuickSwap_April23_Public_upd.pdf",
@@ -318,6 +638,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/quickswap-april23-public-upd-e35b26"
+  },
+  {
+    "source": "hexens",
+    "project": "Astrolab  April23 ( ) upd",
+    "title": "Astrolab  April23 Audit(Public) upd",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Astrolab_%20April23_Audit%28Public%29_upd.pdf",
+    "date": "2023-06-22",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Astrolab_%20April23_Audit%28Public%29_upd.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Astrolab_ April23_Audit(Public)_upd.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/astrolab-april23-audit-public-upd-36123a"
   },
   {
     "source": "hexens",
@@ -361,6 +701,26 @@
   },
   {
     "source": "hexens",
+    "project": "Bahamut  April23( )",
+    "title": "Bahamut  April23(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Bahamut_%20April23%28Public%29.pdf",
+    "date": "2023-08-05",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Bahamut_%20April23%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Bahamut_ April23(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/bahamut-april23-public-6cd02d"
+  },
+  {
+    "source": "hexens",
     "project": "QuickSwap (perps new commit)( )",
     "title": "QuickSwap 28.06.23(perps new commit)(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/QuickSwap_28.06.23%28perps_new_commit%29%28Public%29.pdf",
@@ -378,6 +738,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/quickswap-28-06-23-perps-new-commit-public-7ce5df"
+  },
+  {
+    "source": "hexens",
+    "project": "QuickSwap (perps new commit)( )",
+    "title": "QuickSwap 28.06.23(perps new commit)(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/QuickSwap_28.06.23%28perps_new_commit%29%28Public%29.pdf",
+    "date": "2023-08-09",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/QuickSwap_28.06.23%28perps_new_commit%29%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "QuickSwap_28.06.23(perps_new_commit)(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/quickswap-28-06-23-perps-new-commit-public-a23bf8"
   },
   {
     "source": "hexens",
@@ -401,6 +781,46 @@
   },
   {
     "source": "hexens",
+    "project": "RociFi Aug23( )",
+    "title": "RociFi Aug23(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/RociFi_Aug23%28Public%29%20.pdf",
+    "date": "2023-08-24",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/RociFi_Aug23%28Public%29%20.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "RociFi_Aug23(Public) .pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/rocifi-aug23-public-54a6de"
+  },
+  {
+    "source": "hexens",
+    "project": "cLabs June23( ) (Governance Protocol) v2",
+    "title": "cLabs June23(Public) (Governance Protocol) v2",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/cLabs_June23%28Public%29%20%28Governance%20Protocol%29_v2.pdf",
+    "date": "2023-09-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/cLabs_June23%28Public%29%20%28Governance%20Protocol%29_v2.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "cLabs_June23(Public) (Governance Protocol)_v2.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/clabs-june23-public-governance-protocol-v2-1b0e03"
+  },
+  {
+    "source": "hexens",
     "project": "cLabs June23( ) (Governance Protocol) v2",
     "title": "cLabs June23(Public) (Governance Protocol) v2",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/cLabs_June23%28Public%29%20%28Governance%20Protocol%29_v2.pdf",
@@ -418,6 +838,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/clabs-june23-public-governance-protocol-v2-c003fd"
+  },
+  {
+    "source": "hexens",
+    "project": "Polygon Technology Aug23",
+    "title": "Polygon Technology  Aug23Public",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Polygon_Technology__Aug23Public.pdf",
+    "date": "2023-09-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Polygon_Technology__Aug23Public.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Polygon_Technology__Aug23Public.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/polygon-technology-aug23public-68b155"
   },
   {
     "source": "hexens",
@@ -461,6 +901,26 @@
   },
   {
     "source": "hexens",
+    "project": "Camino Network 03",
+    "title": "Camino Network 03",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Camino%20Network_03%20.pdf",
+    "date": "2023-09-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Camino%20Network_03%20.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Camino Network_03 .pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/camino-network-03-452e40"
+  },
+  {
+    "source": "hexens",
     "project": "Camino Network",
     "title": "Camino Network Security review 20.02",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Camino_Network_Security_review_20.02%20.pdf",
@@ -478,6 +938,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/camino-network-security-review-20-02-4a0e94"
+  },
+  {
+    "source": "hexens",
+    "project": "Camino Network",
+    "title": "Camino Network Security review 20.02",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Camino_Network_Security_review_20.02%20.pdf",
+    "date": "2023-09-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Camino_Network_Security_review_20.02%20.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Camino_Network_Security_review_20.02 .pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/camino-network-security-review-20-02-da3750"
   },
   {
     "source": "hexens",
@@ -501,6 +981,26 @@
   },
   {
     "source": "hexens",
+    "project": "Socket Aug23( ) (Cross Chain Token)",
+    "title": "Socket Aug23(Public) (Cross Chain Token)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket_Aug23%28Public%29%20%28Cross-Chain%20Token%29.pdf",
+    "date": "2023-09-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket_Aug23%28Public%29%20%28Cross-Chain%20Token%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Socket_Aug23(Public) (Cross-Chain Token).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/socket-aug23-public-cross-chain-token-81114b"
+  },
+  {
+    "source": "hexens",
     "project": "Socket Aug23Confidential Cross Chain Bridge 0409",
     "title": "Socket Aug23Confidential Cross Chain Bridge 0409",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Socket_Aug23Confidential_Cross_Chain_Bridge_0409.pdf",
@@ -518,6 +1018,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/socket-aug23confidential-cross-chain-bridge-0409-42038c"
+  },
+  {
+    "source": "hexens",
+    "project": "Socket Aug23Confidential Cross Chain Bridge 0409",
+    "title": "Socket Aug23Confidential Cross Chain Bridge 0409",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket_Aug23Confidential_Cross_Chain_Bridge_0409.pdf",
+    "date": "2023-09-27",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket_Aug23Confidential_Cross_Chain_Bridge_0409.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Socket_Aug23Confidential_Cross_Chain_Bridge_0409.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/socket-aug23confidential-cross-chain-bridge-0409-a031d1"
   },
   {
     "source": "hexens",
@@ -541,6 +1061,26 @@
   },
   {
     "source": "hexens",
+    "project": "Slash Payment Aug23(Web3 Payment Platform)( ) upd",
+    "title": "Slash Payment Aug23(Web3 Payment Platform)(Public) upd",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Slash_Payment_Aug23%28Web3%20Payment%20Platform%29%28Public%29_upd.pdf",
+    "date": "2023-10-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Slash_Payment_Aug23%28Web3%20Payment%20Platform%29%28Public%29_upd.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Slash_Payment_Aug23(Web3 Payment Platform)(Public)_upd.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/slash-payment-aug23-web3-payment-platform-public-upd-65e904"
+  },
+  {
+    "source": "hexens",
     "project": "EigenLayer Oct23 ( )(Restaking Liquid staking)",
     "title": "EigenLayer Oct23 (Public)(Restaking Liquid staking)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/EigenLayer_Oct23_%28Public%29%28Restaking_Liquid%20staking%29.pdf",
@@ -561,6 +1101,46 @@
   },
   {
     "source": "hexens",
+    "project": "EigenLayer Oct23 ( )(Restaking Liquid staking)",
+    "title": "EigenLayer Oct23 (Public)(Restaking Liquid staking)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/EigenLayer_Oct23_%28Public%29%28Restaking_Liquid%20staking%29.pdf",
+    "date": "2023-10-25",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/EigenLayer_Oct23_%28Public%29%28Restaking_Liquid%20staking%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "EigenLayer_Oct23_(Public)(Restaking_Liquid staking).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/eigenlayer-oct23-public-restaking-liquid-staking-a5e93e"
+  },
+  {
+    "source": "hexens",
+    "project": "Mantle SCs Aug23( )(Liquid Staking Protocol)",
+    "title": "Mantle SCs Aug23(Public)(Liquid Staking Protocol)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mantle_SCs_Aug23%28Public%29%28Liquid%20Staking%20Protocol%29.pdf",
+    "date": "2023-11-12",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mantle_SCs_Aug23%28Public%29%28Liquid%20Staking%20Protocol%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Mantle_SCs_Aug23(Public)(Liquid Staking Protocol).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/mantle-scs-aug23-public-liquid-staking-protocol-476298"
+  },
+  {
+    "source": "hexens",
     "project": "Mantle SCs Aug23( )(Liquid Staking Protocol)",
     "title": "Mantle SCs Aug23(Public)(Liquid Staking Protocol)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Mantle_SCs_Aug23%28Public%29%28Liquid%20Staking%20Protocol%29.pdf",
@@ -578,6 +1158,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/mantle-scs-aug23-public-liquid-staking-protocol-b6614b"
+  },
+  {
+    "source": "hexens",
+    "project": "Mantle Sep23( ) (Oracle)",
+    "title": "Mantle Sep23(Public) (Oracle)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mantle_Sep23%28Public%29%20%28Oracle%29.pdf",
+    "date": "2023-11-12",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mantle_Sep23%28Public%29%20%28Oracle%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Mantle_Sep23(Public) (Oracle).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/mantle-sep23-public-oracle-8ba415"
   },
   {
     "source": "hexens",
@@ -621,6 +1221,46 @@
   },
   {
     "source": "hexens",
+    "project": "Fungify Oct23 ( )",
+    "title": "Fungify Oct23 (Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fungify_Oct23_%28Public%29.pdf",
+    "date": "2023-12-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fungify_Oct23_%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Fungify_Oct23_(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fungify-oct23-public-92725e"
+  },
+  {
+    "source": "hexens",
+    "project": "Fungify Nov23 ( )",
+    "title": "Fungify Nov23 (Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fungify_Nov23_%28Public%29.pdf",
+    "date": "2023-12-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fungify_Nov23_%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Fungify_Nov23_(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fungify-nov23-public-92aeca"
+  },
+  {
+    "source": "hexens",
     "project": "Fungify Nov23 ( )",
     "title": "Fungify Nov23 (Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Fungify_Nov23_%28Public%29.pdf",
@@ -661,6 +1301,26 @@
   },
   {
     "source": "hexens",
+    "project": "mantle cmeth aug ( )",
+    "title": "mantle cmeth audit aug 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/mantle-cmeth-audit-aug-2024%28Public%29.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/mantle-cmeth-audit-aug-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "mantle-cmeth-audit-aug-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/mantle-cmeth-audit-aug-2024-public-d85968"
+  },
+  {
+    "source": "hexens",
     "project": "pencils aug ( )",
     "title": "pencils audit aug 2024(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/pencils-audit-aug-2024%28Public%29.pdf",
@@ -678,6 +1338,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/pencils-audit-aug-2024-public-f56377"
+  },
+  {
+    "source": "hexens",
+    "project": "pencils aug ( )",
+    "title": "pencils audit aug 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/pencils-audit-aug-2024%28Public%29.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/pencils-audit-aug-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "pencils-audit-aug-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/pencils-audit-aug-2024-public-f937b0"
+  },
+  {
+    "source": "hexens",
+    "project": "rush trading sep ( )+diff",
+    "title": "rush trading audit sep 2024(Public)+diff",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/rush-trading-audit-sep-2024%28Public%29%2Bdiff.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/rush-trading-audit-sep-2024%28Public%29%2Bdiff.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "rush-trading-audit-sep-2024(Public)+diff.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/rush-trading-audit-sep-2024-public-diff-06d53b"
   },
   {
     "source": "hexens",
@@ -721,6 +1421,46 @@
   },
   {
     "source": "hexens",
+    "project": "Spool aug ( )",
+    "title": "Spool audit aug 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Spool-audit-aug-2024%28Public%29.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Spool-audit-aug-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Spool-audit-aug-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-audit-aug-2024-public-8a82b0"
+  },
+  {
+    "source": "hexens",
+    "project": "spool feb ( )",
+    "title": "spool audit feb 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-audit-feb-2024%28Public%29.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-audit-feb-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "spool-audit-feb-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-audit-feb-2024-public-820deb"
+  },
+  {
+    "source": "hexens",
     "project": "spool feb ( )",
     "title": "spool audit feb 2024(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/spool-audit-feb-2024%28Public%29.pdf",
@@ -738,6 +1478,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/spool-audit-feb-2024-public-f6a45b"
+  },
+  {
+    "source": "hexens",
+    "project": "stakewise sept ( )",
+    "title": "stakewise audit sept 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/stakewise-audit-sept-2024%28Public%29%20_.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/stakewise-audit-sept-2024%28Public%29%20_.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "stakewise-audit-sept-2024(Public) _.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/stakewise-audit-sept-2024-public-972d96"
   },
   {
     "source": "hexens",
@@ -781,6 +1541,26 @@
   },
   {
     "source": "hexens",
+    "project": "Swell jan ( )",
+    "title": "Swell audit jan 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Swell-audit-jan-2024%28Public%29.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Swell-audit-jan-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Swell-audit-jan-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/swell-audit-jan-2024-public-998bee"
+  },
+  {
+    "source": "hexens",
     "project": "valantis sept ( )",
     "title": "valantis audit sept 2024(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/valantis-audit-sept-2024%28Public%29.pdf",
@@ -801,6 +1581,26 @@
   },
   {
     "source": "hexens",
+    "project": "valantis sept ( )",
+    "title": "valantis audit sept 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valantis-audit-sept-2024%28Public%29.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valantis-audit-sept-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "valantis-audit-sept-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/valantis-audit-sept-2024-public-c86206"
+  },
+  {
+    "source": "hexens",
     "project": "yelay sept ( )",
     "title": "yelay audit sept 2024(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/yelay-audit-sept-2024%28Public%29.pdf",
@@ -818,6 +1618,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/yelay-audit-sept-2024-public-2360cd"
+  },
+  {
+    "source": "hexens",
+    "project": "yelay sept ( )",
+    "title": "yelay audit sept 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/yelay-audit-sept-2024%28Public%29.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/yelay-audit-sept-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "yelay-audit-sept-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/yelay-audit-sept-2024-public-a5f2f7"
+  },
+  {
+    "source": "hexens",
+    "project": "Mintify Jan24 Pentest( )",
+    "title": "Mintify Jan24 Pentest(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mintify_Jan24_Pentest%28Public%29.pdf",
+    "date": "2024-01-24",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Mintify_Jan24_Pentest%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Mintify_Jan24_Pentest(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/mintify-jan24-pentest-public-2909e9"
   },
   {
     "source": "hexens",
@@ -861,6 +1701,46 @@
   },
   {
     "source": "hexens",
+    "project": "Socket Jan24 SuperToken( )",
+    "title": "Socket Jan24 SuperToken(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket_Jan24_SuperToken%28Public%29.pdf",
+    "date": "2024-02-16",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket_Jan24_SuperToken%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Socket_Jan24_SuperToken(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/socket-jan24-supertoken-public-e35ece"
+  },
+  {
+    "source": "hexens",
+    "project": "Risc Zero Aug23 ( )",
+    "title": "Risc Zero Aug23 (Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Risc_Zero_Aug23_%28Public%29.pdf",
+    "date": "2024-02-19",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Risc_Zero_Aug23_%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Risc_Zero_Aug23_(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/risc-zero-aug23-public-a8e5ed"
+  },
+  {
+    "source": "hexens",
     "project": "Risc Zero Aug23 ( )",
     "title": "Risc Zero Aug23 (Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Risc_Zero_Aug23_%28Public%29.pdf",
@@ -878,6 +1758,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/risc-zero-aug23-public-e99293"
+  },
+  {
+    "source": "hexens",
+    "project": "Fungify feb24( )",
+    "title": "Fungify audit feb24(Public) 13.07.45",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fungify-audit-feb24%28Public%29%2013.07.45.pdf",
+    "date": "2024-02-26",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fungify-audit-feb24%28Public%29%2013.07.45.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Fungify-audit-feb24(Public) 13.07.45.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fungify-audit-feb24-public-13-07-45-2da000"
   },
   {
     "source": "hexens",
@@ -921,6 +1821,46 @@
   },
   {
     "source": "hexens",
+    "project": "fungify nft feb24( )",
+    "title": "fungify nft audit feb24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fungify-nft-audit-feb24%28Public%29.pdf",
+    "date": "2024-03-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fungify-nft-audit-feb24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fungify-nft-audit-feb24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fungify-nft-audit-feb24-public-e139fc"
+  },
+  {
+    "source": "hexens",
+    "project": "persistence stkbnb   ( ) (1)",
+    "title": "persistence stkbnb audit april 2024(Public) (1)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/persistence-stkbnb-audit-april-2024%28Public%29%20%281%29.pdf",
+    "date": "2024-04",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/persistence-stkbnb-audit-april-2024%28Public%29%20%281%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "persistence-stkbnb-audit-april-2024(Public) (1).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/persistence-stkbnb-audit-april-2024-public-1-5dd06b"
+  },
+  {
+    "source": "hexens",
     "project": "persistence stkbnb   ( ) (1)",
     "title": "persistence stkbnb audit april 2024(Public) (1)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/persistence-stkbnb-audit-april-2024%28Public%29%20%281%29.pdf",
@@ -938,6 +1878,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/persistence-stkbnb-audit-april-2024-public-1-e01961"
+  },
+  {
+    "source": "hexens",
+    "project": "spool arbitrum   ( )",
+    "title": "spool arbitrum audit april 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-arbitrum-audit-april-2024%28Public%29.pdf",
+    "date": "2024-04",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-arbitrum-audit-april-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "spool-arbitrum-audit-april-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-arbitrum-audit-april-2024-public-6ce782"
   },
   {
     "source": "hexens",
@@ -981,6 +1941,26 @@
   },
   {
     "source": "hexens",
+    "project": "spool metamorpho   ( )",
+    "title": "spool metamorpho audit april 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-metamorpho-audit-april-2024%28Public%29.pdf",
+    "date": "2024-04",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-metamorpho-audit-april-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "spool-metamorpho-audit-april-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-metamorpho-audit-april-2024-public-7c6da4"
+  },
+  {
+    "source": "hexens",
     "project": "swell l2 pre deposit    ( )",
     "title": "swell l2 pre deposit audit april 2024 (Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/swell-l2-pre-deposit-audit-april-2024%20%28Public%29.pdf",
@@ -1001,6 +1981,46 @@
   },
   {
     "source": "hexens",
+    "project": "swell l2 pre deposit    ( )",
+    "title": "swell l2 pre deposit audit april 2024 (Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/swell-l2-pre-deposit-audit-april-2024%20%28Public%29.pdf",
+    "date": "2024-04",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/swell-l2-pre-deposit-audit-april-2024%20%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "swell-l2-pre-deposit-audit-april-2024 (Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/swell-l2-pre-deposit-audit-april-2024-public-73cd1f"
+  },
+  {
+    "source": "hexens",
+    "project": "Spool Jan24 ( ) (1)",
+    "title": "Spool Jan24 (Public) (1)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Spool_Jan24_%28Public%29%20%281%29.pdf",
+    "date": "2024-04-16",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Spool_Jan24_%28Public%29%20%281%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Spool_Jan24_(Public) (1).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-jan24-public-1-17c749"
+  },
+  {
+    "source": "hexens",
     "project": "Spool Jan24 ( ) (1)",
     "title": "Spool Jan24 (Public) (1)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Spool_Jan24_%28Public%29%20%281%29.pdf",
@@ -1018,6 +2038,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/spool-jan24-public-1-c15d3d"
+  },
+  {
+    "source": "hexens",
+    "project": "Spool Jan24( )(Yield Generator (strategy))",
+    "title": "Spool Jan24(Public)(Yield Generator (strategy))",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Spool_Jan24%28Public%29%28Yield%20Generator%20%28strategy%29%29.pdf",
+    "date": "2024-04-16",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Spool_Jan24%28Public%29%28Yield%20Generator%20%28strategy%29%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Spool_Jan24(Public)(Yield Generator (strategy)).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-jan24-public-yield-generator-strategy-944711"
   },
   {
     "source": "hexens",
@@ -1061,6 +2101,46 @@
   },
   {
     "source": "hexens",
+    "project": "Celo staking mar24( )",
+    "title": "Celo staking audit mar24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Celo-staking-audit-mar24%28Public%29.pdf",
+    "date": "2024-04-25",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Celo-staking-audit-mar24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Celo-staking-audit-mar24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/celo-staking-audit-mar24-public-b609f9"
+  },
+  {
+    "source": "hexens",
+    "project": "holonym zk   ( )",
+    "title": "holonym zk audit may 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/holonym-zk-audit-may-2024%28Public%29.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/holonym-zk-audit-may-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "holonym-zk-audit-may-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/holonym-zk-audit-may-2024-public-735aea"
+  },
+  {
+    "source": "hexens",
     "project": "holonym zk   ( )",
     "title": "holonym zk audit may 2024(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/holonym-zk-audit-may-2024%28Public%29.pdf",
@@ -1078,6 +2158,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/holonym-zk-audit-may-2024-public-d32341"
+  },
+  {
+    "source": "hexens",
+    "project": "tokemak   ( )",
+    "title": "tokemak audit may 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-audit-may-2024%28Public%29.pdf",
+    "date": "2024-05",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-audit-may-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "tokemak-audit-may-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/tokemak-audit-may-2024-public-9fb778"
   },
   {
     "source": "hexens",
@@ -1121,6 +2221,46 @@
   },
   {
     "source": "hexens",
+    "project": "fungify   ( )",
+    "title": "fungify audit june 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fungify-audit-june-2024%28Public%29.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fungify-audit-june-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fungify-audit-june-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fungify-audit-june-2024-public-d601ba"
+  },
+  {
+    "source": "hexens",
+    "project": "layerzero zro claim contract   ( ) (c1101c1)",
+    "title": "layerzero zro claim contract june 2024(Public) (c1101c1)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/layerzero-zro-claim-contract-june-2024%28Public%29%20%28c1101c1%29.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/layerzero-zro-claim-contract-june-2024%28Public%29%20%28c1101c1%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "layerzero-zro-claim-contract-june-2024(Public) (c1101c1).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/layerzero-zro-claim-contract-june-2024-public-c1101c1-919c2b"
+  },
+  {
+    "source": "hexens",
     "project": "layerzero zro claim contract   ( ) (c1101c1)",
     "title": "layerzero zro claim contract june 2024(Public) (c1101c1)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/layerzero-zro-claim-contract-june-2024%28Public%29%20%28c1101c1%29.pdf",
@@ -1138,6 +2278,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/layerzero-zro-claim-contract-june-2024-public-c1101c1-a2f3f3"
+  },
+  {
+    "source": "hexens",
+    "project": "spool   ethena strat and svb( )",
+    "title": "spool june 2024 ethena strat and svb(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-june-2024-ethena-strat-and-svb%28Public%29.pdf",
+    "date": "2024-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-june-2024-ethena-strat-and-svb%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "spool-june-2024-ethena-strat-and-svb(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-june-2024-ethena-strat-and-svb-public-51962e"
   },
   {
     "source": "hexens",
@@ -1161,6 +2321,26 @@
   },
   {
     "source": "hexens",
+    "project": "glif   ( )",
+    "title": "glif audit july 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-audit-july-2024%28Public%29.pdf",
+    "date": "2024-07",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-audit-july-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "glif-audit-july-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/glif-audit-july-2024-public-0d63d9"
+  },
+  {
+    "source": "hexens",
     "project": "glif   ( ) 2",
     "title": "glif audit july 2024(Public) 2",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/glif-audit-july-2024%28Public%29%202_.pdf",
@@ -1181,6 +2361,26 @@
   },
   {
     "source": "hexens",
+    "project": "glif   ( ) 2",
+    "title": "glif audit july 2024(Public) 2",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-audit-july-2024%28Public%29%202_.pdf",
+    "date": "2024-07",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-audit-july-2024%28Public%29%202_.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "glif-audit-july-2024(Public) 2_.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/glif-audit-july-2024-public-2-f0f3bd"
+  },
+  {
+    "source": "hexens",
     "project": "glif   ( )",
     "title": "glif audit july 2024(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/glif-audit-july-2024%28Public%29.pdf",
@@ -1198,6 +2398,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/glif-audit-july-2024-public-34987f"
+  },
+  {
+    "source": "hexens",
+    "project": "tokemak mainnet follow up   ( )",
+    "title": "tokemak mainnet follow up audit july 2024(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-mainnet-follow-up-audit-july-2024%28Public%29.pdf",
+    "date": "2024-07",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-mainnet-follow-up-audit-july-2024%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "tokemak-mainnet-follow-up-audit-july-2024(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/tokemak-mainnet-follow-up-audit-july-2024-public-bc7fb9"
   },
   {
     "source": "hexens",
@@ -1241,6 +2461,46 @@
   },
   {
     "source": "hexens",
+    "project": "fuel pre deposit contract   24( )",
+    "title": "fuel audit pre deposit contract june 24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-pre-deposit-contract-june-24%28Public%29.pdf",
+    "date": "2024-07-08",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-pre-deposit-contract-june-24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fuel-audit-pre-deposit-contract-june-24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-audit-pre-deposit-contract-june-24-public-39606d"
+  },
+  {
+    "source": "hexens",
+    "project": "deq.fi may24( )",
+    "title": "deq.fi audit may24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/deq.fi-audit-may24%28Public%29.pdf",
+    "date": "2024-07-23",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/deq.fi-audit-may24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "deq.fi-audit-may24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/deq-fi-audit-may24-public-0183fa"
+  },
+  {
+    "source": "hexens",
     "project": "deq.fi may24( )",
     "title": "deq.fi audit may24(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/deq.fi-audit-may24%28Public%29.pdf",
@@ -1281,6 +2541,26 @@
   },
   {
     "source": "hexens",
+    "project": "valora june24( )",
+    "title": "valora audit june24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valora-audit-june24%28Public%29.pdf",
+    "date": "2024-08-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valora-audit-june24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "valora-audit-june24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/valora-audit-june24-public-dc6b53"
+  },
+  {
+    "source": "hexens",
     "project": "fuel   (Connectors Predicates)( )",
     "title": "fuel audit september 2024(Connectors Predicates)(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/fuel-audit-september-2024%28Connectors%20Predicates%29%28Public%29.pdf",
@@ -1301,6 +2581,26 @@
   },
   {
     "source": "hexens",
+    "project": "fuel   (Connectors Predicates)( )",
+    "title": "fuel audit september 2024(Connectors Predicates)(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-september-2024%28Connectors%20Predicates%29%28Public%29.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-september-2024%28Connectors%20Predicates%29%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fuel-audit-september-2024(Connectors Predicates)(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-audit-september-2024-connectors-predicates-public-7ec1ca"
+  },
+  {
+    "source": "hexens",
     "project": "fuel   (Diffs on the Bridge and State Contracts)( )",
     "title": "fuel audit september 2024(Diffs on the Bridge and State Contracts)(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/fuel-audit-september-2024%28Diffs%20on%20the%20Bridge%20and%20State%20Contracts%29%28Public%29.pdf",
@@ -1318,6 +2618,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/fuel-audit-september-2024-diffs-on-the-bridge-and-state-contracts-public-172787"
+  },
+  {
+    "source": "hexens",
+    "project": "fuel   (Diffs on the Bridge and State Contracts)( )",
+    "title": "fuel audit september 2024(Diffs on the Bridge and State Contracts)(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-september-2024%28Diffs%20on%20the%20Bridge%20and%20State%20Contracts%29%28Public%29.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-september-2024%28Diffs%20on%20the%20Bridge%20and%20State%20Contracts%29%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fuel-audit-september-2024(Diffs on the Bridge and State Contracts)(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-audit-september-2024-diffs-on-the-bridge-and-state-contracts-public-be5370"
+  },
+  {
+    "source": "hexens",
+    "project": "fuel   (Points Migration Function)( )",
+    "title": "fuel audit september 2024(Points Migration Function)(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-september-2024%28Points%20Migration%20Function%29%28Public%29.pdf",
+    "date": "2024-09",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-audit-september-2024%28Points%20Migration%20Function%29%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fuel-audit-september-2024(Points Migration Function)(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-audit-september-2024-points-migration-function-public-2a1d1c"
   },
   {
     "source": "hexens",
@@ -1361,6 +2701,26 @@
   },
   {
     "source": "hexens",
+    "project": "swell mar24( )",
+    "title": "swell mar24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/swell-mar24%28Public%29.pdf",
+    "date": "2024-12-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/swell-mar24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "swell-mar24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/swell-mar24-public-c1e1f5"
+  },
+  {
+    "source": "hexens",
     "project": "yelay nft rewards jan ( )",
     "title": "yelay nft rewards audit jan 2025(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/yelay-nft-rewards-audit-jan-2025%28Public%29.pdf",
@@ -1378,6 +2738,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/yelay-nft-rewards-audit-jan-2025-public-57f7b9"
+  },
+  {
+    "source": "hexens",
+    "project": "yelay nft rewards jan ( )",
+    "title": "yelay nft rewards audit jan 2025(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/yelay-nft-rewards-audit-jan-2025%28Public%29.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/yelay-nft-rewards-audit-jan-2025%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "yelay-nft-rewards-audit-jan-2025(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/yelay-nft-rewards-audit-jan-2025-public-cf92b8"
   },
   {
     "source": "hexens",
@@ -1401,6 +2781,26 @@
   },
   {
     "source": "hexens",
+    "project": "Fuel Bridge apr24( )",
+    "title": "Fuel Bridge apr24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fuel-Bridge-apr24%28Public%29.pdf",
+    "date": "2025-02-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Fuel-Bridge-apr24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Fuel-Bridge-apr24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-bridge-apr24-public-b1a7e0"
+  },
+  {
+    "source": "hexens",
     "project": "secured finance dec 24( )",
     "title": "secured finance dec 24(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/secured-finance-dec-24%28Public%29.pdf",
@@ -1418,6 +2818,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/secured-finance-dec-24-public-2aebe2"
+  },
+  {
+    "source": "hexens",
+    "project": "secured finance dec 24( )",
+    "title": "secured finance dec 24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/secured-finance-dec-24%28Public%29.pdf",
+    "date": "2025-02-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/secured-finance-dec-24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "secured-finance-dec-24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/secured-finance-dec-24-public-7800fb"
+  },
+  {
+    "source": "hexens",
+    "project": "Persistence Jan24(Scope1+2)( )",
+    "title": "Persistence Jan24(Scope1+2)(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Persistence-Jan24%28Scope1%2B2%29%28Public%29.pdf",
+    "date": "2025-02-21",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Persistence-Jan24%28Scope1%2B2%29%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Persistence-Jan24(Scope1+2)(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/persistence-jan24-scope1-2-public-1b9130"
   },
   {
     "source": "hexens",
@@ -1461,6 +2901,26 @@
   },
   {
     "source": "hexens",
+    "project": "rush trading jan 25( ) 1002",
+    "title": "rush trading jan 25(Public) 1002",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/rush-trading-jan-25%28Public%29_1002.pdf",
+    "date": "2025-02-21",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/rush-trading-jan-25%28Public%29_1002.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "rush-trading-jan-25(Public)_1002.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/rush-trading-jan-25-public-1002-462900"
+  },
+  {
+    "source": "hexens",
     "project": "Valantis Jan24( )",
     "title": "Valantis Jan24(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Valantis_Jan24%28Public%29.pdf",
@@ -1478,6 +2938,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/valantis-jan24-public-913f4b"
+  },
+  {
+    "source": "hexens",
+    "project": "Valantis Jan24( )",
+    "title": "Valantis Jan24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Valantis_Jan24%28Public%29.pdf",
+    "date": "2025-02-25",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Valantis_Jan24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Valantis_Jan24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/valantis-jan24-public-f7fb8c"
   },
   {
     "source": "hexens",
@@ -1501,6 +2981,26 @@
   },
   {
     "source": "hexens",
+    "project": "train protocol feb 25( ) upd",
+    "title": "train protocol feb 25(Public) upd",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/train_protocol-feb-25%28Public%29_upd.pdf",
+    "date": "2025-03-12",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/train_protocol-feb-25%28Public%29_upd.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "train_protocol-feb-25(Public)_upd.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/train-protocol-feb-25-public-upd-df704c"
+  },
+  {
+    "source": "hexens",
     "project": "mintify staking mar 25( )",
     "title": "mintify staking mar 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/mintify-staking-mar-25%28Final%29%20.pdf",
@@ -1518,6 +3018,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/mintify-staking-mar-25-final-4dbe03"
+  },
+  {
+    "source": "hexens",
+    "project": "mintify staking mar 25( )",
+    "title": "mintify staking mar 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/mintify-staking-mar-25%28Final%29%20.pdf",
+    "date": "2025-03-19",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/mintify-staking-mar-25%28Final%29%20.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "mintify-staking-mar-25(Final) .pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/mintify-staking-mar-25-final-4e4f51"
   },
   {
     "source": "hexens",
@@ -1541,6 +3061,46 @@
   },
   {
     "source": "hexens",
+    "project": "avacloud etrapay jan25( )",
+    "title": "avacloud etrapay audit jan25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/avacloud-etrapay-audit-jan25%28Final%29.pdf",
+    "date": "2025-03-31",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/avacloud-etrapay-audit-jan25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "avacloud-etrapay-audit-jan25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/avacloud-etrapay-audit-jan25-final-a12623"
+  },
+  {
+    "source": "hexens",
+    "project": "valantis mar 25( )",
+    "title": "valantis mar 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valantis-mar-25%28Final%29.pdf",
+    "date": "2025-04-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valantis-mar-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "valantis-mar-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/valantis-mar-25-final-033d58"
+  },
+  {
+    "source": "hexens",
     "project": "valantis mar 25( )",
     "title": "valantis mar 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/valantis-mar-25%28Final%29.pdf",
@@ -1558,6 +3118,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/valantis-mar-25-final-3a417a"
+  },
+  {
+    "source": "hexens",
+    "project": "avacloud circuits apr25( )",
+    "title": "avacloud circuits audit apr25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/avacloud-circuits-audit-apr25%28Final%29.pdf",
+    "date": "2025-04-17",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/avacloud-circuits-audit-apr25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "avacloud-circuits-audit-apr25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/avacloud-circuits-audit-apr25-final-053c95"
   },
   {
     "source": "hexens",
@@ -1601,6 +3181,46 @@
   },
   {
     "source": "hexens",
+    "project": "BasisOS nov 24( )",
+    "title": "BasisOS nov 24(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/BasisOS-nov-24%28Final%29.pdf",
+    "date": "2025-04-17",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/BasisOS-nov-24%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "BasisOS-nov-24(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/basisos-nov-24-final-921fa3"
+  },
+  {
+    "source": "hexens",
+    "project": "1inch sol feb 25( )",
+    "title": "1inch sol feb 25(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-sol-feb-25%28Public%29.pdf",
+    "date": "2025-04-29",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-sol-feb-25%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch-sol-feb-25(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-sol-feb-25-public-18479d"
+  },
+  {
+    "source": "hexens",
     "project": "1inch sol feb 25( )",
     "title": "1inch sol feb 25(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/1inch-sol-feb-25%28Public%29.pdf",
@@ -1618,6 +3238,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/1inch-sol-feb-25-public-1ccc6f"
+  },
+  {
+    "source": "hexens",
+    "project": "pancakeswap infinity combined core",
+    "title": "pancakeswap infinity combined core",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/pancakeswap_infinity_combined_core.pdf",
+    "date": "2025-04-30",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/pancakeswap_infinity_combined_core.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "pancakeswap_infinity_combined_core.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/pancakeswap-infinity-combined-core-01593e"
   },
   {
     "source": "hexens",
@@ -1661,6 +3301,26 @@
   },
   {
     "source": "hexens",
+    "project": "pancakeswap infinity combined Periphery",
+    "title": "pancakeswap infinity combined Periphery",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/pancakeswap_infinity_combined_Periphery.pdf",
+    "date": "2025-04-30",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/pancakeswap_infinity_combined_Periphery.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "pancakeswap_infinity_combined_Periphery.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/pancakeswap-infinity-combined-periphery-f67832"
+  },
+  {
+    "source": "hexens",
     "project": "eigenlayer apr 25( )",
     "title": "eigenlayer apr 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/eigenlayer-apr-25%28Final%29.pdf",
@@ -1678,6 +3338,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/eigenlayer-apr-25-final-55c267"
+  },
+  {
+    "source": "hexens",
+    "project": "eigenlayer apr 25( )",
+    "title": "eigenlayer apr 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/eigenlayer-apr-25%28Final%29.pdf",
+    "date": "2025-05-12",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/eigenlayer-apr-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "eigenlayer-apr-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/eigenlayer-apr-25-final-9e389d"
   },
   {
     "source": "hexens",
@@ -1701,6 +3381,26 @@
   },
   {
     "source": "hexens",
+    "project": "moonbound   25( )",
+    "title": "moonbound may 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/moonbound-may-25%28Final%29.pdf",
+    "date": "2025-06-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/moonbound-may-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "moonbound-may-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/moonbound-may-25-final-ea995a"
+  },
+  {
+    "source": "hexens",
     "project": "train protocol solana fuel may25( )",
     "title": "train protocol solana fuel audit may25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/train-protocol-solana-fuel-audit-may25%28Final%29.pdf",
@@ -1721,6 +3421,26 @@
   },
   {
     "source": "hexens",
+    "project": "train protocol solana fuel may25( )",
+    "title": "train protocol solana fuel audit may25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/train-protocol-solana-fuel-audit-may25%28Final%29.pdf",
+    "date": "2025-06-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/train-protocol-solana-fuel-audit-may25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "train-protocol-solana-fuel-audit-may25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/train-protocol-solana-fuel-audit-may25-final-b4bda5"
+  },
+  {
+    "source": "hexens",
     "project": "zealous   25( )",
     "title": "zealous may 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/zealous-may-25%28Final%29.pdf",
@@ -1738,6 +3458,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/zealous-may-25-final-4e0a9b"
+  },
+  {
+    "source": "hexens",
+    "project": "zealous   25( )",
+    "title": "zealous may 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zealous-may-25%28Final%29.pdf",
+    "date": "2025-06-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zealous-may-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "zealous-may-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/zealous-may-25-final-bc630b"
+  },
+  {
+    "source": "hexens",
+    "project": "zealous   25( ) upd",
+    "title": "zealous may 25(Final) upd",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zealous-may-25%28Final%29_upd.pdf",
+    "date": "2025-06-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zealous-may-25%28Final%29_upd.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "zealous-may-25(Final)_upd.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/zealous-may-25-final-upd-3f6642"
   },
   {
     "source": "hexens",
@@ -1781,6 +3541,26 @@
   },
   {
     "source": "hexens",
+    "project": "ufarm   25( )",
+    "title": "ufarm may 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/ufarm-may-25%28Final%29.pdf",
+    "date": "2025-07-02",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/ufarm-may-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "ufarm-may-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/ufarm-may-25-final-461cdf"
+  },
+  {
+    "source": "hexens",
     "project": "valantis   25( )",
     "title": "valantis may 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/valantis-may-25%28Final%29.pdf",
@@ -1798,6 +3578,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/valantis-may-25-final-03550b"
+  },
+  {
+    "source": "hexens",
+    "project": "valantis   25( )",
+    "title": "valantis may 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valantis-may-25%28Final%29.pdf",
+    "date": "2025-07-23",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/valantis-may-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "valantis-may-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/valantis-may-25-final-3730e5"
+  },
+  {
+    "source": "hexens",
+    "project": "logarithm labs metavault jul 25( )",
+    "title": "logarithm labs metavault jul 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/logarithm-labs-metavault-jul-25%28Final%29.pdf",
+    "date": "2025-08-12",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/logarithm-labs-metavault-jul-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "logarithm-labs-metavault-jul-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/logarithm-labs-metavault-jul-25-final-31c3e0"
   },
   {
     "source": "hexens",
@@ -1841,6 +3661,26 @@
   },
   {
     "source": "hexens",
+    "project": "Lendle Deployment sep 25( )",
+    "title": "Lendle Deployment Audit sep 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Lendle%20Deployment%20Audit-sep-25%28Final%29.pdf",
+    "date": "2025-10-08",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Lendle%20Deployment%20Audit-sep-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Lendle Deployment Audit-sep-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/lendle-deployment-audit-sep-25-final-bdb47c"
+  },
+  {
+    "source": "hexens",
     "project": "1inch crosschain aug 25( )",
     "title": "1inch crosschain aug 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/1inch-crosschain-aug-25%28Final%29.pdf",
@@ -1861,6 +3701,26 @@
   },
   {
     "source": "hexens",
+    "project": "1inch crosschain aug 25( )",
+    "title": "1inch crosschain aug 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-crosschain-aug-25%28Final%29.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-crosschain-aug-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch-crosschain-aug-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-crosschain-aug-25-final-fc7bca"
+  },
+  {
+    "source": "hexens",
     "project": "1inch crosschain jul 25( )",
     "title": "1inch crosschain jul 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/1inch-crosschain-jul-25%28Final%29.pdf",
@@ -1878,6 +3738,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/1inch-crosschain-jul-25-final-de1517"
+  },
+  {
+    "source": "hexens",
+    "project": "1inch crosschain jul 25( )",
+    "title": "1inch crosschain jul 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-crosschain-jul-25%28Final%29.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-crosschain-jul-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch-crosschain-jul-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-crosschain-jul-25-final-ed6acf"
+  },
+  {
+    "source": "hexens",
+    "project": "1inch crosschain jun 25( )",
+    "title": "1inch crosschain jun 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-crosschain-jun-25%28Final%29.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-crosschain-jun-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch-crosschain-jun-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-crosschain-jun-25-final-2626ff"
   },
   {
     "source": "hexens",
@@ -1921,6 +3821,46 @@
   },
   {
     "source": "hexens",
+    "project": "1inch mar 23( )",
+    "title": "1inch mar 23(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-mar-23%28Public%29.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-mar-23%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch-mar-23(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-mar-23-public-00d9bd"
+  },
+  {
+    "source": "hexens",
+    "project": "1inch Nov23 ( )",
+    "title": "1inch Nov23 (Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_Nov23_%28Public%29.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_Nov23_%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch_Nov23_(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-nov23-public-6413aa"
+  },
+  {
+    "source": "hexens",
     "project": "1inch Nov23 ( )",
     "title": "1inch Nov23 (Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/1inch_Nov23_%28Public%29.pdf",
@@ -1961,6 +3901,26 @@
   },
   {
     "source": "hexens",
+    "project": "1inch Oct23 ( )",
+    "title": "1inch Oct23 (Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_Oct23_%28Public%29.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch_Oct23_%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch_Oct23_(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-oct23-public-f58e4c"
+  },
+  {
+    "source": "hexens",
     "project": "1inch apr24",
     "title": "1inch review apr24",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/1inch-review-apr24.pdf",
@@ -1978,6 +3938,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/1inch-review-apr24-5f41f3"
+  },
+  {
+    "source": "hexens",
+    "project": "1inch apr24",
+    "title": "1inch review apr24",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-review-apr24.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/1inch-review-apr24.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "1inch-review-apr24.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/1inch-review-apr24-88f33c"
   },
   {
     "source": "hexens",
@@ -2001,6 +3981,26 @@
   },
   {
     "source": "hexens",
+    "project": "zksync aug25( )",
+    "title": "zksync audit aug25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zksync-audit-aug25%28Final%29.pdf",
+    "date": "2025-10-15",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zksync-audit-aug25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "zksync-audit-aug25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/zksync-audit-aug25-final-a1a370"
+  },
+  {
+    "source": "hexens",
     "project": "zharta oct 25( )",
     "title": "zharta oct 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/zharta-oct-25%28Final%29.pdf",
@@ -2021,6 +4021,26 @@
   },
   {
     "source": "hexens",
+    "project": "zharta oct 25( )",
+    "title": "zharta oct 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zharta-oct-25%28Final%29.pdf",
+    "date": "2025-10-21",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zharta-oct-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "zharta-oct-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/zharta-oct-25-final-f2b2dc"
+  },
+  {
+    "source": "hexens",
     "project": "secured finance aug 25( )",
     "title": "secured finance aug 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/secured-finance-aug-25%28Final%29.pdf",
@@ -2038,6 +4058,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/secured-finance-aug-25-final-b648bb"
+  },
+  {
+    "source": "hexens",
+    "project": "secured finance aug 25( )",
+    "title": "secured finance aug 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/secured-finance-aug-25%28Final%29.pdf",
+    "date": "2025-11-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/secured-finance-aug-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "secured-finance-aug-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/secured-finance-aug-25-final-bc2413"
+  },
+  {
+    "source": "hexens",
+    "project": "t3rn jun 25( )",
+    "title": "t3rn jun 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/t3rn-jun-25%28Final%29.pdf",
+    "date": "2025-11-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/t3rn-jun-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "t3rn-jun-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/t3rn-jun-25-final-37314f"
   },
   {
     "source": "hexens",
@@ -2081,6 +4141,46 @@
   },
   {
     "source": "hexens",
+    "project": "stakewise aug 25( )",
+    "title": "stakewise aug 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/stakewise-aug-25%28Final%29.pdf",
+    "date": "2025-11-04",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/stakewise-aug-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "stakewise-aug-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/stakewise-aug-25-final-c0b7f4"
+  },
+  {
+    "source": "hexens",
+    "project": "thesauros oct 25( )",
+    "title": "thesauros oct 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/thesauros-oct-25%28Final%29.pdf",
+    "date": "2025-11-04",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/thesauros-oct-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "thesauros-oct-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/thesauros-oct-25-final-556e64"
+  },
+  {
+    "source": "hexens",
     "project": "thesauros oct 25( )",
     "title": "thesauros oct 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/thesauros-oct-25%28Final%29.pdf",
@@ -2098,6 +4198,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/thesauros-oct-25-final-c45223"
+  },
+  {
+    "source": "hexens",
+    "project": "fuel sway standard july24( )",
+    "title": "fuel sway standard audit july24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-sway-standard-audit-july24%28Public%29.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-sway-standard-audit-july24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fuel-sway-standard-audit-july24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-sway-standard-audit-july24-public-536b27"
   },
   {
     "source": "hexens",
@@ -2141,6 +4261,26 @@
   },
   {
     "source": "hexens",
+    "project": "LayerZero aug24",
+    "title": "LayerZero audit aug24",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-aug24.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-aug24.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "LayerZero-audit-aug24.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/layerzero-audit-aug24-3e74e3"
+  },
+  {
+    "source": "hexens",
     "project": "LayerZero jun24",
     "title": "LayerZero audit jun24",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/LayerZero-audit-jun24.pdf",
@@ -2158,6 +4298,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/layerzero-audit-jun24-a75659"
+  },
+  {
+    "source": "hexens",
+    "project": "LayerZero jun24",
+    "title": "LayerZero audit jun24",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-jun24.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-jun24.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "LayerZero-audit-jun24.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/layerzero-audit-jun24-fcabf6"
+  },
+  {
+    "source": "hexens",
+    "project": "LayerZero may25",
+    "title": "LayerZero audit may25",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-may25.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-may25.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "LayerZero-audit-may25.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/layerzero-audit-may25-d6c322"
   },
   {
     "source": "hexens",
@@ -2183,6 +4363,26 @@
     "source": "hexens",
     "project": "LayerZero oct24",
     "title": "LayerZero audit oct24",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-oct24.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-oct24.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "LayerZero-audit-oct24.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/layerzero-audit-oct24-79a24a"
+  },
+  {
+    "source": "hexens",
+    "project": "LayerZero oct24",
+    "title": "LayerZero audit oct24",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/LayerZero-audit-oct24.pdf",
     "date": "2025-11-06",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2198,6 +4398,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/layerzero-audit-oct24-ef2673"
+  },
+  {
+    "source": "hexens",
+    "project": "LayerZero sept24",
+    "title": "LayerZero audit sept24",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-sept24.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/LayerZero-audit-sept24.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "LayerZero-audit-sept24.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/layerzero-audit-sept24-36afbe"
   },
   {
     "source": "hexens",
@@ -2241,6 +4461,46 @@
   },
   {
     "source": "hexens",
+    "project": "risc0 povw jul 25( )",
+    "title": "risc0 povw jul 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/risc0-povw-jul-25%28Final%29.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/risc0-povw-jul-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "risc0-povw-jul-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/risc0-povw-jul-25-final-f21190"
+  },
+  {
+    "source": "hexens",
+    "project": "Socket dec24",
+    "title": "Socket audit dec24",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket-audit-dec24.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket-audit-dec24.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Socket-audit-dec24.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/socket-audit-dec24-10b643"
+  },
+  {
+    "source": "hexens",
     "project": "Socket dec24",
     "title": "Socket audit dec24",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Socket-audit-dec24.pdf",
@@ -2258,6 +4518,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/socket-audit-dec24-67efa1"
+  },
+  {
+    "source": "hexens",
+    "project": "Socket mar24",
+    "title": "Socket audit mar24",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket-audit-mar24.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Socket-audit-mar24.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Socket-audit-mar24.pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/socket-audit-mar24-27f30e"
   },
   {
     "source": "hexens",
@@ -2283,6 +4563,26 @@
     "source": "hexens",
     "project": "Tokemak mar25( )",
     "title": "Tokemak audit mar25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Tokemak-audit-mar25%28Final%29.pdf",
+    "date": "2025-11-06",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/Tokemak-audit-mar25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "Tokemak-audit-mar25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/tokemak-audit-mar25-final-09492d"
+  },
+  {
+    "source": "hexens",
+    "project": "Tokemak mar25( )",
+    "title": "Tokemak audit mar25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/Tokemak-audit-mar25%28Final%29.pdf",
     "date": "2025-11-06",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2298,6 +4598,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/tokemak-audit-mar25-final-eeb8de"
+  },
+  {
+    "source": "hexens",
+    "project": "yelay oct 25( )",
+    "title": "yelay oct 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/yelay-oct-25%28Final%29.pdf",
+    "date": "2025-11-17",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/yelay-oct-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "yelay-oct-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/yelay-oct-25-final-5bd74d"
   },
   {
     "source": "hexens",
@@ -2323,6 +4643,26 @@
     "source": "hexens",
     "project": "chaos bgd labs edge apr 25( )",
     "title": "chaos bgd labs edge apr 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/chaos-bgd-labs-edge-apr-25%28Final%29.pdf",
+    "date": "2025-11-20",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/chaos-bgd-labs-edge-apr-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "chaos-bgd-labs-edge-apr-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/chaos-bgd-labs-edge-apr-25-final-5606c4"
+  },
+  {
+    "source": "hexens",
+    "project": "chaos bgd labs edge apr 25( )",
+    "title": "chaos bgd labs edge apr 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/chaos-bgd-labs-edge-apr-25%28Final%29.pdf",
     "date": "2025-11-20",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2338,6 +4678,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/chaos-bgd-labs-edge-apr-25-final-c1263f"
+  },
+  {
+    "source": "hexens",
+    "project": "infura din oct 25( )",
+    "title": "infura din oct 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/infura-din-oct-25%28Final%29.pdf",
+    "date": "2025-11-20",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/infura-din-oct-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "infura-din-oct-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/infura-din-oct-25-final-4f07fc"
   },
   {
     "source": "hexens",
@@ -2363,6 +4723,26 @@
     "source": "hexens",
     "project": "layerswap dec24( )",
     "title": "layerswap audit dec24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/layerswap-audit-dec24%28Public%29.pdf",
+    "date": "2025-12-05",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/layerswap-audit-dec24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "layerswap-audit-dec24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/layerswap-audit-dec24-public-08d927"
+  },
+  {
+    "source": "hexens",
+    "project": "layerswap dec24( )",
+    "title": "layerswap audit dec24(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/layerswap-audit-dec24%28Public%29.pdf",
     "date": "2025-12-05",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2378,6 +4758,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/layerswap-audit-dec24-public-940331"
+  },
+  {
+    "source": "hexens",
+    "project": "spool strats may24( )",
+    "title": "spool strats audit may24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-strats-audit-may24%28Public%29.pdf",
+    "date": "2025-12-05",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/spool-strats-audit-may24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "spool-strats-audit-may24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/spool-strats-audit-may24-public-5dbed7"
   },
   {
     "source": "hexens",
@@ -2403,6 +4803,26 @@
     "source": "hexens",
     "project": "tokemak acctoke migration sep 24( )",
     "title": "tokemak acctoke migration sep 24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-acctoke-migration-sep-24%28Public%29.pdf",
+    "date": "2025-12-05",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-acctoke-migration-sep-24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "tokemak-acctoke-migration-sep-24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/tokemak-acctoke-migration-sep-24-public-55e4a3"
+  },
+  {
+    "source": "hexens",
+    "project": "tokemak acctoke migration sep 24( )",
+    "title": "tokemak acctoke migration sep 24(Public)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/tokemak-acctoke-migration-sep-24%28Public%29.pdf",
     "date": "2025-12-05",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2418,6 +4838,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/tokemak-acctoke-migration-sep-24-public-881a27"
+  },
+  {
+    "source": "hexens",
+    "project": "tokemak dec 24( )",
+    "title": "tokemak dec 24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-dec-24%28Public%29.pdf",
+    "date": "2025-12-05",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/tokemak-dec-24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "tokemak-dec-24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/tokemak-dec-24-public-5ac622"
   },
   {
     "source": "hexens",
@@ -2461,6 +4901,26 @@
   },
   {
     "source": "hexens",
+    "project": "RISC Zero Crypto SCs may24( )",
+    "title": "RISC Zero Crypto SCs audit may24(Public)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/RISC-Zero-Crypto-SCs-audit-may24%28Public%29.pdf",
+    "date": "2025-12-08",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/RISC-Zero-Crypto-SCs-audit-may24%28Public%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "RISC-Zero-Crypto-SCs-audit-may24(Public).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/risc-zero-crypto-scs-audit-may24-public-b70c00"
+  },
+  {
+    "source": "hexens",
     "project": "risc0 dec 24( )",
     "title": "risc0 dec 24(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/risc0-dec-24%28Final%29.pdf",
@@ -2481,6 +4941,26 @@
   },
   {
     "source": "hexens",
+    "project": "risc0 dec 24( )",
+    "title": "risc0 dec 24(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/risc0-dec-24%28Final%29.pdf",
+    "date": "2025-12-08",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/risc0-dec-24%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "risc0-dec-24(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/risc0-dec-24-final-f71909"
+  },
+  {
+    "source": "hexens",
     "project": "everclear dec 25( )",
     "title": "everclear dec 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/everclear-dec-25%28Final%29.pdf",
@@ -2498,6 +4978,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/everclear-dec-25-final-83d170"
+  },
+  {
+    "source": "hexens",
+    "project": "everclear dec 25( )",
+    "title": "everclear dec 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/everclear-dec-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/everclear-dec-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "everclear-dec-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/everclear-dec-25-final-9ab122"
+  },
+  {
+    "source": "hexens",
+    "project": "fuel o2 aug 25( )",
+    "title": "fuel o2 aug 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-o2-aug-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-o2-aug-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fuel-o2-aug-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-o2-aug-25-final-291b77"
   },
   {
     "source": "hexens",
@@ -2541,6 +5061,26 @@
   },
   {
     "source": "hexens",
+    "project": "fuel o2 oct 25( )",
+    "title": "fuel o2 oct 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-o2-oct-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/fuel-o2-oct-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "fuel-o2-oct-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/fuel-o2-oct-25-final-8fba25"
+  },
+  {
+    "source": "hexens",
     "project": "glif plus aug 25( )",
     "title": "glif plus aug 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/glif-plus-aug-25%28Final%29.pdf",
@@ -2558,6 +5098,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/glif-plus-aug-25-final-c38ff7"
+  },
+  {
+    "source": "hexens",
+    "project": "glif plus aug 25( )",
+    "title": "glif plus aug 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-plus-aug-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-plus-aug-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "glif-plus-aug-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/glif-plus-aug-25-final-c53e34"
+  },
+  {
+    "source": "hexens",
+    "project": "glif plus nov 25( )",
+    "title": "glif plus nov 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-plus-nov-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/glif-plus-nov-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "glif-plus-nov-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/glif-plus-nov-25-final-105e26"
   },
   {
     "source": "hexens",
@@ -2583,6 +5163,26 @@
     "source": "hexens",
     "project": "juiceswap jan 26( )",
     "title": "juiceswap jan 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/juiceswap-jan-26%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/juiceswap-jan-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "juiceswap-jan-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/juiceswap-jan-26-final-aac34e"
+  },
+  {
+    "source": "hexens",
+    "project": "juiceswap jan 26( )",
+    "title": "juiceswap jan 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/juiceswap-jan-26%28Final%29.pdf",
     "date": "2026-02-11",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2603,6 +5203,26 @@
     "source": "hexens",
     "project": "kyberswap nov 25( )",
     "title": "kyberswap nov 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/kyberswap-nov-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/kyberswap-nov-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "kyberswap-nov-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/kyberswap-nov-25-final-05cd2f"
+  },
+  {
+    "source": "hexens",
+    "project": "kyberswap nov 25( )",
+    "title": "kyberswap nov 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/kyberswap-nov-25%28Final%29.pdf",
     "date": "2026-02-11",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2618,6 +5238,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/kyberswap-nov-25-final-b6fcfc"
+  },
+  {
+    "source": "hexens",
+    "project": "mETH Protocol oct 25( )",
+    "title": "mETH Protocol oct 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/mETH-Protocol-oct-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/mETH-Protocol-oct-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "mETH-Protocol-oct-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/meth-protocol-oct-25-final-519a78"
   },
   {
     "source": "hexens",
@@ -2661,6 +5301,26 @@
   },
   {
     "source": "hexens",
+    "project": "trendex jan 26( )",
+    "title": "trendex jan 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/trendex-jan-26%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/trendex-jan-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "trendex-jan-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/trendex-jan-26-final-91034d"
+  },
+  {
+    "source": "hexens",
     "project": "usual susd0 nov 25( )",
     "title": "usual susd0 nov 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/usual-susd0-nov-25%28Final%29.pdf",
@@ -2681,6 +5341,26 @@
   },
   {
     "source": "hexens",
+    "project": "usual susd0 nov 25( )",
+    "title": "usual susd0 nov 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/usual-susd0-nov-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/usual-susd0-nov-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "usual-susd0-nov-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/usual-susd0-nov-25-final-5d7058"
+  },
+  {
+    "source": "hexens",
     "project": "usual susd0 oct 25( )",
     "title": "usual susd0 oct 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/usual-susd0-oct-25%28Final%29.pdf",
@@ -2698,6 +5378,46 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/usual-susd0-oct-25-final-5a9168"
+  },
+  {
+    "source": "hexens",
+    "project": "usual susd0 oct 25( )",
+    "title": "usual susd0 oct 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/usual-susd0-oct-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/usual-susd0-oct-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "usual-susd0-oct-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/usual-susd0-oct-25-final-e94e44"
+  },
+  {
+    "source": "hexens",
+    "project": "usual usd0pp nov 25( )",
+    "title": "usual usd0pp nov 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/usual-usd0pp-nov-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/usual-usd0pp-nov-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "usual-usd0pp-nov-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/usual-usd0pp-nov-25-final-00f433"
   },
   {
     "source": "hexens",
@@ -2741,6 +5461,46 @@
   },
   {
     "source": "hexens",
+    "project": "zharta dec 25( )",
+    "title": "zharta dec 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zharta-dec-25%28Final%29.pdf",
+    "date": "2026-02-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/zharta-dec-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "zharta-dec-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/zharta-dec-25-final-8d757d"
+  },
+  {
+    "source": "hexens",
+    "project": "shib sou v2 nov 25( )",
+    "title": "shib sou v2 nov 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/shib-sou-v2-nov-25%28Final%29.pdf",
+    "date": "2026-02-13",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/shib-sou-v2-nov-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "shib-sou-v2-nov-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/shib-sou-v2-nov-25-final-79841f"
+  },
+  {
+    "source": "hexens",
     "project": "shib sou v2 nov 25( )",
     "title": "shib sou v2 nov 25(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/shib-sou-v2-nov-25%28Final%29.pdf",
@@ -2758,6 +5518,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/shib-sou-v2-nov-25-final-f2d471"
+  },
+  {
+    "source": "hexens",
+    "project": "kyberswap dec 25( )",
+    "title": "kyberswap dec 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/kyberswap-dec-25%28Final%29.pdf",
+    "date": "2026-02-17",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/kyberswap-dec-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "kyberswap-dec-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/kyberswap-dec-25-final-c57743"
   },
   {
     "source": "hexens",
@@ -2801,6 +5581,46 @@
   },
   {
     "source": "hexens",
+    "project": "anq stablecoin jan 26( )",
+    "title": "anq stablecoin jan 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/anq-stablecoin-jan-26%28Final%29.pdf",
+    "date": "2026-03-13",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/anq-stablecoin-jan-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "anq-stablecoin-jan-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/anq-stablecoin-jan-26-final-daefc8"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens katana jan 26( )",
+    "title": "hexens katana jan 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-katana-jan-26%28Final%29.pdf",
+    "date": "2026-03-17",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-katana-jan-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-katana-jan-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-katana-jan-26-final-191b9d"
+  },
+  {
+    "source": "hexens",
     "project": "hexens katana jan 26( )",
     "title": "hexens katana jan 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/hexens-katana-jan-26%28Final%29.pdf",
@@ -2818,6 +5638,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/hexens-katana-jan-26-final-363818"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens zharta feb 26( )",
+    "title": "hexens zharta feb 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-zharta-feb-26%28Final%29.pdf",
+    "date": "2026-03-18",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-zharta-feb-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-zharta-feb-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-zharta-feb-26-final-256070"
   },
   {
     "source": "hexens",
@@ -2843,6 +5683,26 @@
     "source": "hexens",
     "project": "hexens layerswap mar 26( )",
     "title": "hexens layerswap mar 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-layerswap-mar-26%28Final%29.pdf",
+    "date": "2026-03-26",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-layerswap-mar-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-layerswap-mar-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-layerswap-mar-26-final-09cc7d"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens layerswap mar 26( )",
+    "title": "hexens layerswap mar 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/hexens-layerswap-mar-26%28Final%29.pdf",
     "date": "2026-03-26",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2858,6 +5718,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/hexens-layerswap-mar-26-final-a49e04"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens royco jan 26( )",
+    "title": "hexens royco jan 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-royco-jan-26%28Final%29.pdf",
+    "date": "2026-03-26",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-royco-jan-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-royco-jan-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-royco-jan-26-final-1909b4"
   },
   {
     "source": "hexens",
@@ -2883,6 +5763,26 @@
     "source": "hexens",
     "project": "hexens royco mar 26( )",
     "title": "hexens royco mar 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-royco-mar-26%28Final%29.pdf",
+    "date": "2026-03-26",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-royco-mar-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-royco-mar-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-royco-mar-26-final-a7d061"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens royco mar 26( )",
+    "title": "hexens royco mar 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/hexens-royco-mar-26%28Final%29.pdf",
     "date": "2026-03-26",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -2898,6 +5798,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/hexens-royco-mar-26-final-edb13a"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens cybro mar 26( )",
+    "title": "hexens cybro mar 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-cybro-mar-26%28Final%29.pdf",
+    "date": "2026-04-03",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-cybro-mar-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-cybro-mar-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-cybro-mar-26-final-588573"
   },
   {
     "source": "hexens",
@@ -2941,6 +5861,26 @@
   },
   {
     "source": "hexens",
+    "project": "hexens crosscurve mar 26( )",
+    "title": "hexens crosscurve mar 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-crosscurve-mar-26%28Final%29.pdf",
+    "date": "2026-04-09",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-crosscurve-mar-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-crosscurve-mar-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-crosscurve-mar-26-final-f080b8"
+  },
+  {
+    "source": "hexens",
     "project": "hexens sentio token mar 26( )",
     "title": "hexens sentio token mar 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/hexens-sentio-token-mar-26%28Final%29.pdf",
@@ -2961,6 +5901,46 @@
   },
   {
     "source": "hexens",
+    "project": "hexens sentio token mar 26( )",
+    "title": "hexens sentio token mar 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-sentio-token-mar-26%28Final%29.pdf",
+    "date": "2026-04-20",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-sentio-token-mar-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-sentio-token-mar-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-sentio-token-mar-26-final-ccdcd1"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens royco entry point and integrations apr 26( )",
+    "title": "hexens royco entry point and integrations apr 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-royco-entry-point-and-integrations-apr-26%28Final%29.pdf",
+    "date": "2026-04-27",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-royco-entry-point-and-integrations-apr-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-royco-entry-point-and-integrations-apr-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-royco-entry-point-and-integrations-apr-26-final-228ea2"
+  },
+  {
+    "source": "hexens",
     "project": "hexens royco entry point and integrations apr 26( )",
     "title": "hexens royco entry point and integrations apr 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/hexens-royco-entry-point-and-integrations-apr-26%28Final%29.pdf",
@@ -2978,6 +5958,26 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/hexens-royco-entry-point-and-integrations-apr-26-final-eabd4a"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens elfomofi apr 26( )",
+    "title": "hexens elfomofi apr 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-elfomofi-apr-26%28Final%29.pdf",
+    "date": "2026-05-11",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-elfomofi-apr-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-elfomofi-apr-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-elfomofi-apr-26-final-0cc1b2"
   },
   {
     "source": "hexens",
@@ -3021,6 +6021,46 @@
   },
   {
     "source": "hexens",
+    "project": "kalqix dec 25( )",
+    "title": "kalqix dec 25(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/kalqix-dec-25%28Final%29.pdf",
+    "date": "2026-05-12",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/kalqix-dec-25%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "kalqix-dec-25(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/kalqix-dec-25-final-7792a8"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens obsdn   26( )",
+    "title": "hexens obsdn may 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-obsdn-may-26%28Final%29.pdf",
+    "date": "2026-06-02",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-obsdn-may-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-obsdn-may-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-obsdn-may-26-final-3f4c75"
+  },
+  {
+    "source": "hexens",
     "project": "hexens obsdn   26( )",
     "title": "hexens obsdn may 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/hexens-obsdn-may-26%28Final%29.pdf",
@@ -3043,6 +6083,26 @@
     "source": "hexens",
     "project": "hexens layercover   26( )",
     "title": "hexens layercover may 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-layercover-may-26%28Final%29.pdf",
+    "date": "2026-06-23",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/hexens-layercover-may-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "hexens-layercover-may-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/hexens-layercover-may-26-final-492221"
+  },
+  {
+    "source": "hexens",
+    "project": "hexens layercover   26( )",
+    "title": "hexens layercover may 26(Final)",
     "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/feda3f4add5b293d9f38c720bfba2f071dd1cf35/hexens-layercover-may-26%28Final%29.pdf",
     "date": "2026-06-23",
     "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
@@ -3058,5 +6118,25 @@
       "commit": "feda3f4add5b293d9f38c720bfba2f071dd1cf35"
     },
     "id": "hexens/hexens-layercover-may-26-final-92189b"
+  },
+  {
+    "source": "hexens",
+    "project": "alienbase epsilon apr 26( )",
+    "title": "alienbase epsilon apr 26(Final)",
+    "report_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/alienbase-epsilon-apr-26%28Final%29.pdf",
+    "date": "2026-07-07",
+    "listing_url": "https://github.com/Hexens/Smart-Contract-Review-Public-Reports",
+    "download_url": "https://raw.githubusercontent.com/Hexens/Smart-Contract-Review-Public-Reports/86cf7e6aa5f7b30e1b29afefab8a3af1f22128df/alienbase-epsilon-apr-26%28Final%29.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Hexens/Smart-Contract-Review-Public-Reports",
+      "path": "alienbase-epsilon-apr-26(Final).pdf",
+      "commit": "86cf7e6aa5f7b30e1b29afefab8a3af1f22128df"
+    },
+    "id": "hexens/alienbase-epsilon-apr-26-final-7d066e"
   }
 ]

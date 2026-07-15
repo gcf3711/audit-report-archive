@@ -1,9 +1,10 @@
 # Code4rena
 
-Listing: https://code4rena.com/reports — 410 reports, 408 downloadable (2 unavailable upstream).
+Listing: https://code4rena.com/reports — 411 reports, 408 downloadable (3 unavailable upstream).
 
 | Date | Project | Report | Fetched |
 |---|---|---|---|
+| 2026-07-11 | Jupiter Lend | [Jupiter Lend](https://code4rena.com/reports/2026-02-jupiter-lend) | ✗ |
 | 2026-05-26 | Monetrix | [Monetrix](https://code4rena.com/reports/2026-04-monetrix) | ✓ |
 | 2026-05-18 | Olas | [Olas](https://code4rena.com/reports/2026-01-olas) | ✓ |
 | 2026-05-06 | LayerZero | [LayerZero - Stellar endpoint](https://code4rena.com/reports/2026-04-layerzero-stellar-endpoint) | ✓ |

@@ -9,7 +9,7 @@ Listing: https://osec.io/audits — 386 reports, 386 downloadable (0 unavailable
 | 2026-02-12 | Metadao | [Metadao](https://osec.io/reports/33c84d4e-4146-80bf-9ced-d6e044232a81) | ✓ |
 | 2026-01-21 | Sui Sentinel | [Sui Sentinel](https://osec.io/reports/32184d4e-4146-80a3-ad5d-fd7648d0deab) | ✓ |
 | 2026-01-11 | Tempest SPL Stake Pool | [Tempest SPL Stake Pool](https://osec.io/reports/2f484d4e-4146-80ca-87b2-f4c9359aba23) | ✓ |
-| 2026-01-09 | Bluefin Ember EVM | [Bluefin Ember EVM](https://osec.io/reports/2f584d4e-4146-80b9-8c49-f95331a84c49) | ✓ |
+| 2026-01-09 | Ember EVM | [Ember EVM](https://osec.io/reports/2f584d4e-4146-80b9-8c49-f95331a84c49) | ✓ |
 | 2025-12-12 | Aftermath Perps Oracle | [Aftermath Perps Oracle](https://osec.io/reports/2fe84d4e-4146-802e-898f-ec9d4df151f5) | ✓ |
 | 2025-11-26 | Movement L1 Migration | [Movement L1 Migration](https://osec.io/reports/38b84d4e-4146-8043-b746-f9fcc72682c9) | ✓ |
 | 2025-10-30 | Nado Ink | [Nado Ink](https://osec.io/reports/2f484d4e-4146-80fc-bc72-f6075e777dc1) | ✓ |

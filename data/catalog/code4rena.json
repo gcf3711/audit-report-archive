@@ -7788,5 +7788,24 @@
       "contest_id": 554
     },
     "id": "code4rena/monetrix-58aff8"
+  },
+  {
+    "source": "code4rena",
+    "project": "Jupiter Lend",
+    "title": "Jupiter Lend",
+    "report_url": "https://code4rena.com/reports/2026-02-jupiter-lend",
+    "date": "2026-07-11",
+    "listing_url": "https://code4rena.com/reports",
+    "download_url": "https://code4rena.com/reports/2026-02-jupiter-lend",
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "findings_repo": "https://code4rena.com/audits/2026-02-jupiter-lend/submissions",
+      "contest_id": 519
+    },
+    "id": "code4rena/jupiter-lend-6e1d85"
   }
 ]

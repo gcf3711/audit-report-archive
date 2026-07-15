@@ -9374,5 +9374,28 @@
       "project_group": "Humanity"
     },
     "id": "quantstamp/htoken-0722a9"
+  },
+  {
+    "source": "quantstamp",
+    "project": "Taler",
+    "title": "Taler",
+    "report_url": "https://certificate.quantstamp.com/full/taler/dfa77a39-d190-49f6-b57b-48d073f0c8a0/index.html",
+    "date": "2026-07-08",
+    "listing_url": "https://certificate.quantstamp.com/",
+    "download_url": null,
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "tags": [
+        "Deployed on Ethereum",
+        "Language: Solidity",
+        "Defi: Vault Backed Tokens"
+      ],
+      "project_group": "Taler Finance"
+    },
+    "id": "quantstamp/taler-5a00d0"
   }
 ]

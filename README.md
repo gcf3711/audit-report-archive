@@ -13,45 +13,45 @@ Scope: **collection** (done, kept fresh monthly) and **metadata enrichment**
 ## Status
 
 <!-- STATUS:BEGIN -->
-**9409** reports catalogued across **47** sources (**7680** PDF, **1729** HTML) — **9377** verified downloadable (fetched locally), **32** unavailable (upstream dead links or archive-only). Last updated **2026-07-08**.
+**11215** reports catalogued across **47** sources (**9479** PDF, **1736** HTML) — **9377** verified downloadable (fetched locally), **1838** unavailable (upstream dead links or archive-only). Last updated **2026-07-15**.
 
 | Source | Reports | PDF | HTML | Downloadable | Unavailable | Listing |
 |---|---|---|---|---|---|---|
-| [ChainSecurity](indexes/chainsecurity.md) | 391 | 391 | 0 | 388 | 3 | https://www.chainsecurity.com/smart-contract-audit-reports |
-| [Trail of Bits](indexes/trailofbits.md) | 433 | 433 | 0 | 433 | 0 | https://github.com/trailofbits/publications |
+| [ChainSecurity](indexes/chainsecurity.md) | 393 | 393 | 0 | 388 | 5 | https://www.chainsecurity.com/smart-contract-audit-reports |
+| [Trail of Bits](indexes/trailofbits.md) | 871 | 871 | 0 | 433 | 438 | https://github.com/trailofbits/publications |
 | [MixBytes](indexes/mixbytes.md) | 234 | 234 | 0 | 234 | 0 | https://github.com/mixbytes/audits_public |
-| [Certora](indexes/certora.md) | 171 | 171 | 0 | 171 | 0 | https://github.com/Certora/SecurityReports |
+| [Certora](indexes/certora.md) | 344 | 344 | 0 | 171 | 173 | https://github.com/Certora/SecurityReports |
 | [Spearbit](indexes/spearbit.md) | 140 | 140 | 0 | 140 | 0 | https://github.com/spearbit/portfolio |
-| [Cantina](indexes/cantina.md) | 681 | 674 | 7 | 677 | 4 | https://cantina.xyz/security-reviews |
-| [Quantstamp](indexes/quantstamp.md) | 392 | 148 | 244 | 391 | 1 | https://certificate.quantstamp.com/ |
+| [Cantina](indexes/cantina.md) | 684 | 677 | 7 | 677 | 7 | https://cantina.xyz/security-reviews |
+| [Quantstamp](indexes/quantstamp.md) | 393 | 148 | 245 | 391 | 2 | https://certificate.quantstamp.com/ |
 | [Sigma Prime](indexes/sigmaprime.md) | 146 | 146 | 0 | 146 | 0 | https://github.com/sigp/public-audits |
-| [OpenZeppelin](indexes/openzeppelin.md) | 386 | 0 | 386 | 386 | 0 | https://www.openzeppelin.com/research#security-audits |
+| [OpenZeppelin](indexes/openzeppelin.md) | 390 | 0 | 390 | 386 | 4 | https://www.openzeppelin.com/research#security-audits |
 | [PeckShield](indexes/peckshield.md) | 488 | 488 | 0 | 488 | 0 | https://github.com/peckshield/publications |
-| [Code4rena](indexes/code4rena.md) | 410 | 2 | 408 | 408 | 2 | https://code4rena.com/reports |
+| [Code4rena](indexes/code4rena.md) | 411 | 2 | 409 | 408 | 3 | https://code4rena.com/reports |
 | [ABDK](indexes/abdk.md) | 216 | 216 | 0 | 216 | 0 | https://github.com/abdk-consulting/audits |
 | [CertiK](indexes/certik.md) | 0 | 0 | 0 | 0 | 0 | https://skynet.certik.com/leaderboards/team-verified |
-| [Statemind](indexes/statemind.md) | 48 | 48 | 0 | 48 | 0 | https://github.com/statemindio/public-audits |
+| [Statemind](indexes/statemind.md) | 100 | 100 | 0 | 48 | 52 | https://github.com/statemindio/public-audits |
 | [Halborn](indexes/halborn.md) | 282 | 282 | 0 | 282 | 0 | https://github.com/HalbornSecurity/PublicReports |
 | [Omniscia](indexes/omniscia.md) | 281 | 0 | 281 | 271 | 10 | https://omniscia.io/reports.html |
-| [Zellic](indexes/zellic.md) | 386 | 386 | 0 | 386 | 0 | https://github.com/Zellic/publications |
-| [Runtime Verification](indexes/runtimeverification.md) | 107 | 107 | 0 | 107 | 0 | https://github.com/runtimeverification/publications |
+| [Zellic](indexes/zellic.md) | 777 | 777 | 0 | 386 | 391 | https://github.com/Zellic/publications |
+| [Runtime Verification](indexes/runtimeverification.md) | 215 | 215 | 0 | 107 | 108 | https://github.com/runtimeverification/publications |
 | [Pessimistic](indexes/pessimistic.md) | 180 | 180 | 0 | 180 | 0 | https://github.com/pessimistic-io/audits |
 | [ConsenSys Diligence](indexes/consensys.md) | 139 | 0 | 139 | 127 | 12 | https://diligence.consensys.io/audits/ |
 | [Nethermind](indexes/nethermind.md) | 181 | 181 | 0 | 181 | 0 | https://github.com/NethermindEth/PublicAuditReports |
 | [Cyfrin](indexes/cyfrin.md) | 195 | 195 | 0 | 195 | 0 | https://github.com/Cyfrin/cyfrin-audit-reports |
 | [Sherlock](indexes/sherlock.md) | 298 | 298 | 0 | 298 | 0 | https://github.com/sherlock-protocol/sherlock-reports |
-| [BlockSec](indexes/blocksec.md) | 204 | 204 | 0 | 204 | 0 | https://github.com/blocksecteam/audit-reports |
+| [BlockSec](indexes/blocksec.md) | 413 | 413 | 0 | 204 | 209 | https://github.com/blocksecteam/audit-reports |
 | [Zokyo](indexes/zokyo.md) | 311 | 311 | 0 | 311 | 0 | https://github.com/zokyo-sec/audit-reports |
 | [CD Security](indexes/cdsecurity.md) | 67 | 67 | 0 | 67 | 0 | https://github.com/CDSecurity/audits |
-| [Team Omega](indexes/teamomega.md) | 53 | 53 | 0 | 53 | 0 | https://github.com/OmegaAudits/audits |
+| [Team Omega](indexes/teamomega.md) | 108 | 108 | 0 | 53 | 55 | https://github.com/OmegaAudits/audits |
 | [Verilog Solutions](indexes/verilog.md) | 13 | 13 | 0 | 13 | 0 | https://github.com/Verilog-Solutions/.github |
 | [Ackee Blockchain](indexes/ackee.md) | 96 | 96 | 0 | 96 | 0 | https://github.com/Ackee-Blockchain/public-audit-reports |
-| [Hexens](indexes/hexens.md) | 153 | 153 | 0 | 153 | 0 | https://github.com/Hexens/Smart-Contract-Review-Public-Reports |
+| [Hexens](indexes/hexens.md) | 307 | 307 | 0 | 153 | 154 | https://github.com/Hexens/Smart-Contract-Review-Public-Reports |
 | [Oxorio](indexes/oxorio.md) | 47 | 47 | 0 | 47 | 0 | https://github.com/oxor-io/public_audits |
 | [Pashov Audit Group](indexes/pashov.md) | 300 | 300 | 0 | 300 | 0 | https://github.com/pashov/audits |
 | [Solidified](indexes/solidified.md) | 247 | 247 | 0 | 247 | 0 | https://github.com/solidified-platform/audits |
-| [Electisec (yAudit)](indexes/yaudit.md) | 138 | 138 | 0 | 138 | 0 | https://github.com/electisec/reports |
-| [Decurity](indexes/decurity.md) | 61 | 61 | 0 | 61 | 0 | https://github.com/Decurity/audits |
+| [Electisec (yAudit)](indexes/yaudit.md) | 282 | 282 | 0 | 138 | 144 | https://github.com/electisec/reports |
+| [Decurity](indexes/decurity.md) | 122 | 122 | 0 | 61 | 61 | https://github.com/Decurity/audits |
 | [Oak Security](indexes/oaksecurity.md) | 321 | 306 | 15 | 321 | 0 | https://github.com/oak-security/audit-reports |
 | [Informal Systems](indexes/informal.md) | 94 | 42 | 52 | 94 | 0 | https://github.com/informalsystems/audits |
 | [ChainSafe](indexes/chainsafe.md) | 33 | 33 | 0 | 33 | 0 | https://github.com/ChainSafe/audits |
@@ -61,7 +61,7 @@ Scope: **collection** (done, kept fresh monthly) and **metadata enrichment**
 | [Enigma Dark](indexes/enigmadark.md) | 28 | 28 | 0 | 28 | 0 | https://github.com/Enigma-Dark/security-review-reports |
 | [OtterSec](indexes/ottersec.md) | 386 | 386 | 0 | 386 | 0 | https://osec.io/audits |
 | [Dedaub](indexes/dedaub.md) | 178 | 0 | 178 | 178 | 0 | https://dedaub.com/audits/ |
-| [Hats Finance](indexes/hatsfinance.md) | 26 | 12 | 14 | 26 | 0 | https://github.com/hats-finance |
+| [Hats Finance](indexes/hatsfinance.md) | 36 | 21 | 15 | 26 | 10 | https://github.com/hats-finance |
 | [dapp.org](indexes/dapporg.md) | 5 | 0 | 5 | 5 | 0 | https://dapp.org.uk |
 | [Paladin Blockchain Security](indexes/paladin.md) | 298 | 298 | 0 | 298 | 0 | https://paladinsec.co/audits/ |
 <!-- STATUS:END -->

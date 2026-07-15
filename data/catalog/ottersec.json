@@ -6841,8 +6841,8 @@
   },
   {
     "source": "ottersec",
-    "project": "Bluefin Ember EVM",
-    "title": "Bluefin Ember EVM",
+    "project": "Ember EVM",
+    "title": "Ember EVM",
     "report_url": "https://osec.io/reports/2f584d4e-4146-80b9-8c49-f95331a84c49",
     "date": "2026-01-09",
     "listing_url": "https://osec.io/audits",
@@ -6855,7 +6855,7 @@
     "extra": {
       "chain": "EVM"
     },
-    "id": "ottersec/bluefin-ember-evm-796041"
+    "id": "ottersec/ember-evm-796041"
   },
   {
     "source": "ottersec",

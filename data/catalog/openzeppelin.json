@@ -160,6 +160,29 @@
   },
   {
     "source": "openzeppelin",
+    "project": "Matchpool GUP Token",
+    "title": "Matchpool GUP Token Audit",
+    "report_url": "https://www.openzeppelin.com/news/matchpool-gup-token-audit-852a70330f2",
+    "date": "2017-03-31",
+    "listing_url": "https://www.openzeppelin.com/research#security-audits",
+    "download_url": null,
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "tags": [
+        "Security Audits",
+        "Research",
+        "Security AuditsRH"
+      ],
+      "author": "OpenZeppelin Security"
+    },
+    "id": "openzeppelin/matchpool-gup-token-audit-79d5bb"
+  },
+  {
+    "source": "openzeppelin",
     "project": "iEx.ec RLC Token",
     "title": "iEx.ec RLC Token Audit",
     "report_url": "https://www.openzeppelin.com/news/iex-ec-rlc-token-audit-80abd763709b",
@@ -731,6 +754,29 @@
       "author": "OpenZeppelin Security"
     },
     "id": "openzeppelin/unikoingold-token-audit-7e178e"
+  },
+  {
+    "source": "openzeppelin",
+    "project": "Simple Token Sale",
+    "title": "Simple Token Sale Audit",
+    "report_url": "https://www.openzeppelin.com/news/simple-token-sale-audit-30e5f2365463",
+    "date": "2017-11-08",
+    "listing_url": "https://www.openzeppelin.com/research#security-audits",
+    "download_url": null,
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "tags": [
+        "Security Audits",
+        "Research",
+        "Security AuditsRH"
+      ],
+      "author": "OpenZeppelin Security"
+    },
+    "id": "openzeppelin/simple-token-sale-audit-9a1a85"
   },
   {
     "source": "openzeppelin",
@@ -9186,5 +9232,49 @@
       "author": "OpenZeppelin Security"
     },
     "id": "openzeppelin/arcus-rootchain-contracts-audit-d61a92"
+  },
+  {
+    "source": "openzeppelin",
+    "project": "Symbiotic Core v2 Adapters",
+    "title": "Symbiotic Core v2 Adapters Audit",
+    "report_url": "https://www.openzeppelin.com/news/symbiotic-core-v2-adapters-audit",
+    "date": "2026-07-09",
+    "listing_url": "https://www.openzeppelin.com/research#security-audits",
+    "download_url": null,
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "tags": [
+        "Research",
+        "Security AuditsRH"
+      ],
+      "author": "OpenZeppelin Security"
+    },
+    "id": "openzeppelin/symbiotic-core-v2-adapters-audit-666e6a"
+  },
+  {
+    "source": "openzeppelin",
+    "project": "Lombard LBTC Rate Limits",
+    "title": "Lombard LBTC Rate Limits Audit",
+    "report_url": "https://www.openzeppelin.com/news/lombard-lbtc-rate-limits-audit",
+    "date": "2026-07-10",
+    "listing_url": "https://www.openzeppelin.com/research#security-audits",
+    "download_url": null,
+    "file_type": "html",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "tags": [
+        "Research",
+        "Security AuditsRH"
+      ],
+      "author": "OpenZeppelin Security"
+    },
+    "id": "openzeppelin/lombard-lbtc-rate-limits-audit-272566"
   }
 ]

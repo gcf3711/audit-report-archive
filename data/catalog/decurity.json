@@ -3,6 +3,26 @@
     "source": "decurity",
     "project": "east finance",
     "title": "east finance audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/EastFinance/east-finance-audit-report-1.0.pdf",
+    "date": "2022-08-12",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/EastFinance/east-finance-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "EastFinance/east-finance-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/east-finance-audit-report-1-0-27149e"
+  },
+  {
+    "source": "decurity",
+    "project": "east finance",
+    "title": "east finance audit report 1.0",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/EastFinance/east-finance-audit-report-1.0.pdf",
     "date": "2022-08-12",
     "listing_url": "https://github.com/Decurity/audits",
@@ -41,6 +61,26 @@
   },
   {
     "source": "decurity",
+    "project": "monkeykingdom",
+    "title": "monkeykingdom security audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/MonkeyKingdom/monkeykingdom-security-audit-report-1.0.pdf",
+    "date": "2022-08-12",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/MonkeyKingdom/monkeykingdom-security-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "MonkeyKingdom/monkeykingdom-security-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/monkeykingdom-security-audit-report-1-0-f2333a"
+  },
+  {
+    "source": "decurity",
     "project": "oracle dao",
     "title": "oracle dao security audit report 1.0",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/OracleDAO/oracle-dao-security-audit-report-1.0.pdf",
@@ -58,6 +98,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/oracle-dao-security-audit-report-1-0-1c1268"
+  },
+  {
+    "source": "decurity",
+    "project": "oracle dao",
+    "title": "oracle dao security audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/OracleDAO/oracle-dao-security-audit-report-1.0.pdf",
+    "date": "2022-08-12",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/OracleDAO/oracle-dao-security-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "OracleDAO/oracle-dao-security-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/oracle-dao-security-audit-report-1-0-84e485"
   },
   {
     "source": "decurity",
@@ -81,6 +141,26 @@
   },
   {
     "source": "decurity",
+    "project": "tethys finance",
+    "title": "tethys finance security audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/TethysFinance/tethys-finance-security-audit-report-1.0.pdf",
+    "date": "2022-08-12",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/TethysFinance/tethys-finance-security-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "TethysFinance/tethys-finance-security-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/tethys-finance-security-audit-report-1-0-e9ae3e"
+  },
+  {
+    "source": "decurity",
     "project": "ton verification",
     "title": "ton verification report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/TON/ton-verification-report-1.1.pdf",
@@ -101,6 +181,46 @@
   },
   {
     "source": "decurity",
+    "project": "ton verification",
+    "title": "ton verification report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/TON/ton-verification-report-1.1.pdf",
+    "date": "2022-08-12",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/TON/ton-verification-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "TON/ton-verification-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/ton-verification-report-1-1-593682"
+  },
+  {
+    "source": "decurity",
+    "project": "yearn univ3stablesjoint",
+    "title": "yearn univ3stablesjoint audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf",
+    "date": "2022-08-12",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/yearn-univ3stablesjoint-audit-report-1-0-c3fae4"
+  },
+  {
+    "source": "decurity",
     "project": "yearn univ3stablesjoint",
     "title": "yearn univ3stablesjoint audit report 1.0",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Yearn/yearn-univ3stablesjoint-audit-report-1.0.pdf",
@@ -118,6 +238,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/yearn-univ3stablesjoint-audit-report-1-0-e765d4"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch aggregation router v6",
+    "title": "1inch aggregation router v6 audit report 2023 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-aggregation-router-v6-audit-report-2023-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-aggregation-router-v6-audit-report-2023-1-1-0bfa71"
   },
   {
     "source": "decurity",
@@ -161,6 +301,26 @@
   },
   {
     "source": "decurity",
+    "project": "1inch aggregation router v6 limit order v4",
+    "title": "1inch aggregation router v6 limit order v4 audit report 2023 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aggregation-router-v6-limit-order-v4-audit-report-2023-1.1.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aggregation-router-v6-limit-order-v4-audit-report-2023-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-aggregation-router-v6-limit-order-v4-audit-report-2023-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-aggregation-router-v6-limit-order-v4-audit-report-2023-1-1-6e5489"
+  },
+  {
+    "source": "decurity",
     "project": "1inch calldata compressor",
     "title": "1inch calldata compressor audit report 2023 1.0",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/1inch/1inch-calldata-compressor-audit-report-2023-1.0.pdf",
@@ -178,6 +338,46 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/1inch-calldata-compressor-audit-report-2023-1-0-291440"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch calldata compressor",
+    "title": "1inch calldata compressor audit report 2023 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-calldata-compressor-audit-report-2023-1.0.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-calldata-compressor-audit-report-2023-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-calldata-compressor-audit-report-2023-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-calldata-compressor-audit-report-2023-1-0-d791ae"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch fusion v2",
+    "title": "1inch fusion v2 audit report 2023 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-v2-audit-report-2023-1.1.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-v2-audit-report-2023-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-fusion-v2-audit-report-2023-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-fusion-v2-audit-report-2023-1-1-894ff7"
   },
   {
     "source": "decurity",
@@ -221,6 +421,26 @@
   },
   {
     "source": "decurity",
+    "project": "1inch settlementextension",
+    "title": "1inch settlementextension audit report 2023 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-settlementextension-audit-report-2023-1.0.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-settlementextension-audit-report-2023-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-settlementextension-audit-report-2023-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-settlementextension-audit-report-2023-1-0-99b915"
+  },
+  {
+    "source": "decurity",
     "project": "aqueduct twamm",
     "title": "aqueduct twamm audit report 2023 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Aqueduct/aqueduct-twamm-audit-report-2023-1.1.pdf",
@@ -238,6 +458,46 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/aqueduct-twamm-audit-report-2023-1-1-0bc4dd"
+  },
+  {
+    "source": "decurity",
+    "project": "aqueduct twamm",
+    "title": "aqueduct twamm audit report 2023 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Aqueduct/aqueduct-twamm-audit-report-2023-1.1.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Aqueduct/aqueduct-twamm-audit-report-2023-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Aqueduct/aqueduct-twamm-audit-report-2023-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/aqueduct-twamm-audit-report-2023-1-1-2649ff"
+  },
+  {
+    "source": "decurity",
+    "project": "ufarm",
+    "title": "ufarm audit report 2023 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/UFarm/ufarm-audit-report-2023-1.1.pdf",
+    "date": "2023",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/UFarm/ufarm-audit-report-2023-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "UFarm/ufarm-audit-report-2023-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/ufarm-audit-report-2023-1-1-3b9d3b"
   },
   {
     "source": "decurity",
@@ -263,6 +523,26 @@
     "source": "decurity",
     "project": "1inch farming",
     "title": "1inch farming audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-farming-audit-report-1.0.pdf",
+    "date": "2023-03-25",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-farming-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-farming-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-farming-audit-report-1-0-08205b"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch farming",
+    "title": "1inch farming audit report 1.0",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/1inch/1inch-farming-audit-report-1.0.pdf",
     "date": "2023-03-25",
     "listing_url": "https://github.com/Decurity/audits",
@@ -278,6 +558,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/1inch-farming-audit-report-1-0-815411"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch fusion mode",
+    "title": "1inch fusion mode audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-mode-audit-report-1.1.pdf",
+    "date": "2023-03-25",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-mode-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-fusion-mode-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-fusion-mode-audit-report-1-1-9effab"
   },
   {
     "source": "decurity",
@@ -303,6 +603,26 @@
     "source": "decurity",
     "project": "1inch fusion mode",
     "title": "1inch fusion mode audit report 2.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-mode-audit-report-2.1.pdf",
+    "date": "2023-03-25",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-mode-audit-report-2.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-fusion-mode-audit-report-2.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-fusion-mode-audit-report-2-1-00a77c"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch fusion mode",
+    "title": "1inch fusion mode audit report 2.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/1inch/1inch-fusion-mode-audit-report-2.1.pdf",
     "date": "2023-03-25",
     "listing_url": "https://github.com/Decurity/audits",
@@ -318,6 +638,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/1inch-fusion-mode-audit-report-2-1-1e9e2b"
+  },
+  {
+    "source": "decurity",
+    "project": "symbiosis finance frontend",
+    "title": "symbiosis finance frontend audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Symbiosis/symbiosis-finance-frontend-audit-report-1.1.pdf",
+    "date": "2023-03-25",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Symbiosis/symbiosis-finance-frontend-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Symbiosis/symbiosis-finance-frontend-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/symbiosis-finance-frontend-audit-report-1-1-13a489"
   },
   {
     "source": "decurity",
@@ -361,6 +701,46 @@
   },
   {
     "source": "decurity",
+    "project": "symbiosis finance relayers",
+    "title": "symbiosis finance relayers audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf",
+    "date": "2023-03-25",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Symbiosis/symbiosis-finance-relayers-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/symbiosis-finance-relayers-audit-report-1-1-67f893"
+  },
+  {
+    "source": "decurity",
+    "project": "tokenlon limit order",
+    "title": "tokenlon limit order audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf",
+    "date": "2023-03-25",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/tokenlon-limit-order-audit-report-1-1-1b2a2a"
+  },
+  {
+    "source": "decurity",
     "project": "tokenlon limit order",
     "title": "tokenlon limit order audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Tokenlon/tokenlon-limit-order-audit-report-1.1.pdf",
@@ -378,6 +758,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/tokenlon-limit-order-audit-report-1-1-6db0fc"
+  },
+  {
+    "source": "decurity",
+    "project": "thales market liquidity pool",
+    "title": "thales market liquidity pool audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/ThalesMarket/thales-market-liquidity-pool-audit-report-1.1.pdf",
+    "date": "2023-05-01",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/ThalesMarket/thales-market-liquidity-pool-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "ThalesMarket/thales-market-liquidity-pool-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/thales-market-liquidity-pool-audit-report-1-1-74a7aa"
   },
   {
     "source": "decurity",
@@ -421,6 +821,26 @@
   },
   {
     "source": "decurity",
+    "project": "zkbob contracts cdp",
+    "title": "zkbob contracts cdp audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf",
+    "date": "2023-05-17",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "zkBob/zkbob-contracts-cdp-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/zkbob-contracts-cdp-audit-report-1-1-bc54c6"
+  },
+  {
+    "source": "decurity",
     "project": "tokenlon rfqv2",
     "title": "tokenlon rfqv2 audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf",
@@ -438,6 +858,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/tokenlon-rfqv2-audit-report-1-1-8e0938"
+  },
+  {
+    "source": "decurity",
+    "project": "tokenlon rfqv2",
+    "title": "tokenlon rfqv2 audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf",
+    "date": "2023-06-29",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Tokenlon/tokenlon-rfqv2-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/tokenlon-rfqv2-audit-report-1-1-9a1487"
   },
   {
     "source": "decurity",
@@ -461,6 +901,46 @@
   },
   {
     "source": "decurity",
+    "project": "collectif dao",
+    "title": "collectif dao audit report 1.2",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/CollectifDAO/collectif-dao-audit-report-1.2.pdf",
+    "date": "2023-07-06",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/CollectifDAO/collectif-dao-audit-report-1.2.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "CollectifDAO/collectif-dao-audit-report-1.2.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/collectif-dao-audit-report-1-2-549374"
+  },
+  {
+    "source": "decurity",
+    "project": "thales market speedmarkets",
+    "title": "thales market speedmarkets audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/ThalesMarket/thales-market-speedmarkets-audit-report-1.1.pdf",
+    "date": "2023-08-23",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/ThalesMarket/thales-market-speedmarkets-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "ThalesMarket/thales-market-speedmarkets-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/thales-market-speedmarkets-audit-report-1-1-b7bb85"
+  },
+  {
+    "source": "decurity",
     "project": "thales market speedmarkets",
     "title": "thales market speedmarkets audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/ThalesMarket/thales-market-speedmarkets-audit-report-1.1.pdf",
@@ -478,6 +958,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/thales-market-speedmarkets-audit-report-1-1-d179f6"
+  },
+  {
+    "source": "decurity",
+    "project": "vooi pool",
+    "title": "vooi pool security audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Vooi/vooi-pool-security-audit-report-1.1.pdf",
+    "date": "2023-08-31",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Vooi/vooi-pool-security-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Vooi/vooi-pool-security-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/vooi-pool-security-audit-report-1-1-68a387"
   },
   {
     "source": "decurity",
@@ -521,6 +1021,46 @@
   },
   {
     "source": "decurity",
+    "project": "bebop jam",
+    "title": "bebop jam audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Bebop/bebop-jam-audit-report-1.1.pdf",
+    "date": "2023-12-04",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Bebop/bebop-jam-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Bebop/bebop-jam-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/bebop-jam-audit-report-1-1-bd766c"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch cross chain swaps",
+    "title": "1inch cross chain swaps audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-cross-chain-swaps-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-cross-chain-swaps-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-cross-chain-swaps-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-cross-chain-swaps-audit-report-2024-1-1-006445"
+  },
+  {
+    "source": "decurity",
     "project": "1inch cross chain swaps",
     "title": "1inch cross chain swaps audit report 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/1inch/1inch-cross-chain-swaps-audit-report-2024-1.1.pdf",
@@ -543,6 +1083,26 @@
     "source": "decurity",
     "project": "1inch cross chain swaps v2",
     "title": "1inch cross chain swaps v2 audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-cross-chain-swaps-v2-audit-report-2024-1-1-33e3f3"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch cross chain swaps v2",
+    "title": "1inch cross chain swaps v2 audit report 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/1inch/1inch-cross-chain-swaps-v2-audit-report-2024-1.1.pdf",
     "date": "2024",
     "listing_url": "https://github.com/Decurity/audits",
@@ -558,6 +1118,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/1inch-cross-chain-swaps-v2-audit-report-2024-1-1-65fab5"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch fusion v2",
+    "title": "1inch fusion v2 audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-v2-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-fusion-v2-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-fusion-v2-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-fusion-v2-audit-report-2024-1-1-8761a7"
   },
   {
     "source": "decurity",
@@ -601,6 +1181,26 @@
   },
   {
     "source": "decurity",
+    "project": "1inch selfdestruct refactoring",
+    "title": "1inch selfdestruct refactoring audit report 2024 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-selfdestruct-refactoring-audit-report-2024-1.0.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-selfdestruct-refactoring-audit-report-2024-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-selfdestruct-refactoring-audit-report-2024-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-selfdestruct-refactoring-audit-report-2024-1-0-d5393f"
+  },
+  {
+    "source": "decurity",
     "project": "clearpool open term pools",
     "title": "clearpool open term pools audit report 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf",
@@ -618,6 +1218,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/clearpool-open-term-pools-audit-report-2024-1-1-7707f5"
+  },
+  {
+    "source": "decurity",
+    "project": "clearpool open term pools",
+    "title": "clearpool open term pools audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Clearpool/clearpool-open-term-pools-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/clearpool-open-term-pools-audit-report-2024-1-1-96ea4a"
   },
   {
     "source": "decurity",
@@ -641,6 +1261,26 @@
   },
   {
     "source": "decurity",
+    "project": "clearpool usdx",
+    "title": "clearpool usdx audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Clearpool/clearpool-usdx-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Clearpool/clearpool-usdx-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Clearpool/clearpool-usdx-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/clearpool-usdx-audit-report-2024-1-1-9eae33"
+  },
+  {
+    "source": "decurity",
     "project": "etherfi liquifier diff",
     "title": "etherfi liquifier diff audit report 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf",
@@ -658,6 +1298,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/etherfi-liquifier-diff-audit-report-2024-1-1-6c358b"
+  },
+  {
+    "source": "decurity",
+    "project": "etherfi liquifier diff",
+    "title": "etherfi liquifier diff audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "EtherFi/etherfi-liquifier-diff-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/etherfi-liquifier-diff-audit-report-2024-1-1-faa1cd"
   },
   {
     "source": "decurity",
@@ -681,6 +1341,26 @@
   },
   {
     "source": "decurity",
+    "project": "frankencoin",
+    "title": "frankencoin audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Frankencoin/frankencoin-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Frankencoin/frankencoin-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Frankencoin/frankencoin-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/frankencoin-audit-report-2024-1-1-cd9707"
+  },
+  {
+    "source": "decurity",
     "project": "nuon",
     "title": "nuon audit report 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Nuon/nuon-audit-report-2024-1.1.pdf",
@@ -698,6 +1378,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/nuon-audit-report-2024-1-1-07259a"
+  },
+  {
+    "source": "decurity",
+    "project": "nuon",
+    "title": "nuon audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Nuon/nuon-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Nuon/nuon-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Nuon/nuon-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/nuon-audit-report-2024-1-1-d7a784"
   },
   {
     "source": "decurity",
@@ -721,6 +1421,26 @@
   },
   {
     "source": "decurity",
+    "project": "socket across bridge integration",
+    "title": "socket across bridge integration audit 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-across-bridge-integration-audit-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-across-bridge-integration-audit-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "SocketTech/socket-across-bridge-integration-audit-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/socket-across-bridge-integration-audit-2024-1-1-8030c8"
+  },
+  {
+    "source": "decurity",
     "project": "socket hop l2 integration",
     "title": "socket hop l2 integration audit report 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf",
@@ -738,6 +1458,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/socket-hop-l2-integration-audit-report-2024-1-1-935cee"
+  },
+  {
+    "source": "decurity",
+    "project": "socket hop l2 integration",
+    "title": "socket hop l2 integration audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "SocketTech/socket-hop-l2-integration-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/socket-hop-l2-integration-audit-report-2024-1-1-f0a6c4"
   },
   {
     "source": "decurity",
@@ -761,6 +1501,26 @@
   },
   {
     "source": "decurity",
+    "project": "socket mantle integration",
+    "title": "socket mantle integration audit report 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-mantle-integration-audit-report-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-mantle-integration-audit-report-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "SocketTech/socket-mantle-integration-audit-report-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/socket-mantle-integration-audit-report-2024-1-1-950f32"
+  },
+  {
+    "source": "decurity",
     "project": "socket scroll integration",
     "title": "socket scroll integration audit 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/SocketTech/socket-scroll-integration-audit-2024-1.1.pdf",
@@ -781,6 +1541,26 @@
   },
   {
     "source": "decurity",
+    "project": "socket scroll integration",
+    "title": "socket scroll integration audit 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-scroll-integration-audit-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-scroll-integration-audit-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "SocketTech/socket-scroll-integration-audit-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/socket-scroll-integration-audit-2024-1-1-1d7bc0"
+  },
+  {
+    "source": "decurity",
     "project": "socket stargate v2 integration",
     "title": "socket stargate v2 integration audit 2024 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/SocketTech/socket-stargate-v2-integration-audit-2024-1.1.pdf",
@@ -798,6 +1578,46 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/socket-stargate-v2-integration-audit-2024-1-1-051bc9"
+  },
+  {
+    "source": "decurity",
+    "project": "socket stargate v2 integration",
+    "title": "socket stargate v2 integration audit 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-stargate-v2-integration-audit-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-stargate-v2-integration-audit-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "SocketTech/socket-stargate-v2-integration-audit-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/socket-stargate-v2-integration-audit-2024-1-1-f25f03"
+  },
+  {
+    "source": "decurity",
+    "project": "socket superbridge integration",
+    "title": "socket superbridge integration audit 2024 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-superbridge-integration-audit-2024-1.1.pdf",
+    "date": "2024",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-superbridge-integration-audit-2024-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "SocketTech/socket-superbridge-integration-audit-2024-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/socket-superbridge-integration-audit-2024-1-1-14044f"
   },
   {
     "source": "decurity",
@@ -841,6 +1661,46 @@
   },
   {
     "source": "decurity",
+    "project": "gearbox governor v3",
+    "title": "gearbox governor v3 audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf",
+    "date": "2024-02-08",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-governor-v3-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-governor-v3-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-governor-v3-audit-report-1-0-da0ce6"
+  },
+  {
+    "source": "decurity",
+    "project": "unore v2",
+    "title": "unore v2 audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/UnoRe/unore-v2-audit-report-1.1.pdf",
+    "date": "2024-04-01",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/UnoRe/unore-v2-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "UnoRe/unore-v2-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/unore-v2-audit-report-1-1-c0637b"
+  },
+  {
+    "source": "decurity",
     "project": "unore v2",
     "title": "unore v2 audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/UnoRe/unore-v2-audit-report-1.1.pdf",
@@ -881,6 +1741,26 @@
   },
   {
     "source": "decurity",
+    "project": "gearbox pendle mellow integrations",
+    "title": "gearbox pendle mellow integrations audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf",
+    "date": "2024-08-26",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-pendle-mellow-integrations-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-pendle-mellow-integrations-audit-report-1-1-6754c6"
+  },
+  {
+    "source": "decurity",
     "project": "mortgagefi",
     "title": "mortgagefi audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/MortgageFi/mortgagefi-audit-report-1.1.pdf",
@@ -901,6 +1781,26 @@
   },
   {
     "source": "decurity",
+    "project": "mortgagefi",
+    "title": "mortgagefi audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/MortgageFi/mortgagefi-audit-report-1.1.pdf",
+    "date": "2024-10-09",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/MortgageFi/mortgagefi-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "MortgageFi/mortgagefi-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/mortgagefi-audit-report-1-1-a53acd"
+  },
+  {
+    "source": "decurity",
     "project": "fluence dao",
     "title": "fluence dao audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Fluence/fluence-dao-audit-report-1.1.pdf",
@@ -918,6 +1818,46 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/fluence-dao-audit-report-1-1-9e1fff"
+  },
+  {
+    "source": "decurity",
+    "project": "fluence dao",
+    "title": "fluence dao audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Fluence/fluence-dao-audit-report-1.1.pdf",
+    "date": "2024-11-09",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Fluence/fluence-dao-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Fluence/fluence-dao-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/fluence-dao-audit-report-1-1-b492c6"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch aqua swapvm",
+    "title": "1inch aqua swapvm audit report 2025 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aqua-swapvm-audit-report-2025-1.0.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aqua-swapvm-audit-report-2025-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-aqua-swapvm-audit-report-2025-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-aqua-swapvm-audit-report-2025-1-0-e2f544"
   },
   {
     "source": "decurity",
@@ -961,6 +1901,26 @@
   },
   {
     "source": "decurity",
+    "project": "cryptolegacy",
+    "title": "cryptolegacy audit report 2025 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Cryptolegacy/cryptolegacy-audit-report-2025-1.1.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Cryptolegacy/cryptolegacy-audit-report-2025-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Cryptolegacy/cryptolegacy-audit-report-2025-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/cryptolegacy-audit-report-2025-1-1-477501"
+  },
+  {
+    "source": "decurity",
     "project": "mortgagefi update",
     "title": "mortgagefi update audit report 2025 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/MortgageFi/mortgagefi-update-audit-report-2025-1.1.pdf",
@@ -978,6 +1938,46 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/mortgagefi-update-audit-report-2025-1-1-840849"
+  },
+  {
+    "source": "decurity",
+    "project": "mortgagefi update",
+    "title": "mortgagefi update audit report 2025 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/MortgageFi/mortgagefi-update-audit-report-2025-1.1.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/MortgageFi/mortgagefi-update-audit-report-2025-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "MortgageFi/mortgagefi-update-audit-report-2025-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/mortgagefi-update-audit-report-2025-1-1-f21662"
+  },
+  {
+    "source": "decurity",
+    "project": "socket mayan integration",
+    "title": "socket mayan integration audit report 2025 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-mayan-integration-audit-report-2025-1.1.pdf",
+    "date": "2025",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/SocketTech/socket-mayan-integration-audit-report-2025-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "SocketTech/socket-mayan-integration-audit-report-2025-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/socket-mayan-integration-audit-report-2025-1-1-40bbcb"
   },
   {
     "source": "decurity",
@@ -1003,6 +2003,26 @@
     "source": "decurity",
     "project": "gearbox balancer v3 integrations",
     "title": "gearbox balancer v3 integrations audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-balancer-v3-integrations-audit-report-1.1.pdf",
+    "date": "2025-04-24",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-balancer-v3-integrations-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-balancer-v3-integrations-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-balancer-v3-integrations-audit-report-1-1-5b7bbe"
+  },
+  {
+    "source": "decurity",
+    "project": "gearbox balancer v3 integrations",
+    "title": "gearbox balancer v3 integrations audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Gearbox/gearbox-balancer-v3-integrations-audit-report-1.1.pdf",
     "date": "2025-04-24",
     "listing_url": "https://github.com/Decurity/audits",
@@ -1018,6 +2038,26 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/gearbox-balancer-v3-integrations-audit-report-1-1-8c48e1"
+  },
+  {
+    "source": "decurity",
+    "project": "gearbox sky pyth integrations",
+    "title": "gearbox sky pyth integrations audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-sky-pyth-integrations-audit-report-1.1.pdf",
+    "date": "2025-04-24",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-sky-pyth-integrations-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-sky-pyth-integrations-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-sky-pyth-integrations-audit-report-1-1-cd264d"
   },
   {
     "source": "decurity",
@@ -1061,6 +2101,26 @@
   },
   {
     "source": "decurity",
+    "project": "dyson finance",
+    "title": "dyson finance audit report 1.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/DysonFinance/dyson-finance-audit-report-1.0.pdf",
+    "date": "2025-05-15",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/DysonFinance/dyson-finance-audit-report-1.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "DysonFinance/dyson-finance-audit-report-1.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/dyson-finance-audit-report-1-0-ea1555"
+  },
+  {
+    "source": "decurity",
     "project": "gearbox integrations misc",
     "title": "gearbox integrations misc audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Gearbox/gearbox-integrations-misc-audit-report-1.1.pdf",
@@ -1078,6 +2138,46 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/gearbox-integrations-misc-audit-report-1-1-35b937"
+  },
+  {
+    "source": "decurity",
+    "project": "gearbox integrations misc",
+    "title": "gearbox integrations misc audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-integrations-misc-audit-report-1.1.pdf",
+    "date": "2025-06-20",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-integrations-misc-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-integrations-misc-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-integrations-misc-audit-report-1-1-8d9194"
+  },
+  {
+    "source": "decurity",
+    "project": "gearbox balancer v3 integrations",
+    "title": "gearbox balancer v3 integrations audit report 2.0",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-balancer-v3-integrations-audit-report-2.0.pdf",
+    "date": "2025-10-22",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-balancer-v3-integrations-audit-report-2.0.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-balancer-v3-integrations-audit-report-2.0.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-balancer-v3-integrations-audit-report-2-0-39fe56"
   },
   {
     "source": "decurity",
@@ -1121,6 +2221,26 @@
   },
   {
     "source": "decurity",
+    "project": "gearbox curve pendle oracle update",
+    "title": "gearbox curve pendle oracle update audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-curve-pendle-oracle-update-audit-report-1.1.pdf",
+    "date": "2025-10-28",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-curve-pendle-oracle-update-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-curve-pendle-oracle-update-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-curve-pendle-oracle-update-audit-report-1-1-d19fe7"
+  },
+  {
+    "source": "decurity",
     "project": "gearbox infinifi uniswap v4",
     "title": "gearbox infinifi uniswap v4 audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Gearbox/gearbox-infinifi-uniswap-v4-audit-report-1.1.pdf",
@@ -1141,6 +2261,26 @@
   },
   {
     "source": "decurity",
+    "project": "gearbox infinifi uniswap v4",
+    "title": "gearbox infinifi uniswap v4 audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-infinifi-uniswap-v4-audit-report-1.1.pdf",
+    "date": "2025-11-24",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-infinifi-uniswap-v4-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-infinifi-uniswap-v4-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-infinifi-uniswap-v4-audit-report-1-1-dd018d"
+  },
+  {
+    "source": "decurity",
     "project": "1inch aqua swapvm update",
     "title": "1inch aqua swapvm audit update report 2026 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/1inch/1inch-aqua-swapvm-audit-update-report-2026-1.1.pdf",
@@ -1158,6 +2298,46 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/1inch-aqua-swapvm-audit-update-report-2026-1-1-d474b1"
+  },
+  {
+    "source": "decurity",
+    "project": "1inch aqua swapvm update",
+    "title": "1inch aqua swapvm audit update report 2026 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aqua-swapvm-audit-update-report-2026-1.1.pdf",
+    "date": "2026",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/1inch/1inch-aqua-swapvm-audit-update-report-2026-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "1inch/1inch-aqua-swapvm-audit-update-report-2026-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/1inch-aqua-swapvm-audit-update-report-2026-1-1-e0c6c5"
+  },
+  {
+    "source": "decurity",
+    "project": "gearbox kelp lrt integration",
+    "title": "gearbox kelp lrt integration audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-kelp-lrt-integration-audit-report-1.1.pdf",
+    "date": "2026-01-13",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-kelp-lrt-integration-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-kelp-lrt-integration-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-kelp-lrt-integration-audit-report-1-1-80102e"
   },
   {
     "source": "decurity",
@@ -1201,6 +2381,26 @@
   },
   {
     "source": "decurity",
+    "project": "gearbox securitize integration",
+    "title": "gearbox securitize integration audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-securitize-integration-audit-report-1.1.pdf",
+    "date": "2026-05-11",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-securitize-integration-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-securitize-integration-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-securitize-integration-audit-report-1-1-cf6f10"
+  },
+  {
+    "source": "decurity",
     "project": "gearbox midas integration",
     "title": "gearbox midas integration audit report 1.1",
     "report_url": "https://github.com/Decurity/audits/blob/3519e0928c5ae9d2de34062f48f4238a0c13b483/Gearbox/gearbox-midas-integration-audit-report-1.1.pdf",
@@ -1218,5 +2418,25 @@
       "commit": "3519e0928c5ae9d2de34062f48f4238a0c13b483"
     },
     "id": "decurity/gearbox-midas-integration-audit-report-1-1-05c3ff"
+  },
+  {
+    "source": "decurity",
+    "project": "gearbox midas integration",
+    "title": "gearbox midas integration audit report 1.1",
+    "report_url": "https://github.com/Decurity/audits/blob/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-midas-integration-audit-report-1.1.pdf",
+    "date": "2026-07-02",
+    "listing_url": "https://github.com/Decurity/audits",
+    "download_url": "https://raw.githubusercontent.com/Decurity/audits/736e3b80199dca77f5e3ee727c1d5853a9247f76/Gearbox/gearbox-midas-integration-audit-report-1.1.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "repo": "Decurity/audits",
+      "path": "Gearbox/gearbox-midas-integration-audit-report-1.1.pdf",
+      "commit": "736e3b80199dca77f5e3ee727c1d5853a9247f76"
+    },
+    "id": "decurity/gearbox-midas-integration-audit-report-1-1-d77f97"
   }
 ]

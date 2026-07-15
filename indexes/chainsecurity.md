@@ -1,9 +1,10 @@
 # ChainSecurity
 
-Listing: https://www.chainsecurity.com/smart-contract-audit-reports — 391 reports, 388 downloadable (3 unavailable upstream).
+Listing: https://www.chainsecurity.com/smart-contract-audit-reports — 393 reports, 388 downloadable (5 unavailable upstream).
 
 | Date | Project | Report | Fetched |
 |---|---|---|---|
+| 2026-07-02 | Compound Franchiser V2 | [Compound Franchiser V2](https://chainsecurity.com/reports/Compound/ChainSecurity_Compound_FranchiserV2_Audit.pdf) | ✓ |
 | 2026-06-23 | Sky LayerZero Governance DVN | [Sky LayerZero Governance DVN](https://reports.chainsecurity.com/Sky/ChainSecurity_Sky_SkyLayerZeroGovernanceDVN_Audit.pdf) | ✓ |
 | 2026-06-23 | Sky LZ Governance Relay | [Sky LZ Governance Relay](https://www.chainsecurity.com/reports/Sky/ChainSecurity_Sky_SkyLZGovernanceRelay_Audit.pdf) | ✓ |
 | 2026-06-23 | Sky CCIP DVN Adapter | [Sky CCIP DVN Adapter](https://chainsecurity.com/reports/Sky/ChainSecurity_Sky_CCIPDVNAdapter_Audit.pdf) | ✓ |
@@ -24,6 +25,7 @@ Listing: https://www.chainsecurity.com/smart-contract-audit-reports — 391 repo
 | 2026-05-06 | Makina Periphery | [Makina Periphery](https://www.chainsecurity.com/reports/Makina/ChainSecurity_Makina_MakinaPeripherySmartContracts_Audit.pdf) | ✓ |
 | 2026-05-06 | Makina Core | [Makina Core](https://www.chainsecurity.com/reports/Makina/ChainSecurity_Makina_MakinaCoreSmartContracts_Audit.pdf) | ✓ |
 | 2026-05-05 | Grove User Actions | [Grove User Actions](https://chainsecurity.com/reports/GroveLabs/ChainSecurity_GroveLabs_GroveUserActions_Audit.pdf) | ✓ |
+| 2026-04-30 | Mezzanine Finance | [Mezzanine Finance](https://chainsecurity.com/reports/Mezzanine/ChainSecurity_MezzanineFoundation_MezzanineFinance_Audit.pdf) | ✗ |
 | 2026-04-28 | Gearbox V3.1 Integrations | [Gearbox V3.1 Integrations](https://chainsecurity.com/reports/Gearbox/ChainSecurity_GearboxProtocol_GearboxV31Integrations_Audit.pdf) | ✓ |
 | 2026-04-10 | Sky stUSDS | [Sky stUSDS](https://www.chainsecurity.com/reports/Sky/ChainSecurity_Sky_SkyStUSDS_Audit.pdf) | ✓ |
 | 2026-04-10 | 3F Grunt | [3F Grunt](https://chainsecurity.com/reports/3F/ChainSecurity_3F_Grunt_Audit.pdf) | ✓ |
@@ -393,5 +395,5 @@ Listing: https://www.chainsecurity.com/smart-contract-audit-reports — 391 repo
 | 2017-12-20 | Augur platform | [Augur platform](https://www.chainsecurity.com/reports/Augur/ChainSecurity_Augur_Augur_Audit.pdf) | ✓ |
 | 2017-11-22 | Block V Smart Contract | [Block V Smart Contract](https://www.chainsecurity.com/reports/BlockV/DualFoundation/Blockv_ChainSecurity_Report_PUBLIC.pdf) | ✓ |
 | 2017-10-22 | HelloGold Foundation | [HelloGold Foundation](https://www.chainsecurity.com/reports/HelloGoldFoundation/ChainSecurity_HelloGoldFoundation_HelloGold_Audit.pdf) | ✓ |
+| — | Sky Diamond Pau V1 14 | [Sky Diamond Pau V1 14](https://chainsecurity.com/reports/Sky/ChainSecurity_Sky_DiamondPAUv114_Audit.pdf) | ✗ |
 | — | Makina Lite | [Makina Lite](https://chainsecurity.com/reports/Makina/ChainSecurity_Makina_MakinaLite_Audit.pdf) | ✓ |
-| — | Compound Franchiser V2 | [Compound Franchiser V2](https://chainsecurity.com/reports/Compound/ChainSecurity_Compound_FranchiserV2_Audit.pdf) | ✓ |

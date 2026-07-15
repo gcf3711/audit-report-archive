@@ -1,9 +1,11 @@
 # OpenZeppelin
 
-Listing: https://www.openzeppelin.com/research#security-audits — 386 reports, 386 downloadable (0 unavailable upstream).
+Listing: https://www.openzeppelin.com/research#security-audits — 390 reports, 386 downloadable (4 unavailable upstream).
 
 | Date | Project | Report | Fetched |
 |---|---|---|---|
+| 2026-07-10 | Lombard LBTC Rate Limits | [Lombard LBTC Rate Limits Audit](https://www.openzeppelin.com/news/lombard-lbtc-rate-limits-audit) | ✗ |
+| 2026-07-09 | Symbiotic Core v2 Adapters | [Symbiotic Core v2 Adapters Audit](https://www.openzeppelin.com/news/symbiotic-core-v2-adapters-audit) | ✗ |
 | 2026-07-01 | Arcus Rootchain Contracts | [Arcus Rootchain Contracts Audit](https://www.openzeppelin.com/news/arcus-rootchain-contracts-audit) | ✓ |
 | 2026-06-26 | Uniswap Flashtestations | [Uniswap Flashtestations Audit](https://www.openzeppelin.com/news/uniswap-flashtestations-audit-1) | ✓ |
 | 2026-06-23 | Privacy Contracts | [Privacy Contracts Audit](https://www.openzeppelin.com/news/privacy-contracts-audit) | ✓ |
@@ -358,6 +360,7 @@ Listing: https://www.openzeppelin.com/research#security-audits — 386 reports, 
 | 2018-01-03 | Tether Token | [Tether Token Audit](https://www.openzeppelin.com/news/tether-token-audit-438d561a380) | ✓ |
 | 2017-12-19 | WAX Token | [WAX Token Audit](https://www.openzeppelin.com/news/wax-token-audit-e072e580407e) | ✓ |
 | 2017-12-19 | Qiibee Token | [Qiibee Token Audit](https://www.openzeppelin.com/news/qiibee-token-audit-b19c03262f99) | ✓ |
+| 2017-11-08 | Simple Token Sale | [Simple Token Sale Audit](https://www.openzeppelin.com/news/simple-token-sale-audit-30e5f2365463) | ✗ |
 | 2017-11-07 | UnikoinGold Token | [UnikoinGold Token Audit](https://www.openzeppelin.com/news/unikoingold-token-audit-aafb7de07f3) | ✓ |
 | 2017-11-02 | BitClave Token | [BitClave Token Audit](https://www.openzeppelin.com/news/bitclave-token-audit-570b0c664eb0) | ✓ |
 | 2017-10-30 | Fiinu Token | [Fiinu Token Audit](https://www.openzeppelin.com/news/fiinu-token-audit-c62ecbf63ad1) | ✓ |
@@ -383,6 +386,7 @@ Listing: https://www.openzeppelin.com/research#security-audits — 386 reports, 
 | 2017-04-27 | Blockchain Capital Token | [Blockchain Capital Token Audit](https://www.openzeppelin.com/news/blockchain-capital-token-audit-68e882d14f0) | ✓ |
 | 2017-04-12 | COSMOS Fundraiser | [COSMOS Fundraiser Audit](https://www.openzeppelin.com/news/cosmos-fundraiser-audit-7543a57335a4) | ✓ |
 | 2017-04-11 | iEx.ec RLC Token | [iEx.ec RLC Token Audit](https://www.openzeppelin.com/news/iex-ec-rlc-token-audit-80abd763709b) | ✓ |
+| 2017-03-31 | Matchpool GUP Token | [Matchpool GUP Token Audit](https://www.openzeppelin.com/news/matchpool-gup-token-audit-852a70330f2) | ✗ |
 | 2017-02-28 | WeTrust ROSCA contract code | [WeTrust ROSCA contract code audit](https://www.openzeppelin.com/news/wetrust-rosca-contract-code-audit-928a536c5dd2) | ✓ |
 | 2017-02-07 | SuperDAO Promissory Token | [SuperDAO Promissory Token audit](https://www.openzeppelin.com/news/draft-superdao-promissory-token-audit-2409e0fe776c) | ✓ |
 | 2016-12-18 | EtherCamp’s decentralized startup team public code | [EtherCamp’s decentralized startup team public code audit](https://www.openzeppelin.com/news/ethercamps-decentralized-startup-team-public-code-audit-65f4ce8f838d) | ✓ |

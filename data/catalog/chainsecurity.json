@@ -1,25 +1,6 @@
 [
   {
     "source": "chainsecurity",
-    "project": "Compound Franchiser V2",
-    "title": "Compound Franchiser V2",
-    "report_url": "https://chainsecurity.com/reports/Compound/ChainSecurity_Compound_FranchiserV2_Audit.pdf",
-    "date": null,
-    "listing_url": "https://www.chainsecurity.com/smart-contract-audit-reports",
-    "download_url": "https://chainsecurity.com/reports/Compound/ChainSecurity_Compound_FranchiserV2_Audit.pdf",
-    "file_type": "pdf",
-    "local_path": "data/reports/chainsecurity/compound-franchiser-v2_0ac8aa5d.pdf",
-    "sha256": "dcf28b26f885844c678cb399f1d3e87055ebc86b03382a02eb11bbb260dcdb2c",
-    "size_bytes": 1964970,
-    "downloaded_at": "2026-07-05T14:21:37+00:00",
-    "extra": {
-      "detail_page": "https://www.chainsecurity.com/security-audit/compound-franchiser-v2",
-      "topic": null
-    },
-    "id": "chainsecurity/compound-franchiser-v2-0ac8aa"
-  },
-  {
-    "source": "chainsecurity",
     "project": "Makina Lite",
     "title": "Makina Lite",
     "report_url": "https://chainsecurity.com/reports/Makina/ChainSecurity_Makina_MakinaLite_Audit.pdf",
@@ -36,6 +17,25 @@
       "topic": "Yield Aggregators / DeFi Asset Management"
     },
     "id": "chainsecurity/makina-lite-a1cfef"
+  },
+  {
+    "source": "chainsecurity",
+    "project": "Sky Diamond Pau V1 14",
+    "title": "Sky Diamond Pau V1 14",
+    "report_url": "https://chainsecurity.com/reports/Sky/ChainSecurity_Sky_DiamondPAUv114_Audit.pdf",
+    "date": null,
+    "listing_url": "https://www.chainsecurity.com/smart-contract-audit-reports",
+    "download_url": "https://chainsecurity.com/reports/Sky/ChainSecurity_Sky_DiamondPAUv114_Audit.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "detail_page": "https://www.chainsecurity.com/security-audit/sky-diamond-pau-v1-14",
+      "topic": null
+    },
+    "id": "chainsecurity/sky-diamond-pau-v1-14-fe6138"
   },
   {
     "source": "chainsecurity",
@@ -7050,6 +7050,25 @@
   },
   {
     "source": "chainsecurity",
+    "project": "Mezzanine Finance",
+    "title": "Mezzanine Finance",
+    "report_url": "https://chainsecurity.com/reports/Mezzanine/ChainSecurity_MezzanineFoundation_MezzanineFinance_Audit.pdf",
+    "date": "2026-04-30",
+    "listing_url": "https://www.chainsecurity.com/smart-contract-audit-reports",
+    "download_url": "https://chainsecurity.com/reports/Mezzanine/ChainSecurity_MezzanineFoundation_MezzanineFinance_Audit.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "detail_page": "https://www.chainsecurity.com/security-audit/mezzanine-finance",
+      "topic": "Yield Aggregators / DeFi Asset Management"
+    },
+    "id": "chainsecurity/mezzanine-finance-827158"
+  },
+  {
+    "source": "chainsecurity",
     "project": "Grove User Actions",
     "title": "Grove User Actions",
     "report_url": "https://chainsecurity.com/reports/GroveLabs/ChainSecurity_GroveLabs_GroveUserActions_Audit.pdf",
@@ -7427,5 +7446,24 @@
       "topic": "Lending / Leverage"
     },
     "id": "chainsecurity/sky-lz-governance-relay-eb5b39"
+  },
+  {
+    "source": "chainsecurity",
+    "project": "Compound Franchiser V2",
+    "title": "Compound Franchiser V2",
+    "report_url": "https://chainsecurity.com/reports/Compound/ChainSecurity_Compound_FranchiserV2_Audit.pdf",
+    "date": "2026-07-02",
+    "listing_url": "https://www.chainsecurity.com/smart-contract-audit-reports",
+    "download_url": "https://chainsecurity.com/reports/Compound/ChainSecurity_Compound_FranchiserV2_Audit.pdf",
+    "file_type": "pdf",
+    "local_path": "data/reports/chainsecurity/compound-franchiser-v2_0ac8aa5d.pdf",
+    "sha256": "dcf28b26f885844c678cb399f1d3e87055ebc86b03382a02eb11bbb260dcdb2c",
+    "size_bytes": 1964970,
+    "downloaded_at": "2026-07-05T14:21:37+00:00",
+    "extra": {
+      "detail_page": "https://www.chainsecurity.com/security-audit/compound-franchiser-v2",
+      "topic": "Governance"
+    },
+    "id": "chainsecurity/compound-franchiser-v2-0ac8aa"
   }
 ]

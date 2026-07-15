@@ -16910,6 +16910,31 @@
   },
   {
     "source": "cantina",
+    "project": "Tenor",
+    "title": "Tenor Finance",
+    "report_url": "https://cdn.cantina.xyz/reports/cantina_tenor_may2026.pdf",
+    "date": "2026-06-05",
+    "listing_url": "https://cantina.xyz/security-reviews",
+    "download_url": "https://cdn.cantina.xyz/reports/cantina_tenor_may2026.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "portfolio_page": "https://cantina.xyz/portfolio/58cca1e6-37ad-4221-82e1-1c4f179fa67a",
+      "engagement_kind": "cantina_managed",
+      "repository_links": [
+        "https://github.com/cantina-forks/Shippooor-Labs-tenor-morpho-v2-contracts-2"
+      ],
+      "commit_hashes": [
+        "37d232f990696911dad2020be10554c2f38cd923"
+      ]
+    },
+    "id": "cantina/tenor-finance-8dcfc3"
+  },
+  {
+    "source": "cantina",
     "project": "Stakekit",
     "title": "Stakekit: PR 41",
     "report_url": "https://cdn.cantina.xyz/reports/cantina_stakekit_pr41_jun2026.pdf",
@@ -17107,5 +17132,55 @@
       ]
     },
     "id": "cantina/alto-money-v1-basemarket-changes-caeabf"
+  },
+  {
+    "source": "cantina",
+    "project": "Sky",
+    "title": "Sky: PAU NFAT Facet",
+    "report_url": "https://cdn.cantina.xyz/reports/sky_cantina_nfat_facet_diamond_pau_jun2026.pdf",
+    "date": "2026-06-25",
+    "listing_url": "https://cantina.xyz/security-reviews",
+    "download_url": "https://cdn.cantina.xyz/reports/sky_cantina_nfat_facet_diamond_pau_jun2026.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "portfolio_page": "https://cantina.xyz/portfolio/2db00e28-838f-4769-bc9f-8b0624f172d2",
+      "engagement_kind": "cantina_managed",
+      "repository_links": [
+        "https://github.com/sky-ecosystem/diamond-pau"
+      ],
+      "commit_hashes": [
+        "4812e320fef3ad6eb71de218df6c3b1f486139fd"
+      ]
+    },
+    "id": "cantina/sky-pau-nfat-facet-ded32b"
+  },
+  {
+    "source": "cantina",
+    "project": "YO.xyz",
+    "title": "YO.xyz: core-v2 re-review",
+    "report_url": "https://cdn.cantina.xyz/reports/cantina_yo_core_jun2026.pdf",
+    "date": "2026-06-25",
+    "listing_url": "https://cantina.xyz/security-reviews",
+    "download_url": "https://cdn.cantina.xyz/reports/cantina_yo_core_jun2026.pdf",
+    "file_type": "pdf",
+    "local_path": null,
+    "sha256": null,
+    "size_bytes": null,
+    "downloaded_at": null,
+    "extra": {
+      "portfolio_page": "https://cantina.xyz/portfolio/b46b0446-99c2-4484-8a19-1ab363b3ca1c",
+      "engagement_kind": "cantina_managed",
+      "repository_links": [
+        "https://github.com/yoprotocol/core-v2"
+      ],
+      "commit_hashes": [
+        "de928b00ce81cc5c28e75b7956a6e26acc3ce921"
+      ]
+    },
+    "id": "cantina/yo-xyz-core-v2-re-review-594ccf"
   }
 ]

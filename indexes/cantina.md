@@ -1,9 +1,11 @@
 # Cantina
 
-Listing: https://cantina.xyz/security-reviews — 681 reports, 677 downloadable (4 unavailable upstream).
+Listing: https://cantina.xyz/security-reviews — 684 reports, 677 downloadable (7 unavailable upstream).
 
 | Date | Project | Report | Fetched |
 |---|---|---|---|
+| 2026-06-25 | YO.xyz | [YO.xyz: core-v2 re-review](https://cdn.cantina.xyz/reports/cantina_yo_core_jun2026.pdf) | ✗ |
+| 2026-06-25 | Sky | [Sky: PAU NFAT Facet](https://cdn.cantina.xyz/reports/sky_cantina_nfat_facet_diamond_pau_jun2026.pdf) | ✗ |
 | 2026-06-25 | Alto | [Alto Money: v1 Basemarket Changes](https://cdn.cantina.xyz/reports/cantina_alto_money_jun2026.pdf) | ✓ |
 | 2026-06-23 | Sky | [Sky: LZ Gov Relay](https://cdn.cantina.xyz/reports/cantina_sky_lz_gov_relay_jun2026.pdf) | ✓ |
 | 2026-06-22 | Sky | [Sky: LZ Gov DVN Deploy](https://cdn.cantina.xyz/reports/cantina_sky_lz_gov_dvn_deploy_jun2026.pdf) | ✓ |
@@ -12,6 +14,7 @@ Listing: https://cantina.xyz/security-reviews — 681 reports, 677 downloadable 
 | 2026-06-12 | Sky | [Sky: PAU Assemblers](https://cdn.cantina.xyz/reports/cantina_sky_pau_assemblers_jun2026.pdf) | ✓ |
 | 2026-06-10 | Sky | [PAU: Diamond PAU Deployment Scripts & Deployment Review](https://cdn.cantina.xyz/reports/cantina_sky_pau_deployment_scripts_jun2026.pdf) | ✓ |
 | 2026-06-08 | Stakekit | [Stakekit: PR 41](https://cdn.cantina.xyz/reports/cantina_stakekit_pr41_jun2026.pdf) | ✓ |
+| 2026-06-05 | Tenor | [Tenor Finance](https://cdn.cantina.xyz/reports/cantina_tenor_may2026.pdf) | ✗ |
 | 2026-06-04 | Coinbase | [Coinbase: Proof Contracts Update](https://cdn.cantina.xyz/reports/cantina_coinbase_proof_contracts_update_jun2026.pdf) | ✓ |
 | 2026-06-02 | Sky | [Sky: PAU Administered Actor](https://cdn.cantina.xyz/reports/cantina_pau_administered_actor_jun2026.pdf) | ✓ |
 | 2026-05-29 | Sky | [Sky: PAU Factory Update](https://cdn.cantina.xyz/reports/cantina_sky_pau_diamond_may2026.pdf) | ✓ |
